@@ -25,6 +25,17 @@ if (fs.existsSync(dir)) for (const f of fs.readdirSync(dir).filter((f) => f.ends
   Object.assign(NOTES_DATA, m.NOTES_DATA || {}); Object.assign(SOURCES, m.SOURCES || {}); Object.assign(NEW_REFS, m.NEW_REFS || {});
 }
 const RALL = Object.assign({}, NEW_REFS, R);
+// Merge sources that share a URL: keys from refs.js win, then the first NEW_REFS key; notes' src lists are rewritten.
+const ALIAS = {};
+{
+  const byUrl = {};
+  const norm = (u) => (u || "").trim().replace(/\/+$/, "").replace(/^http:/, "https:").replace(/^https:\/\/www\./, "https://");
+  for (const k of [...Object.keys(R), ...Object.keys(NEW_REFS)]) {
+    const u = norm(RALL[k].url); if (!u) continue;
+    if (byUrl[u] && byUrl[u] !== k) ALIAS[k] = byUrl[u]; else byUrl[u] = k;
+  }
+  for (const o of Object.values(NOTES_DATA)) if (o.src) o.src = [...new Set(o.src.map((k) => ALIAS[k] || k))];
+}
 function ref(k) { const r = RALL[k]; if (!r) { MISSING.add(k); return `[${k}]`; } return r.url ? `${r.cite} ${r.url}` : r.cite; }
 
 function compose(id, o) {
@@ -52,4 +63,4 @@ function compose(id, o) {
 const NOTES = {};
 for (const [id, o] of Object.entries(NOTES_DATA)) NOTES[id] = compose(id, o);
 
-module.exports = { NOTES, NOTES_DATA, SOURCES, NEW_REFS, RALL, MISSING, CLOCK, ORDER, SB, mmss };
+module.exports = { NOTES, NOTES_DATA, SOURCES, NEW_REFS, RALL, ALIAS, MISSING, CLOCK, ORDER, SB, mmss };

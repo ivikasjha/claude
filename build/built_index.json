@@ -1,0 +1,498 @@
+[
+ {
+  "n": 1,
+  "id": "op-title",
+  "master": "TITLE_DARK",
+  "section": "Opening"
+ },
+ {
+  "n": 2,
+  "id": "op-india",
+  "title": "India's medical device moment",
+  "master": "CONTENT",
+  "section": "Opening"
+ },
+ {
+  "n": 3,
+  "id": "op-disclosure",
+  "title": "My interests, stated first",
+  "master": "CONTENT",
+  "section": "Opening"
+ },
+ {
+  "n": 4,
+  "id": "op-vote",
+  "title": "Would you let a patient use it?",
+  "master": "DARK",
+  "section": "Opening"
+ },
+ {
+  "n": 5,
+  "id": "op-lenses",
+  "title": "Three teaching traditions, one Indian patient",
+  "master": "CONTENT",
+  "section": "Opening"
+ },
+ {
+  "n": 6,
+  "id": "op-patients",
+  "title": "Two people we will follow",
+  "master": "CONTENT",
+  "section": "Opening"
+ },
+ {
+  "n": 7,
+  "id": "op-journey",
+  "title": "Every stage answers a patient question",
+  "master": "CONTENT",
+  "section": "Opening"
+ },
+ {
+  "n": 8,
+  "id": "ev-div",
+  "title": "What are we promising, and what has been shown?",
+  "master": "SECTION",
+  "section": "Need and evidence"
+ },
+ {
+  "n": 9,
+  "id": "nd-claim",
+  "title": "Wording sets the evidence bar",
+  "master": "CONTENT",
+  "section": "Need and evidence"
+ },
+ {
+  "n": 10,
+  "id": "nd-isdevice",
+  "title": "Is it a medical device in India?",
+  "master": "CONTENT",
+  "section": "Need and evidence"
+ },
+ {
+  "n": 11,
+  "id": "ev-fogo-video",
+  "title": "What did the prototype show?",
+  "master": "DARK",
+  "section": "Need and evidence"
+ },
+ {
+  "n": 12,
+  "id": "ev-fogo-iterations",
+  "title": "Three iterations, three kinds of proof",
+  "master": "CONTENT",
+  "section": "Need and evidence"
+ },
+ {
+  "n": 13,
+  "id": "ev-ladder",
+  "title": "FoGO has climbed two rungs, not five",
+  "master": "CONTENT",
+  "section": "Need and evidence"
+ },
+ {
+  "n": 14,
+  "id": "ev-decision1",
+  "title": "Home pilot for Ramesh next month?",
+  "master": "DARK",
+  "section": "Need and evidence"
+ },
+ {
+  "n": 15,
+  "id": "ev-risk",
+  "title": "Rank failures by harm and likelihood",
+  "master": "CONTENT",
+  "section": "Need and evidence"
+ },
+ {
+  "n": 16,
+  "id": "ev-swaknee-video",
+  "title": "A device is also a daily routine",
+  "master": "DARK",
+  "section": "Need and evidence"
+ },
+ {
+  "n": 17,
+  "id": "ev-swaknee-claims",
+  "title": "Which claim can this evidence carry?",
+  "master": "CONTENT",
+  "section": "Need and evidence"
+ },
+ {
+  "n": 18,
+  "id": "ev-pemf",
+  "title": "What independent evidence says about cueing and PEMF",
+  "master": "DARK",
+  "section": "Need and evidence"
+ },
+ {
+  "n": 19,
+  "id": "ev-subgroups",
+  "title": "An average can hide a patient",
+  "master": "CONTENT",
+  "section": "Need and evidence"
+ },
+ {
+  "n": 20,
+  "id": "pp-div",
+  "title": "Can they say no, and who gains if they say yes?",
+  "master": "SECTION",
+  "section": "People"
+ },
+ {
+  "n": 21,
+  "id": "pp-decision2",
+  "title": "His neurologist is the inventor",
+  "master": "DARK",
+  "section": "People"
+ },
+ {
+  "n": 22,
+  "id": "pp-consent-india",
+  "title": "What valid consent requires in India",
+  "master": "CONTENT",
+  "section": "People"
+ },
+ {
+  "n": 23,
+  "id": "pp-coi",
+  "title": "Disclose, then manage",
+  "master": "CONTENT",
+  "section": "People"
+ },
+ {
+  "n": 24,
+  "id": "in-div",
+  "title": "Who allows what, for which device?",
+  "master": "SECTION",
+  "section": "Permission: regulation in India"
+ },
+ {
+  "n": 25,
+  "id": "in-architecture",
+  "title": "India's regulatory architecture",
+  "master": "CONTENT",
+  "section": "Permission: regulation in India"
+ },
+ {
+  "n": 26,
+  "id": "in-timeline",
+  "title": "From a handful of notified devices to all of them",
+  "master": "DARK",
+  "section": "Permission: regulation in India"
+ },
+ {
+  "n": 27,
+  "id": "in-classes",
+  "title": "Four risk classes decide the route",
+  "master": "CONTENT",
+  "section": "Permission: regulation in India"
+ },
+ {
+  "n": 28,
+  "id": "in-licence-matrix",
+  "title": "Which licence, from which authority, with which form",
+  "master": "CONTENT",
+  "section": "Permission: regulation in India"
+ },
+ {
+  "n": 29,
+  "id": "in-manufacturing-route",
+  "title": "The route to a manufacturing licence",
+  "master": "DARK",
+  "section": "Permission: regulation in India"
+ },
+ {
+  "n": 30,
+  "id": "in-import-registration",
+  "title": "Importing, registering and relying on foreign approvals",
+  "master": "CONTENT",
+  "section": "Permission: regulation in India"
+ },
+ {
+  "n": 31,
+  "id": "in-obligations",
+  "title": "Eight duties that never stop",
+  "master": "DARK",
+  "section": "Permission: regulation in India"
+ },
+ {
+  "n": 32,
+  "id": "in-clinical-investigation",
+  "title": "Clinical investigation under MDR-2017",
+  "master": "CONTENT",
+  "section": "Permission: regulation in India"
+ },
+ {
+  "n": 33,
+  "id": "in-software",
+  "title": "When the software is the device",
+  "master": "DARK",
+  "section": "Permission: regulation in India"
+ },
+ {
+  "n": 34,
+  "id": "in-postmarket",
+  "title": "Post-market duties and materiovigilance",
+  "master": "CONTENT",
+  "section": "Permission: regulation in India"
+ },
+ {
+  "n": 35,
+  "id": "in-fogo-path",
+  "title": "FoGO on the Indian path",
+  "master": "DARK",
+  "section": "Permission: regulation in India"
+ },
+ {
+  "n": 36,
+  "id": "in-quiz",
+  "title": "Classify these four devices",
+  "master": "DARK",
+  "section": "Permission: regulation in India"
+ },
+ {
+  "n": 37,
+  "id": "in-ecosystem",
+  "title": "Where India builds devices",
+  "master": "CONTENT",
+  "section": "Permission: regulation in India"
+ },
+ {
+  "n": 38,
+  "id": "ab-div",
+  "title": "Same questions, different answers",
+  "master": "SECTION",
+  "section": "Permission: regulation abroad"
+ },
+ {
+  "n": 39,
+  "id": "ab-map",
+  "title": "Where the rules come from",
+  "master": "DARK",
+  "section": "Permission: regulation abroad"
+ },
+ {
+  "n": 40,
+  "id": "ab-classes",
+  "title": "Risk classes across six systems",
+  "master": "CONTENT",
+  "section": "Permission: regulation abroad"
+ },
+ {
+  "n": 41,
+  "id": "ab-usa",
+  "title": "US FDA: three classes, three doors",
+  "master": "DARK",
+  "section": "Permission: regulation abroad"
+ },
+ {
+  "n": 42,
+  "id": "ab-eu",
+  "title": "EU MDR: notified bodies and CE marking",
+  "master": "CONTENT",
+  "section": "Permission: regulation abroad"
+ },
+ {
+  "n": 43,
+  "id": "ab-others",
+  "title": "Five more systems in one view",
+  "master": "DARK",
+  "section": "Permission: regulation abroad"
+ },
+ {
+  "n": 44,
+  "id": "ab-compare",
+  "title": "India, USA and EU compared",
+  "master": "CONTENT",
+  "section": "Permission: regulation abroad"
+ },
+ {
+  "n": 45,
+  "id": "ab-standards",
+  "title": "One dossier, many markets",
+  "master": "DARK",
+  "section": "Permission: regulation abroad"
+ },
+ {
+  "n": 46,
+  "id": "ac-div",
+  "title": "Can they afford it, use it, and who answers later?",
+  "master": "SECTION",
+  "section": "Access and safety"
+ },
+ {
+  "n": 47,
+  "id": "ac-inclusive",
+  "title": "Who can't use it? Audit the demands a device makes",
+  "master": "CONTENT",
+  "section": "Access and safety"
+ },
+ {
+  "n": 48,
+  "id": "ac-cost",
+  "title": "Price is only part of the cost",
+  "master": "CONTENT",
+  "section": "Access and safety"
+ },
+ {
+  "n": 49,
+  "id": "ac-decision3",
+  "title": "Launch with this brochure?",
+  "master": "DARK",
+  "section": "Access and safety"
+ },
+ {
+  "n": 50,
+  "id": "sf-decision4",
+  "title": "Push tonight's FoGO update?",
+  "master": "DARK",
+  "section": "Access and safety"
+ },
+ {
+  "n": 51,
+  "id": "sf-harm",
+  "title": "When harm happens, who answers?",
+  "master": "CONTENT",
+  "section": "Access and safety"
+ },
+ {
+  "n": 52,
+  "id": "cl-vote",
+  "title": "Would you let a patient use it now?",
+  "master": "DARK",
+  "section": "Close"
+ },
+ {
+  "n": 53,
+  "id": "cl-takeaway",
+  "title": "Commit to one change in your own project",
+  "master": "CONTENT",
+  "section": "Close"
+ },
+ {
+  "n": 54,
+  "id": "cl-checklist",
+  "title": "Patient-impact decision checklist",
+  "master": "REFERENCE",
+  "section": "Close"
+ },
+ {
+  "n": 55,
+  "id": "ap-forms",
+  "title": "MDR-2017 forms at a glance",
+  "master": "REFERENCE",
+  "section": "Appendix"
+ },
+ {
+  "n": 56,
+  "id": "ap-fees",
+  "title": "Fees and statutory clocks by class (Second Schedule)",
+  "master": "REFERENCE",
+  "section": "Appendix"
+ },
+ {
+  "n": 57,
+  "id": "ap-guidance",
+  "title": "CDSCO documents to keep at hand",
+  "master": "REFERENCE",
+  "section": "Appendix"
+ },
+ {
+  "n": 58,
+  "id": "ap-evidence-requests",
+  "title": "Evidence to request before stronger claims",
+  "master": "REFERENCE",
+  "section": "Appendix"
+ },
+ {
+  "n": 59,
+  "id": "ref-0-Teaching mat",
+  "title": "Teaching materials: Stanford Biodesign and Harvard",
+  "master": "REFERENCE",
+  "section": "Sources"
+ },
+ {
+  "n": 60,
+  "id": "ref-0-Teaching mat",
+  "title": "Teaching materials: Cambridge, and evaluation frameworks",
+  "master": "REFERENCE",
+  "section": "Sources"
+ },
+ {
+  "n": 61,
+  "id": "ref-0-India: regul",
+  "title": "India: regulation, guidance, pricing and safety (1/7)",
+  "master": "REFERENCE",
+  "section": "Sources"
+ },
+ {
+  "n": 62,
+  "id": "ref-1-India: regul",
+  "title": "India: regulation, guidance, pricing and safety (2/7)",
+  "master": "REFERENCE",
+  "section": "Sources"
+ },
+ {
+  "n": 63,
+  "id": "ref-2-India: regul",
+  "title": "India: regulation, guidance, pricing and safety (3/7)",
+  "master": "REFERENCE",
+  "section": "Sources"
+ },
+ {
+  "n": 64,
+  "id": "ref-3-India: regul",
+  "title": "India: regulation, guidance, pricing and safety (4/7)",
+  "master": "REFERENCE",
+  "section": "Sources"
+ },
+ {
+  "n": 65,
+  "id": "ref-4-India: regul",
+  "title": "India: regulation, guidance, pricing and safety (5/7)",
+  "master": "REFERENCE",
+  "section": "Sources"
+ },
+ {
+  "n": 66,
+  "id": "ref-5-India: regul",
+  "title": "India: regulation, guidance, pricing and safety (6/7)",
+  "master": "REFERENCE",
+  "section": "Sources"
+ },
+ {
+  "n": 67,
+  "id": "ref-6-India: regul",
+  "title": "India: regulation, guidance, pricing and safety (7/7)",
+  "master": "REFERENCE",
+  "section": "Sources"
+ },
+ {
+  "n": 68,
+  "id": "ref-0-Regulation a",
+  "title": "Regulation abroad, ethics and standards (1/2)",
+  "master": "REFERENCE",
+  "section": "Sources"
+ },
+ {
+  "n": 69,
+  "id": "ref-1-Regulation a",
+  "title": "Regulation abroad, ethics and standards (2/2)",
+  "master": "REFERENCE",
+  "section": "Sources"
+ },
+ {
+  "n": 70,
+  "id": "ref-0-Case evidenc",
+  "title": "Case evidence, media and status labels (1/2)",
+  "master": "REFERENCE",
+  "section": "Sources"
+ },
+ {
+  "n": 71,
+  "id": "ref-1-Case evidenc",
+  "title": "Case evidence, media and status labels (2/2)",
+  "master": "REFERENCE",
+  "section": "Sources"
+ }
+]

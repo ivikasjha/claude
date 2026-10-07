@@ -1,76 +1,150 @@
 # Speaker notes and facilitator guide
 
 **Bridging the Gap: From Innovation to Patient Impact** — *Ethics, Evidence, Regulation and Responsible Medical Device Translation*  
-Dr Vikas Kumar Jha · KIIT University, Bhubaneswar · 35–40 minutes (≈35 min scripted + 3–5 min flexible discussion)
+Dr Vikas Kumar Jha · KIIT University, Bhubaneswar
+
+Two ways to run it: **40-minute workshop** (slides marked core; every vote and decision kept; 54:15 scripted) or **75-minute seminar** (all main slides, including the regulatory deep-dive; 70:00 scripted). Each slide's notes open with a short core script; the detail below it is for when time allows or someone asks.
 
 ## Before the session
 
-- **Disclose precisely.** Slide 2 names your FoGO role (founder and principal investigator, Ahilaya Biomedicals Pvt Ltd; patent filed). Replace “[state role]” with your SwaKnee role, and state any equity, royalty, salary or grant interest.
-- **Re-check the SwaKnee evidence page.** The ≈32% vs ≈14% figures (n = 40 vs n = 42) were transcribed from the supplied original deck; the live page could not be reached from the build environment. Be ready to state SwaKnee’s CDSCO licence status and CTRI registration.
-- **Re-check time-sensitive facts** (all checked 7 October 2026): NPPA knee-implant cap (runs to 15 November 2026); status of MoHFW’s August 2026 proposed MDR-2017 amendments; NMC conduct regulations (2023 regulations in abeyance); UCMPMD amendments; DPDP Rules phase dates.
-- **Check your own public claims.** The SwaKnee website source code reviewed for this deck contains the phrases “Clinically Proven” and “cartilage repair and regeneration”. Align live web pages and leaflets with slide 13 before presenting.
-- **Media permissions.** Confirm written permission from the FoGO volunteer (face obscured) and from the person in the SwaKnee step videos (no face shown) for use in a public teaching session.
-- **Materials:** flipchart and markers (record opening and closing votes), printed checklist handouts (docs/Decision_Checklist_Handout.pdf), index cards for the commitment exercise, a timer.
-- **Video playback:** both clips are embedded in the PPTX (click to play). Backup copies: build/assets/video/fogo_prototype.mp4 (12 s) and swaknee_how_to_use.mp4 (20 s, silent).
+- **Disclose precisely.** The disclosure slide names your FoGO role (founder and principal investigator, Ahilaya Biomedicals Pvt Ltd; patent filed; grants; BIRAC BIG proposal under review). Replace “[state role]” with your SwaKnee role, and state any equity, royalty, salary or grant interest.
+- **Re-check the SwaKnee evidence page.** The ≈32% vs ≈14% figures (n = 40 vs n = 42) were transcribed from the supplied original deck; the live page could not be reached from the build environment. Be ready to state SwaKnee’s CDSCO class and licence status and CTRI registration.
+- **Re-check time-sensitive regulatory facts** (checked 7 October 2026): the draft Medical Devices (Amendment) Rules 2026 on licence timelines (G.S.R. 515(E), 23 Jun 2026) and the Dec 2025 draft on perpetual validity (G.S.R. 883(E)) may have been finalised; G.S.R. 743(E) and 744(E) of 14 Aug 2026 are notified; NPPA knee-implant cap runs to 15 November 2026; NMC conduct regulations remain in abeyance; UCMPMD amended 30 Apr 2026; DPDP Rules phase dates.
+- **Official texts to have open:** MDR-2017 consolidated text (cdsco.gov.in), the Second Schedule fee file on cdscomdonline.gov.in, the CDSCO MDSW guidance (21 Jul 2026), the CDSCO classification lists for your device categories.
+- **Check your own public claims.** The SwaKnee website source reviewed for this deck says “Clinically Proven”. Align live pages and leaflets with the evidence slides before presenting.
+- **Media permissions.** Confirm written permission from the FoGO volunteer (face obscured) and the person in the SwaKnee step videos (no face shown) for public teaching use.
+- **Materials:** flipchart and markers, printed checklist handouts (docs/Decision_Checklist_Handout.pdf), index cards, a timer. Test both embedded videos on the venue computer.
 - **Evidence-status vocabulary** used throughout: Demonstrated · Reported, preliminary · Planned · Not established.
 
-## Run sheet
+## Run sheet: 40-minute workshop (core slides)
 
-| # | Clock | Min | Slide | Activity |
+| Slide | Clock | Min | Title | Activity |
 |---|---|---|---|---|
-| 1 | 0:00–0:45 | 0.75 | Bridging the Gap: From Innovation to Patient Impact | Opening question to the room |
-| 2 | 0:45–1:45 | 1 | My interests, stated first | Disclosure and ground rules (1 minute) |
-| 3 | 1:45–3:45 | 2 | Would you let a patient use it? (opening vote) | OPENING VOTE by show of fingers |
-| 4 | 3:45–4:15 | 0.5 | Three teaching traditions, one patient in India | — |
-| 5 | 4:15–5:15 | 1 | Two people we will follow | — |
-| 6 | 5:15–5:45 | 0.5 | Each stage must answer a patient’s question | — |
-| 7 | 5:45–7:15 | 1.5 | Claim wording sets the evidence bar | Quick call-out: rewrite one need statement |
-| 8 | 7:15–8:30 | 1.25 | FoGO: what did the prototype actually show? | Play the embedded 12-second clip, then ‘seen vs inferred’ |
-| 9 | 8:30–9:45 | 1.25 | FoGO has climbed two rungs, not five | — |
-| 10 | 9:45–12:45 | 3 | Would you proceed? A home pilot for Ramesh next month | DECISION 1 of 4: vote A/B/C, then pairs name conditions |
-| 11 | 12:45–14:00 | 1.25 | Rank each failure by harm and likelihood | Risk-map discussion |
-| 12 | 14:00–15:15 | 1.25 | A device is also a daily routine | Play the embedded 20-second clip |
-| 13 | 15:15–17:45 | 2.5 | Which claim can this evidence carry? | Claim challenge: one participant defends, one challenges |
-| 14 | 17:45–18:30 | 0.75 | An average can hide a patient | — |
-| 15 | 18:30–21:30 | 3 | Would you proceed? Ramesh’s neurologist is also the inventor | DECISION 2 of 4: vote, then 60-second role-play (patient, recruiter, observer) |
-| 16 | 21:30–22:00 | 0.5 | Disclosure starts the work; management finishes it | — |
-| 17 | 22:00–23:30 | 1.5 | Each permission answers a different question | “Where is Ramesh’s device on this path today?” |
-| 18 | 23:30–24:15 | 0.75 | Who can’t use it? Audit the demands | Inclusive-design audit: pick one demand to redesign |
-| 19 | 24:15–25:45 | 1.5 | The price tag is only part of the cost | — |
-| 20 | 25:45–27:45 | 2 | Would you proceed? Launch with this brochure | DECISION 3 of 4: vote, then rewrite one claim |
-| 21 | 27:45–29:15 | 1.5 | Would you proceed? Push tonight’s FoGO update | DECISION 4 of 4 |
-| 22 | 29:15–30:30 | 1.25 | When harm happens, someone must answer | Assign an owner to each step of the loop |
-| 23 | 30:30–32:00 | 1.5 | Would you let a patient use it now? (closing vote) | CLOSING VOTE with the same options as slide 3 |
-| 24 | 32:00–34:30 | 2.5 | Commit to one change in your own project | TAKEAWAY EXERCISE: 90 seconds writing, 60 seconds sharing |
-| 25 | 34:30–35:00 | 0.5 | Patient-impact decision checklist | Reusable tool and printed handout |
+| 1 | 0:00–0:30 | 0.5 | Bridging the Gap: From Innovation to Patient Impact | Opening question to the room (30 seconds) |
+| 2 | 0:30–2:00 | 1.5 | India's medical device moment | — |
+| 3 | 2:00–3:00 | 1 | My interests, stated first | Disclosure and ground rules (1 minute) |
+| 4 | 3:00–5:00 | 2 | Would you let a patient use it? (opening vote) | Vote by fingers; flipchart tally |
+| 5 | 5:00–5:45 | 0.75 | Three teaching traditions, one Indian patient | — |
+| 6 | 5:45–6:45 | 1 | Two people we will follow | — |
+| 7 | 6:45–7:30 | 0.75 | Every stage answers a patient question | — |
+| 9 | 7:30–9:00 | 1.5 | Wording sets the evidence bar | Rewrite Kamala's need |
+| 11 | 9:00–10:30 | 1.5 | FoGO: what did the prototype actually show? | What did you see? What did you infer? |
+| 13 | 10:30–12:00 | 1.5 | FoGO has climbed two rungs, not five | — |
+| 14 | 12:00–15:00 | 3 | Would you proceed? A home pilot for Ramesh next month | Vote; pairs name two conditions |
+| 15 | 15:00–16:15 | 1.25 | Rank each failure by harm and likelihood | Which control first? |
+| 16 | 16:15–17:30 | 1.25 | A device is also a daily routine | Play the embedded 20-second clip |
+| 17 | 17:30–20:00 | 2.5 | Which claim can this evidence carry? | Defend claim 1, challenge claim 3 |
+| 21 | 20:00–23:00 | 3 | Would you proceed? Ramesh's neurologist is also the inventor | Vote; 60-second role-play |
+| 23 | 23:00–24:00 | 1 | Disclose, then manage | — |
+| 25 | 24:00–25:30 | 1.5 | India's regulatory architecture | — |
+| 27 | 25:30–27:30 | 2 | Four risk classes decide the route | — |
+| 28 | 27:30–29:30 | 2 | Which licence, from which authority, with which form | — |
+| 29 | 29:30–31:00 | 1.5 | The route to a manufacturing licence | — |
+| 31 | 31:00–32:15 | 1.25 | Eight duties that never stop | — |
+| 32 | 32:15–33:45 | 1.5 | Clinical investigation under MDR-2017 | — |
+| 34 | 33:45–35:00 | 1.25 | Post-market duties and materiovigilance | — |
+| 35 | 35:00–36:30 | 1.5 | FoGO on the Indian path | — |
+| 36 | 36:30–38:30 | 2 | Classify these four devices | Tables assign class and licence; reveal |
+| 39 | 38:30–39:30 | 1 | Where the rules come from | — |
+| 40 | 39:30–40:45 | 1.25 | Risk classes across six systems | — |
+| 44 | 40:45–42:15 | 1.5 | India, USA and EU compared | — |
+| 45 | 42:15–43:30 | 1.25 | One dossier, many markets | — |
+| 48 | 43:30–45:00 | 1.5 | Price is only part of the cost | Who pays each step? |
+| 49 | 45:00–47:00 | 2 | Would you proceed? Launch with this brochure | Vote; rewrite one claim |
+| 50 | 47:00–48:30 | 1.5 | Would you proceed? Push tonight's FoGO update | Vote |
+| 51 | 48:30–49:45 | 1.25 | When harm happens, who answers? | Assign an owner to each step |
+| 52 | 49:45–51:15 | 1.5 | Would you let a patient use it now? (closing vote) | Re-vote; compare |
+| 53 | 51:15–53:45 | 2.5 | Commit to one change in your own project | Write, share |
+| 54 | 53:45–54:15 | 0.5 | Patient-impact decision checklist | Reusable tool and printed handout |
 
-Scripted total: 35:00 minutes, leaving 3–5 minutes for discussion within a 35–40 minute slot. Each slide’s notes open with a short core script; everything after it is detail for when time allows or someone asks. If running late, skip slides 14 and 18 (marked optional) and keep all votes and decisions.
+Scripted total 54:15; keep 3–5 minutes for discussion.
+
+## Run sheet: 75-minute seminar (all slides)
+
+| Slide | Clock | Min | Title | Activity |
+|---|---|---|---|---|
+| 1 | 0:00–0:30 | 0.5 | Bridging the Gap: From Innovation to Patient Impact | Opening question to the room (30 seconds) |
+| 2 | 0:30–2:00 | 1.5 | India's medical device moment | — |
+| 3 | 2:00–3:00 | 1 | My interests, stated first | Disclosure and ground rules (1 minute) |
+| 4 | 3:00–5:00 | 2 | Would you let a patient use it? (opening vote) | Vote by fingers; flipchart tally |
+| 5 | 5:00–5:45 | 0.75 | Three teaching traditions, one Indian patient | — |
+| 6 | 5:45–6:45 | 1 | Two people we will follow | — |
+| 7 | 6:45–7:30 | 0.75 | Every stage answers a patient question | — |
+| 8 | 7:30–7:45 | 0.25 | Part 1 · Need and evidence | — |
+| 9 | 7:45–9:15 | 1.5 | Wording sets the evidence bar | Rewrite Kamala's need |
+| 10 | 9:15–10:30 | 1.25 | Is it a medical device in India? | — |
+| 11 | 10:30–12:00 | 1.5 | FoGO: what did the prototype actually show? | What did you see? What did you infer? |
+| 12 | 12:00–13:00 | 1 | Three iterations, three kinds of proof | — |
+| 13 | 13:00–14:30 | 1.5 | FoGO has climbed two rungs, not five | — |
+| 14 | 14:30–17:30 | 3 | Would you proceed? A home pilot for Ramesh next month | Vote; pairs name two conditions |
+| 15 | 17:30–18:45 | 1.25 | Rank each failure by harm and likelihood | Which control first? |
+| 16 | 18:45–20:00 | 1.25 | A device is also a daily routine | Play the embedded 20-second clip |
+| 17 | 20:00–22:30 | 2.5 | Which claim can this evidence carry? | Defend claim 1, challenge claim 3 |
+| 18 | 22:30–23:30 | 1 | What independent evidence says about cueing and PEMF | — |
+| 19 | 23:30–24:30 | 1 | An average can hide a patient | Who is missing from our data? |
+| 20 | 24:30–24:45 | 0.25 | Part 2 · People: can they say no, and who gains if they say yes? | — |
+| 21 | 24:45–27:45 | 3 | Would you proceed? Ramesh's neurologist is also the inventor | Vote; 60-second role-play |
+| 22 | 27:45–29:00 | 1.25 | What valid consent requires in India | — |
+| 23 | 29:00–30:00 | 1 | Disclose, then manage | — |
+| 24 | 30:00–30:15 | 0.25 | Who allows what, for which device? | — |
+| 25 | 30:15–31:45 | 1.5 | India's regulatory architecture | — |
+| 26 | 31:45–32:45 | 1 | From a handful of notified devices to all of them | — |
+| 27 | 32:45–34:45 | 2 | Four risk classes decide the route | — |
+| 28 | 34:45–36:45 | 2 | Which licence, from which authority, with which form | — |
+| 29 | 36:45–38:15 | 1.5 | The route to a manufacturing licence | — |
+| 30 | 38:15–39:15 | 1 | Importing, registering and relying on foreign approvals | — |
+| 31 | 39:15–40:30 | 1.25 | Eight duties that never stop | — |
+| 32 | 40:30–42:00 | 1.5 | Clinical investigation under MDR-2017 | — |
+| 33 | 42:00–43:15 | 1.25 | When the software is the device | — |
+| 34 | 43:15–44:30 | 1.25 | Post-market duties and materiovigilance | — |
+| 35 | 44:30–46:00 | 1.5 | FoGO on the Indian path | — |
+| 36 | 46:00–48:00 | 2 | Classify these four devices | Tables assign class and licence; reveal |
+| 37 | 48:00–49:15 | 1.25 | Where India builds devices | — |
+| 38 | 49:15–49:30 | 0.25 | Same questions, different answers | — |
+| 39 | 49:30–50:30 | 1 | Where the rules come from | — |
+| 40 | 50:30–51:45 | 1.25 | Risk classes across six systems | — |
+| 41 | 51:45–53:00 | 1.25 | US FDA: three classes, three doors | — |
+| 42 | 53:00–54:15 | 1.25 | EU MDR: notified bodies and CE marking | — |
+| 43 | 54:15–55:15 | 1 | Five more systems in one view | — |
+| 44 | 55:15–56:45 | 1.5 | India, USA and EU compared | — |
+| 45 | 56:45–58:00 | 1.25 | One dossier, many markets | — |
+| 46 | 58:00–58:15 | 0.25 | Part 5 · Access and safety | — |
+| 47 | 58:15–59:15 | 1 | Who can't use it? Audit the demands a device makes | Pick one demand to redesign |
+| 48 | 59:15–60:45 | 1.5 | Price is only part of the cost | Who pays each step? |
+| 49 | 60:45–62:45 | 2 | Would you proceed? Launch with this brochure | Vote; rewrite one claim |
+| 50 | 62:45–64:15 | 1.5 | Would you proceed? Push tonight's FoGO update | Vote |
+| 51 | 64:15–65:30 | 1.25 | When harm happens, who answers? | Assign an owner to each step |
+| 52 | 65:30–67:00 | 1.5 | Would you let a patient use it now? (closing vote) | Re-vote; compare |
+| 53 | 67:00–69:30 | 2.5 | Commit to one change in your own project | Write, share |
+| 54 | 69:30–70:00 | 0.5 | Patient-impact decision checklist | Reusable tool and printed handout |
+
+Scripted total 70:00; keep 3–5 minutes for discussion.
 
 ## Slide-by-slide notes
 
 ### Slide 1 · Bridging the Gap: From Innovation to Patient Impact
 
-*Time: 0.75 min (clock 0:00–0:45) · Activity: Opening question to the room*
+*Time: 0.5 min · core (40-min path)*
 
 **Pre-flight checks.**
 
-1. Slide 2: replace “[state role]” with your SwaKnee (Swayogya Rehab Solutions) role and any equity, royalty or salary interest; add your FoGO equity position if you wish to state it.
-2. Slide 13: re-check the SwaKnee figures (≈32% vs ≈14% average VAS reduction; n = 40 vs n = 42) against swayogya.in/evidence.html, and be ready to state SwaKnee’s CDSCO licence status and whether the study was registered on CTRI.
-3. Align your own live web pages and leaflets with slide 13: the SwaKnee website source reviewed for this deck says “Clinically Proven”.
-4. NPPA knee-implant cap: extended to 15 November 2026; check for any further extension (slide 19 notes).
-5. Check the status of MDR-2017 amendments reported in August 2026, NMC conduct regulations, UCMPMD amendments and DPDP Rules phase dates (slides 16, 17, 20, 10).
-6. Media: confirm written permission from the FoGO volunteer (face obscured) and the person in the SwaKnee step videos (no face shown) for public teaching.
-7. Test both embedded videos on the venue computer; bring a flipchart, printed checklists, index cards and a timer.
+1. Slide op-disclosure: replace “[state role …]” with your SwaKnee (Swayogya Rehab Solutions) role and any equity, royalty or salary interest; add your FoGO equity position if you wish to state it.
+2. Re-check the SwaKnee figures used later (≈32% vs ≈14% average VAS reduction; n = 40 vs n = 42) against swayogya.in/evidence.html, and be ready to state SwaKnee's CDSCO licence status and whether the study was registered on CTRI.
+3. NPPA knee-implant cap: continued to 15 November 2026; check for any further extension.
+4. Check the status of the 2026 MDR-2017 amendments (G.S.R. 515(E) draft of 23 June 2026; G.S.R. 743(E) of 14 August 2026), NMC conduct regulations, UCMPMD amendments and DPDP Rules phase dates before presenting.
+5. Media: confirm written permission from the FoGO volunteer (face not shown) for public teaching.
+6. Bring a flipchart, printed checklists, index cards and a timer; test the videos on the venue computer.
 
-**Core script (say this).** Imagine this prototype is about to be used by someone at home: in Bhubaneswar, in Cuttack, or two hours from a neurologist. What would you need to know before recommending it? Today we practise that judgement on two devices I am involved with: FoGO, a wearable being developed to detect freezing of gait and cue walking, and SwaKnee, a pulsed electromagnetic knee system. By the end you will judge claims, evidence, consent, permission, cost and safety for yourselves.
+**Core script (say this).** Imagine the prototype on your desk is about to be used by someone at home: in Bhubaneswar, in Cuttack, or two hours from a neurologist. What would you need to know before recommending it? Today we practise that judgement on two devices I am involved with: FoGO, a wearable being developed to detect freezing of gait and cue walking, and SwaKnee, a pulsed electromagnetic knee system. By the end you will judge claims, evidence, consent, permission, cost and safety for yourselves.
 
-**Purpose.** Start with the person who will use the device, not with the technology.
+**Purpose.** Start with the person who will use the device, not with the technology. The photographs are authentic (FoGO alpha prototype modules; SwaKnee controller and applicator); no patients are shown.
 
 **Say.** “Imagine the prototype on your desk is about to be used by someone at home — in Bhubaneswar, in Cuttack, or in a village two hours from a neurologist. What would you need to know before you recommended it?”  
-“Today we practise that judgement on two devices from my own development work: FoGO, a wearable being developed to detect freezing of gait in Parkinson’s disease and trigger a vibration cue (so far tested only on public datasets and in a staged demonstration), and SwaKnee, a pulsed electromagnetic field (PEMF) system for knee osteoarthritis. The photographs are authentic: the FoGO alpha prototype and the SwaKnee product.”  
+“Today we practise that judgement on two devices from my own development work: FoGO, a wearable being developed to detect freezing of gait in Parkinson's disease and trigger a vibration cue (so far tested only on public datasets and in a staged demonstration), and SwaKnee, a pulsed electromagnetic field (PEMF) system for knee osteoarthritis.”  
+“The strip on the right is the spine of the session: six stages, each a question a patient would ask — Need, Evidence, People, Permission, Access, Safety. We follow two composite patients along it, vote twice, and face five ‘would you proceed?’ decisions.”  
 “By the end you should be able to: state an intended use and claim precisely; judge what evidence supports it; recognise consent, conflict-of-interest and affordability burdens; know which Indian permission answers which question; and assign responsibility for safety after launch.”
 
-**Caution.** The decision checklist at the end is a workshop synthesis, not an official regulatory checklist or certification.
+**Caution.** The decision checklist at the end is a workshop synthesis, not an official regulatory checklist or certification. Do not describe either device as approved, licensed for sale or clinically proven on this slide.
 
 **Transition.** “Before we start, you should know my interests.”
 
@@ -79,21 +153,59 @@ Scripted total: 35:00 minutes, leaving 3–5 minutes for discussion within a 35�
 1. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
 2. Swayogya website assets (ivikasjha/swayogya_website): product photographs and three 'How to use' step videos, edited into a 20 s silent clip with step captions; no faces shown. <https://www.swayogya.in/product.html>
 
-### Slide 2 · My interests, stated first
+### Slide 2 · India's medical device moment
 
-*Time: 1 min (clock 0:45–1:45) · Activity: Disclosure and ground rules (1 minute)*
+*Time: 1.5 min · core (40-min path)*
+
+**Core script (say this).** India's device market was about US$11 billion in 2023, roughly 1.5% of the world market, and about 70% of what we use is imported. The 2023 National Medical Devices Policy targets US$50 billion by 2030. Yet every device has been regulated only since 1 April 2020. The chevrons show one device's journey: need, classification into Class A to D, a test licence for prototypes, a permitted clinical investigation, a manufacturing licence from the State or Centre, and post-market duties. The same six stages structure today.
+
+**Purpose.** Set the Indian scene in numbers, then show that regulation is a sequence of permissions that map onto the six stages of the session. Students should leave the slide knowing the four risk classes exist, that forms MD-13, MD-23, MD-5 and MD-9 answer different questions, and the four phase-in dates.
+
+**Say.** Tiles, left to right. (1) US$11 billion in 2023 is the Cabinet's own baseline in the National Medical Devices Policy release of 26 April 2023; that is about 1.5% of the world market (market-research estimates for 2025–26 run higher, US$15–21 billion, and vary with scope, so cite the source and year). (2) About 70% of India's requirement is imported — the Parliamentary Standing Committee's figure of March 2024, repeated in Parliament in 2025; imports were US$8.18 billion in FY2023-24, with electro-medical equipment about 60% of the bill, and the top sources are China, the USA, Germany, Singapore and the Netherlands. (3) The policy target is US$50 billion by 2030, resting on six strategies: regulatory streamlining, enabling infrastructure, R&D and innovation, attracting investment, human resources, and brand positioning with an Export Promotion Council. (4) Until 2020 only notified devices were regulated; S.O. 648(E) of 11 February 2020 brought every device under the Drugs and Cosmetics Act 1940 from 1 April 2020.  
+The journey. Classification is Rule 4 of the Medical Devices Rules 2017 with the First Schedule: Class A low risk (dressings, non-digital thermometers), B low-moderate (hypodermic needles, BP monitors), C moderate-high (ventilators, orthopaedic implants), D high (heart valves, coronary stents). A test licence — Form MD-12 application, MD-13 licence from the Central Licensing Authority — allows small quantities to be made for clinical investigation, test, evaluation, demonstration or training; the fee is Rs 500 per device and the units cannot be sold. A clinical investigation needs Form MD-22 with the Seventh Schedule documents and permission in MD-23, plus a registered ethics committee and CTRI registration. The manufacturing licence depends on class: MD-3 application and MD-5 licence from the State Licensing Authority for Class A and B after a notified-body audit (Rs 5,000 per site plus Rs 500 per device); MD-7 and MD-9 from CDSCO for Class C and D after inspection by Medical Device Officers (Rs 50,000 per site plus Rs 1,000 per device). Licences are perpetual if the retention fee is paid every five years. After launch: adverse events go to the Materiovigilance Programme of India, and CDSCO can issue alerts and cancel licences.  
+Phase-in pills: MDR-2017 in force 1 January 2018; all devices covered 1 April 2020; registration mandatory 1 October 2021; Class A/B licences mandatory 1 October 2022; Class C/D from 1 October 2023 (G.S.R. 102(E)).
+
+**India adaptation.** This whole slide is Indian; the comparison with the FDA and EU MDR comes in the Permission section. For an Indian student team the practical message is: decide the class first, because it decides the authority, the form, the fee and the timeline.
+
+**Caution.** Market figures differ by source and year: say ‘about US$11 billion in 2023 per the Cabinet release’, not a single precise number. ‘About 70% imported’ is by requirement; industry quotes 70–80% for high-end equipment. The 1 January 2018 commencement and G.S.R. 78(E) number are from memory in the facts file — verify in the gazette before printing. Draft 2026 amendments (G.S.R. 515(E)) propose shorter licensing timelines but were not final as of 7 October 2026.
+
+**Transition.** “Before you judge my evidence, you should know my interests.”
+
+**Sources.**
+
+1. Cabinet approves the Policy for the Medical Devices Sector (National Medical Devices Policy 2023): about US$11 billion sector, US$50 billion target by 2030, six strategies; 26 April 2023 (reproduced at narendramodi.in). <https://narendramodi.in/cabinet-approves-the-policy-for-the-medical-devices-sector-569642>
+2. News on AIR. Union Minister Dr Jitendra Singh says the government hopes to increase India's share of the global medical devices market from about 1.5% to 10–12% over the next 25 years; 2024. <https://newsonair.gov.in/union-minister-dr-jitendra-singh-says-govt-hopes-to-increase-indias-market-share-to-10-12-over-next-25-years>
+3. ETV Bharat. Parliamentary panel raps Ministry of Chemicals and Fertilizers for import of high-end medical devices (about 70% of requirement imported); 11 March 2024. <https://www.etvbharat.com/en/!bharat/parliamentary-panel-raps-ministry-of-chemical-and-fertilizer-for-import-of-high-end-medical-devices-enn24031105786>
+4. Medical Buyer. Amid domestic push, India imported medical devices worth $8.18B in FY24; 2024. <https://medicalbuyer.co.in/amid-domestic-push-india-imported-medical-devices-worth-8-18b-in-fy24/>
+5. CDSCO. Notice on S.O. 648(E) of 11 February 2020 (all medical devices notified as drugs with effect from 1 April 2020) and G.S.R. 102(E). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/mdgsr.pdf>
+6. LegitQuest. Medical Devices (Amendment) Rules, 2020, G.S.R. 102(E), 11 February 2020: Chapter IIIA registration of newly notified devices (voluntary 18 months from 1 April 2020, then mandatory); licences mandatory for Class A/B from 1 October 2022 and Class C/D from 1 October 2023. <https://www.legitquest.com/act/medical-devices-amendment-rules-2020/9813>
+7. Mondaq. DCGI notifies the medical devices and in-vitro diagnostic medical devices classification under the Medical Devices Rules 2017: Rule 4 and First Schedule, Classes A (low), B (low-moderate), C (moderate-high) and D (high risk); 31 January 2017. <https://mondaq.com/india/food-and-drugs-law/668254/dcgi-notifies-the-medical-devices-and-in-vitro-diagnostic-ivd-medical-devices-classification-under-medical-device-rule-2017>
+8. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+9. CDSCO. Form MD-12: application for licence to manufacture medical devices for clinical investigation, test, evaluation, examination, demonstration or training (licence in Form MD-13). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/12MD.pdf>
+10. CDSCO. Form MD-22: application for permission to conduct clinical investigation (permission in Form MD-23). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/22MD.pdf>
+11. CDSCO Medical Device online portal. Fee help file (Second Schedule, MDR-2017): manufacturing licence Class A/B Rs 5,000 per site + Rs 500 per device; Class C/D Rs 50,000 + Rs 1,000; test licence Rs 500 per device. <https://cdscomdonline.gov.in/NewMedDev/resources/app_srv/NMD/global/helpfiles/nmd_fee.pdf/>
+12. CDSCO. FAQ on Medical Devices, 2018: Rule 13 notified bodies registered with the CLA audit Class A and B manufacturing sites (Fifth Schedule QMS); NABCB accreditation. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadImmunization/FAQmd2018.pdf>
+13. Lawrbit. Class A and B medical device manufacturing licence in India: MD-3 → MD-5; licence valid indefinitely subject to the retention fee every 5 years. <https://www.lawrbit.com/industry-specific/class-a-b-medical-device-manufacturing-license-india/>
+14. Indian Pharmacopoeia Commission (National Coordination Centre). Materiovigilance Programme of India (MvPI), launched 6 July 2015. <https://nhsrcindia.org/hi/node/10346>
+15. Materiovigilance Programme of India: current status and way forward. Indian Journal of Pharmacology; 2022 (174 Medical Device Adverse Event Monitoring Centres in hospitals and medical colleges; voluntary reporting; 40 reports in 2015 rising to 897 in 2019). <https://www.ovid.com/jnls/iphr/fulltext/10.4103/ijp.ijp_837_21~materiovigilance-programme-of-india-current-status-and-way>
+
+### Slide 3 · My interests, stated first
+
+*Time: 1 min · core (40-min path)*
 
 **Core script (say this).** Before you judge my evidence, you should know my interests. FoGO: I am founder and principal investigator of Ahilaya Biomedicals; a provisional patent and a design application are filed; we have received ₹25.5 lakh in grants, and a BIRAC BIG proposal is under review. SwaKnee: [state your role and any equity, royalty or salary interest]. So: vote before you hear my view, challenge every claim, mine included, and protect identities.
 
-**Purpose.** Model good conflict-of-interest practice before asking the audience to judge evidence.
+**Purpose.** Model good conflict-of-interest practice before asking the audience to judge evidence. The slide is the disclosure; the notes are the reasoning.
 
-**Say.** “I have professional interests in both case studies.” Say them specifically. FoGO: founder and principal investigator, Ahilaya Biomedicals Pvt Ltd (incubated at KIIT TBI); a provisional patent (202531119165) and a design application have been filed; ₹25.5 lakh in grants has been received from three programmes (Startup Odisha, DST NIDHI PRAYAS, Startup India Seed Fund); a BIRAC BIG proposal is under review. SwaKnee: state your role at Swayogya Rehab Solutions and any equity, royalty or salary interest (the slide shows “[state role]” until you edit it). Name any other financial interests.  
-“Apply a ‘reasonably perceived’ test to everything I say about these devices — the test used in the University of Cambridge conflict-of-interest policy. The Institute of Medicine defines a conflict of interest as circumstances that create a risk that judgement about a primary interest is unduly influenced by a secondary one — a risk, not an accusation.”  
+**Say.** “I have professional interests in both case studies.” Say them specifically. FoGO: founder and principal investigator, Ahilaya Biomedicals Pvt Ltd (incubated at KIIT TBI); a provisional patent (202531119165) and a design application have been filed; ₹25.5 lakh in grants has been received from three programmes (Startup Odisha, DST NIDHI PRAYAS, Startup India Seed Fund); a BIRAC Biotechnology Ignition Grant proposal is under review — BIG offers up to ₹50 lakh over 18 months, so the sum at stake is material. SwaKnee: state your role at Swayogya Rehab Solutions and any equity, royalty or salary interest (the marigold line reads “[state role …]” until you edit it). Name any other financial interests.  
+“Apply a ‘reasonably perceived’ test to everything I say about these devices — the test used in the University of Cambridge conflict-of-interest policy. The Institute of Medicine defines a conflict of interest as a set of circumstances that creates a risk that judgement about a primary interest will be unduly influenced by a secondary interest — a risk, not an accusation.”  
 “Three ground rules: vote before you hear my view; challenge every claim, including mine; and protect identities — no names or photographs of patients from your own practice.”
 
-**Debrief points.** Stanford sources flag physician-innovator roles as prone to conflicts of interest that should be managed without ending collaboration (Stanford GSB case OIT105), and question whether physician-innovators should evaluate their own devices (Chao, Riskin & Krummel 2010). Johnson and Rogers list conflicts of interest among four ethical challenges of surgical innovation; they apply to devices by analogy. We return to management on slide 16.
+**Debrief points.** Stanford sources flag physician-innovator roles as prone to conflicts of interest that should be managed without ending collaboration (Stanford GSB case OIT105), and ask whether physician-innovators should evaluate their own devices (Chao, Riskin & Krummel 2010). Johnson and Rogers list conflicts of interest among four ethical challenges of surgical innovation; they apply to devices by analogy. Management (disclosure, independent evaluation, separation of roles) returns in the People section.
 
-**Transition.** “Let’s make a decision before we look at any details.”
+**Caution.** Do not leave the “[state role …]” placeholder on screen. Do not describe grants as endorsements; funders have not evaluated the device clinically. The patent is provisional: no granted rights.
+
+**Transition.** “Let's make a decision before we look at any details.”
 
 **Sources.**
 
@@ -102,27 +214,29 @@ Scripted total: 35:00 minutes, leaving 3–5 minutes for discussion within a 35�
 3. Chao KZ, Riskin DJ, Krummel TM. A patient-centered, ethical approach to medical device innovation. Virtual Mentor (now AMA J Ethics). 2010;12(2):91–95. <https://journalofethics.ama-assn.org/article/patient-centered-ethical-approach-medical-device-innovation/2010-02>
 4. Burns L, Denend L, Zenios S. The Role of Physicians in Device Innovation: Critical Success Factor or Conflict of Interest? Stanford GSB case OIT105; 2011. <https://www.gsb.stanford.edu/faculty-research/case-studies/role-physicians-device-innovation-critical-success-factor-or-conflict>
 5. Johnson J, Rogers W. Innovative surgery: the ethical challenges. J Med Ethics. 2012;38(1):9–12. <https://jme.bmj.com/content/38/1/9>
+6. India Science, Technology and Innovation portal. Biotechnology Ignition Grant (BIG): up to Rs 50 lakh for 18 months for individual innovators and start-ups. <https://www.indiascienceandtechnology.gov.in/programme-schemes/biotechnology-ignition-grant-scheme-big-0>
+7. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
 
-### Slide 3 · Would you let a patient use it? (opening vote)
+### Slide 4 · Would you let a patient use it? (opening vote)
 
-*Time: 2 min (clock 1:45–3:45) · Activity: OPENING VOTE by show of fingers*
+*Time: 2 min · core (40-min path) · Activity: Vote by fingers; flipchart tally*
 
 **Core script (say this).** Three facts: a working prototype, promising results on public datasets, a test licence granted. Hold up one finger for routine care, two for a research study, three for not yet. [Count and record the split.] Why did you choose that? I will not answer yet; we vote again at the end.
 
-**Purpose.** Surface the room’s intuitions before any teaching, so we can see the shift at the end.
+**Purpose.** Surface the room's intuitions before any teaching, so the shift at the closing vote is visible. The device is deliberately unnamed.
 
-**Say.** Read the three facts slowly: a working prototype, promising results on public datasets, a test licence granted.  
+**Say.** Read the three facts slowly: a working prototype; promising results on public datasets; a test licence granted.  
 “Hold up one, two or three fingers. One: suitable for routine care. Two: suitable for a research study. Three: not yet — I need more information.”
 
-**Ask / run.** Count roughly and write the split on the flipchart (1 = __, 2 = __, 3 = __). Ask one person from each group: “What made you choose that?” Do not give the answer yet, and do not say which device this is.
+**Ask / run.** Count roughly and write the split in the three boxes on the flipchart (1 = __, 2 = __, 3 = __). Ask one person from each group: “What made you choose that?” Do not give the answer yet, and do not say which device this is. Keep the whole activity to two minutes.
 
 **Debrief points.** Keep it brief; the full answer unfolds during the session.  
-• A test licence (Form MD-13 under the Medical Devices Rules, 2017) allows small quantities to be made for clinical investigation, test, evaluation, demonstration or training. Devices made under it cannot be sold. It is not permission to treat patients and not, by itself, permission to run a study.  
-• A study needs approval from an ethics committee registered with CDSCO and, for an investigational device, Central Licensing Authority permission (Form MD-22 → MD-23), prospective CTRI registration and arrangements for injury compensation.  
-• Routine care needs a licence for the intended use and evidence appropriate to the claim.  
+• A test licence (Form MD-12 application, Form MD-13 licence from the Central Licensing Authority under the Medical Devices Rules 2017) allows small quantities to be made for clinical investigation, test, evaluation, examination, demonstration or training; the fee is Rs 500 per device. Devices made under it cannot be sold. It is not permission to treat patients and not, by itself, permission to run a study.  
+• A study needs approval from an ethics committee registered under the New Drugs and Clinical Trials Rules 2019 and, for an investigational device, Central Licensing Authority permission (Form MD-22 → MD-23 with Seventh Schedule documents), prospective CTRI registration and arrangements for injury compensation.  
+• Routine care needs a manufacturing licence for the intended use (MD-5 or MD-9 by class) and evidence appropriate to the claim.  
 “We will vote again at the end with exactly the same options.”
 
-**Caution.** These three facts match FoGO’s real status in August 2026 (alpha prototype, public-dataset results, MD-13 test licence for 25 units). Do not say so now. By slides 8–17 many people will have spotted it; at the closing vote (slide 23), confirm it.
+**Caution.** These three facts match FoGO's real status in August 2026 (alpha prototype, public-dataset results, MD-13 test licence for 25 units). Do not say so now. By the evidence and permission sections many people will have spotted it; confirm it at the closing vote.
 
 **Transition.** “To judge this well, we borrow three teaching traditions.”
 
@@ -132,55 +246,72 @@ Scripted total: 35:00 minutes, leaving 3–5 minutes for discussion within a 35�
 2. CDSCO. Form MD-12: application for licence to manufacture medical devices for clinical investigation, test, evaluation, examination, demonstration or training (licence in Form MD-13). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/12MD.pdf>
 3. CDSCO. Form MD-22: application for permission to conduct clinical investigation (permission in Form MD-23). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/22MD.pdf>
 4. Ministry of Health and Family Welfare. New Drugs and Clinical Trials Rules, 2019 (ethics committee registration: Rules 7–8 with CDSCO; Rules 16–17 with DHR). <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/new_DC_rules/NEW%20DRUGS%20ANDctrS%20RULE,%202019.pdf>
+5. CDSCO Medical Device online portal. Fee help file (Second Schedule, MDR-2017): manufacturing licence Class A/B Rs 5,000 per site + Rs 500 per device; Class C/D Rs 50,000 + Rs 1,000; test licence Rs 500 per device. <https://cdscomdonline.gov.in/NewMedDev/resources/app_srv/NMD/global/helpfiles/nmd_fee.pdf/>
+6. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
 
-### Slide 4 · Three teaching traditions, one patient in India
+### Slide 5 · Three teaching traditions, one Indian patient
 
-*Time: 0.5 min (clock 3:45–4:15)*
+*Time: 0.75 min · core (40-min path)*
 
-**Core script (say this).** We borrow from three traditions. Stanford Biodesign: start from a validated need. Harvard bioethics and the MRCT Center: respect and protect every participant. Cambridge’s design centres: design for the whole system and for the people it excludes. We apply all three to Indian rules and Indian patients: CDSCO, ICMR, MvPI and NPPA.
+**Core script (say this).** We borrow from three traditions. Stanford Biodesign: start from a validated need. Harvard bioethics and the MRCT Center: respect and protect every participant. Cambridge's design centres: design for the whole system and for the people it excludes. We apply all three to Indian rules and Indian patients: CDSCO, ICMR, MvPI, NPPA, BIS and the DPDP rules.
 
-**Purpose.** Credit the frameworks we use and show how each is adapted to Indian practice.
+**Purpose.** Credit the frameworks we use, name the actual materials so students can find them, and show that each is adapted to Indian regulation and Indian households.
 
-**Say.** Stanford Biodesign: innovation starts from a validated need, not a technology. Its Identify–Invent–Implement process asks teams to observe care, write solution-neutral need statements and screen needs before inventing. Its ‘Principled Decision-Making’ brief advises teams to write a team-culture document setting out their ethical principles early.  
-Harvard bioethics: the HMS Center for Bioethics teaches through cases; the MRCT Center of Brigham and Women’s Hospital and Harvard provides practical tools on diversity, accessibility, plain-language consent, return of results and post-trial access for devices; the Petrie-Flom Center studies device regulation, home digital health and AI.  
-Cambridge design and translation: the Engineering Design Centre’s Inclusive Design Toolkit asks who is excluded by a product’s demands; Engineering Better Care (2017; working group chaired by Cambridge’s Prof John Clarkson) adds people, systems, design and risk perspectives; Cambridge’s Institute for Biomedical Innovation (announced January 2026) addresses the gap between a lab prototype and trial-ready devices; Cambridge Judge Business School’s health centre focuses on making proven solutions affordable.
+**Say.** Stanford Biodesign: innovation starts from a validated need, not a technology. Its Identify–Invent–Implement process asks teams to observe care, write solution-neutral need statements (the Need Statements guide, 2022) and screen needs before inventing. Its Principled Decision-Making brief (2022) advises teams to write a team-culture document setting out their ethical principles early. In India, Stanford-India Biodesign began in 2007 with DBT, AIIMS and IIT Delhi: over nine years it trained 32 fellows who developed 14 technologies and started 13 companies, and it continues as the School of International Biodesign at AIIMS New Delhi; Chaturvedi and colleagues (BMJ Innovations 2015) applied the method in an Indian emergency department, filtering 100 needs to 10.  
+Harvard: the HMS Center for Bioethics teaches through cases; the MRCT Center of Brigham and Women's Hospital and Harvard provides practical tools on diversity and inclusion (2020), Accessibility by Design (2023), a plain-language glossary and post-trial access for devices (2025); the Petrie-Flom Center studies home digital health (Diagnosing in the Home) and the ethics of remote device monitoring (Cohen, Gerke & Kramer 2020); HMS's 2010 conflict-of-interest policy is the model for ‘disclose, then manage’.  
+Cambridge: the Engineering Design Centre's Inclusive Design Toolkit and Exclusion Calculator ask who is excluded by a product's demands; Engineering Better Care (2017; working group chaired by Cambridge's Prof John Clarkson) adds people, systems, design and risk perspectives and a ‘Sustain’ phase; the Institute for Biomedical Innovation (announced January 2026) addresses the gap between a lab prototype and a trial-ready device; Cambridge Judge's Centre for Health Leadership and Enterprise focuses on making proven solutions affordable.
 
-**India adaptation.** Stanford’s process was localised in India through Stanford-India Biodesign (from 2007–08), now the School of International Biodesign at AIIMS and IIT Delhi. Chaturvedi and colleagues (BMJ Innovations 2015) adapted it in an Indian emergency department: 100 needs, filtered to 10. Our regulatory and ethics anchors are CDSCO under MDR-2017, ICMR’s 2017 guidelines, MvPI, NPPA pricing, and the reality that families pay out of pocket for most outpatient devices.
+**India adaptation.** Band, left to right. CDSCO under the Medical Devices Rules 2017 answers Permission: Rule 4 classes A–D, MD-5 (State) or MD-9 (Central) licences, MD-13 test licence. ICMR's 2017 National Ethical Guidelines and ethics committees registered under the NDCT Rules 2019 answer People. The Materiovigilance Programme of India at the Indian Pharmacopoeia Commission (launched 6 July 2015, 174 monitoring centres by 2022) answers Safety. NPPA under DPCO 2013 answers Access: ceiling prices on coronary stents (February 2017) and knee implants (August 2017), trade-margin caps on five home-use devices (July 2021). BIS standards and the Essential Principles checklist (self-certified for Class A non-sterile, non-measuring devices under the 2022 amendment) set the technical floor. The DPDP Rules 2025, with phased commencement, govern the personal health data that apps and cloud services collect. Families still pay out of pocket for most outpatient devices.
 
-**Caution.** None of these institutions has evaluated or endorsed FoGO or SwaKnee. The Biodesign textbook is Stanford content published by Cambridge University Press, so cite it as Stanford. IDEAL (slide 9) is Oxford-led, not Cambridge.
+**Caution.** None of these institutions has evaluated or endorsed FoGO or SwaKnee. The Biodesign textbook is Stanford content published by Cambridge University Press, so cite it as Stanford. IDEAL (evidence section) is Oxford-led, not Cambridge. BIS is named as the standards body; specific Indian Standards for the two devices are not cited here.
 
 **Transition.** “Now meet the two people we will keep in mind.”
 
 **Sources.**
 
 1. Stanford Mussallem Center for Biodesign. Our Process: Identify, Invent, Implement. <https://biodesign.stanford.edu/about-us/process.html>
-2. Stanford Biodesign. Principled Decision-Making. Student Guide to Biodesign; 2022. <https://biodesignguide.stanford.edu/wp-content/uploads/2022/08/Principled-Decision-Making-v1.pdf>
-3. Stanford Biodesign. Stanford Biodesign in India (Stanford-India Biodesign, 2007–2014; now School of International Biodesign, AIIMS and IIT Delhi). <https://biodesign.stanford.edu/content/dam/sm/biodesign/documents/programs/global-initiatives/founders-forum/Stanford-Bioesign-in-India.pdf>
-4. Chaturvedi J, Logan A, Narayan G, Kuttappa S. A structured process for unmet clinical need analysis for medical device innovation in India: early experiences. BMJ Innovations. 2015;1(3):81. <https://innovations.bmj.com/content/1/3/81>
-5. Harvard Medical School Center for Bioethics. Fellowship in Bioethics: curriculum. <https://bioethics.hms.harvard.edu/education/fellowship-bioethics/curriculum>
-6. MRCT Center of Brigham and Women's Hospital and Harvard. Achieving Diversity, Inclusion, and Equity in Clinical Research: Guidance Document and Toolkit; 2020. <https://mrctcenter.org/diversity-in-clinical-research/>
-7. Petrie-Flom Center, Harvard Law School. Diagnosing in the Home: the ethical, legal and regulatory challenges of digital home health (2021–2024). <https://petrieflom.law.harvard.edu/diagnosing-in-the-home/>
-8. University of Cambridge Engineering Design Centre. Inclusive Design Toolkit and Exclusion Calculator (Clarkson, Waller, Coleman). <https://www-edc.eng.cam.ac.uk/research/inclusive-design>
-9. Royal Academy of Engineering, Academy of Medical Sciences, Royal College of Physicians. Engineering Better Care: a systems approach to health and care design and continuous improvement; 2017 (working group chaired by Prof P. John Clarkson, University of Cambridge). <https://raeng.org.uk/publications/reports/engineering-better-care>
-10. University of Cambridge. New Cambridge institute will support high-value medical device translation; January 2026. <https://www.cam.ac.uk/research/news/new-cambridge-institute-will-support-high-value-medical-device-translation>
-11. Cambridge Judge Business School. Centre for Health Leadership and Enterprise. <https://www.jbs.cam.ac.uk/centres/health/>
+2. Stanford Biodesign. Need Statements. Student Guide to Biodesign; 2022. <https://biodesignguide.stanford.edu/wp-content/uploads/2022/07/Need-Statements-v2.pdf>
+3. Stanford Biodesign. Principled Decision-Making. Student Guide to Biodesign; 2022. <https://biodesignguide.stanford.edu/wp-content/uploads/2022/08/Principled-Decision-Making-v1.pdf>
+4. Stanford Biodesign. Stanford Biodesign in India (Stanford-India Biodesign, 2007–2014; now School of International Biodesign, AIIMS and IIT Delhi). <https://biodesign.stanford.edu/content/dam/sm/biodesign/documents/programs/global-initiatives/founders-forum/Stanford-Bioesign-in-India.pdf>
+5. Chaturvedi J, Logan A, Narayan G, Kuttappa S. A structured process for unmet clinical need analysis for medical device innovation in India: early experiences. BMJ Innovations. 2015;1(3):81. <https://innovations.bmj.com/content/1/3/81>
+6. Harvard Medical School Center for Bioethics. Fellowship in Bioethics: curriculum. <https://bioethics.hms.harvard.edu/education/fellowship-bioethics/curriculum>
+7. MRCT Center of Brigham and Women's Hospital and Harvard. Achieving Diversity, Inclusion, and Equity in Clinical Research: Guidance Document and Toolkit; 2020. <https://mrctcenter.org/diversity-in-clinical-research/>
+8. MRCT Center. Accessibility by Design in Clinical Research Toolkit; 2023. <https://mrctcenter.org/resource/accessibility-by-design-abd-toolkit-release/>
+9. MRCT Center. Clinical Research Glossary (plain-language definitions; v3.0, 2025). <https://mrctcenter.org/glossary/>
+10. MRCT Center Post-trial Continued Access Task Force. Post-trial, Continued Access Responsibilities to Investigational Significant-Risk Devices: Framework; 2025. <https://mrctcenter.org/wp-content/uploads/2025/04/2025-04-23c-Responsibilities-Framework_Devices.pdf>
+11. Petrie-Flom Center, Harvard Law School. Diagnosing in the Home: the ethical, legal and regulatory challenges of digital home health (2021–2024). <https://petrieflom.law.harvard.edu/diagnosing-in-the-home/>
+12. Cohen IG, Gerke S, Kramer DB. Ethical and legal implications of remote monitoring of medical devices. Milbank Q. 2020;98(4):1257–1289. <https://www.milbank.org/quarterly/articles/ethical-and-legal-implications-of-remote-monitoring-of-medical-devices/>
+13. Harvard Medical School. Policy on Conflicts of Interest and Commitment (2010 revision). <https://hms.harvard.edu/news/changes-conflicts-policy-heighten-transparency>
+14. University of Cambridge Engineering Design Centre. Inclusive Design Toolkit and Exclusion Calculator (Clarkson, Waller, Coleman). <https://www-edc.eng.cam.ac.uk/research/inclusive-design>
+15. Royal Academy of Engineering, Academy of Medical Sciences, Royal College of Physicians. Engineering Better Care: a systems approach to health and care design and continuous improvement; 2017 (working group chaired by Prof P. John Clarkson, University of Cambridge). <https://raeng.org.uk/publications/reports/engineering-better-care>
+16. University of Cambridge. New Cambridge institute will support high-value medical device translation; January 2026. <https://www.cam.ac.uk/research/news/new-cambridge-institute-will-support-high-value-medical-device-translation>
+17. Cambridge Judge Business School. Centre for Health Leadership and Enterprise. <https://www.jbs.cam.ac.uk/centres/health/>
+18. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+19. Indian Council of Medical Research. National Ethical Guidelines for Biomedical and Health Research Involving Human Participants. New Delhi: ICMR; 2017 (Section 5 informed consent; Section 6 vulnerability; Section 7.7 device trials). <https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf>
+20. Ministry of Health and Family Welfare. New Drugs and Clinical Trials Rules, 2019 (ethics committee registration: Rules 7–8 with CDSCO; Rules 16–17 with DHR). <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/new_DC_rules/NEW%20DRUGS%20ANDctrS%20RULE,%202019.pdf>
+21. Indian Pharmacopoeia Commission. Materiovigilance Programme of India (MvPI): About us. Launched 6 July 2015; helpline 1800-180-3024; mvpi-ipc@gov.in. <https://ipc.gov.in/mandates/materiovigilance-programme-of-india-mvpi/about-us.html>
+22. Materiovigilance Programme of India: current status and way forward. Indian Journal of Pharmacology; 2022 (174 Medical Device Adverse Event Monitoring Centres in hospitals and medical colleges; voluntary reporting; 40 reports in 2015 rising to 897 in 2019). <https://www.ovid.com/jnls/iphr/fulltext/10.4103/ijp.ijp_837_21~materiovigilance-programme-of-india-current-status-and-way>
+23. Press Information Bureau. NPPA ceiling prices for coronary stents: Rs 7,260 (bare-metal) and Rs 29,600 (drug-eluting); 13 February 2017. <https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=158452>
+24. Press Information Bureau. Government fixes ceiling prices of knee implants (cobalt-chromium primary knee: average MRP Rs 1,58,324 to Rs 54,720, 65%; special metals 69%); 16 August 2017. <https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=170040>
+25. Press Information Bureau. Government caps trade margin up to 70% on price-to-distributor for pulse oximeters, BP monitors, nebulisers, digital thermometers and glucometers; 13 July 2021 (91% of 684 brands cut MRP, by up to 88%). <https://www.pib.gov.in/PressReleasePage.aspx?PRID=1735430>
+26. Ministry of Electronics and Information Technology. Digital Personal Data Protection Rules, 2025 (notified November 2025; phased commencement). <https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251117695301.pdf>
 
-### Slide 5 · Two people we will follow
+### Slide 6 · Two people we will follow
 
-*Time: 1 min (clock 4:15–5:15)*
+*Time: 1 min · core (40-min path)*
 
-**Core script (say this).** Meet Ramesh, 71, with Parkinson’s: he freezes in doorways, has fallen twice this year and borrows his daughter’s phone. And Kamala, 64, with knee osteoarthritis: she lives 30 km from the clinic and her family pays out of pocket. They are composites, not real patients. When you vote today, vote for them.
+**Core script (say this).** Meet Ramesh, 71, with Parkinson's: he freezes in doorways, has fallen twice this year and borrows his daughter's phone. And Kamala, 64, with knee osteoarthritis: she lives 30 km from the clinic and her family pays out of pocket. They are composites, not real patients. When you vote today, vote for them.
 
-**Purpose.** Give every later decision a human face.
+**Purpose.** Give every later decision a human face, with the burden of each condition in Indian numbers.
 
 **Say.** “Ramesh and Kamala are composites, not real patients, built from situations common in Odisha clinics.”  
-Ramesh, 71: Parkinson’s disease for eight years; freezes in doorways and when turning; has fallen twice this year; lives with his daughter, who works days and lends him her smartphone.  
-Kamala, 64: knee osteoarthritis in both knees; lives 30 km from the clinic at the district hospital; travels by shared auto; her household pays out of pocket and loses wages when someone accompanies her.  
+Ramesh, 71: Parkinson's disease for eight years; freezes in doorways and when turning; has fallen twice this year; lives with his daughter, who works days and lends him her smartphone — so any app-based cue depends on a borrowed phone and on someone else's working hours.  
+Kamala, 64: knee osteoarthritis in both knees; lives 30 km from the clinic at the district hospital; travels by shared auto with a companion; her household pays out of pocket and loses wages when someone accompanies her — so a 45-minute daily session over 45 days (the SwaKnee leaflet's illustration of time burden) is a real cost in time and money.  
 “Every decision today is made for one of them. When you vote, vote for them.”
 
-**India adaptation.** Burden context: about 7.7 lakh people in India were living with Parkinson’s disease in 2019 (India State-Level Disease Burden Initiative, as cited in the FoGO project material). Knee osteoarthritis was found in 28.7% of 5,000 people in a five-site community survey (Pal et al. 2016) — one study, not a national estimate.
+**India adaptation.** Burden context: about 7.7 lakh people in India were living with Parkinson's disease in 2019 (India State-Level Disease Burden Initiative, GBD 2019, as cited in the FoGO project material). Knee osteoarthritis was found in 28.7% of 5,000 people in a five-site community survey (Pal et al., Indian J Orthop 2016) — one study, not a national estimate.
 
-**Caution.** Do not attach these personas to the volunteer or demonstrator shown in the photographs or videos.
+**Caution.** Do not attach these personas to the volunteer shown in the FoGO photograph (legs only, no face) or to anyone in the SwaKnee material. The ‘Product’ chip on the SwaKnee card means a product in use, not a CDSCO-licensed or clinically proven device; state its licence status only if you have checked it.
 
 **Transition.** “Their journey has six stages.”
 
@@ -188,17 +319,26 @@ Kamala, 64: knee osteoarthritis in both knees; lives 30 km from the clinic at th
 
 1. India State-Level Disease Burden Initiative Neurological Disorders Collaborators. The burden of neurological disorders across the states of India: GBD 1990–2019. Lancet Glob Health. 2021. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8295043/>
 2. Pal CP, Singh P, Chaturvedi S, Pruthi KK, Vij A. Epidemiology of knee osteoarthritis in India and related factors. Indian J Orthop. 2016;50(5):518–522 (28.7% in a five-site community survey). <https://pmc.ncbi.nlm.nih.gov/articles/PMC5017174>
+3. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+4. Swa knee_Leaflet.pdf. Supplied product material: 45-minute daily sessions over 45 days (illustration of time burden, not a prescription).
 
-### Slide 6 · Each stage must answer a patient’s question
+### Slide 7 · Every stage answers a patient question
 
-*Time: 0.5 min (clock 5:15–5:45)*
+*Time: 0.75 min · core (40-min path)*
 
-**Core script (say this).** Every stage answers a question a patient would ask. Will it help? Is it proven? Can I refuse? Is it allowed? Can I afford it? Who answers if it fails? The dots at the top of later slides show which stage we are in.
+**Core script (say this).** Every stage answers a question a patient would ask. Will it help? Is it proven? Can I refuse? Is it allowed? Can I afford it? Who answers if it fails? Under each is the Indian institution that answers it: the clinic, CDSCO and CTRI, the ethics committee, the licensing authority, NPPA and the family, and MvPI. The dots at the top of later slides show which stage we are in.
 
-**Purpose.** Introduce the six-stage spine of the session; the progress dots on later slides show where we are.
+**Purpose.** Introduce the six-stage spine of the session and map each stage to the Indian institution or permission that answers it; the progress dots on later slides show where we are.
 
-**Say.** Need — Will it help me? Evidence — Is there proof, for people like me? People — Can I freely say no, and are the people asking me free of hidden interests? Permission — Is it allowed for this use? Access — Can I afford it, use it and keep using it? Safety — Who answers if it fails, after the sale?  
-“These questions adapt familiar research-ethics principles (benefit, risk minimisation, voluntary participation, accountability; compare the general principles in ICMR’s 2017 guidelines) to the device life cycle. The stages are not strictly sequential: Engineering Better Care’s ‘Sustain’ phase reminds us that access and safety must be designed from the start. We follow Ramesh and Kamala along this path.”
+**Say.** Need — “Will it help me?” Answered in the clinic by observing care and writing a solution-neutral need with a precise intended use and claim; the School of International Biodesign at AIIMS and IIT Delhi teaches the method in India.  
+Evidence — “Is there proof, for people like me?” Answered by a permitted clinical investigation (Form MD-22 with Seventh Schedule documents, permission in MD-23), registered prospectively on CTRI and run to ISO 14155 good clinical practice.  
+People — “Can I freely say no, and are the people asking me free of hidden interests?” Answered by an ethics committee registered under the NDCT Rules 2019, applying ICMR's 2017 guidelines on consent (section 5), vulnerability (section 6) and device trials (section 7.7), with investigators' interests disclosed.  
+Permission — “Is it allowed for this use?” Answered by the licensing authority: MD-5 from the State for Class A/B, MD-9 from CDSCO for Class C/D, MD-13 test licences for prototypes, MD-15 import licences for any class.  
+Access — “Can I afford it, use it and keep using it?” Answered by NPPA under DPCO 2013 (stent ceiling prices from February 2017; knee implant caps from August 2017, continued to 15 November 2026) and, for most outpatient devices, by the family's own pocket.  
+Safety — “Who answers if it fails, after the sale?” Answered by the Materiovigilance Programme of India at the Indian Pharmacopoeia Commission (since 6 July 2015, 174 monitoring centres by 2022) and by CDSCO's alerts, recalls and licence cancellations — the DePuy ASR hip alert of December 2013, after about 4,700 surgeries in India, is the reference case.  
+“These questions adapt familiar research-ethics principles — benefit, risk minimisation, voluntary participation, accountability; compare the general principles in ICMR's 2017 guidelines — to the device life cycle. The stages are not strictly sequential: Engineering Better Care's ‘Sustain’ phase reminds us that access and safety must be designed from the start. We follow Ramesh and Kamala along this path.”
+
+**Caution.** The six stages are a teaching device, not a regulatory sequence; in practice classification, test licence and ethics approval overlap. The 174 monitoring centres is a 2022 figure and the network has grown since. The DePuy ASR case belongs to the pre-MDR-2017 regime (Drugs and Cosmetics Act 1940).
 
 **Transition.** “Stage one: what exactly are we promising?”
 
@@ -206,80 +346,184 @@ Kamala, 64: knee osteoarthritis in both knees; lives 30 km from the clinic at th
 
 1. Indian Council of Medical Research. National Ethical Guidelines for Biomedical and Health Research Involving Human Participants. New Delhi: ICMR; 2017 (Section 5 informed consent; Section 6 vulnerability; Section 7.7 device trials). <https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf>
 2. Stanford Mussallem Center for Biodesign. Our Process: Identify, Invent, Implement. <https://biodesign.stanford.edu/about-us/process.html>
-3. Royal Academy of Engineering, Academy of Medical Sciences, Royal College of Physicians. Engineering Better Care: a systems approach to health and care design and continuous improvement; 2017 (working group chaired by Prof P. John Clarkson, University of Cambridge). <https://raeng.org.uk/publications/reports/engineering-better-care>
+3. Stanford Biodesign. Stanford Biodesign in India (Stanford-India Biodesign, 2007–2014; now School of International Biodesign, AIIMS and IIT Delhi). <https://biodesign.stanford.edu/content/dam/sm/biodesign/documents/programs/global-initiatives/founders-forum/Stanford-Bioesign-in-India.pdf>
+4. Royal Academy of Engineering, Academy of Medical Sciences, Royal College of Physicians. Engineering Better Care: a systems approach to health and care design and continuous improvement; 2017 (working group chaired by Prof P. John Clarkson, University of Cambridge). <https://raeng.org.uk/publications/reports/engineering-better-care>
+5. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+6. CDSCO. Form MD-22: application for permission to conduct clinical investigation (permission in Form MD-23). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/22MD.pdf>
+7. Ministry of Health and Family Welfare. New Drugs and Clinical Trials Rules, 2019 (ethics committee registration: Rules 7–8 with CDSCO; Rules 16–17 with DHR). <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/new_DC_rules/NEW%20DRUGS%20ANDctrS%20RULE,%202019.pdf>
+8. ISO 14155:2026. Clinical investigation of medical devices for human subjects — Good clinical practice (supersedes ISO 14155:2020). <https://www.iso.org/standard/83968.html>
+9. Press Information Bureau. NPPA ceiling prices for coronary stents: Rs 7,260 (bare-metal) and Rs 29,600 (drug-eluting); 13 February 2017. <https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=158452>
+10. Press Information Bureau. Government fixes ceiling prices of knee implants (cobalt-chromium primary knee: average MRP Rs 1,58,324 to Rs 54,720, 65%; special metals 69%); 16 August 2017. <https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=170040>
+11. Medical Dialogues. NPPA continues price cap on orthopaedic knee replacement implants for another year, till 15 November 2026. <https://medicaldialogues.in/news/industry/medical-devices/nppa-continues-price-cap-on-orthopedic-knee-replacement-implants-for-another-year-till-november-15-2026-158881>
+12. Medical Dialogues. NPPA asks for price movement details of orthopaedic implants; 2017 (devices are 'drugs' under the Drugs and Cosmetics Act 1940, so DPCO 2013 applies: Para 19 ceiling prices in extraordinary circumstances or public interest; Para 20 monitoring of non-scheduled MRPs so that no price rises more than 10% in any 12 months). <https://medicaldialogues.in/nppa-asks-for-price-movement-details-of-orthopedic-implants>
+13. Indian Pharmacopoeia Commission. Materiovigilance Programme of India (MvPI): About us. Launched 6 July 2015; helpline 1800-180-3024; mvpi-ipc@gov.in. <https://ipc.gov.in/mandates/materiovigilance-programme-of-india-mvpi/about-us.html>
+14. Materiovigilance Programme of India: current status and way forward. Indian Journal of Pharmacology; 2022 (174 Medical Device Adverse Event Monitoring Centres in hospitals and medical colleges; voluntary reporting; 40 reports in 2015 rising to 897 in 2019). <https://www.ovid.com/jnls/iphr/fulltext/10.4103/ijp.ijp_837_21~materiovigilance-programme-of-india-current-status-and-way>
+15. Mondaq. Reassessing India's Medical Device Recall Framework: Regulatory Gaps and the Case for Reform; 2025 (CDSCO medical device alert on the DePuy ASR hip implant, December 2013, after about 4,700 surgeries in India; import licence cancelled under the Drugs and Cosmetics Act 1940; MDR-2017 has no stand-alone recall procedure). <https://www.mondaq.com/reassessing-india's-medical-device-recall-framework-regulatory-gaps-and-the-case-for-reform/1751304>
 
-### Slide 7 · Claim wording sets the evidence bar
+### Slide 8 · Part 1 · Need and evidence
 
-*Time: 1.5 min (clock 5:45–7:15) · Activity: Quick call-out: rewrite one need statement*
+*Time: 0.25 min · deep-dive (75-min path)*
 
-**Core script (say this).** Stanford’s need statement is solution-neutral: a way to address a problem, in a population, to achieve an outcome. No sensor, no app. Now the claims. ‘Shows walking patterns’ promises information. ‘Detects Parkinson’s freezing’ promises detection of a disease event: a medical claim, with a higher evidence bar and a licence. Your wording chooses your obligations. Quick task: rewrite Kamala’s need without naming any device.
+**Core script (say this).** Part one asks two questions of every device: what are we promising, and what has been shown? We start with the words, because the wording of the need and the claim decides the evidence bar and, in India, the permission. Then we test FoGO and SwaKnee against the evidence they actually have.
 
-**Purpose.** Show that the intended use and claim decide the regulatory route and the evidence needed.
+**Purpose.** Frame the section: wording first, evidence second; both devices judged with the same four-word vocabulary (Demonstrated, Reported preliminary, Planned, Not established).
 
-**Say.** Stanford’s need-statement format is: a way to [address the problem] in [a specific population] in order to [achieve a desired outcome]. It is deliberately solution-neutral. For Ramesh: “A way to reduce freezing-related immobility and falls in people with Parkinson’s disease living at home, in order to preserve safe, independent walking.” Notice: no sensor, no vibration, no app.  
-Now compare two claims. “Shows walking patterns” promises information. “Detects freezing of gait in Parkinson’s” promises detection of a disease-related event and, in FoGO, triggers an action (a cue). Under MDR-2017, intended use and claims determine whether a product is a medical device and its risk class (A–D). CDSCO’s Guidance on Medical Device Software (21 July 2026) covers software as a medical device, software in a device and IVD software, including AI and IoT, whenever the intended purpose is medical; risk depends on how far the output drives clinical decisions and how serious the condition is. Calling a product ‘wellness’ does not remove obligations when the real purpose is medical; Simon, Shachar and Cohen (JAMA 2022) describe the liability grey zone of ‘prediagnostic’ wearables.
+**Say.** The photograph is the FoGO alpha prototype, third iteration, 2025: the phone app, the chest module on its adhesive patch, and the ankle module in its strap. Everything we say about FoGO in this part refers to this version.  
+Three stops in this part: a solution-neutral need statement and a claim ladder; a decision tree for 'is it a medical device in India?'; and the evidence ladder for both devices, with the first vote.
 
-**Ask / run.** “Rewrite Kamala’s need without naming any device.” Model answer: “A way to reduce pain and functional limitation in adults with knee osteoarthritis who cannot access or tolerate current options, in order to maintain daily function at an affordable cost.”
+**Transition.** “First, the words.”
 
-**Caution.** FoGO’s project material proposes Class B; that is the developer’s proposal, not a CDSCO classification. Do not state SwaKnee’s class as fact; confirm with CDSCO or a regulatory adviser.
+**Sources.**
 
-**Transition.** “Let’s look at what FoGO has actually shown.”
+1. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+
+### Slide 9 · Wording sets the evidence bar
+
+*Time: 1.5 min · core (40-min path) · Activity: Rewrite Kamala's need*
+
+**Core script (say this).** Stanford's need statement is solution-neutral: a way to address a problem, in a population, to achieve an outcome. No sensor, no app. Now the claims. ‘Shows walking patterns’ promises information. ‘Detects Parkinson's freezing’ promises detection of a disease event: a medical claim, with a higher evidence bar and a licence. ‘Reduces falls’ promises treatment: a controlled trial and claims control. Your wording chooses your obligations. Quick task: rewrite Kamala's need without naming any device.
+
+**Purpose.** Show that the intended use and the claim decide the regulatory route and the evidence needed; practise writing a solution-neutral need.
+
+**Say.** Stanford Biodesign's need-statement format is: a way to [address the problem] in [a specific population] in order to [achieve a desired outcome]. It is deliberately solution-neutral. For Ramesh: “A way to reduce freezing-related immobility and falls in people with Parkinson's disease living at home, in order to preserve safe, independent walking.” Notice: no sensor, no vibration, no app.  
+Now the ladder on the right. Each rung is a stronger claim, and each needs more evidence and more permission.  
+Information: “Shows your walking patterns.” Bench accuracy and usability. If no medical purpose is claimed the product may sit outside MDR-2017; but the real purpose decides, not the label.  
+Monitoring: “Tracks your gait for your neurologist.” Now there is a medical purpose, so it is a device. Software that does the medical work is classified under CDSCO's Guidance on Medical Device Software (CDSCO/MD/GD/MDSW/01/2026, 21 July 2026) by the medical purpose, the significance of the output for clinical decisions and the severity of the condition. The manufacturing licence is MD-5 from the State Licensing Authority for Class A/B, or MD-9 from the Central Licensing Authority for Class C/D.  
+Detection: “Detects freezing of gait in Parkinson's.” This promises detection of a disease-related event and, in FoGO, triggers an action. The evidence is clinical performance: sensitivity and specificity against video-labelled freezes, false alarms per hour, latency, and performance in homes, turns and doorways. The permissions: test units under MD-12 → MD-13; clinical investigation permission MD-22 → MD-23 with Seventh Schedule documents; a registered ethics committee; CTRI registration; then the licence.  
+Treatment: “Reduces freezing and falls.” A prospective controlled trial with fall and walking outcomes, durability and safety. And once on the market, the claim itself is policed: the Uniform Code for Marketing Practices in Medical Devices (2024, amended 2026), the Drugs and Magic Remedies (Objectionable Advertisements) Act 1954, and ASCI's code on substantiated health claims. Labels must follow Rule 44.  
+Under MDR-2017 the intended use and claims determine whether a product is a medical device and its class (A–D). Calling a product ‘wellness’ does not remove obligations when the real purpose is medical; Simon, Shachar and Cohen (JAMA 2022) describe the liability grey zone of ‘prediagnostic’ wearables.
+
+**Ask / run.** “Rewrite Kamala's need without naming any device.” Take two answers. Model answer: “A way to reduce pain and functional limitation in adults with knee osteoarthritis who cannot access or tolerate current options, in order to maintain daily function at an affordable cost.”
+
+**Debrief points.** Good answers name the population, the problem and the outcome, and avoid ‘electromagnetic’, ‘device’ or ‘app’. Then ask: which rung of the ladder is SwaKnee's leaflet claiming? Which rung is FoGO's BIRAC proposal claiming? Keep both answers for the SwaKnee claims slide.
+
+**Caution.** FoGO's project material proposes Class B; that is the developer's proposal, not a CDSCO classification. Do not state SwaKnee's class as fact; confirm with CDSCO or a regulatory adviser. The rung-by-rung permissions are a teaching simplification: the exact route depends on the class list, on whether a predicate exists (Rule 63 for devices without one) and on the clinical-investigation rules (Chapter VII).
+
+**Transition.** “But is it a medical device at all? In India, one question decides.”
 
 **Sources.**
 
 1. Stanford Biodesign. Need Statements. Student Guide to Biodesign; 2022. <https://biodesignguide.stanford.edu/wp-content/uploads/2022/07/Need-Statements-v2.pdf>
 2. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
 3. CDSCO. Guidance Document on Medical Device Software under the Medical Devices Rules, 2017 (CDSCO/MD/GD/MDSW/01/2026); 21 July 2026. <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-document-on-Medical-Device-Software-under-MDR-2017.pdf>
-4. Simon DA, Shachar C, Cohen IG. Unsettled liability issues for 'prediagnostic' wearables and health-related products. JAMA. 2022;328:1391. <https://hls.harvard.edu/bibliography/unsettled-liability-issues-for-prediagnostic-wearables-and-health-related-products>
+4. Pure Global. India CDSCO Medical Device Software Guidance 2026: classification by medical purpose, significance of the information and severity of the condition; lifecycle, cybersecurity and AI change-planning expectations (secondary summary of CDSCO/MD/GD/MDSW/01/2026). <https://www.pureglobal.com/news/india-cdsco-medical-device-software-guidance-2026>
+5. CDSCO. Form MD-12: application for licence to manufacture medical devices for clinical investigation, test, evaluation, examination, demonstration or training (licence in Form MD-13). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/12MD.pdf>
+6. CDSCO. Form MD-22: application for permission to conduct clinical investigation (permission in Form MD-23). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/22MD.pdf>
+7. Simon DA, Shachar C, Cohen IG. Unsettled liability issues for 'prediagnostic' wearables and health-related products. JAMA. 2022;328:1391. <https://hls.harvard.edu/bibliography/unsettled-liability-issues-for-prediagnostic-wearables-and-health-related-products>
+8. Department of Pharmaceuticals. Uniform Code for Marketing Practices in Medical Devices, 2024 (circular of 6 September 2024; as amended on 30 April 2026). Voluntary code administered through industry associations. <https://pharma-dept.gov.in/sites/default/files/UCMDMD%20circular%201-2026+UCMDMP%20code%20as%20amended%20on%2030.4.2026%20(1).pdf>
+9. Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954 (Schedule includes ‘rheumatism’). <https://www.indiacode.nic.in/indiacode/bitstream/123456789/1412/1/A1954-21.pdf>
+10. Advertising Standards Council of India. Consumer Complaints Council recommendations press release (June 2022): health advertisements assessed under ASCI Code Chapter I.1 (truthful, substantiated claims) and III.4. <https://www.ascionline.in/wp-content/uploads/2022/09/asci_june-17_ccc_recomm_press_release.pdf>
 
-### Slide 8 · FoGO: what did the prototype actually show?
+### Slide 10 · Is it a medical device in India?
 
-*Time: 1.25 min (clock 7:15–8:30) · Activity: Play the embedded 12-second clip, then ‘seen vs inferred’*
+*Time: 1.25 min · deep-dive (75-min path)*
+
+**Core script (say this).** The intended purpose decides, not the technology. Section 3(b)(iv) of the Drugs and Cosmetics Act brings in devices intended for diagnosis, treatment, mitigation or prevention of disease; since 1 April 2020 that means all such devices. If software does the medical work, CDSCO's 2026 software guidance classifies it by purpose, significance of its output and severity of the condition. Then the First Schedule gives the class, and the class gives the licence. FoGO and SwaKnee are devices; a step-counting band and a scheduling app are not, until their claims change.
+
+**Purpose.** Give students a repeatable three-question test for ‘is it a device?’ and show it on four familiar products.
+
+**Say.** Question 1: what is it for? The Drugs and Cosmetics Act 1940, section 3(b)(iv), covers devices intended for use in human beings for the diagnosis, treatment, mitigation or prevention of disease or disorder. Before 2020 only notified categories were regulated (37 categories); on 11 February 2020 MoHFW notified all medical devices under s.3(b)(iv) by S.O. 648(E), effective 1 April 2020. Registration became mandatory from 1 October 2021; Class A/B licences from 1 October 2022; Class C/D from 1 October 2023.  
+If there is no medical purpose, the product sits outside MDR-2017. But the test is the real purpose and the claims, not the label. A ‘wellness’ sticker does not undo a medical purpose.  
+Question 2: is software doing the medical work? CDSCO's Guidance Document on Medical Device Software under MDR-2017, CDSCO/MD/GD/MDSW/01/2026, issued 21 July 2026 (62 pages, replacing an October 2025 draft) covers software as a medical device, software in a device and IVD software, including AI, IoT and digital therapeutics, whenever the intended purpose is medical. It classifies by the medical purpose, the significance of the information for clinical decisions, and the severity of the condition. CDSCO says the guidance ‘should not be misconstrued as a new regulatory control’: it interprets the Rules.  
+Question 3: which risk class? Rule 4 and Part I of the First Schedule: non-invasive devices; invasive devices (through a body orifice or surgically; transient, short- or long-term); active devices (therapeutic, diagnostic, administering or removing substances); and special rules. Class A is low risk, B low-moderate, C moderate-high, D high. CDSCO also publishes device-wise classification lists (for example a revised cardiovascular list in April 2025).  
+The class gives the route: Class A/B manufacturing licence MD-5 from the State Licensing Authority (Class A non-sterile, non-measuring devices need only registration since G.S.R. 777(E) of 14 October 2022); Class C/D licence MD-9 from the Central Licensing Authority; import licence MD-15 from the CLA for every class.  
+Four examples. FoGO: ‘detects freezing of gait and cues the user’ is a medical purpose; the app's algorithm drives the cue, so the software guidance applies; the developer proposes Class B, so say ‘likely B or C, to be confirmed’. SwaKnee: pulsed electromagnetic field for knee osteoarthritis pain is a medical purpose; an active therapeutic device that delivers energy; likely Class B under the First Schedule, to be verified on CDSCO's lists. A fitness band that counts steps and says ‘stay active’ names no disease and diagnoses nothing; add ‘detects arrhythmia’ and it becomes a device. A hospital scheduling app handles appointments, queues and billing; its output has no medical purpose; add triage advice or dosing and re-check.
+
+**India adaptation.** This slide is already the Indian framework; the comparison with FDA (‘general wellness’ policy) and EU MDR Rule 11 for software comes in Part 4.
+
+**Caution.** The s.3(b)(iv) purpose wording (diagnosis, treatment, mitigation, prevention) is quoted from memory of the Act; the facts file confirms only ‘intended for use in human beings or animals’. The First Schedule paraphrase is from a consultancy source; open the CDSCO MDR-2017 PDF before quoting a rule number. The fitness-band and scheduling-app verdicts apply the intended-purpose principle; the MDSW guidance's exact treatment of wellness and administrative software was not read in the PDF. Do not state FoGO's or SwaKnee's class as fact.
+
+**Transition.** “FoGO is a device. So what has it shown? Twelve seconds of video.”
+
+**Sources.**
+
+1. CDSCO. Notice on S.O. 648(E) of 11 February 2020 (all medical devices notified as drugs with effect from 1 April 2020) and G.S.R. 102(E). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/mdgsr.pdf>
+2. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+3. CDSCO. Guidance Document on Medical Device Software under the Medical Devices Rules, 2017 (CDSCO/MD/GD/MDSW/01/2026); 21 July 2026. <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-document-on-Medical-Device-Software-under-MDR-2017.pdf>
+4. Pure Global. India CDSCO Medical Device Software Guidance 2026: classification by medical purpose, significance of the information and severity of the condition; lifecycle, cybersecurity and AI change-planning expectations (secondary summary of CDSCO/MD/GD/MDSW/01/2026). <https://www.pureglobal.com/news/india-cdsco-medical-device-software-guidance-2026>
+5. Bhatt & Joshi Associates. Medical Device Regulations India 2026: CDSCO, MDR 2017, Compliance Guide (paraphrase of First Schedule Part I classification rules; consultancy source). <https://bhattandjoshiassociates.com/medical-device-regulation-in-india-a-comprehensive-overview/>
+6. TeamLease RegTech. Medical Devices (Sixth Amendment) Rules, 2022, G.S.R. 777(E), 14 October 2022: Class A non-sterile, non-measuring devices registered online with an undertaking and a self-certified Essential Principles checklist; no manufacturing licence. <https://www.teamleaseregtech.com/updates/article/19622/medical-devices-sixth-amendment-rules-2022>
+7. CDSCO. Regulatory pathway under the Medical Devices Rules, 2017 (overview). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/RegulatoryMDR-2017.pdf>
+8. Simon DA, Shachar C, Cohen IG. Unsettled liability issues for 'prediagnostic' wearables and health-related products. JAMA. 2022;328:1391. <https://hls.harvard.edu/bibliography/unsettled-liability-issues-for-prediagnostic-wearables-and-health-related-products>
+
+### Slide 11 · FoGO: what did the prototype actually show?
+
+*Time: 1.5 min · core (40-min path) · Activity: What did you see? What did you infer?*
 
 **Core script (say this).** Watch twelve seconds. [Play.] A volunteer stops on purpose to mimic a freeze; the ankle sensor registers the stop, the app flags it as a freeze, and the chest module vibrates. What did you see, and what did you infer? We saw the parts working together on a deliberate stop. We did not see real freezes, many users, a freeze told apart from a pause, or fewer falls.
 
 **Purpose.** Separate what a demonstration shows from what it seems to promise.
 
-**Say.** Introduce FoGO: an ankle module with a six-axis motion sensor streaming at 100 Hz to a phone app, which runs the detection model and, when a freeze is confirmed, triggers a vibrotactile cue from a chest module worn on an adhesive patch.  
-Play the clip (click the video). It shows a volunteer, face obscured, stopping mid-walk on purpose to mimic a freeze. The ankle module registers the stop, the app’s detection paths cross their thresholds and flag it as a freeze, and the chest module vibrates.  
-Ask: “What did you see? What did you infer?” Write two columns on the flipchart.
+**Say.** Introduce FoGO with the diagram: an ankle module with a six-axis motion sensor streaming at 100 Hz over Bluetooth to a phone app, which runs the detection model and confirms a freeze with a two-of-three debounce; when a freeze is confirmed it triggers a vibrotactile cue from a chest module worn on an adhesive patch. The project reports a detection-to-cue latency of about 255 ms on the bench; treat that as a project figure, not a clinical measurement.  
+Play the clip (click the video). It shows a volunteer, face obscured, stopping mid-walk on purpose to mimic a freeze. The ankle module registers the stop, the app's detection paths cross their thresholds and flag it as a freeze, and the chest module vibrates.  
+Ask: “What did you see? What did you infer?” Write two columns on the flipchart, then compare with the two columns on the slide.
+
+**Ask / run.** Two columns on the flipchart: Seen / Inferred. Take three items for each before showing the slide's columns.
 
 **Debrief points.** Seen: the components work together in a staged demonstration, on a deliberate stop.  
-Not shown: detection of real freezes in people with Parkinson’s; whether it tells a real freeze from a voluntary stop or a pause at a doorway (at home, that would be a false cue); performance across many users, homes, turns, doorways and walking aids; tolerability of repeated cues; and any clinical benefit such as fewer falls or more walking.  
+Not shown: detection of real freezes in people with Parkinson's; whether it tells a real freeze from a voluntary stop or a pause at a doorway (at home, that would be a false cue); performance across many users, homes, turns, doorways and walking aids; tolerability of repeated cues; and any clinical benefit such as fewer falls or more walking.  
 A demonstration is valuable for understanding a system; it is not evidence of efficacy.
 
 **Evidence status.** Demonstrated: staged prototype function (volunteer, simulated freeze). Not established: clinical detection performance and benefit.
 
-**Caution.** The project has built three prototype iterations (January 2024 to June 2025); results apply to the version tested. Do not describe the clip as clinical footage.
+**Caution.** The project has built three prototype iterations (January 2024 to June 2025); results apply to the version tested. Do not describe the clip as clinical footage. The 100 Hz and ≈255 ms figures are project-reported.
+
+**Transition.** “Three prototypes got us here. Each answered a different question.”
+
+**Sources.**
+
+1. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+
+### Slide 12 · Three iterations, three kinds of proof
+
+*Time: 1 min · deep-dive (75-min path)*
+
+**Core script (say this).** Three prototypes in eighteen months. V1, January 2024, proved the electronics worked from a box. V2 put them into two wearable modules. V3, June 2025, is the alpha system with the app that you saw in the clip. In July 2026 it went through EMC pre-compliance, and on 10 August 2026 CDSCO granted a Form MD-13 test licence for 25 units. Every one of these is engineering proof. None is clinical evidence; the clinical proof-of-concept is planned.
+
+**Purpose.** Show what iterative prototyping proves and what it cannot; connect the MD-13 test licence to its limited purpose.
+
+**Say.** V1 (January 2024): sensing electronics and a wired coin vibration motor in boxed enclosures; it proved the chain from sensor to motor could run. V2: an ankle sensor case and a small chest vibrotactile unit; it proved the wearable form factor. V3 (June 2025): the alpha system, ankle strap, adhesive chest patch and phone app, which is what the clip shows.  
+In July 2026 the ankle module went through IEC 60601-1-2 electromagnetic-compatibility pre-compliance testing (the photograph shows the RF test antenna and the module). Pre-compliance is a rehearsal: it finds problems before the formal test report that the dossier will need.  
+On 10 August 2026 CDSCO granted a test licence in Form MD-13 (applied for in Form MD-12) for 25 units. A test licence allows small quantities to be made for clinical investigation, test, evaluation, demonstration or training; the units cannot be sold, and the licence is neither marketing authorisation nor clinical-investigation permission. That next permission is MD-22 → MD-23, with a registered ethics committee and CTRI registration.
+
+**Debrief points.** Ask the room: which of these four pictures would an ethics committee accept as evidence that the device helps Ramesh? None. They show readiness to be tested, which is a different and honest claim.
+
+**Evidence status.** Demonstrated: prototype function V1–V3; EMC pre-compliance run. Granted: MD-13 test licence (25 units). Planned: clinical proof-of-concept.
+
+**Caution.** What V1 and V2 each ‘proved’ is inferred from the photographs and the project timeline (January 2024 to June 2025); the project material does not date V2. EMC pre-compliance is not certification. Do not describe the MD-13 licence as approval of the device.
 
 **Transition.** “So where does FoGO sit on the evidence ladder?”
 
 **Sources.**
 
 1. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+2. CDSCO. Form MD-12: application for licence to manufacture medical devices for clinical investigation, test, evaluation, examination, demonstration or training (licence in Form MD-13). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/12MD.pdf>
+3. CDSCO. Form MD-22: application for permission to conduct clinical investigation (permission in Form MD-23). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/22MD.pdf>
 
-### Slide 9 · FoGO has climbed two rungs, not five
+### Slide 13 · FoGO has climbed two rungs, not five
 
-*Time: 1.25 min (clock 8:30–9:45)*
+*Time: 1.5 min · core (40-min path)*
 
 **Core script (say this).** Five rungs. FoGO has a staged demonstration: demonstrated. It has project-reported F1 scores of 0.83 to 0.85 on public datasets: reported, preliminary. A prospective patient study is planned, not done. Benefit in daily life, and long-term, fair performance, are not established. The rungs are questions to answer, not a compulsory sequence. Which one matters most before Ramesh uses it at home?
 
-**Purpose.** Make the difference between demonstrated, preliminary, planned and unestablished evidence visible.
+**Purpose.** Make the difference between demonstrated, preliminary, planned and unestablished evidence visible, with the numbers behind each rung.
 
-**Say.** Rung 1, Demonstrated: a staged demonstration on a volunteer (simulated freeze): sensing, flagging and the chest cue operate together.  
-Rung 2, Reported and preliminary: on three public datasets (Daphnet, CuPiD, Turning-in-place) the project reports subject-wise F1 scores of 0.83–0.85 (sensitivity 0.86–0.89, specificity 0.85–0.88), with 0.15–0.18 false alarms per minute in subject-wise tests, and F1 0.74–0.80 when tested on an unseen dataset (cross-dataset false-alarm rates appear higher, about 0.21–0.27 per minute on the project chart; confirm from the project analysis). A project bench study (sample not stated) found the chest had the lowest vibration-perception threshold (0.72) and the widest usable range (0.72–4.77, internal scale) of five body sites.  
-Both rungs are preclinical — ‘Pre-IDEAL’ in the 2019 update of the IDEAL framework.  
+**Say.** Rung 1, Demonstrated: a staged demonstration on a volunteer (simulated freeze): sensing, flagging and the chest cue operate together. A project bench study (sample not stated) found the chest had the lowest vibration-perception threshold (0.72) and the widest usable range (0.72–4.77, internal scale) of five body sites.  
+Rung 2, Reported and preliminary: on three public datasets (Daphnet, CuPiD, Turning-in-place) the project reports subject-wise F1 scores of 0.83–0.85 (sensitivity 0.86–0.89, specificity 0.85–0.88), with 0.15–0.18 false alarms per minute, and F1 0.74–0.80 when tested on an unseen dataset (cross-dataset false-alarm rates appear higher, about 0.21–0.27 per minute on the project chart; confirm from the project analysis). The chart shows these five numbers; the two indigo bars are the low and high ends of the cross-dataset range.  
+Both rungs are preclinical: ‘Pre-IDEAL’ in the 2019 update of the IDEAL framework.  
 Rung 3, Planned: a prospective clinical proof-of-concept with AIIMS Bhubaneswar neurology and rehabilitation advisers, proposed as an 18-month BIRAC BIG project (IDEAL stages 1–2a). The proposal is under review; the study is not yet funded, ethics-approved or permitted by CDSCO. A planned study and its targets are not results.  
-Rungs 4 and 5, Not established: benefit in daily life, and long-term safety and fair performance across groups.
+Rungs 4 and 5, Not established: benefit in daily life (fewer falls, more walking), and long-term safety and fair performance across groups.
 
-**Ask / run.** “Which rung matters most before Ramesh uses it at home?”
+**Ask / run.** “Which rung matters most before Ramesh uses it at home?” Take two answers; most will say rung 3, some rung 5 (fairness).
 
 **Debrief points.** Context: the best-known public benchmark, Daphnet, recorded 10 patients in a laboratory, of whom 8 froze (237 video-labelled events). One systematic review (Silva de Lima et al. 2017) reported sensitivity of 73–100% and specificity of 67–100%, mostly from laboratory studies; Pardoel et al. (2019) found that 68 of 74 studies addressed detection, and prediction is still early. So public-dataset F1 scores, however careful, cannot tell us how FoGO performs in Odisha homes.  
 IDEAL (McCulloch et al., Lancet 2009; Oxford-led) and IDEAL-D (Sedrakyan et al., BMJ 2016) ask for prospective design, registration and full reporting from the earliest human stages, and suggest that device approval can be staged and tied to registries. The rungs are questions, not a compulsory sequence.  
 For the next rung, ask for: video-annotated reference events; participant-level validation; false alarms per hour and detection latency in real use; and testing in homes, during turns and in doorways.  
-Cambridge’s Institute for Biomedical Innovation (announced January 2026) names the gap between ‘a clever prototype that works in a lab’ and devices suitable for clinical trials, and offers batch prototyping of tens to hundreds of devices in ISO-certified environments.
+Cambridge's Institute for Biomedical Innovation (announced January 2026) names the gap between ‘a clever prototype that works in a lab’ and devices suitable for clinical trials, and offers batch prototyping of tens to hundreds of devices in ISO-certified environments.
 
 **Evidence status.** 1 Demonstrated · 2 Reported, preliminary (project-reported, public datasets) · 3 Planned · 4–5 Not established.
+
+**Caution.** All F1 and false-alarm figures are project-reported and not peer-reviewed. The cross-dataset false-alarm range (0.21–0.27/min) is read from a project chart; confirm before quoting.
 
 **Transition.** “Here is a realistic decision.”
 
@@ -293,18 +537,18 @@ Cambridge’s Institute for Biomedical Innovation (announced January 2026) names
 6. Sedrakyan A, Campbell B, Merino JG, Kuntz R, Hirst A, McCulloch P. IDEAL-D: a rational framework for evaluating and regulating the use of medical devices. BMJ. 2016;353:i2372. <https://pubmed.ncbi.nlm.nih.gov/27283585/>
 7. University of Cambridge. New Cambridge institute will support high-value medical device translation; January 2026. <https://www.cam.ac.uk/research/news/new-cambridge-institute-will-support-high-value-medical-device-translation>
 
-### Slide 10 · Would you proceed? A home pilot for Ramesh next month
+### Slide 14 · Would you proceed? A home pilot for Ramesh next month
 
-*Time: 3 min (clock 9:45–12:45) · Activity: DECISION 1 of 4: vote A/B/C, then pairs name conditions*
+*Time: 3 min · core (40-min path) · Activity: Vote; pairs name two conditions*
 
-**Core script (say this).** Facts: good scores on public data; ten users, alone at home; Ramesh has fallen twice and asks to join. A, proceed. B, proceed with conditions. C, not yet. Vote. Pairs: if B, name two conditions in 60 seconds. [Take three answers.] Did anyone ask whether ethics approval and CDSCO permission exist? They do not yet. Permissions come first, then a supervised study, then home use.
+**Core script (say this).** Facts: good scores on public data; ten users, alone at home; Ramesh has fallen twice and asks to join. A, proceed. B, proceed with conditions. C, not yet. Vote. Pairs: if B, name two conditions in 60 seconds. Did anyone ask whether ethics approval and CDSCO permission exist? They do not yet. Permissions first, then supervised study, then home use.
 
 **Purpose.** Turn the evidence ladder into a concrete decision with conditions and owners.
 
 **Say.** Read the facts: F1 0.83–0.85 on public datasets; ten participants using the device alone at home; Ramesh has fallen twice this year and asks to join. Ethics approval and CDSCO permission are not yet in place: do not say so; see whether anyone asks.  
 “A: proceed. B: proceed only with conditions — name them. C: not yet.”
 
-**Ask / run.** Vote. Give pairs 60 seconds: “If B, which two conditions?” Take three answers.
+**Ask / run.** Vote by fingers (A = 1, B = 2, C = 3); tally on the flipchart. Give pairs 60 seconds: “If B, which two conditions?” Take three answers.
 
 **Debrief points.** Conditions an ethics committee and regulator would expect:  
 1. Permissions first: approval from an ethics committee registered with CDSCO; for an unlicensed investigational device, CDSCO permission (MD-22 → MD-23) — the academic-study exemption covers only licensed devices; units built under the MD-13 test licence; prospective CTRI registration before the first participant; insurance and compensation arrangements.  
@@ -312,10 +556,10 @@ Cambridge’s Institute for Biomedical Innovation (announced January 2026) names
 3. Plan for failure: fall-risk assessment, cue limits, an easy off switch, a visible loss-of-monitoring alert.  
 4. Consent for fluctuating cognition: ICMR 2017 sections on consent and vulnerability; involve caregivers; plain language (MRCT Clinical Research Glossary).  
 5. Data: the app logs gait events; design notice, minimisation and retention now — under the DPDP Rules (notified 13 November 2025) the core obligations apply from about May 2027.  
-6. After the study: Declaration of Helsinki 2024 (para 34) requires post-trial provisions to be arranged in advance and disclosed in consent; the MRCT Center’s 2025 device framework shows how (apply by analogy).  
+6. After the study: Declaration of Helsinki 2024 (para 34) requires post-trial provisions to be arranged in advance and disclosed in consent; the MRCT Center's 2025 device framework shows how (apply by analogy).  
 “Not yet” is legitimate while permissions are pending, but it has a cost: Ramesh keeps falling meanwhile, so the answer is a fast, properly permitted and supervised study, not indefinite delay. Wexler and Largent (2023) note that even ‘harmless’ sensor tests on lab members merit independent oversight.
 
-**Caution.** Hypothetical scenario built on real FoGO facts; it does not describe the planned FoGO proof-of-concept, which is proposed with AIIMS Bhubaneswar advisers; its protocol is not yet finalised or approved.
+**Caution.** Hypothetical scenario built on real FoGO facts; it does not describe the planned FoGO proof-of-concept, which is proposed with AIIMS Bhubaneswar advisers; its protocol is not yet finalised or approved. Whether MDR-2017 contains an academic-study exemption equivalent to the NDCT 2019 clause is unconfirmed; FoGO, an unlicensed device, would not qualify in any case.
 
 **Transition.** “If we do proceed, which failures matter most?”
 
@@ -332,24 +576,25 @@ Cambridge’s Institute for Biomedical Innovation (announced January 2026) names
 9. Ministry of Electronics and Information Technology. Digital Personal Data Protection Rules, 2025 (notified November 2025; phased commencement). <https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251117695301.pdf>
 10. Wexler A, Largent E. Ethical considerations for researchers developing and testing minimal-risk devices. Nat Commun. 2023;14. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10122640/>
 
-### Slide 11 · Rank each failure by harm and likelihood
+### Slide 15 · Rank each failure by harm and likelihood
 
-*Time: 1.25 min (clock 12:45–14:00) · Activity: Risk-map discussion*
+*Time: 1.25 min · core (40-min path) · Activity: Which control first?*
 
-**Core script (say this).** Risk is harm and likelihood together. A missed freeze or a silent signal loss could mean a fall; a false cue is minor but frequent. At the project’s reported dataset rates, Ramesh would feel about 9 to 16 unnecessary vibrations in every hour of walking, if those rates held at home. Would he keep wearing it? Which control would you test first?
+**Core script (say this).** Risk is harm and likelihood together. A missed freeze or a silent signal loss could mean a fall; a false cue is minor but frequent. At the project's reported dataset rates, Ramesh would feel about 9 to 16 unnecessary vibrations in every hour of walking, if those rates held at home. Would he keep wearing it? Which control would you test first?
 
 **Purpose.** Practise risk prioritisation and connect it to testable controls.
 
 **Say.** “Risk combines severity and likelihood. The six failure modes are placed for discussion, not from measured data.”  
 Missed freeze: no cue when Ramesh needs one — serious, and possibly critical if he falls. Silent signal loss: the system stops monitoring without telling him — false reassurance. Flat battery mid-walk. False cue: frequent but usually minor. Skin irritation under the strap or patch. Data exposure from the app.  
-The right-hand panel translates reported numbers into lived experience: 0.15–0.18 false alarms per minute (subject-wise tests on public datasets) would mean about 9–11 unnecessary vibrations in every hour of walking, and the higher cross-dataset rates (about 0.21–0.27 per minute) about 13–16, if those rates held at home. Would Ramesh keep wearing it?
+The stat translates reported numbers into lived experience: 0.15–0.18 false alarms per minute (subject-wise tests on public datasets) would mean about 9–11 unnecessary vibrations in every hour of walking, and the higher cross-dataset rates (about 0.21–0.27 per minute) about 13–16, if those rates held at home. Would Ramesh keep wearing it?
 
-**Ask / run.** “Which control would you test first, and how would you show it works?”
+**Ask / run.** “Which control would you test first, and how would you show it works?” Take three answers; push each for a test method (bench, simulated use, supervised use).
 
 **Debrief points.** ISO 14971:2019 approach: identify hazards; estimate and evaluate risk; control it; verify that controls work; and keep monitoring after release. Usability engineering (IEC 62366-1) tests whether real users can operate the controls.  
 The FoGO project material already names missed or false detections (2-of-3 debounce, patient-specific fine-tuning) and discomfort or habituation (cue intensity within the bench-tested range). Ask how each control will be shown to work.  
 Controls to test first: a visible and tactile loss-of-monitoring alert; cue-intensity limits and an easy stop; performance during turns, in doorways and with walking aids; low-battery warnings; encryption and short data retention.  
-Engineering Better Care’s risk perspective and Gerke and colleagues’ ‘system view’: evaluate the whole system — patient, caregiver, phone battery, network, physiotherapist follow-up — not only the algorithm. Kellmeyer and colleagues warn that closed-loop devices can blur accountability when automation fails.
+Engineering Better Care's risk perspective and Gerke and colleagues' ‘system view’: evaluate the whole system — patient, caregiver, phone battery, network, physiotherapist follow-up — not only the algorithm. Kellmeyer and colleagues warn that closed-loop devices can blur accountability when automation fails.  
+In India the risk-management file is part of the MD-22 dossier (risk management report in the CDSCO checklist) and of the Essential Principles checklist for the licence.
 
 **Caution.** Placement on the grid is illustrative. The 9–16 per hour range is an extrapolation from project-reported dataset rates, not a measured home rate.
 
@@ -363,25 +608,29 @@ Engineering Better Care’s risk perspective and Gerke and colleagues’ ‘syst
 4. Royal Academy of Engineering, Academy of Medical Sciences, Royal College of Physicians. Engineering Better Care: a systems approach to health and care design and continuous improvement; 2017 (working group chaired by Prof P. John Clarkson, University of Cambridge). <https://raeng.org.uk/publications/reports/engineering-better-care>
 5. Gerke S, Babic B, Evgeniou T, Cohen IG. The need for a system view to regulate artificial intelligence/machine learning-based software as medical device. npj Digit Med. 2020. <https://hls.harvard.edu/bibliography/the-need-for-a-system-view-to-regulate-artificial-intelligence-machine-learning-based-software-as-medical-device>
 6. Kellmeyer P, Cochrane T, Müller O, et al. The effects of closed-loop medical devices on the autonomy and accountability of persons and systems. Camb Q Healthc Ethics. 2016;25(4):623–633. <https://www.research-collection.ethz.ch/handle/20.500.11850/126117>
+7. CDSCO. Checklist for Form MD-22 (clinical investigation): Seventh Schedule documents including the clinical investigation plan, investigator's brochure, design verification and validation report, Essential Principles checklist, informed consent form, investigator undertaking and ethics committee approval. <https://www.cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/ChecklisFormMD-22MD.pdf>
 
-### Slide 12 · A device is also a daily routine
+### Slide 16 · A device is also a daily routine
 
-*Time: 1.25 min (clock 14:00–15:15) · Activity: Play the embedded 20-second clip*
+*Time: 1.25 min · core (40-min path)*
 
-**Core script (say this).** SwaKnee delivers pulsed electromagnetic fields to the knee. [Play the 20-second clip.] The leaflet describes 45 minutes a day for 45 days: about 34 hours of Kamala’s time, before travel, charging and help from family. Who helps her when the cuff slips or the controller shows an error?
+**Core script (say this).** SwaKnee delivers pulsed electromagnetic fields to the knee. [Play the 20-second clip.] The leaflet describes 45 minutes a day for 45 days: about 34 hours of Kamala's time, before travel, charging and help from family. Who helps her when the cuff slips or the controller shows an error?
 
 **Purpose.** Show that use burden is part of benefit–risk.
 
 **Say.** Introduce SwaKnee: a knee applicator and controller that deliver pulsed electromagnetic fields, described in the supplied original deck as having an intended adjunctive role in knee osteoarthritis care. State its current labelled intended use and CDSCO licence status yourself; this deck does not assert either.  
 Play the clip: fit the applicator, switch on the controller, rest for the session. It is a company demonstration of use; it shows no clinical response.  
-“The supplied leaflet describes 45-minute sessions daily for 45 days. That is 2,025 minutes — about 34 hours of Kamala’s time — before travel, fitting, charging and help from family.”
+“The supplied leaflet describes 45-minute sessions daily for 45 days. That is 2,025 minutes — about 34 hours of Kamala's time — before travel, fitting, charging and help from family.”  
+The four steps on the right are the routine as the clip shows it; each step makes demands on vision, dexterity, reach and memory, which we audit in Part 5.
 
-**Ask / run.** “Who helps Kamala when the cuff slips, the controller shows an error, or her knee feels warm?”
+**Ask / run.** “Who helps Kamala when the cuff slips, the controller shows an error, or her knee feels warm?” Take two answers; note who is a family member and who is a professional.
 
-**Debrief points.** Use burden affects adherence, which affects real-world benefit. Each task also makes demands on vision, dexterity, reach and memory — we audit these on slide 18.  
-Optional: the company’s longer online explainer video (YouTube link in Sources) can be shared after the session.
+**Debrief points.** Use burden affects adherence, which affects real-world benefit. Each task also makes demands on vision, dexterity, reach and memory — we audit these on the inclusive-design slide.  
+Optional: the company's longer online explainer video (YouTube link in Sources) can be shared after the session.
 
-**Caution.** The 45 × 45 schedule illustrates time burden. It is not a prescription; current instructions and clinician advice define actual use.
+**Evidence status.** Reported: company demonstration material. Not shown: any clinical response.
+
+**Caution.** The 45 × 45 schedule illustrates time burden. It is not a prescription; current instructions and clinician advice define actual use. Step details (cuff, cable, power button, status light) describe what the photographs and clip show, not the instructions for use.
 
 **Transition.** “What can the SwaKnee evidence support?”
 
@@ -391,31 +640,32 @@ Optional: the company’s longer online explainer video (YouTube link in Sources
 2. Swayogya website assets (ivikasjha/swayogya_website): product photographs and three 'How to use' step videos, edited into a 20 s silent clip with step captions; no faces shown. <https://www.swayogya.in/product.html>
 3. Swayogya Rehab Solutions. SwaKnee explainer video on YouTube (company material; optional, longer than the embedded clip). <https://www.youtube.com/watch?v=IfQyVm8Kftc>
 
-### Slide 13 · Which claim can this evidence carry?
+### Slide 17 · Which claim can this evidence carry?
 
-*Time: 2.5 min (clock 15:15–17:45) · Activity: Claim challenge: one participant defends, one challenges*
+*Time: 2.5 min · core (40-min path) · Activity: Defend claim 1, challenge claim 3*
 
 **Core script (say this).** The company reports that average pain fell about 32% with SwaKnee and 14% with comparison care, in one 45-day study of 82 people. That is an average. A change patients notice as important is about 41% for each person, so how many reached it? Which claim can this carry? ‘Less pain on average in one company study’: yes, if labelled. ‘Clinically proven’: not established. ‘Regrows cartilage’: never measured. One volunteer defends claim 1; another challenges claim 3.
 
 **Purpose.** Match the strength of a claim to the strength of the evidence.
 
 **Say.** The chart reproduces the company-reported 45-day comparative study: device group n = 40, comparison group n = 42; average VAS pain fell by about 32% versus 14% from baseline. These are average relative changes, not the proportion of people who improved.  
-The callout adds a patient’s yardstick: in knee osteoarthritis, the minimal clinically important improvement in pain is about −19.9 mm, or −40.8%, on a 100 mm scale (Tubach et al. 2005). An average fall of 32% does not tell us how many people reached a change they would notice as important.  
-The public summary does not report: how groups were allocated; blinding or a sham control; prospective CTRI registration; how missing data were handled; the between-group difference with its confidence interval; adverse events; or durability beyond 45 days. [Presenter: state what the full study report shows, or that it is not public.]  
+The callout adds a patient's yardstick: in knee osteoarthritis, the minimal clinically important improvement in pain is about −19.9 mm, or −40.8%, on a 100 mm scale (Tubach et al. 2005; 603 knee-OA patients in a four-week cohort). An average fall of 32% does not tell us how many people reached a change they would notice as important.  
+The public summary does not report: how groups were allocated; blinding or a sham control; prospective CTRI registration; how missing data were handled; the between-group difference with its confidence interval; adverse events; durability beyond 45 days; or which device and firmware version was studied. [Presenter: state what the full study report shows, or that it is not public.]  
 SwaKnee today: CDSCO licence status [state, with document]; CTRI registration [number, or not registered]; planned independent trial [describe, or none disclosed].
 
-**Ask / run.** Invite one person to defend claim 1 and another to challenge claim 3.
+**Ask / run.** Invite one person to defend claim 1 and another to challenge claim 3. Two minutes each way; the room votes which argument was better evidenced.
 
 **Debrief points.** Claim 1, “less pain on average in one 45-day company study”, is acceptable if clearly labelled as company-reported.  
-Claim 2, “clinically proven”, needs independent, prospectively registered, sham-controlled trials and consistent results. Independent evidence on PEMF is mixed: a Cochrane review (2013; 9 trials, all osteoarthritis sites and electromagnetic field types) found pain probably improves by about 15 points out of 100 more than sham, with function uncertain; meta-analyses disagree (Chen 2019, knee OA, 8 RCTs: no pain advantage over placebo; Yang 2020, all OA sites, 16 RCTs: an advantage); OARSI’s 2019 guideline strongly recommends against electromagnetic therapy.  
+Claim 2, “clinically proven”, needs independent, prospectively registered, sham-controlled trials and consistent results. Independent evidence on PEMF is mixed: a Cochrane review (2013; 9 trials, all osteoarthritis sites and electromagnetic field types) found pain probably improves by about 15 points out of 100 more than sham, with function uncertain; meta-analyses disagree (Chen 2019, knee OA, 8 RCTs: no pain advantage over placebo; Yang 2020, all OA sites, 16 RCTs: an advantage); OARSI's 2019 guideline strongly recommends against electromagnetic therapy.  
 Claim 3, “regrows cartilage”, was not measured. No human evidence of cartilage regeneration was found; a pain change cannot establish structural change.  
-Industry sponsorship matters: a Cochrane methodology review found manufacturer-sponsored drug and device studies reach favourable conclusions more often (RR 1.34). The same standard applies to every leaflet and web page, including those of any company the presenter is linked to (see slide 2).
+Industry sponsorship matters: a Cochrane methodology review found manufacturer-sponsored drug and device studies reach favourable conclusions more often (RR 1.34, 95% CI 1.19–1.51). The same standard applies to every leaflet and web page, including those of any company the presenter is linked to (see the disclosure slide).  
+In India, the claim on a leaflet is also a regulated act: UCMPMD 2024 (amended 2026), the Drugs and Magic Remedies Act 1954 (whose Schedule includes ‘rheumatism’), and ASCI's code; see Part 5.
 
 **Evidence status.** Reported (company study; not peer-reviewed or independently verified). ‘Clinically proven’: not established. Cartilage regrowth: not measured.
 
-**Caution.** The MCII is a within-patient threshold from a four-week cohort, not a between-group minimal important difference; use it to ask whether individuals improved meaningfully, not as a pass/fail test.
+**Caution.** The MCII is a within-patient threshold from a four-week cohort, not a between-group minimal important difference; use it to ask whether individuals improved meaningfully, not as a pass/fail test. The 32% and 14% are rounded figures as transcribed in the supplied original deck; re-check the live evidence page before presenting.
 
-**Transition.** “Even a good average can mislead.”
+**Transition.** “What does the independent literature say about both devices' domains?”
 
 **Sources.**
 
@@ -426,390 +676,25 @@ Industry sponsorship matters: a Cochrane methodology review found manufacturer-s
 5. Yang X, He H, Ye W, Perry TA, He C. Effects of pulsed electromagnetic field therapy on pain, stiffness, physical function, and quality of life in patients with osteoarthritis: a systematic review and meta-analysis. Phys Ther. 2020;100(7):1118–1131. <https://pubmed.ncbi.nlm.nih.gov/32251502/>
 6. Bannuru RR, Osani MC, Vaysbrot EE, et al. OARSI guidelines for the non-surgical management of knee, hip, and polyarticular osteoarthritis. Osteoarthritis Cartilage. 2019 (electromagnetic therapy strongly recommended against). <https://www.esceo.org/sites/esceo/files/pdf/Bannuru_O%26C_OARSIguidelines_2019.pdf>
 7. Lundh A, Lexchin J, Mintzes B, Schroll JB, Bero L. Industry sponsorship and research outcome. Cochrane Database Syst Rev. 2017;(2):MR000033 (drug and device studies: favourable conclusions RR 1.34, 95% CI 1.19–1.51). <https://pubmed.ncbi.nlm.nih.gov/28207928/>
-
-### Slide 14 · An average can hide a patient
-
-*Time: 0.75 min (clock 17:45–18:30) · optional: skip if behind*
-
-**Core script (say this).** An average can hide a patient. In one US hospital cohort, oximeters reading 92 to 96% missed dangerously low oxygen in 11.7% of paired readings for Black patients, against 3.6% for White patients. Who is missing from our data? For Ramesh: walking aids, saris, crowded homes. For Kamala: women, rural users, people with other illnesses.
-
-**Purpose.** Show, with an independent published case, why subgroup performance matters.
-
-**Say.** Sjoding and colleagues (NEJM 2020), University of Michigan cohort: when the pulse oximeter read 92–96%, arterial oxygen saturation was below 88% in 11.7% of paired measurements for Black patients versus 3.6% for White patients (88 of 749 vs 99 of 2,778; 95% CI 8.5–16.0 vs 2.7–4.7), more than three times as often. The unit is paired measurements; race was recorded, not skin pigmentation measured; it was observational. It does not justify a race-based correction — it shows that a device that looked accurate on average missed dangerous low oxygen more often in one group.  
-Regulators responded: the US FDA’s January 2025 draft guidance asks for clinical testing across a diverse range of skin tones, assessed on the Monk Skin Tone scale.
-
-**Ask / run.** “Who is missing from our data?” Take two answers for each case.
-
-**Debrief points.** Ramesh: people using walking aids; cognitive fluctuation; crowded homes and floor-level living; clothing such as saris or dhotis over the sensor; public datasets with few or no Indian participants.  
-Kamala: women, people with obesity, manual and agricultural workers, people with other illnesses, rural users.  
-The MRCT Center’s diversity guidance defines diversity broadly — including comorbidities, concurrent medicines and environment — and asks for subgroup reporting. Stanford Biodesign’s health-equity programme trains innovators to see how decisions at the identify, invent and implement stages affect equity.
-
-**Transition.** “Now the people: consent and conflicts.”
-
-**Sources.**
-
-1. Sjoding MW, Dickson RP, Iwashyna TJ, Gay SE, Valley TS. Racial bias in pulse oximetry measurement. N Engl J Med. 2020;383(25):2477–2478. doi:10.1056/NEJMc2029240. <https://www.nejm.org/doi/full/10.1056/NEJMc2029240>
-2. US FDA. Pulse Oximeters for Medical Purposes: Non-Clinical and Clinical Performance Testing, Labeling, and Premarket Submission Recommendations. Draft guidance, 7 January 2025 (diverse skin-tone testing, Monk Skin Tone scale). <https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pulse-oximeters-medical-purposes-non-clinical-and-clinical-performance-testing-labeling-and>
-3. MRCT Center of Brigham and Women's Hospital and Harvard. Achieving Diversity, Inclusion, and Equity in Clinical Research: Guidance Document and Toolkit; 2020. <https://mrctcenter.org/diversity-in-clinical-research/>
-4. Stanford Biodesign. Health Equity programme and resources. <https://biodesign.stanford.edu/programs/health-equity.html>
-
-### Slide 15 · Would you proceed? Ramesh’s neurologist is also the inventor
-
-*Time: 3 min (clock 18:30–21:30) · Activity: DECISION 2 of 4: vote, then 60-second role-play (patient, recruiter, observer)*
-
-**Core script (say this).** Ramesh’s neurologist is FoGO’s inventor and wants to recruit him. Ramesh asks, ‘Will saying no change my care?’ The consent form is in English only, and this is the only neurologist within 100 km. A, recruit now. B, proceed with safeguards. C, not yet. Vote. Then 60 seconds of role-play: patient, recruiter, observer. Observer: what would make refusal easier? Key safeguards: an independent person takes consent, in Ramesh’s language, with teach-back, and the inventor’s interest is disclosed.
-
-**Purpose.** Practise consent when there is a dependent relationship, a language barrier and a request to film.
-
-**Say.** Read the facts: Ramesh asks, “Will saying no change my care?”; the consent form is in English only; this neurologist is the only one within 100 km, and the study needs participants by March.  
-Twist if time allows: the clinic also wants to film him for a talk.  
-“A: recruit as planned. B: proceed with safeguards — which ones? C: not yet.”
-
-**Ask / run.** Vote. Then one participant plays Ramesh, one the recruiting neurologist, and one observes for 60 seconds. The observer reports one thing that would make refusal easier.
-
-**Debrief points.** • Dependent relationship: the Declaration of Helsinki (2024, para 27) says that when a potential participant is in a dependent relationship with the physician, consent must be sought by an appropriately qualified individual independent of that relationship. State plainly that refusal will not change care.  
-• Disclose the inventor’s interest to the ethics committee and in the consent conversation (ICMR 2017; CIOMS Guideline 25); use an independent outcome assessor.  
-• Language and understanding: ICMR 2017 requires consent in a language the participant understands, with an impartial witness if the participant cannot read. Put key information first (the US Common Rule’s ‘key information’ requirement is a useful model) and use teach-back; the MRCT Clinical Research Glossary helps explain ‘investigational’ and ‘sham’.  
-• Therapeutic misconception (Appelbaum): participants may assume research procedures are care chosen for them; say clearly what is uncertain.  
-• Filming: separate, specific and revocable consent for recordings used in teaching or publicity, in writing for public media (the UK GMC’s guidance is a good comparator); gait videos usually identify people, so anonymisation rarely suffices; never make filming a condition of care or of study entry.  
-Good answers: B with these safeguards, or C until the consent process is fixed. “Not yet” has a cost here too: excluding Ramesh because the only neurologist is conflicted denies him access; the fix is an independent consenter and assessor, not exclusion.
-
-**Caution.** Fictional vignette; it does not describe either project’s actual consent procedure.
-
-**Transition.** “Disclosure is only the start.”
-
-**Sources.**
-
-1. World Medical Association. Declaration of Helsinki: Ethical Principles for Medical Research Involving Human Participants. 75th General Assembly, Helsinki, October 2024 (para 27: dependent relationship; para 34: post-trial provisions). <https://www.wma.net/policies-post/wma-declaration-of-helsinki/>
-2. Indian Council of Medical Research. National Ethical Guidelines for Biomedical and Health Research Involving Human Participants. New Delhi: ICMR; 2017 (Section 5 informed consent; Section 6 vulnerability; Section 7.7 device trials). <https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf>
-3. CIOMS with WHO. International Ethical Guidelines for Health-related Research Involving Humans. 4th ed. Geneva; 2016 (Guideline 9 consent; Guideline 25 conflicts of interest). <https://cioms.ch/wp-content/uploads/2017/01/WEB-CIOMS-EthicalGuidelines.pdf>
-4. US HHS. Protection of Human Subjects, 45 CFR 46.116(a)(5)(i): consent must begin with a concise presentation of key information. International comparator. <https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46/subpart-A/section-46.116>
-5. MRCT Center. Clinical Research Glossary (plain-language definitions; v3.0, 2025). <https://mrctcenter.org/glossary/>
-6. Appelbaum PS, Roth LH, Lidz C. The therapeutic misconception: informed consent in psychiatric research. Int J Law Psychiatry. 1982;5(3–4):319–329. <https://psychnews.psychiatryonline.org/doi/10.1176/appi.pn.2021.7.30>
-7. Appelbaum PS, Roth LH, Lidz CW, Benson P, Winslade W. False hopes and best data: consent to research and the therapeutic misconception. Hastings Cent Rep. 1987;17(2):20–24. <https://philpapers.org/rec/APPFHA>
-8. General Medical Council (UK). Making and using visual and audio recordings of patients (effective 2011; updated December 2024). International comparator. <https://www.gmc-uk.org/professional-standards/the-professional-standards/making-and-using-visual-and-audio-recordings-of-patients>
-
-### Slide 16 · Disclosure starts the work; management finishes it
-
-*Time: 0.5 min (clock 21:30–22:00)*
-
-**Core script (say this).** Disclosure starts the work; management finishes it. Interests create risks: pressure to enrol, optimistic reading, selective reporting. Manage them with independent consent and assessment, CTRI registration before the first participant, and publication of every result. Which safeguard is cheapest to add today?
-
-**Purpose.** Move from declaring conflicts to managing them.
-
-**Say.** Interests: equity or royalties; grants and institutional reputation; personal reputation.  
-Risks: pressure to enrol dependent patients; optimistic reading of outcomes; selective reporting of positive results. A Cochrane methodology review found that manufacturer-sponsored drug and device studies report favourable conclusions more often than other studies (RR 1.34).  
-Safeguards: independent consent and outcome assessment; prospective CTRI registration with pre-specified outcomes; publication of all results, including null and negative ones, with a plain-language summary to participants.
-
-**Ask / run.** “Which safeguard is cheapest to add today?” (Usually CTRI registration and naming an independent assessor.)
-
-**Debrief points.** Cambridge’s spinout guidance advises founders to be clear about when they are working for the company and when for research. Harvard Medical School’s 2010 policy moved from disclosure to limits (for example, no industry speakers’ bureaus). The US publishes industry payments to physicians (Open Payments); the UK Cumberlege Review recommended a register of doctors’ financial interests.  
-In India the rules are split: the Uniform Code for Marketing Practices in Medical Devices (2024, amended 2026) is a voluntary code for companies; for doctors, the NMC’s 2023 regulations were held in abeyance on 23 August 2023 (no replacement was found in October 2026 searches; check nmc.org.in), so the IMC 2002 regulations apply; clause 6.8 covers the ‘pharmaceutical and allied health sector industry’, commonly read to include device companies; ICMR 2017 requires COI disclosure to ethics committees. None removes the need for project-level management.
-
-**Transition.** “Next: which Indian permission answers which question?”
-
-**Sources.**
-
-1. Lundh A, Lexchin J, Mintzes B, Schroll JB, Bero L. Industry sponsorship and research outcome. Cochrane Database Syst Rev. 2017;(2):MR000033 (drug and device studies: favourable conclusions RR 1.34, 95% CI 1.19–1.51). <https://pubmed.ncbi.nlm.nih.gov/28207928/>
-2. Chao KZ, Riskin DJ, Krummel TM. A patient-centered, ethical approach to medical device innovation. Virtual Mentor (now AMA J Ethics). 2010;12(2):91–95. <https://journalofethics.ama-assn.org/article/patient-centered-ethical-approach-medical-device-innovation/2010-02>
-3. Burns L, Denend L, Zenios S. The Role of Physicians in Device Innovation: Critical Success Factor or Conflict of Interest? Stanford GSB case OIT105; 2011. <https://www.gsb.stanford.edu/faculty-research/case-studies/role-physicians-device-innovation-critical-success-factor-or-conflict>
-4. University of Cambridge Innovation and Entrepreneurship. How to Guide 3: Spinouts; 2024. <https://ie.cam.ac.uk/wp-content/uploads/2024/04/H2G-3-Spinouts_V2_ISSUU.pdf>
-5. Harvard Medical School. Policy on Conflicts of Interest and Commitment (2010 revision). <https://hms.harvard.edu/news/changes-conflicts-policy-heighten-transparency>
-6. Centers for Medicare & Medicaid Services. Open Payments: public reporting of industry payments to physicians and teaching hospitals. <https://www.cms.gov/files/document/physician-fact-sheetpdf>
-7. Independent Medicines and Medical Devices Safety Review (chair Baroness Cumberlege). First Do No Harm; 8 July 2020. <https://www.immdsreview.org.uk/downloads/IMMDSReview_Web.pdf>
 8. Department of Pharmaceuticals. Uniform Code for Marketing Practices in Medical Devices, 2024 (circular of 6 September 2024; as amended on 30 April 2026). Voluntary code administered through industry associations. <https://pharma-dept.gov.in/sites/default/files/UCMDMD%20circular%201-2026+UCMDMP%20code%20as%20amended%20on%2030.4.2026%20(1).pdf>
-9. Medical Council of India. Indian Medical Council (Professional Conduct, Etiquette and Ethics) Regulations, 2002, clause 6.8 (inserted 2009); operative after the NMC 2023 regulations were held in abeyance on 23 August 2023. <https://www.delhimedicalcouncil.org/pdf/EthicsRegulations-2002.pdf>
-10. The Wire. NMC puts new guidelines on doctors’ ethics in abeyance; August 2023. <https://thewire.in/health/nmc-puts-new-guidelines-on-doctors-ethics-in-abeyance-after-imas-meeting-with-health-minister>
-11. Indian Council of Medical Research. National Ethical Guidelines for Biomedical and Health Research Involving Human Participants. New Delhi: ICMR; 2017 (Section 5 informed consent; Section 6 vulnerability; Section 7.7 device trials). <https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf>
-12. MRCT Center. Return of Aggregate Results to Participants: Guidance Document and Toolkit, v3.1; 2017. <https://mrctcenter.org/wp-content/uploads/2023/03/2017-12-07-MRCT-Return-of-Aggregate-Results-Toolkit-3.1.pdf>
+9. Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954 (Schedule includes ‘rheumatism’). <https://www.indiacode.nic.in/indiacode/bitstream/123456789/1412/1/A1954-21.pdf>
 
-### Slide 17 · Each permission answers a different question
+### Slide 18 · What independent evidence says about cueing and PEMF
 
-*Time: 1.5 min (clock 22:00–23:30) · Activity: “Where is Ramesh’s device on this path today?”*
+*Time: 1 min · deep-dive (75-min path)*
 
-**Core script (say this).** Each Indian permission answers a different question. A test licence lets you make units for testing. Clinical-investigation permission, with ethics approval and CTRI registration, lets you test in people. A manufacturing licence lets you sell for the intended use: State for Class A and B, Central for C and D. Post-market duties keep it safe. FoGO today has an MD-13 test licence for 25 units; next come MD-22, ethics approval and CTRI. Where is your project on this path?
+**Core script (say this).** Independent of both companies: for freezing-of-gait detection, the best-known benchmark has ten laboratory patients, review accuracies of 73 to 100% come mostly from labs, and no cueing trial has shown fewer falls. For PEMF in osteoarthritis, Cochrane 2013 found a probable pain benefit of about 15 points in 100 over sham, later reviews disagree, OARSI 2019 recommends strongly against electromagnetic therapy, and no human study shows cartilage regrowth. Mixed and modest is the honest summary.
 
-**Purpose.** Give a practical map of the Indian route, anchored in a real project.
+**Purpose.** Give the independent literature around each case, with a certainty label per finding, so that neither company's story is the only one in the room.
 
-**Say.** Test licence: application in Form MD-12, licence in MD-13 (Central Licensing Authority) — make small quantities for test, evaluation, clinical investigation, demonstration or training; not for sale.  
-Clinical investigation of an investigational device: application in Form MD-22 (Rule 51) with Seventh Schedule documents (clinical investigation plan, investigator’s brochure, risk management, verification and validation, informed consent form, insurance); permission in MD-23 (Rule 52); an ethics committee registered with CDSCO; CTRI registration before the first participant.  
-Manufacturing licence for sale: Class A/B from the State Licensing Authority (MD-3 → MD-5); Class C/D from the Central Licensing Authority (MD-7 → MD-9); quality management system under the Fifth Schedule (aligned with ISO 13485).  
-Post-market: complaint handling, periodic safety update reports (reported as six-monthly for two years, then annually for two), adverse-event and recall duties, and reporting to MvPI. Software follows CDSCO’s Medical Device Software guidance (21 July 2026).  
-FoGO today: MD-13 test licence for 25 units (10 August 2026, for evaluation with AIIMS Bhubaneswar and AMTZ), after IEC 60601-1-2 EMC pre-compliance testing (July 2026). Next: an MD-22 application, ethics approval and CTRI registration.
+**Say.** FoGO domain. The Daphnet benchmark (Bächlin et al. 2010) has 10 laboratory patients, of whom 8 froze, with 237 video-labelled freezes. Silva de Lima et al. 2017, a systematic review of wearable freezing and fall detection, reported sensitivity of 73–100% and specificity of 67–100%, mostly in laboratories; the shin was the most common sensor site. The RESCUE home-cueing trial (Nieuwboer 2007, n = 153) found small gait gains and lower freezing severity in freezers, but fall counts were not measured (only fall confidence), and no trial found here showed fewer falls (narrative review: Ginis 2018, 24 articles, n = 354). FoGO's own results are project-reported on public datasets, with a prospective study planned.  
+SwaKnee domain. The Cochrane review (Li et al. 2013; 9 trials, 636 adults, all osteoarthritis sites and electromagnetic field types) found pain probably improves by about 15 points out of 100 more than sham, with function uncertain and no difference in quality of life or side effects. Meta-analyses disagree: Chen 2019 (knee OA, 8 RCTs, 421 patients) found no pain advantage over placebo but better function; Yang 2020 (all OA sites, 16 RCTs) found an advantage for pain (SMD 1.06). Markovic 2022, a review of ten systematic reviews, concluded that very heterogeneous treatment schemes and small samples mean no sufficient proof of efficacy can be derived. OARSI 2019 strongly recommends against electromagnetic therapy, citing low-quality evidence and an implausible biological mechanism. NICE NG226 (2022) advises against several electrotherapies for insufficient evidence; its list does not name PEMF. No human evidence of cartilage regeneration was found in any review; pooled outcomes are pain, stiffness, function and quality of life.
 
-**Debrief points.** International comparison: in the US the sponsor proposes, and the IRB decides, whether a device study is significant or non-significant risk (FDA is the final arbiter); significant-risk studies need an investigational device exemption (21 CFR 812), followed by 510(k), De Novo or PMA. In the EU, notified-body CE marking is followed by post-market clinical follow-up under MDR 2017/745; transition deadlines run to 2027–2028 and a targeted revision proposed in December 2025 is under negotiation. Clinical investigations worldwide follow ISO 14155, now in its 2026 edition. Rules differ; the ethical duties do not.  
-A licence is not proof of benefit: among 157 US cardiovascular devices with Class I recalls (2013–2022), only 19.1% had any premarket clinical testing (Kadakia et al. 2024).  
-Rule 51(2) waives the clinical-investigation fee for government-run or government-funded institutions. Current-affairs digests reported in late August 2026 that MoHFW had proposed MDR-2017 amendments to simplify compliance; content and status are unconfirmed, so check before the talk.  
-Risk class (shown in the third card): Class A and B manufacturing licences come from the State Licensing Authority, C and D from the Central Licensing Authority; higher classes need more evidence and central review.
+**Debrief points.** The certainty pills are a GRADE-style reading of the plain-language wording (‘probably’ = moderate; ‘may’ = low); the reviews did not all state GRADE grades. Say ‘no evidence shown of fewer falls’, not ‘shown not to reduce falls’.
 
-**Caution.** Simplified overview; device class, study purpose and specific exemptions determine the route. The academic clinical-study exemption applies only to licensed devices with ethics approval and data not used for marketing submissions. FoGO’s ‘Class B (proposed)’ is the developer’s proposal.
+**Caution.** ‘Not found’ in our searches is not proof of absence. NICE NG226's list does not name PEMF explicitly. Cochrane 2013 pooled all OA sites and field types, so it is not specific to PEMF or the knee. The OARSI wording was seen through insurer policies quoting the guideline; check the ESCEO-hosted PDF. ACR/AF 2019 did not address PEMF; do not cite it.
 
-**Transition.** “Permission does not mean people can use it.”
-
-**Sources.**
-
-1. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
-2. CDSCO. Form MD-12: application for licence to manufacture medical devices for clinical investigation, test, evaluation, examination, demonstration or training (licence in Form MD-13). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/12MD.pdf>
-3. CDSCO. Form MD-22: application for permission to conduct clinical investigation (permission in Form MD-23). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/22MD.pdf>
-4. CDSCO. Regulatory pathway under the Medical Devices Rules, 2017 (overview). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/RegulatoryMDR-2017.pdf>
-5. Ministry of Health and Family Welfare. New Drugs and Clinical Trials Rules, 2019 (ethics committee registration: Rules 7–8 with CDSCO; Rules 16–17 with DHR). <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/new_DC_rules/NEW%20DRUGS%20ANDctrS%20RULE,%202019.pdf>
-6. CDSCO. Guidance Document on Medical Device Software under the Medical Devices Rules, 2017 (CDSCO/MD/GD/MDSW/01/2026); 21 July 2026. <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-document-on-Medical-Device-Software-under-MDR-2017.pdf>
-7. CDSCO. Draft Guidance on Post Market Surveillance of Medical Devices; 2018. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadPublic_NoticesFiles/2Draft%20Guidance%20on%20PMS.pdf>
-8. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
-9. US FDA. Information Sheet: Significant Risk and Nonsignificant Risk Medical Device Studies (21 CFR 812). <https://www.fda.gov/files/about%20fda/published/Significant-Risk-and-Nonsignificant-Risk-Medical-Device-Studies---Information-Sheet.pdf>
-10. Regulation (EU) 2017/745 on medical devices, Art. 61 and Annex XIV Part B (post-market clinical follow-up); transition extended to 2027/2028 by Regulation (EU) 2023/607. <https://eur-lex.europa.eu/eli/reg/2017/745/2023-03-20>
-11. European Commission. Proposal for a targeted revision of the medical device regulations, COM(2025) 1023 final, 16 December 2025 (under negotiation). <https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52025PC1023>
-12. ISO 14155:2026. Clinical investigation of medical devices for human subjects — Good clinical practice (supersedes ISO 14155:2020). <https://www.iso.org/standard/83968.html>
-13. Kadakia KT, et al. Class I recalls of cardiovascular devices between 2013 and 2022: a cross-sectional analysis. Ann Intern Med. 2024;177(11) (19.1% had premarket clinical testing). <https://www.acpjournals.org/doi/10.7326/ANNALS-24-00724>
-
-### Slide 18 · Who can’t use it? Audit the demands
-
-*Time: 0.75 min (clock 23:30–24:15) · optional: skip if behind · Activity: Inclusive-design audit: pick one demand to redesign*
-
-**Core script (say this).** Cambridge’s Inclusive Design Toolkit asks what a product demands of seven capabilities. FoGO asks someone with Parkinson’s to bend, strap and pair a phone; SwaKnee asks an older person to position an applicator and time a session. India adds language, literacy, power cuts, no smartphone and dependence on a caregiver. Which demand would you redesign first?
-
-**Purpose.** Make usability and exclusion an ethical question, not only a design question.
-
-**Say.** The Cambridge Engineering Design Centre’s Inclusive Design Toolkit rates the demands a product makes on seven capabilities: vision, hearing, thinking, communication, locomotion, reach and stretch, and dexterity. Its Exclusion Calculator estimates how many people cannot complete the tasks.  
-On the slide the ratings are illustrative. FoGO asks a person with Parkinson’s to bend and strap an ankle module, stick on a chest patch and pair a phone — high demands on reach, dexterity and thinking. SwaKnee asks an older person with knee osteoarthritis to position an applicator, connect a controller and time a 45-minute session.  
-The FoGO team reports consulting 30+ potential users (project-reported); a common request was more comfort and easier use.
-
-**Ask / run.** “Which one demand would you redesign first?” A quick classroom version of the Cambridge simulation tools: try fastening a strap wearing thick gloves.
-
-**India adaptation.** Add Indian demands the toolkit does not list: language (Odia, Hindi, English), literacy, unreliable power, shared or no smartphone, and dependence on a caregiver. The Exclusion Calculator uses UK population data from 1996–97, so its percentages must not be presented as Indian figures. The MRCT Center’s Accessibility by Design toolkit (2023) supports including people with disabilities in research; adaptations such as home visits, travel support and accessible consent formats follow from it (workshop suggestions). Usability engineering under IEC 62366-1 turns these into testable requirements.
-
-**Transition.** “And then there is cost.”
-
-**Sources.**
-
-1. University of Cambridge Engineering Design Centre. Inclusive Design Toolkit and Exclusion Calculator (Clarkson, Waller, Coleman). <https://www-edc.eng.cam.ac.uk/research/inclusive-design>
-2. MRCT Center. Accessibility by Design in Clinical Research Toolkit; 2023. <https://mrctcenter.org/resource/accessibility-by-design-abd-toolkit-release/>
-3. IEC 62366-1:2015+AMD1:2020. Medical devices — Part 1: Application of usability engineering to medical devices. <https://webstore.iec.ch/en/publication/67220>
-4. University of Cambridge Department of Engineering. Part IIB module 4G9: Biomedical Engineering / Biomedical Innovation (syllabus). <https://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iib-4g9-biomedical-engineering-2024-25>
-5. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
-
-### Slide 19 · The price tag is only part of the cost
-
-*Time: 1.5 min (clock 24:15–25:45)*
-
-**Core script (say this).** Walk Kamala’s 45 days: buy or rent, travel, about 34 hours of sessions, family time, repairs. Who pays each step? Call out an answer for each box. Usually it is the household, out of pocket. Price policy can reach home devices: after NPPA capped trade margins in July 2021, 91% of brands of five home devices cut their prices. Affordability is a design input, not an afterthought.
-
-**Purpose.** Widen affordability from purchase price to the total cost of use.
-
-**Say.** Walk Kamala’s 45 days: buy or rent the device; travel 30 km to the clinic for fitting and training; about 34 hours of sessions; a family member’s time and lost wages; repairs and support. “Who pays for each step?” Ask the room to fill each dashed box. For home-use devices this is usually the household, out of pocket.  
-The panel: in July 2021 NPPA capped trade margins on five home-use devices (pulse oximeters, BP monitors, nebulisers, digital thermometers, glucometers); 91% of 684 brands cut their MRP, by up to 88%. Home devices are within the reach of price policy.  
-An implant precedent: on 16 August 2017 the National Pharmaceutical Pricing Authority capped knee-implant prices; the average price of the widely used cobalt-chromium primary knee fell from ₹1,58,324 to ₹54,720 (65%). The cap has been extended repeatedly, most recently to 15 November 2026. Coronary stents were capped on 13 February 2017 (₹7,260 bare-metal, ₹29,600 drug-eluting). Close with: “Affordability is an ethical design input, not an afterthought.”
-
-**Debrief points.** Cambridge Judge Business School’s Centre for Health Leadership and Enterprise describes progress in three phases: develop technologies, integrate them into care at scale, and make proven solutions affordable and widely available. The Harvard Business School Aravind case shows affordability built in through local manufacture (Aurolab lenses) with quality systems. FoGO’s plan targets ₹27,000 plus a ₹3–4,000 annual service plan — a planned price, not a market result.  
-Responsible options for an adjunct with modest evidence: rental rather than purchase; clinic-shared devices; a trial period with refund if not tolerated; a transparent statement of the total cost of a course.
-
-**Caution.** Price caps are a trade-off: manufacturers sought to withdraw some premium stents (refused), and observers feared hospitals would shift costs to other charges — a reported concern, not a measured effect. SwaKnee is not an implant and is not covered by the knee-implant cap. Check NPPA for any extension after 15 November 2026.
-
-**Transition.** “Now a commercial decision.”
-
-**Sources.**
-
-1. Press Information Bureau. Government caps trade margin up to 70% on price-to-distributor for pulse oximeters, BP monitors, nebulisers, digital thermometers and glucometers; 13 July 2021 (91% of 684 brands cut MRP, by up to 88%). <https://www.pib.gov.in/PressReleasePage.aspx?PRID=1735430>
-2. Press Information Bureau. Government fixes ceiling prices of knee implants (cobalt-chromium primary knee: average MRP Rs 1,58,324 to Rs 54,720, 65%; special metals 69%); 16 August 2017. <https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=170040>
-3. Medical Dialogues. NPPA continues price cap on orthopaedic knee replacement implants for another year, till 15 November 2026. <https://medicaldialogues.in/news/industry/medical-devices/nppa-continues-price-cap-on-orthopedic-knee-replacement-implants-for-another-year-till-november-15-2026-158881>
-4. Press Information Bureau. NPPA ceiling prices for coronary stents: Rs 7,260 (bare-metal) and Rs 29,600 (drug-eluting); 13 February 2017. <https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=158452>
-5. TCTMD. Stents as essential medicine: India’s cap on stent prices could have ripples around the globe; 2017 (withdrawal applications refused). <https://www.tctmd.com/news/stents-essential-medicine-indias-cap-stent-prices-could-have-ripples-around-globe>
-6. Cambridge Judge Business School. Centre for Health Leadership and Enterprise. <https://www.jbs.cam.ac.uk/centres/health/>
-7. Rangan VK. The Aravind Eye Hospital, Madurai, India: In Service for Sight. Harvard Business School case 593-098; 1993.
-8. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
-
-### Slide 20 · Would you proceed? Launch with this brochure
-
-*Time: 2 min (clock 25:45–27:45) · Activity: DECISION 3 of 4: vote, then rewrite one claim*
-
-**Core script (say this).** Kamala’s son finds this brochure: ‘Clinically proven! Regrows cartilage. Doctor recommended. Avoid surgery forever.’ The distributor insists, and the company has three months of cash. A, launch as written. B, fix the claims first. C, not yet. Vote, then each table rewrites one claim in 30 seconds. A better line: ‘In one company study of 82 adults over 45 days, average pain fell more with SwaKnee than with comparison care; independent trials are needed.’
-
-**Purpose.** Practise responsible commercialisation under real pressure.
-
-**Say.** Kamala’s son finds this hypothetical brochure online: “Clinically proven! Regrows cartilage. Doctor recommended. Avoid surgery forever.” The distributor insists on these claims, and the company has cash for three months.  
-“A: launch as written. B: fix the claims first, then launch. C: not yet.”
-
-**Ask / run.** Vote. Then ask each table to rewrite one claim in 30 seconds.
-
-**Debrief points.** • “Clinically proven” needs independent, controlled replication; one company study is not enough, and guideline bodies are sceptical of PEMF (OARSI 2019).  
-• “Regrows cartilage” was not measured, and no human evidence of regeneration was found.  
-• “Doctor recommended” implies an endorsement and raises conflict-of-interest questions for the company (marketing code) and the doctor (professional conduct rules).  
-• “Avoid surgery forever” is an absolute promise no evidence supports.  
-The Uniform Code for Marketing Practices in Medical Devices (2024, as amended 30 April 2026) requires product information to be accurate, balanced, not misleading and capable of substantiation, and bars gifts and hospitality to healthcare professionals; it is a voluntary code run through industry associations. The Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954 lists ‘rheumatism’ among conditions for which cure claims may not be advertised — take legal advice on how it applies to device claims. The ASCI Code (Chapter I.1) requires truthful and substantiated claims.  
-A better line: “In a company study of 82 adults over 45 days, average pain fell more with SwaKnee than with comparison care. Independent trials are needed to confirm this.”  
-Stanford’s Principled Decision-Making brief advises teams to write a team-culture document setting out their ethical principles early, before moments like this.  
-“Not yet” also has a cost: if the company folds, current users lose support and service. That is why B, honest claims and a launch, is usually the responsible answer.
-
-**Caution.** The brochure is hypothetical and does not reproduce any actual SwaKnee material. Check any of your own live web or print claims against this standard before the talk.
-
-**Transition.** “The last decision comes after launch.”
-
-**Sources.**
-
-1. Department of Pharmaceuticals. Uniform Code for Marketing Practices in Medical Devices, 2024 (circular of 6 September 2024; as amended on 30 April 2026). Voluntary code administered through industry associations. <https://pharma-dept.gov.in/sites/default/files/UCMDMD%20circular%201-2026+UCMDMP%20code%20as%20amended%20on%2030.4.2026%20(1).pdf>
-2. Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954 (Schedule includes ‘rheumatism’). <https://www.indiacode.nic.in/indiacode/bitstream/123456789/1412/1/A1954-21.pdf>
-3. Advertising Standards Council of India. Consumer Complaints Council recommendations press release (June 2022): health advertisements assessed under ASCI Code Chapter I.1 (truthful, substantiated claims) and III.4. <https://www.ascionline.in/wp-content/uploads/2022/09/asci_june-17_ccc_recomm_press_release.pdf>
-4. Bannuru RR, Osani MC, Vaysbrot EE, et al. OARSI guidelines for the non-surgical management of knee, hip, and polyarticular osteoarthritis. Osteoarthritis Cartilage. 2019 (electromagnetic therapy strongly recommended against). <https://www.esceo.org/sites/esceo/files/pdf/Bannuru_O%26C_OARSIguidelines_2019.pdf>
-5. Stanford Biodesign. Principled Decision-Making. Student Guide to Biodesign; 2022. <https://biodesignguide.stanford.edu/wp-content/uploads/2022/08/Principled-Decision-Making-v1.pdf>
-6. Swayogya Rehab Solutions. SwaKnee evidence page: company-reported comparative 45-day study, device n=40 vs comparison n=42, ≈32% vs ≈14% average VAS pain reduction from baseline. Rounded figures as transcribed in the supplied original deck; re-check the live page before presenting. <https://www.swayogya.in/evidence.html>
-
-### Slide 21 · Would you proceed? Push tonight’s FoGO update
-
-*Time: 1.5 min (clock 27:45–29:15) · Activity: DECISION 4 of 4*
-
-**Core script (say this).** Tonight’s update gives fewer false cues, but it may miss more freezes, and it has been tested only on stored data. A, push to everyone. B, staged release with monitoring and rollback. C, not yet. Vote. Evidence belongs to a version: results for version 1 may not cover version 2. Who in your team can pause or reverse a release?
-
-**Purpose.** Show that evidence belongs to a version, and changes need governance.
-
-**Say.** Read the facts: the new detection threshold gives fewer false cues, may miss more freezes, and has been tested on stored data only.  
-“A: push to all users tonight. B: staged release after review, with monitoring and rollback. C: not yet.”  
-The screenshot is the real prototype app: the cue was ‘debounced’ — confirmed in two of three windows — before it fired. Changing that rule changes the device’s behaviour.
-
-**Debrief points.** A threshold trades sensitivity against specificity: fewer nuisance cues can mean more missed freezes. Evidence for version 1 may not cover version 2.  
-CDSCO’s Medical Device Software guidance (21 July 2026) expects lifecycle documentation, version control, validation and documented change management, and says an Algorithm Change Protocol may be devised where applicable — the guidance describes itself as interpreting the Rules, not adding a new control. The US FDA’s predetermined change control plan (PCCP) guidance for AI-enabled device software (December 2024) lets manufacturers pre-specify modifications with a validation protocol and impact assessment — it is not a blank cheque.  
-If the device is in a study: notify the ethics committee, seek an amendment, and re-consent if the change could affect a participant’s decision.  
-A good release: shadow mode first; a small staged group; pre-set monitoring metrics and a rollback trigger; tell users and clinicians what changed. Who can pause or reverse the release? Name them.
-
-**Caution.** Hypothetical update; not a report of an actual FoGO release.
-
-**Transition.** “And if, despite all this, someone is harmed?”
-
-**Sources.**
-
-1. CDSCO. Guidance Document on Medical Device Software under the Medical Devices Rules, 2017 (CDSCO/MD/GD/MDSW/01/2026); 21 July 2026. <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-document-on-Medical-Device-Software-under-MDR-2017.pdf>
-2. CDSCO. Draft Guidance Document on Medical Device Software; 21 October 2025. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadPublic_NoticesFiles/Draft%20guidance%20document%20on%20Medical%20Device%20Software%2021%2010%202025.pdf>
-3. US FDA. Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions. Final guidance, December 2024 (revised version reported August 2025). <https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-submission-recommendations-predetermined-change-control-plan-artificial-intelligence>
-4. Gerke S, Babic B, Evgeniou T, Cohen IG. The need for a system view to regulate artificial intelligence/machine learning-based software as medical device. npj Digit Med. 2020. <https://hls.harvard.edu/bibliography/the-need-for-a-system-view-to-regulate-artificial-intelligence-machine-learning-based-software-as-medical-device>
-5. Kellmeyer P, Cochrane T, Müller O, et al. The effects of closed-loop medical devices on the autonomy and accountability of persons and systems. Camb Q Healthc Ethics. 2016;25(4):623–633. <https://www.research-collection.ethz.ch/handle/20.500.11850/126117>
-6. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
-
-### Slide 22 · When harm happens, someone must answer
-
-*Time: 1.25 min (clock 29:15–30:30) · Activity: Assign an owner to each step of the loop*
-
-**Core script (say this).** Suppose Ramesh falls after a missed cue. Who answers? Follow the loop: care for him; record the device and software version; report to MvPI on 1800-180-3024; investigate; correct; follow up. In India’s ASR hip recall, about 4,700 people had the implant, but only 1,080 had been traced by 2018. Traceability starts on day one. Who owns each step in your team?
-
-**Purpose.** Make post-market responsibility concrete.
-
-**Say.** “Suppose Ramesh falls after a missed cue.” Follow a report around the loop. Care: meet the person’s immediate needs. Record: device identity, serial number, software version, context. Report: to the Materiovigilance Programme of India using the Medical Device Adverse Event Reporting Form (helpline 1800-180-3024; mvpi-ipc@gov.in) and through the manufacturer’s statutory channels; in a study, to the sponsor and ethics committee. Investigate: root cause and context. Correct: corrective and preventive action, labelling, software fix or recall. Follow up: the person, and whether the correction worked.  
-Indian case: DePuy recalled its ASR metal-on-metal hip systems worldwide in August 2010. About 4,700 ASR surgeries had been done in India (2004–2010). A Health Ministry expert committee chaired by Dr Arun K Agarwal reported on 19 February 2018; by August 2018 only 1,080 patients had been traced. The compensation formula — a ₹20 lakh base adjusted for disability and age — was approved only on 29 November 2018. Traceability and registries matter from day one.
-
-**Ask / run.** “Who in your team owns each of the six steps?”
-
-**Debrief points.** MvPI was launched on 6 July 2015 at the Indian Pharmacopoeia Commission, Ghaziabad; manufacturers, importers, distributors, healthcare professionals and patients can report. Kramer and colleagues (PLoS Medicine 2013) found that post-market systems in the US, EU, Japan and China rely mainly on passive reporting. Passive systems are prone to under-reporting (our inference), so build reporting into the product (serial numbers, an in-app ‘report a problem’ button, a phone line). The UK Cumberlege Review (2020) recommended a Patient Safety Commissioner, redress and device registries.  
-Avoid a blanket instruction to stop a needed device; safety decisions need clinical assessment and continuity of care.
-
-**Transition.** End with: “Who will still answer the phone after the sale?”
-
-**Sources.**
-
-1. Indian Pharmacopoeia Commission. Materiovigilance Programme of India (MvPI): About us. Launched 6 July 2015; helpline 1800-180-3024; mvpi-ipc@gov.in. <https://ipc.gov.in/mandates/materiovigilance-programme-of-india-mvpi/about-us.html>
-2. Indian Pharmacopoeia Commission. Medical Device Adverse Event Reporting Form, version 1.2 (open to manufacturers, importers, distributors, healthcare professionals and patients). <https://nhsrcindia.org/sites/default/files/Medical-Devices-Adverse-Event-Reporting-Form-(Version-1.2).pdf>
-3. Business Today. Govt to ask Johnson & Johnson to compensate for faulty hip implants (Agarwal committee report, 19 Feb 2018: about 4,700 ASR surgeries in India 2004–2010; 1,080 patients traced); 25 August 2018. <https://www.businesstoday.in/amp/latest/economy-politics/story/johnson-johnson-faulty-hip-implants-surgeries-compensation-109085-2018-08-25>
-4. Press Information Bureau. Health Ministry approves compensation formula for hip implant cases (Central Expert Committee; base amount Rs 20 lakh adjusted for disability and age); 29 November 2018. <https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1554266>
-5. Kramer DB, Tan YT, Sato C, Kesselheim AS. Postmarket surveillance of medical devices: a comparison of strategies in the US, EU, Japan, and China. PLoS Med. 2013. <https://pmc.ncbi.nlm.nih.gov/articles/PMC3815401/>
-6. Independent Medicines and Medical Devices Safety Review (chair Baroness Cumberlege). First Do No Harm; 8 July 2020. <https://www.immdsreview.org.uk/downloads/IMMDSReview_Web.pdf>
-7. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
-
-### Slide 23 · Would you let a patient use it now? (closing vote)
-
-*Time: 1.5 min (clock 30:30–32:00) · Activity: CLOSING VOTE with the same options as slide 3*
-
-**Core script (say this).** Same three facts: a working prototype, promising dataset results, a test licence. Same options. First answer silently: which patient, which use, which evidence, who is responsible? Vote. [Compare with the opening split.] What changed your mind? As many of you spotted, this is FoGO today. My own answer as its inventor: option 2, a supervised study, and only after ethics approval, MD-23 permission and CTRI registration.
-
-**Purpose.** Let the room see its own change in reasoning.
-
-**Say.** Read the three facts again: a working prototype, promising results on public datasets, a test licence granted. “Same three facts, same three options. Before you vote, answer four questions silently: which patient, which use, which evidence, and who is responsible?”
-
-**Ask / run.** Vote and compare with the opening split on the flipchart. Ask two people whose vote changed: “What changed your mind?”
-
-**Debrief points.** Confirm what many will have spotted: “The three facts on slide 3 describe FoGO in August 2026 — an alpha prototype, public-dataset results and an MD-13 test licence for 25 units. My own answer, as the inventor, is option 2 only after ethics approval, MD-23 permission and CTRI registration: a supervised research study, not routine care.” Disclosing this models the behaviour we asked for on slide 2.  
-The goal is better reasons, not agreement with the speaker. Delaying use to resolve important uncertainty is different from blocking useful research: safeguards should be proportionate to the exact use and risk. Access and continuity remain part of the decision.  
-“A patient-ready decision names the patient, the purpose, the evidence, the limits and the person responsible.”
-
-**Transition.** “Now make it personal.”
-
-**Sources.**
-
-1. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
-2. CDSCO. Form MD-12: application for licence to manufacture medical devices for clinical investigation, test, evaluation, examination, demonstration or training (licence in Form MD-13). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/12MD.pdf>
-3. CDSCO. Form MD-22: application for permission to conduct clinical investigation (permission in Form MD-23). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/22MD.pdf>
-
-### Slide 24 · Commit to one change in your own project
-
-*Time: 2.5 min (clock 32:00–34:30) · Activity: TAKEAWAY EXERCISE: 90 seconds writing, 60 seconds sharing*
-
-**Core script (say this).** Think of your own device, study or project. Complete the card: Before [next step], I will [action]. Owner: [name]. I proceed only if [condition]. You have ninety seconds. Then read it to a neighbour. [Take two examples.]
-
-**Purpose.** Convert discussion into one specific, owned action.
-
-**Say.** “Think of a device, study or project you are working on. Complete the card: Before [next step], I will [action]. Owner: [name]. I proceed only if [condition].”  
-Example: “Before our first home test, I will register the study on CTRI. Owner: me. I proceed only if the ethics committee approves and an independent outcome assessor is named.”
-
-**Ask / run.** Read it to a neighbour. Take two examples from the room.
-
-**Debrief points.** Stanford’s Principled Decision-Making brief advises teams to write down their ethical principles early; this exercise adapts that advice into a personal commitment. Encourage participants to photograph or keep their card; the printable checklist handout has space for it.
-
-**Transition.** “Here is a checklist to keep using.”
-
-**Sources.**
-
-1. Stanford Biodesign. Principled Decision-Making. Student Guide to Biodesign; 2022. <https://biodesignguide.stanford.edu/wp-content/uploads/2022/08/Principled-Decision-Making-v1.pdf>
-
-### Slide 25 · Patient-impact decision checklist
-
-*Time: 0.5 min (clock 34:30–35:00) · Activity: Reusable tool and printed handout*
-
-**Core script (say this).** Here is a checklist to keep: one row per stage, with the evidence to see, an owner and a go or not-yet column. Every ‘not yet’ needs an owner and a condition for proceeding. A licence, patent, grant or famous partner is not evidence of readiness. Thank you.
-
-**Purpose.** Leave participants with a tool they can apply to any device decision.
-
-**Say.** Use one row per stage. The evidence column should link to real documents; the owner column names a person or team; every ‘Not yet’ needs an owner and a condition for proceeding.  
-Row sources: Need — Stanford need statements. Evidence — IDEAL-D, subgroup reporting (MRCT), ISO 14971 risk file and a version log. People — Declaration of Helsinki 2024, ICMR 2017, conflict-of-interest management. Permission — MDR-2017 and CDSCO’s 2026 software guidance. Access — Cambridge inclusive design, total cost of use, NPPA context. Safety — MvPI reporting, ISO 14971 risk management, change control.
-
-**Caution.** A workshop synthesis, not a substitute for ethics, scientific, regulatory or quality review. One device can meet the conditions for a narrowly defined use and remain unsuitable for another. Do not infer completion from a licence, patent, grant or institutional association.
-
-**Transition.** Close: thank the audience; point to the appendix and the handout.
-
-**Sources.**
-
-1. Stanford Biodesign. Need Statements. Student Guide to Biodesign; 2022. <https://biodesignguide.stanford.edu/wp-content/uploads/2022/07/Need-Statements-v2.pdf>
-2. Sedrakyan A, Campbell B, Merino JG, Kuntz R, Hirst A, McCulloch P. IDEAL-D: a rational framework for evaluating and regulating the use of medical devices. BMJ. 2016;353:i2372. <https://pubmed.ncbi.nlm.nih.gov/27283585/>
-3. MRCT Center of Brigham and Women's Hospital and Harvard. Achieving Diversity, Inclusion, and Equity in Clinical Research: Guidance Document and Toolkit; 2020. <https://mrctcenter.org/diversity-in-clinical-research/>
-4. World Medical Association. Declaration of Helsinki: Ethical Principles for Medical Research Involving Human Participants. 75th General Assembly, Helsinki, October 2024 (para 27: dependent relationship; para 34: post-trial provisions). <https://www.wma.net/policies-post/wma-declaration-of-helsinki/>
-5. Indian Council of Medical Research. National Ethical Guidelines for Biomedical and Health Research Involving Human Participants. New Delhi: ICMR; 2017 (Section 5 informed consent; Section 6 vulnerability; Section 7.7 device trials). <https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf>
-6. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
-7. CDSCO. Guidance Document on Medical Device Software under the Medical Devices Rules, 2017 (CDSCO/MD/GD/MDSW/01/2026); 21 July 2026. <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-document-on-Medical-Device-Software-under-MDR-2017.pdf>
-8. University of Cambridge Engineering Design Centre. Inclusive Design Toolkit and Exclusion Calculator (Clarkson, Waller, Coleman). <https://www-edc.eng.cam.ac.uk/research/inclusive-design>
-9. Indian Pharmacopoeia Commission. Materiovigilance Programme of India (MvPI): About us. Launched 6 July 2015; helpline 1800-180-3024; mvpi-ipc@gov.in. <https://ipc.gov.in/mandates/materiovigilance-programme-of-india-mvpi/about-us.html>
-10. ISO 14971:2019. Medical devices — Application of risk management to medical devices. <https://www.iso.org/standard/72704.html>
-
-### Slide 26 · Evidence to request before stronger claims
-
-*Reference slide*
-
-**Purpose.** Back-pocket slide for Q&A on what each project should show next.
-
-**Say.** FoGO: freeze detection against video-annotated events; participant-level validation; false alarms per hour and latency in real use; cue versus no-cue (or sham) comparison; falls, confidence and walking outcomes; testing in homes, turns and doorways; firmware and model version for every result.  
-SwaKnee: a randomised, blinded, sham-controlled design with prospective registration; pain and function compared with patient-important thresholds; adverse events; adherence to 45-minute sessions; durability; structural outcomes only if structural claims are made; the controller and applicator version for every result.
-
-**Sources.**
-
-1. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
-2. Swayogya Rehab Solutions. SwaKnee evidence page: company-reported comparative 45-day study, device n=40 vs comparison n=42, ≈32% vs ≈14% average VAS pain reduction from baseline. Rounded figures as transcribed in the supplied original deck; re-check the live page before presenting. <https://www.swayogya.in/evidence.html>
-3. Sedrakyan A, Campbell B, Merino JG, Kuntz R, Hirst A, McCulloch P. IDEAL-D: a rational framework for evaluating and regulating the use of medical devices. BMJ. 2016;353:i2372. <https://pubmed.ncbi.nlm.nih.gov/27283585/>
-4. Tubach F, Ravaud P, Baron G, et al. Evaluation of clinically relevant changes in patient reported outcomes in knee and hip osteoarthritis: the minimal clinically important improvement. Ann Rheum Dis. 2005;64(1):29–33 (knee OA pain MCII −19.9 mm, −40.8%). <https://ard.bmj.com/content/64/1/29.full.pdf>
-
-### Slide 27 · What independent evidence says
-
-*Reference slide*
-
-**Purpose.** Back-pocket slide: the independent literature around each case, for Q&A.
-
-**Say.** FoGO domain: the Daphnet benchmark has 10 laboratory patients (8 froze); one systematic review (Silva de Lima 2017) reported sensitivity of 73–100% and specificity of 67–100%, mostly in laboratories; the RESCUE home-cueing trial (n = 153) found small gait gains and lower freezing severity in freezers, but fall counts were not measured, and no trial found here showed fewer falls (narrative review: Ginis 2018); FoGO’s own results are project-reported on public datasets, with a prospective study planned.  
-SwaKnee domain: the Cochrane review (2013; 9 trials, 636 adults, all osteoarthritis sites and electromagnetic field types) found pain probably improves by about 15/100 more than sham, with function uncertain; meta-analyses disagree (Chen 2019, knee OA, 8 RCTs: no pain advantage; Yang 2020, all OA sites, 16 RCTs: an advantage); OARSI 2019 strongly recommends against electromagnetic therapy; NICE NG226 (2022) advises against several electrotherapies for insufficient evidence; no human evidence of cartilage regeneration was found.
-
-**Caution.** ‘Not found’ in our searches is not proof of absence. NICE NG226’s list does not name PEMF explicitly.
+**Transition.** “Even a good average can mislead. Here is a published case.”
 
 **Sources.**
 
@@ -826,3 +711,1394 @@ SwaKnee domain: the Cochrane review (2013; 9 trials, 636 adults, all osteoarthri
 11. Bannuru RR, Osani MC, Vaysbrot EE, et al. OARSI guidelines for the non-surgical management of knee, hip, and polyarticular osteoarthritis. Osteoarthritis Cartilage. 2019 (electromagnetic therapy strongly recommended against). <https://www.esceo.org/sites/esceo/files/pdf/Bannuru_O%26C_OARSIguidelines_2019.pdf>
 12. NICE. Osteoarthritis in over 16s: diagnosis and management (NG226); October 2022 (do not offer listed electrotherapies: insufficient evidence of benefit). <https://www.nice.org.uk/guidance/ng226/chapter/Recommendations>
 13. Tubach F, Ravaud P, Baron G, et al. Evaluation of clinically relevant changes in patient reported outcomes in knee and hip osteoarthritis: the minimal clinically important improvement. Ann Rheum Dis. 2005;64(1):29–33 (knee OA pain MCII −19.9 mm, −40.8%). <https://ard.bmj.com/content/64/1/29.full.pdf>
+
+### Slide 19 · An average can hide a patient
+
+*Time: 1 min · deep-dive (75-min path) · Activity: Who is missing from our data?*
+
+**Core script (say this).** An average can hide a patient. In one US hospital cohort, oximeters reading 92 to 96% missed dangerously low oxygen in 11.7% of paired readings for Black patients, against 3.6% for White patients. Who is missing from our data? For Ramesh: walking aids, saris, crowded homes. For Kamala: women, rural users, people with other illnesses.
+
+**Purpose.** Show, with an independent published case, why subgroup performance matters.
+
+**Say.** Sjoding and colleagues (NEJM 2020), University of Michigan cohort: when the pulse oximeter read 92–96%, arterial oxygen saturation was below 88% in 11.7% of paired measurements for Black patients versus 3.6% for White patients (88 of 749 vs 99 of 2,778; 95% CI 8.5–16.0 vs 2.7–4.7), more than three times as often. The unit is paired measurements; race was recorded, not skin pigmentation measured; it was observational. It does not justify a race-based correction — it shows that a device that looked accurate on average missed dangerous low oxygen more often in one group.  
+Regulators responded: the US FDA's draft guidance of 7 January 2025 asks for clinical testing of pulse oximeters across a diverse range of skin tones, assessed on the Monk Skin Tone scale (a diversely pigmented group of 150 or more participants in the draft).
+
+**Ask / run.** “Who is missing from our data?” Take two answers for each case before revealing the cards.
+
+**Debrief points.** Ramesh: people using walking aids; cognitive fluctuation; crowded homes and floor-level living; clothing such as saris or dhotis over the sensor; public datasets with few or no Indian participants.  
+Kamala: women, people with obesity, manual and agricultural workers, people with other illnesses, rural users.  
+The MRCT Center's diversity guidance defines diversity broadly — including comorbidities, concurrent medicines and environment — and asks for subgroup reporting. Stanford Biodesign's health-equity programme trains innovators to see how decisions at the identify, invent and implement stages affect equity.  
+India link: pulse oximeters were among the five home-use devices whose trade margins NPPA capped in July 2021 (Part 5); CDSCO's 2026 software guidance asks for risk management of AI bias and usability validation in Indian workflows.
+
+**India adaptation.** The Sjoding cohort is American; for an Indian team the lesson is that public datasets (Daphnet, CuPiD) and company studies must be checked for who was included, and that CDSCO's 2026 software guidance expects AI-bias risk management.
+
+**Caution.** Do not generalise the 11.7% vs 3.6% beyond the Michigan cohort; it is one observational study. The FDA document is a draft guidance.
+
+**Transition.** “Now the people: consent and conflicts.”
+
+**Sources.**
+
+1. Sjoding MW, Dickson RP, Iwashyna TJ, Gay SE, Valley TS. Racial bias in pulse oximetry measurement. N Engl J Med. 2020;383(25):2477–2478. doi:10.1056/NEJMc2029240. <https://www.nejm.org/doi/full/10.1056/NEJMc2029240>
+2. US FDA. Pulse Oximeters for Medical Purposes: Non-Clinical and Clinical Performance Testing, Labeling, and Premarket Submission Recommendations. Draft guidance, 7 January 2025 (diverse skin-tone testing, Monk Skin Tone scale). <https://www.fda.gov/regulatory-information/search-fda-guidance-documents/pulse-oximeters-medical-purposes-non-clinical-and-clinical-performance-testing-labeling-and>
+3. MRCT Center of Brigham and Women's Hospital and Harvard. Achieving Diversity, Inclusion, and Equity in Clinical Research: Guidance Document and Toolkit; 2020. <https://mrctcenter.org/diversity-in-clinical-research/>
+4. Stanford Biodesign. Health Equity programme and resources. <https://biodesign.stanford.edu/programs/health-equity.html>
+5. CDSCO. Guidance Document on Medical Device Software under the Medical Devices Rules, 2017 (CDSCO/MD/GD/MDSW/01/2026); 21 July 2026. <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-document-on-Medical-Device-Software-under-MDR-2017.pdf>
+
+### Slide 20 · Part 2 · People: can they say no, and who gains if they say yes?
+
+*Time: 0.25 min · deep-dive (75-min path)*
+
+**Core script (say this).** Part two is about people. Two questions sit under every device study: can the participant freely say no, and who gains if they say yes? We make one decision about Ramesh, whose neurologist is also the inventor; then we build the Indian consent checklist from ICMR 2017, the NDCT Rules 2019 and the 2024 Declaration of Helsinki; and we finish with conflicts of interest, where disclosure only starts the work.
+
+**Purpose.** Mark the move from evidence to people. The panel on the right turns the section into three questions a participant would ask, each answered by a named rule, so students can see the structure before the detail.
+
+**Say.** “So far we have asked what the device promises and what has been shown. Now we ask about the people: the participant and the people recruiting them.”  
+Point to the three questions. “Can I freely say no?” The 2024 Declaration of Helsinki, paragraph 27, answers it: when the participant is in a dependent relationship with the researcher, consent must be sought by an appropriately qualified individual independent of that relationship. “Do I understand what I am agreeing to?” ICMR's 2017 National Ethical Guidelines, section 5, answer it: a language the participant understands, and an impartial literate witness if the participant cannot read. “Who gains if I say yes?” ICMR 2017 requires interests to be disclosed to the ethics committee; for doctors the IMC 2002 regulations, clause 6.8, and for device companies the voluntary Uniform Code for Marketing Practices in Medical Devices (2024) set the rules.  
+“Three slides: a decision, a checklist, and a way of managing interests.”
+
+**Caution.** Do not say the Indian rules are weaker or stronger than those abroad: they are differently arranged (statutory consent rules in the NDCT Rules 2019 for drug trials; ICMR guidance and MDR-2017 for devices). The Helsinki paragraph number is from the 2024 text; older copies number it differently.
+
+**Transition.** “Here is a realistic decision about Ramesh.”
+
+**Sources.**
+
+1. World Medical Association. Declaration of Helsinki: Ethical Principles for Medical Research Involving Human Participants. 75th General Assembly, Helsinki, October 2024 (para 27: dependent relationship; para 34: post-trial provisions). <https://www.wma.net/policies-post/wma-declaration-of-helsinki/>
+2. Indian Council of Medical Research. National Ethical Guidelines for Biomedical and Health Research Involving Human Participants. New Delhi: ICMR; 2017 (Section 5 informed consent; Section 6 vulnerability; Section 7.7 device trials). <https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf>
+3. Medical Council of India. Indian Medical Council (Professional Conduct, Etiquette and Ethics) Regulations, 2002, clause 6.8 (inserted 2009); operative after the NMC 2023 regulations were held in abeyance on 23 August 2023. <https://www.delhimedicalcouncil.org/pdf/EthicsRegulations-2002.pdf>
+4. Department of Pharmaceuticals. Uniform Code for Marketing Practices in Medical Devices, 2024 (circular of 6 September 2024; as amended on 30 April 2026). Voluntary code administered through industry associations. <https://pharma-dept.gov.in/sites/default/files/UCMDMD%20circular%201-2026+UCMDMP%20code%20as%20amended%20on%2030.4.2026%20(1).pdf>
+5. Ministry of Health and Family Welfare. New Drugs and Clinical Trials Rules, 2019 (ethics committee registration: Rules 7–8 with CDSCO; Rules 16–17 with DHR). <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/new_DC_rules/NEW%20DRUGS%20ANDctrS%20RULE,%202019.pdf>
+
+### Slide 21 · Would you proceed? Ramesh's neurologist is also the inventor
+
+*Time: 3 min · core (40-min path) · Activity: Vote; 60-second role-play*
+
+**Core script (say this).** Ramesh's neurologist is FoGO's inventor and wants to recruit him. Ramesh asks, ‘Will saying no change my care?’ The consent form is in English only, and this is the only neurologist within 100 km. A, recruit now. B, proceed with safeguards. C, not yet. Vote, then 60 seconds of role-play: patient, recruiter, observer. Observer: what would make refusal easier?
+
+**Purpose.** Practise consent when there is a dependent relationship, a language barrier and a request to film. The third fact (the only neurologist within 100 km) argues against the ‘safe’ answer of excluding Ramesh: exclusion denies him access.
+
+**Say.** Read the facts: Ramesh asks, “Will saying no change my care?”; the consent form is in English only; this neurologist is the only one within 100 km, and the study needs participants by March.  
+Twist if time allows: the clinic also wants to film him for a talk.  
+“A: recruit as planned. B: proceed with safeguards — which ones? C: not yet.”
+
+**Ask / run.** Vote. Then one participant plays Ramesh, one the recruiting neurologist, and one observes for 60 seconds. The observer reports one thing that would make refusal easier. The three dashed pills under the options are the answers most ethics committees would expect; reveal them after the role-play, not before.
+
+**Debrief points.** • Dependent relationship: the Declaration of Helsinki (2024, para 27) says that when a potential participant is in a dependent relationship with the physician or other researcher, consent must be sought by an appropriately qualified individual who is independent of that relationship (‘should’ became ‘must’ in 2024). State plainly, and in writing, that refusal will not change care.  
+• Disclose the inventor's interest to the ethics committee and in the consent conversation (ICMR 2017; CIOMS 2016 Guideline 25); use an independent outcome assessor.  
+• Language and understanding: ICMR 2017 (section 5) requires consent in a language the participant understands, with an impartial literate witness, unconnected to the research, if the participant cannot read. Put key information first (the US Common Rule, 45 CFR 46.116(a)(5)(i), is a useful model) and use teach-back; the MRCT Clinical Research Glossary helps explain ‘investigational’ and ‘sham’ in plain words.  
+• Therapeutic misconception (Appelbaum 1982, 1987): participants may assume research procedures are care chosen for them; say clearly what is uncertain and that FoGO has not been shown to prevent falls.  
+• Filming: separate, specific and revocable consent for recordings used in teaching or publicity, in writing for public media (the UK GMC's guidance, updated December 2024, is a good comparator); gait videos usually identify people, so anonymisation rarely suffices; never make filming a condition of care or of study entry.  
+• Vulnerability: Parkinson's disease can bring fluctuating cognition; ICMR 2017 section 6 asks for extra scrutiny, a legally authorised representative where capacity is impaired, and assent from the participant.  
+Good answers: B with these safeguards, or C until the consent process is fixed. “Not yet” has a cost here too: excluding Ramesh because the only neurologist is conflicted denies him access; the fix is an independent consenter and assessor, not exclusion.
+
+**Caution.** Fictional vignette; it does not describe either project's actual consent procedure. Do not imply that the neurologist is acting in bad faith: the conflict is structural, and the safeguards are routine.
+
+**Transition.** “So what exactly does valid consent require in India? Here is the checklist.”
+
+**Sources.**
+
+1. World Medical Association. Declaration of Helsinki: Ethical Principles for Medical Research Involving Human Participants. 75th General Assembly, Helsinki, October 2024 (para 27: dependent relationship; para 34: post-trial provisions). <https://www.wma.net/policies-post/wma-declaration-of-helsinki/>
+2. World Medical Association. World Medical Association Declaration of Helsinki: Ethical Principles for Medical Research Involving Human Participants. JAMA; published online 19 October 2024 (paragraph 27: dependent relationship; paragraph 34: post-trial provisions). <https://jamanetwork.com/journals/jama/fullarticle/2825290>
+3. Indian Council of Medical Research. National Ethical Guidelines for Biomedical and Health Research Involving Human Participants. New Delhi: ICMR; 2017 (Section 5 informed consent; Section 6 vulnerability; Section 7.7 device trials). <https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf>
+4. Goa University (institutional summary). ICMR 2017 National Ethical Guidelines, Section 5: informed consent process; impartial literate witness when the participant or legally authorised representative cannot read; audio or video documentation of consent with participant, investigator and witness in frame. <https://www.unigoa.ac.in/uploads/confg_docs/20201229.073758~ICMR_2017_INFORMED_CONSENT_PROCESS.pdf>
+5. CIOMS with WHO. International Ethical Guidelines for Health-related Research Involving Humans. 4th ed. Geneva; 2016 (Guideline 9 consent; Guideline 25 conflicts of interest). <https://cioms.ch/wp-content/uploads/2017/01/WEB-CIOMS-EthicalGuidelines.pdf>
+6. US HHS. Protection of Human Subjects, 45 CFR 46.116(a)(5)(i): consent must begin with a concise presentation of key information. International comparator. <https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46/subpart-A/section-46.116>
+7. MRCT Center. Clinical Research Glossary (plain-language definitions; v3.0, 2025). <https://mrctcenter.org/glossary/>
+8. Appelbaum PS, Roth LH, Lidz C. The therapeutic misconception: informed consent in psychiatric research. Int J Law Psychiatry. 1982;5(3–4):319–329. <https://psychnews.psychiatryonline.org/doi/10.1176/appi.pn.2021.7.30>
+9. Appelbaum PS, Roth LH, Lidz CW, Benson P, Winslade W. False hopes and best data: consent to research and the therapeutic misconception. Hastings Cent Rep. 1987;17(2):20–24. <https://philpapers.org/rec/APPFHA>
+10. General Medical Council (UK). Making and using visual and audio recordings of patients (effective 2011; updated December 2024). International comparator. <https://www.gmc-uk.org/professional-standards/the-professional-standards/making-and-using-visual-and-audio-recordings-of-patients>
+11. General Medical Council (UK). Making and using visual and audio recordings of patients: recordings for use in widely accessible public media (television, radio, internet, print); consent usually in writing, whether or not the patient is identifiable. <https://www.gmc-uk.org/professional-standards/the-professional-standards/making-and-using-visual-and-audio-recordings-of-patients/recordings-for-use-in-widely-accessible-public-media---television-radio-internet-print>
+
+### Slide 22 · What valid consent requires in India
+
+*Time: 1.25 min · deep-dive (75-min path)*
+
+**Core script (say this).** Valid consent in India has eight parts: full information with the key facts first; a language the participant understands; an impartial witness if they cannot read; a legally authorised representative where capacity is impaired; audio-visual recording where the rules require it; re-consent when anything material changes; withdrawal without penalty; and compensation for injury. Before the first participant: an ethics committee registered with CDSCO, MD-23 permission for an investigational device, and CTRI registration. Three special cases: a dependent relationship, vulnerable participants, and filming.
+
+**Purpose.** Give students the Indian consent floor as a checklist they can apply to their own protocols, with the gate that must be passed before anyone is approached and the three cases most likely to arise in device studies at a teaching hospital.
+
+**Say.** Left column, top to bottom.  
+1. Information, key facts first: purpose, procedures, risks, benefits and alternatives, in that order of importance; the revised US Common Rule (45 CFR 46.116(a)(5)(i)) requires consent to begin with a concise presentation of key information, a model worth copying even though it is not binding here.  
+2. A language the participant understands: for Ramesh that is Odia or Hindi, not an English form; use plain words and teach-back.  
+3. An impartial witness: ICMR 2017 (section 5) requires a literate witness, unconnected to the research, when the participant or the legally authorised representative cannot read; the witness signs too.  
+4. A legally authorised representative: where capacity is impaired or fluctuates (ICMR 2017, section 6 on vulnerability), the LAR consents and the participant gives assent wherever possible.  
+5. Audio-visual recording: the 2013 amendment to the Drugs and Cosmetics Rules, carried into the NDCT Rules 2019, requires AV recording of consent for vulnerable participants in trials of new drugs (audio only for anti-HIV and anti-leprosy trials); ICMR 2017 allows consent to be documented by audio or video with the participant, investigator and impartial witness in frame. Say clearly that this is a drug-trial rule; there is no device-specific AV mandate in MDR-2017 that we could verify.  
+6. Re-consent: a new risk, a new software version or a protocol change goes back to the ethics committee as an amendment, and to the participant if it could affect their decision.  
+7. Withdrawal: CIOMS 2016 Guideline 9 treats consent as a process from which participants may withdraw without penalty; ICMR 2017 says the same; refusal must not change care.  
+8. Compensation: ICMR 2017 (section 2) covers compensation for research-related harm; the NDCT Rules 2019 set compensation for trial injury or death; CDSCO's checklist for Form MD-22 asks for insurance; the sponsor provides free medical management for injury.  
+Right column, the gate. First, an ethics committee registered with CDSCO (NDCT Rules 2019, Rules 7–8; MDR-2017 refers to the ethics committee in Rule 50). Second, for an investigational device, Central Licensing Authority permission: Form MD-22 with Seventh Schedule documents, including the informed consent form, the clinical investigation plan and insurance; permission in Form MD-23; the study must begin within one year. Third, prospective CTRI registration before the first participant is enrolled.  
+The three cases. Dependent relationship: Helsinki 2024, paragraph 27, as on the previous slide. Vulnerable participants: ICMR 2017 section 6 lists people whose capacity, age, poverty or dependence on the clinic makes free consent harder; add safeguards rather than exclude them. Filming: separate, specific, revocable consent, in writing for public media; a gait video identifies a person.
+
+**India adaptation.** ICMR 2017 section 7.7 says device trials follow the ICMR guidelines, Indian GCP and MDR-2017, and that devices should be provided free or at feasible reduced rates. An academic clinical study on an already licensed device may not need CLA permission if the ethics committee approves it and the data are not used for a marketing application; FoGO is an unlicensed prototype, so that exemption does not apply to it.
+
+**Caution.** Rule numbers to verify before printing: MDR-2017 Rule 50 (ethics committee), the rule carrying the CTRI condition, and the compensation rule; the NDCT Rules 7–8 are confirmed. The AV-recording mandate is for new-drug trials with vulnerable participants, not a device rule. Insurance and compensation arrangements come from the MD-22 checklist and secondary summaries of MDR-2017, not from the gazette text read directly.
+
+**Transition.** “Consent protects the participant. Conflicts of interest are about the people asking.”
+
+**Sources.**
+
+1. Indian Council of Medical Research. National Ethical Guidelines for Biomedical and Health Research Involving Human Participants. New Delhi: ICMR; 2017 (Section 5 informed consent; Section 6 vulnerability; Section 7.7 device trials). <https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf>
+2. Goa University (institutional summary). ICMR 2017 National Ethical Guidelines, Section 5: informed consent process; impartial literate witness when the participant or legally authorised representative cannot read; audio or video documentation of consent with participant, investigator and witness in frame. <https://www.unigoa.ac.in/uploads/confg_docs/20201229.073758~ICMR_2017_INFORMED_CONSENT_PROCESS.pdf>
+3. KEM Hospital and Seth GS Medical College, Institutional Ethics Committee. SOP 27: Audio-Visual Consent Recording (requirement introduced by the 2013 amendment to the Drugs and Cosmetics Rules for vulnerable participants in new-drug trials; carried into the NDCT Rules 2019). <https://www.kem.edu/wp-content/uploads/2022/08/27.Audio-Visual-Consent-Recording.pdf>
+4. Ministry of Health and Family Welfare. New Drugs and Clinical Trials Rules, 2019 (ethics committee registration: Rules 7–8 with CDSCO; Rules 16–17 with DHR). <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/new_DC_rules/NEW%20DRUGS%20ANDctrS%20RULE,%202019.pdf>
+5. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+6. CDSCO. Form MD-22: application for permission to conduct clinical investigation (permission in Form MD-23). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/22MD.pdf>
+7. CDSCO. Checklist for Form MD-22 (clinical investigation): Seventh Schedule documents including the clinical investigation plan, investigator's brochure, design verification and validation report, Essential Principles checklist, informed consent form, investigator undertaking and ethics committee approval. <https://www.cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/ChecklisFormMD-22MD.pdf>
+8. Corpbiz. Process of application for clinical investigation under MDR 2017 (pilot and pivotal definitions; Form MD-22 to the CLA). <https://corpbiz.io/learning/process-of-application-for-clinical-investigation-under-mdr-2017/>
+9. World Medical Association. Declaration of Helsinki: Ethical Principles for Medical Research Involving Human Participants. 75th General Assembly, Helsinki, October 2024 (para 27: dependent relationship; para 34: post-trial provisions). <https://www.wma.net/policies-post/wma-declaration-of-helsinki/>
+10. CIOMS with WHO. International Ethical Guidelines for Health-related Research Involving Humans. 4th ed. Geneva; 2016 (Guideline 9 consent; Guideline 25 conflicts of interest). <https://cioms.ch/wp-content/uploads/2017/01/WEB-CIOMS-EthicalGuidelines.pdf>
+11. US HHS. Protection of Human Subjects, 45 CFR 46.116(a)(5)(i): consent must begin with a concise presentation of key information. International comparator. <https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-A/part-46/subpart-A/section-46.116>
+12. MRCT Center. Clinical Research Glossary (plain-language definitions; v3.0, 2025). <https://mrctcenter.org/glossary/>
+13. Appelbaum PS, Roth LH, Lidz CW, Benson P, Winslade W. False hopes and best data: consent to research and the therapeutic misconception. Hastings Cent Rep. 1987;17(2):20–24. <https://philpapers.org/rec/APPFHA>
+14. General Medical Council (UK). Making and using visual and audio recordings of patients (effective 2011; updated December 2024). International comparator. <https://www.gmc-uk.org/professional-standards/the-professional-standards/making-and-using-visual-and-audio-recordings-of-patients>
+15. General Medical Council (UK). Making and using visual and audio recordings of patients: recordings for use in widely accessible public media (television, radio, internet, print); consent usually in writing, whether or not the patient is identifiable. <https://www.gmc-uk.org/professional-standards/the-professional-standards/making-and-using-visual-and-audio-recordings-of-patients/recordings-for-use-in-widely-accessible-public-media---television-radio-internet-print>
+16. Indian Council of Medical Research. Ethical Guidance for Non-Regulatory Clinical Trials (draft, v2): non-regulatory clinical trials start only after ethics committee approval. <https://www.icmr.gov.in/icmrobject/uploads/Static/1784177629_draftguidance-non-regulatoryclinicaltrials_latest_v2.pdf>
+
+### Slide 23 · Disclose, then manage
+
+*Time: 1 min · core (40-min path)*
+
+**Core script (say this).** Disclosure starts the work; management finishes it. Interests create risks: pressure to enrol, optimistic reading, selective reporting. Manage them with independent consent and assessment, CTRI registration before the first participant, and publication of every result. In India the rules are split: a voluntary marketing code for companies, the IMC 2002 regulations for doctors, ICMR 2017 for researchers. Abroad, the US publishes industry payments and the UK's Cumberlege Review asked for a register of doctors' interests. Which safeguard is cheapest to add today?
+
+**Purpose.** Move from declaring conflicts to managing them, and show where the Indian rules sit next to the US and UK ones.
+
+**Say.** Top row, left to right. Interests: equity, royalties or salary from the company; grants and institutional reputation (₹25.5 lakh received for FoGO; a BIRAC BIG proposal under review); personal reputation as the inventor-clinician.  
+Risks: pressure to enrol dependent patients (Ramesh and his only neurologist); optimistic reading of outcomes, and participants who assume research is care chosen for them; selective reporting of positive results. A Cochrane methodology review (Lundh et al. 2017; 75 papers) found that manufacturer-sponsored drug and device studies report favourable conclusions more often than other studies: risk ratio 1.34, 95% CI 1.19–1.51, and favourable efficacy results RR 1.27.  
+Safeguards: an independent consent-taker and an independent outcome assessor; prospective CTRI registration with pre-specified outcomes; publication of all results, including null and negative ones, with a plain-language summary to participants (MRCT Center, Return of Aggregate Results, 2017).  
+The rules strip. India: the Uniform Code for Marketing Practices in Medical Devices, notified by the Department of Pharmaceuticals on 6 September 2024 and amended to 30 April 2026, bars gifts, travel and hospitality for healthcare professionals and requires product claims to be accurate, balanced and capable of substantiation; it is voluntary and run through industry associations, with complaints decided by each association's ethics committee within 90 days. For doctors, the NMC's 2023 conduct regulations were put in abeyance on 23 August 2023, so the IMC 2002 regulations apply; clause 6.8, inserted on 10 December 2009, bars gifts, travel facilities and hospitality from the ‘pharmaceutical and allied health sector industry’, commonly read to include device companies. ICMR 2017 defines a conflict of interest as conditions where professional judgement about a primary interest tends to be unduly influenced by a secondary interest, and requires disclosure to the ethics committee.  
+Abroad: the US Open Payments programme (Physician Payments Sunshine Act) makes manufacturers of drugs and devices report consulting fees, honoraria, food, travel, research payments, royalties and ownership interests paid to physicians and teaching hospitals every year, and CMS publishes the data. Harvard Medical School's 2010 policy moved from disclosure to limits, for example barring faculty from industry speakers' bureaus. The UK's Cumberlege Review (First Do No Harm, 8 July 2020) recommended an expanded GMC register listing all doctors' financial and non-pecuniary interests, an independent Patient Safety Commissioner and a database recording the patient, the implanted device and the surgeon.
+
+**Ask / run.** “Which safeguard is cheapest to add today?” Usually CTRI registration and naming an independent outcome assessor; both cost nothing but a decision.
+
+**Debrief points.** Cambridge's spinout guidance advises founders to be clear about when they are working for the company and when for research. The University of Cambridge policy asks whether a conflict would be ‘reasonably perceived’, the test applied to this presenter on the disclosure slide. Stanford's GSB case on physician-innovators argues that conflicts should be managed without ending collaboration; Chao, Riskin and Krummel ask whether physician-innovators should evaluate their own devices at all. The UK government later declined to fund the Cumberlege redress agency, so present its recommendations as recommended, not established.
+
+**Caution.** UCMPMD is voluntary and its enforceability is debated; do not call it law. Clause 6.8 does not name device companies; say ‘commonly read to include’. No replacement for the NMC 2023 regulations was found in October 2026 searches; check nmc.org.in before the talk. The Harvard speakers'-bureau example comes from the v1 notes; verify against the 2010 policy text before quoting it.
+
+**Transition.** “Next: which Indian permission answers which question?”
+
+**Sources.**
+
+1. Lundh A, Lexchin J, Mintzes B, Schroll JB, Bero L. Industry sponsorship and research outcome. Cochrane Database Syst Rev. 2017;(2):MR000033 (drug and device studies: favourable conclusions RR 1.34, 95% CI 1.19–1.51). <https://pubmed.ncbi.nlm.nih.gov/28207928/>
+2. Institute of Medicine; Lo B, Field MJ, eds. Conflict of Interest in Medical Research, Education, and Practice. National Academies Press; 2009. <https://www.nationalacademies.org/read/12598/chapter/11>
+3. Indian Council of Medical Research. National Ethical Guidelines for Biomedical and Health Research Involving Human Participants. New Delhi: ICMR; 2017 (Section 5 informed consent; Section 6 vulnerability; Section 7.7 device trials). <https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf>
+4. Department of Pharmaceuticals. Uniform Code for Marketing Practices in Medical Devices, 2024 (circular of 6 September 2024; as amended on 30 April 2026). Voluntary code administered through industry associations. <https://pharma-dept.gov.in/sites/default/files/UCMDMD%20circular%201-2026+UCMDMP%20code%20as%20amended%20on%2030.4.2026%20(1).pdf>
+5. Department of Pharmaceuticals. Uniform Code for Marketing Practices in Medical Devices (UCMPMD), 2024: circular F. No. 31026/23/2022-Policy dated 6 September 2024 with the code as amended (no gifts, travel or hospitality for healthcare professionals; claims capable of substantiation; complaints to the Ethics Committee for Marketing Practices in Medical Devices within 90 days; voluntary code run through industry associations). <https://pharma-dept.gov.in/sites/default/files/ucmpmd%20circular%20with%20amended%20code_1_0.pdf>
+6. Medical Council of India. Indian Medical Council (Professional Conduct, Etiquette and Ethics) Regulations, 2002, clause 6.8 (inserted 2009); operative after the NMC 2023 regulations were held in abeyance on 23 August 2023. <https://www.delhimedicalcouncil.org/pdf/EthicsRegulations-2002.pdf>
+7. The Wire. NMC puts new guidelines on doctors’ ethics in abeyance; August 2023. <https://thewire.in/health/nmc-puts-new-guidelines-on-doctors-ethics-in-abeyance-after-imas-meeting-with-health-minister>
+8. National Medical Commission. Rules and Regulations (check for any replacement of the 2023 Registered Medical Practitioner conduct regulations, in abeyance since 23 August 2023). <https://www.nmc.org.in/rules-regulations-nmc/>
+9. Centers for Medicare & Medicaid Services. Open Payments: public reporting of industry payments to physicians and teaching hospitals. <https://www.cms.gov/files/document/physician-fact-sheetpdf>
+10. Centers for Medicare & Medicaid Services. Open Payments: Applicable Manufacturer Fact Sheet (annual reporting of consulting fees, honoraria, food, travel, research payments, royalties and ownership or investment interests paid to physicians and teaching hospitals). <https://www.cms.gov/files/document/applicable-manufacturer-fact-sheetpdf>
+11. Harvard Medical School. Policy on Conflicts of Interest and Commitment (2010 revision). <https://hms.harvard.edu/news/changes-conflicts-policy-heighten-transparency>
+12. Independent Medicines and Medical Devices Safety Review (chair Baroness Cumberlege). First Do No Harm; 8 July 2020. <https://www.immdsreview.org.uk/downloads/IMMDSReview_Web.pdf>
+13. CIOMS with WHO. International Ethical Guidelines for Health-related Research Involving Humans. 4th ed. Geneva; 2016 (Guideline 9 consent; Guideline 25 conflicts of interest). <https://cioms.ch/wp-content/uploads/2017/01/WEB-CIOMS-EthicalGuidelines.pdf>
+14. MRCT Center. Return of Aggregate Results to Participants: Guidance Document and Toolkit, v3.1; 2017. <https://mrctcenter.org/wp-content/uploads/2023/03/2017-12-07-MRCT-Return-of-Aggregate-Results-Toolkit-3.1.pdf>
+15. University of Cambridge Innovation and Entrepreneurship. How to Guide 3: Spinouts; 2024. <https://ie.cam.ac.uk/wp-content/uploads/2024/04/H2G-3-Spinouts_V2_ISSUU.pdf>
+16. University of Cambridge. Conflict of Interest Policy. <https://www.governanceandcompliance.admin.cam.ac.uk/files/conflict_of_interest_policy.pdf>
+17. Chao KZ, Riskin DJ, Krummel TM. A patient-centered, ethical approach to medical device innovation. Virtual Mentor (now AMA J Ethics). 2010;12(2):91–95. <https://journalofethics.ama-assn.org/article/patient-centered-ethical-approach-medical-device-innovation/2010-02>
+18. Burns L, Denend L, Zenios S. The Role of Physicians in Device Innovation: Critical Success Factor or Conflict of Interest? Stanford GSB case OIT105; 2011. <https://www.gsb.stanford.edu/faculty-research/case-studies/role-physicians-device-innovation-critical-success-factor-or-conflict>
+19. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+
+### Slide 24 · Who allows what, for which device?
+
+*Time: 0.25 min · deep-dive (75-min path)*
+
+**Core script (say this).** Part 3 is the deep module. India regulates devices under one Act from 1940 and one set of Rules from 2017. Four risk classes decide who licenses you, which form you file and how much evidence you need. We follow FoGO, a wearable that today holds only a test licence, along the whole path: test licence, clinical investigation, manufacturing licence, and the duties that never stop. The photograph is the FoGO ankle module under EMC pre-compliance testing in July 2026, one step on that path.
+
+**Purpose.** Orient the room: regulation is a sequence of permissions, each answering a different question about a device.
+
+**Say.** Three things to take from this part. First, classification: four classes, decided by intended use, invasiveness, duration and energy. Second, the licence map: which authority, which form, which fee. Third, the duties that follow a licence: quality system, labelling, vigilance, change control. We keep returning to FoGO because its status in October 2026 is exactly the kind of in-between state most student projects reach: a working prototype, a test licence, and no permission yet to test in patients.
+
+**Caution.** The photo shows equipment and a device module only; no patient or volunteer is pictured. EMC pre-compliance is an engineering test, not a certification.
+
+**Transition.** Start with the institutions: who is actually in the room when a device is licensed?
+
+**Sources.**
+
+1. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+2. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+
+### Slide 25 · India's regulatory architecture
+
+*Time: 1.5 min · core (40-min path)*
+
+**Core script (say this).** One Act, one set of Rules, many actors. The Drugs and Cosmetics Act 1940 treats a medical device as a 'drug'; since 1 April 2020 every device is notified. The Medical Devices Rules 2017 add four risk classes. Two licensing authorities share the work: the Central Licensing Authority at CDSCO, under the Drugs Controller General, licenses Class C and D manufacture, all imports, test licences and clinical investigations; the State Licensing Authorities license Class A and B manufacture and register sellers. Around them sit notified bodies that audit, testing labs, ethics committees and CTRI, the Materiovigilance Programme, BIS for standards and NPPA for prices.
+
+**Purpose.** Give the room a map of institutions before the forms, so that every later slide has an address.
+
+**Say.** Top tier: the Drugs and Cosmetics Act, 1940. Section 3(b) brings devices in as 'drugs' in three limbs: IVDs, dressings and blood bags; contraceptives and disinfectants; and devices notified by the Central Government. Until 11 February 2020 only 37 categories were notified; S.O. 648(E) then notified all devices from 1 April 2020.  
+Second tier: the Medical Devices Rules, 2017, G.S.R. 78(E) of 31 January 2017, in force 1 January 2018. Rule 4 classifies non-IVD devices by Part I of the First Schedule into Class A (low risk), B (low-moderate), C (moderate-high) and D (high); IVDs by Part II into the same four classes.  
+Third tier: who licenses. The Central Licensing Authority is CDSCO, headed by the DCGI in New Delhi, with a Medical Device and Diagnostics Division; its Medical Device Officers inspect Class C and D sites. CDSCO lists zonal, sub-zonal and port offices and seven laboratories. The State Licensing Authority is each State or UT Drugs Controller: Class A and B manufacturing licences, loan licences, and since Rule 87A (30 September 2022) registration of sellers and distributors in Form MD-42.  
+Fourth tier, the supporting cast. Notified bodies, registered under Rule 13 and accredited by NABCB, audit Class A and B sites for the Fifth Schedule QMS; the first two, Intertek India and TUV Rheinland India, were registered on 4 May 2018, later six. Testing: Rule 19 Central Medical Device Testing Laboratories (NIB Noida for IVDs, CDTL Chennai, CDL Kolkata, RDTL Guwahati, CDTL Mumbai) plus NABL labs; AMTZ in Visakhapatnam offers EMC, electrical-safety and biomaterial testing. Ethics committees registered with CDSCO approve studies, and CTRI registration precedes the first participant. MvPI at the Indian Pharmacopoeia Commission, Ghaziabad, has collected device adverse-event reports since 6 July 2015. BIS has about 1,200 device standards and IS 23485 bundles ISO 13485 with the Essential Principles. NPPA, under DPCO 2013, has capped stent and knee-implant prices and, in July 2021, trade margins on five home-use devices.
+
+**Ask / run.** Quick call-out: which of these bodies has FoGO already dealt with? (CDSCO for the MD-13 test licence; an EMC lab; next an ethics committee and CTRI.)
+
+**Caution.** '236 Medical Device Officers' and 'nine zonal offices' appear in search text but with uncertain dates; do not quote them as current. The number of notified bodies has grown since 2019; check the live CDSCO list. The Drugs, Medical Devices and Cosmetics Bill (2023 draft, criticised again by industry in August 2026) has not been enacted; the 1940 Act still governs.
+
+**Transition.** How did we get from a handful of notified devices to all of them? Ten dates.
+
+**Sources.**
+
+1. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+2. AZB Partners. Medical Devices Rules, 2017: State Licensing Authority for Class A and B manufacture; Central Licensing Authority for Class C and D and all imports; 1 April 2017. <https://azbpartners.com/bank/medical-devices-rules-2017>
+3. CDSCO. Notice on S.O. 648(E) of 11 February 2020 (all medical devices notified as drugs with effect from 1 April 2020) and G.S.R. 102(E). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/mdgsr.pdf>
+4. Conventus Law. India: CDSCO to regulate all medical devices; 27 March 2020 (MoHFW notifications of 11 February 2020 bringing all medical devices under s.3(b)(iv) of the Drugs and Cosmetics Act 1940 from 1 April 2020, and G.S.R. 102(E) inserting Chapter IIIA registration). <https://conventuslaw.com/report/india-cdsco-to-regulate-all-medical-devices-in/>
+5. Central Drugs Standard Control Organization. Introduction: headquarters under the DCGI, zonal, sub-zonal and port offices, laboratories. <https://cdsco.gov.in/opencms/opencms/en/About-us/Introduction/>
+6. CDSCO. FAQ on Medical Devices, 2018: Rule 13 notified bodies registered with the CLA audit Class A and B manufacturing sites (Fifth Schedule QMS); NABCB accreditation. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadImmunization/FAQmd2018.pdf>
+7. CDSCO. Public notice on notified bodies registered under Rule 13 of MDR-2017 (first registrations: Intertek India and TUV Rheinland India; later six bodies); 4 May 2018. <https://www.cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadPublic_NoticesFiles/notified_body_notice_70.pdf>
+8. Ministry of Health and Family Welfare. Gazette notification designating Central Medical Device Testing Laboratories under Rule 19 of MDR-2017: NIB Noida (IVDs), CDTL Chennai (condoms), CDL Kolkata (dressings, cotton, bandages, disinfectants), RDTL Guwahati (syringes, needles, perfusion sets, IV cannulae), CDTL Mumbai (IUDs, Falope rings); 2018. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadGazette_NotificationsFiles/2237.pdf>
+9. Andhra Pradesh MedTech Zone (AMTZ), Visakhapatnam: common labs for EMC and electrical-safety testing, biomaterials, 3D printing, lasers, gamma irradiation; hosts KIHT and the Medi Valley incubator (Wikipedia; TUV Rheinland NABL labs reported by BioSpectrum). <https://en.wikipedia.org/wiki/Andhra_Pradesh_Medtech_Zone>
+10. Ministry of Health and Family Welfare. New Drugs and Clinical Trials Rules, 2019 (ethics committee registration: Rules 7–8 with CDSCO; Rules 16–17 with DHR). <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/new_DC_rules/NEW%20DRUGS%20ANDctrS%20RULE,%202019.pdf>
+11. Indian Pharmacopoeia Commission. Materiovigilance Programme of India (MvPI): About us. Launched 6 July 2015; helpline 1800-180-3024; mvpi-ipc@gov.in. <https://ipc.gov.in/mandates/materiovigilance-programme-of-india-mvpi/about-us.html>
+12. Bureau of Indian Standards. BIS publishes IS 23485: Medical devices, quality management system requirements and essential principles of safety and performance (ISO 13485:2016 with ISO 16142-1:2016 and ISO 16142-2:2017). <https://www.bis.gov.in/bis-publishes-is-23485-medical-devices-quality-management-system-requirements-and-essential-principles-of-safety-performance-for-medical-devices>
+13. BioVoice News. Bureau of Indian Standards to develop standards for 214 critical medical devices by December 2025 (1,700+ medical standards, about 1,200 device-specific); 25 November 2024. <https://biovoicenews.com/bureau-of-indian-standards-to-develop-standards-for-214-critical-medical-devices-by-december-2025/>
+14. Medical Dialogues. NPPA asks for price movement details of orthopaedic implants; 2017 (devices are 'drugs' under the Drugs and Cosmetics Act 1940, so DPCO 2013 applies: Para 19 ceiling prices in extraordinary circumstances or public interest; Para 20 monitoring of non-scheduled MRPs so that no price rises more than 10% in any 12 months). <https://medicaldialogues.in/nppa-asks-for-price-movement-details-of-orthopedic-implants>
+15. Press Information Bureau. Government caps trade margin up to 70% on price-to-distributor for pulse oximeters, BP monitors, nebulisers, digital thermometers and glucometers; 13 July 2021 (91% of 684 brands cut MRP, by up to 88%). <https://www.pib.gov.in/PressReleasePage.aspx?PRID=1735430>
+16. SCC Online blog. Medical Devices (Fifth Amendment) Rules 2022, G.S.R. 754(E) of 30 September 2022: Rule 87A requires anyone selling, stocking, exhibiting or distributing medical devices to apply to the State Licensing Authority in Form MD-41 for a Registration Certificate in Form MD-42 (fee Rs 3,000; retention Rs 3,000). <https://www.scconline.com/blog/?p=274997>
+
+### Slide 26 · From a handful of notified devices to all of them
+
+*Time: 1 min · deep-dive (75-min path)*
+
+**Core script (say this).** Regulation arrived in phases. The 1940 Act treated devices as drugs; only 37 categories had been notified by 2020. The 2017 Rules brought four risk classes, in force from January 2018. On 1 April 2020 every device became regulated, with a registration window, then licences: Class A and B from October 2022, Class C and D from October 2023. In 2026 three documents matter: the software guidance of 21 July, the two amendments of 14 August on sterilisation labels, testing fees and EU approvals, and a draft that would shorten licence timelines.
+
+**Purpose.** Show that the system is young and still moving, so that teams check the current text rather than remembered rules.
+
+**Say.** 1940: the Drugs and Cosmetics Act; devices enter as 'drugs' under section 3(b). Notifications of specific devices began in the 2000s; by February 2020 there were 37 regulated categories such as syringes, stents, catheters, orthopaedic implants and heart valves (these were later excluded from the 2020 registration window because they already needed licences).  
+31 January 2017: G.S.R. 78(E), the Medical Devices Rules, in force 1 January 2018. S.O. 775(E) of 8 February 2019 notified all implants, CT, MRI, defibrillators, dialysis machines, PET, X-ray and bone-marrow separators from 1 April 2020; nebulisers, BP monitors, digital thermometers and glucometers followed from 1 January 2021.  
+11 February 2020: two notifications. S.O. 648(E) notified all devices from 1 April 2020; G.S.R. 102(E) inserted Chapter IIIA registration on the online system, voluntary for 18 months, mandatory from 1 October 2021, with the registration number on the label.  
+1 October 2022: licences mandatory for newly notified Class A and B devices (30 months after April 2020). The day before, G.S.R. 754(E) created Rule 87A: sellers and distributors register in MD-41/42 for Rs 3,000. Two weeks later G.S.R. 777(E) exempted Class A non-sterile, non-measuring devices from licensing in favour of registration.  
+26 April 2023: Cabinet approved the National Medical Devices Policy with a US$50 billion ambition for 2030.  
+1 October 2023: Class C and D licences mandatory (42 months); CDSCO's order of 12 October 2023 let applicants who had already filed continue for up to six months.  
+2026: the MDSW guidance (21 July); G.S.R. 743(E) and 744(E) (14 August); draft G.S.R. 515(E) (23 June) on timelines, and draft G.S.R. 883(E) (4 December 2025) on perpetual validity and a 'Reg. No.' label, neither reported final by 7 October 2026.
+
+**Caution.** The '2005' milestone comes from the storyboard; the facts files confirm only that 37 categories were notified before 2020. Say 'notifications began in the 2000s' rather than naming a count for 2005. S.O. 648(E) as the number of the 'all devices' notification is widely cited but not seen verbatim in the gazette by the research team. Check whether G.S.R. 515(E) or 883(E) has been finalised before the talk.
+
+**Transition.** Everything on this map depends on one question first: which class is your device?
+
+**Sources.**
+
+1. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+2. Conventus Law. India: CDSCO to regulate all medical devices; 27 March 2020 (MoHFW notifications of 11 February 2020 bringing all medical devices under s.3(b)(iv) of the Drugs and Cosmetics Act 1940 from 1 April 2020, and G.S.R. 102(E) inserting Chapter IIIA registration). <https://conventuslaw.com/report/india-cdsco-to-regulate-all-medical-devices-in/>
+3. CDSCO. Notice on S.O. 648(E) of 11 February 2020 (all medical devices notified as drugs with effect from 1 April 2020) and G.S.R. 102(E). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/mdgsr.pdf>
+4. LegitQuest. Medical Devices (Amendment) Rules, 2020, G.S.R. 102(E), 11 February 2020: Chapter IIIA registration of newly notified devices (voluntary 18 months from 1 April 2020, then mandatory); licences mandatory for Class A/B from 1 October 2022 and Class C/D from 1 October 2023. <https://www.legitquest.com/act/medical-devices-amendment-rules-2020/9813>
+5. SCC Online blog. Medical Devices (Fifth Amendment) Rules 2022, G.S.R. 754(E) of 30 September 2022: Rule 87A requires anyone selling, stocking, exhibiting or distributing medical devices to apply to the State Licensing Authority in Form MD-41 for a Registration Certificate in Form MD-42 (fee Rs 3,000; retention Rs 3,000). <https://www.scconline.com/blog/?p=274997>
+6. TeamLease RegTech. Medical Devices (Sixth Amendment) Rules, 2022, G.S.R. 777(E), 14 October 2022: Class A non-sterile, non-measuring devices registered online with an undertaking and a self-certified Essential Principles checklist; no manufacturing licence. <https://www.teamleaseregtech.com/updates/article/19622/medical-devices-sixth-amendment-rules-2022>
+7. CliniExperts. Licence applications for Class C and D medical devices deemed valid for up to 6 months (CDSCO order of 12 October 2023; no general extension of the 1 October 2023 date). <https://cliniexperts.com/regulatory-update/license-applications-for-class-c-and-d-medical-devices-deemed-valid-for-upto-6-months/>
+8. Cabinet approves the Policy for the Medical Devices Sector (National Medical Devices Policy 2023): about US$11 billion sector, US$50 billion target by 2030, six strategies; 26 April 2023 (reproduced at narendramodi.in). <https://narendramodi.in/cabinet-approves-the-policy-for-the-medical-devices-sector-569642>
+9. CDSCO. Guidance Document on Medical Device Software under the Medical Devices Rules, 2017 (CDSCO/MD/GD/MDSW/01/2026); 21 July 2026. <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-document-on-Medical-Device-Software-under-MDR-2017.pdf>
+10. Pure Global. India G.S.R. 743(E), Medical Devices (Second Amendment) Rules, 2026, 14 August 2026: Rule 44(p) sterilisation-site licence number on the label (mandatory 14 February 2027); 'Certificate of Registration' defined for Forms MD-2, MD-40 and MD-42; Ninth Schedule of testing fees under Rules 19 and 69. <https://www.pureglobal.com/news/india-gsr-743e-sterilisation-label-ninth-schedule-2026>
+11. Pure Global. India G.S.R. 744(E), Medical Devices (Third Amendment) Rules, 2026, 14 August 2026: 'or European Union countries' added to Rule 63(1) proviso (iv); Class A non-sterile non-measuring self-certification revised. <https://www.pureglobal.com/news/india-gsr-744e-eu-rule-63-class-a-qms-2026>
+12. S.S. Rana & Co. Medical Devices Rules: faster manufacturing licence approvals (draft G.S.R. 515(E), 23 June 2026; current Class C/D timeline up to 150 days; Class B up to 140 days per press reports); June 2026. <https://ssrana.in/articles/medical-devices-rules-faster-manufacturing-licence-approvals/>
+13. CliniExperts. MoHFW issues draft amendment to MDR-2017, G.S.R. 883(E), 4 December 2025: perpetual validity of Forms MD-2, MD-5, MD-6, MD-9, MD-10 and MD-15 subject to retention fees; new Form MD-44 for test or evaluation reports; registration number on Class A labels. <https://cliniexperts.com/regulatory-update/2025-12-04_-g-s-r-883e_draft-notification-for-amendment-in-medical-device-rules-2017/>
+
+### Slide 27 · Four risk classes decide the route
+
+*Time: 2 min · core (40-min path)*
+
+**Core script (say this).** Rule 4 and the First Schedule sort devices into four classes by intended use, invasiveness, duration of contact and whether the device is active. Class A: dressings, non-sterile gloves, a clinical thermometer. Class B: syringes, BP monitors, hearing aids, TENS systems. Class C: infusion pumps, X-ray and MRI, ventilators, dialysis machines. Class D: heart valves, pacemakers, coronary stents, IUDs. Class A and B are licensed by the State; C and D by CDSCO. FoGO proposes Class B. SwaKnee's class is to be confirmed: CDSCO's rehabilitation list puts deep-tissue electromagnetic stimulators in Class A, while the general rule for active therapeutic devices points to B.
+
+**Purpose.** Make classification a skill, not a lookup: the four rule families, then verified examples, then our two devices.
+
+**Say.** Walk the ladder left to right. The four rule families in Part I of the First Schedule: non-invasive devices (intact skin only is Class A; channelling or storing blood or body fluids moves to B); invasive devices, split by body orifice versus surgical entry and by transient, short-term or long-term contact, with long-term implants in C and D; active devices, where therapeutic energy delivery is usually B, hazardous energy or monitoring of vital physiological processes C; and special rules, for example devices incorporating a medicinal substance or non-viable animal tissue in Class D. IVDs use Part II.  
+CDSCO publishes device-wise lists so you rarely have to reason from scratch: on 3 September 2020 it classified about 1,866 non-notified devices in 24 categories (779 of them Class B) and 80 IVDs; a Class A list of 803 devices appeared in 2025; the cardiovascular and neurological list has 553 devices (25 A, 153 B, 151 C, 221 D); the merged specialty-wise list is dated 15 October 2025. Always check the list before you argue from the rules.  
+Our two devices. FoGO: an active wearable with software that drives a cue; the developer proposes Class B, which would mean a State licence with a notified-body audit. SwaKnee: the CDSCO rehabilitation list entry 'deep-tissue electromagnetic stimulation system' (electromagnetic field applied to tissues for musculoskeletal pain, no deep heat) is Class A, which would mean online registration only if it is non-sterile and non-measuring; the First Schedule rule for active therapeutic devices delivering energy would normally give Class B. The presenter should state SwaKnee's actual classification and licence status.
+
+**Ask / run.** Where would your own project sit, and which single fact about its intended use moves it up or down a class?
+
+**Caution.** Examples are from consultancy summaries that agree with each other, not from the gazette lists themselves. Known conflicts: artificial joints (Class C as 'orthopaedic implants' versus Class D in one list); digital thermometer (Class A per CDSCO's 2018 classification as reported by one source, Class B per another); nebulisers (B or C); condoms (B or C). The exact rule numbering of the First Schedule and the software rule were not verified against the official PDF. Do not present FoGO's or SwaKnee's class as a CDSCO decision.
+
+**Transition.** Class decides the route. Now the forms and fees on each route.
+
+**Sources.**
+
+1. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+2. Bhatt & Joshi Associates. Medical Device Regulations India 2026: CDSCO, MDR 2017, Compliance Guide (paraphrase of First Schedule Part I classification rules; consultancy source). <https://bhattandjoshiassociates.com/medical-device-regulation-in-india-a-comprehensive-overview/>
+3. Freyr Solutions. Classification of non-notified medical devices and IVDs in India: decoding CDSCO's notices of 3 September 2020 (about 1,866 devices in 24 categories, 80 IVDs in 3 categories; Class B 779 devices and 38 IVDs). <https://www.freyrsolutions.com/blog/classification-of-non-notified-medical-devices-and-ivds-in-india-decode-cdscos-new-notices>
+4. Medical Dialogues. Low-risk medical device makers get clarity: CDSCO publishes a Class A risk classification list (803 devices) under MDR 2017; 2025. <https://medicaldialogues.in/amp/news/industry/medical-devices/low-risk-medical-device-makers-get-clarity-cdsco-publishes-class-a-risk-classification-list-under-mdr-2017-158033>
+5. CDSCO. Merged specialty-wise risk classification list of medical devices, 15 October 2025: the canonical lookup for any example. <https://www.cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadPublic_NoticesFiles/MDmergeclassification15oct25.pdf>
+6. RegisterKaro. CDSCO guidelines for medical devices: examples by class (lists digital thermometer under Class B). <https://www.registerkaro.in/post/cdsco-guidelines-for-medical-devices>
+7. Corpseed. An overview of classification of medical devices by CDSCO (examples by class; licensing authority by class). <https://corpseed.com/knowledge-centre/classification-of-medical-devices-by-cdsco-in-india>
+8. Agile Regulatory. CDSCO classification of medical devices: 2026 update (Class B examples; coronary stent as Class D). <https://www.agileregulatory.com/blogs/cdsco-classification-of-medical-devices-2026-update>
+9. Morulaa. Rehabilitation equipment categorisation parameters, quoting CDSCO's rehabilitation classification list: 'deep-tissue electromagnetic stimulation system' (applies an electromagnetic field to treat musculoskeletal disorders or pain, no deep heat) listed as Class A; 'arthritis TENS system' Class B. Consultancy transcription; verify in the official CDSCO PDF. <https://morulaa.com/knowledge-hub/regulations/india/cdsco-medical-device-classification-rehabilitation>
+10. Freyr Solutions. SaMD regulation in India: CDSCO classification (Class A–D) and registration requirements (consultancy reading; examples by class). <https://www.freyrsolutions.com/blog/samd-regulation-in-india-cdsco-classification-class-a-d-registration-requirements-emerging-market-strategy>
+11. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+
+### Slide 28 · Which licence, from which authority, with which form
+
+*Time: 2 min · core (40-min path)*
+
+**Core script (say this).** Each Indian permission answers a different question. A test licence, MD-12 to MD-13, lets you make units for testing; they cannot be sold. Clinical-investigation permission, MD-22 to MD-23, with ethics approval and CTRI registration, lets you test in people. A manufacturing licence lets you sell for the intended use: MD-3 to MD-5 from the State for Class A and B, MD-7 to MD-9 from CDSCO for C and D. Imports are always central, MD-14 to MD-15. Sellers register with the State in MD-41 to MD-42. Fees: Rs 5,000 per site plus Rs 500 per device for A and B; Rs 50,000 plus Rs 1,000 for C and D. FoGO today holds an MD-13 test licence for 25 units.
+
+**Purpose.** Give a practical map of the Indian route, anchored in a real project (ported from v1 slide 17).
+
+**Say.** Read the table by row. Manufacture: Class A non-sterile, non-measuring devices register online with an Essential Principles self-certification (G.S.R. 777(E), 14 October 2022); sterile or measuring Class A and all Class B apply in MD-3 for an MD-5 licence from the State; Class C and D apply in MD-7 for an MD-9 licence from the Central Licensing Authority. Loan licences, for making at someone else's licensed site, mirror this: MD-4/MD-6 (State) and MD-8/MD-10 (Central; the 2019 amendment G.S.R. 188(E) made the CLA the issuer). Import: one route for every class, MD-14 to MD-15, filed by the Indian authorised agent. Test licences: MD-12 to MD-13 to make, MD-16 to MD-17 to import, for clinical investigation, test, evaluation, examination, demonstration or training; MD-13 is valid for three years. Clinical investigation: MD-22 with Seventh Schedule documents, permission in MD-23 from the CLA, plus a registered ethics committee. A device with no predicate in India goes through Rule 63, MD-26 to MD-27, where approval abroad can shorten the evidence path. Sale, stocking and distribution: MD-41 to MD-42 from the State under Rule 87A, Rs 3,000, with a ten-day deemed grant.  
+Fees are in the Second Schedule: Rs 5,000 per site plus Rs 500 per distinct device for Class A/B manufacturing or loan licences; Rs 50,000 plus Rs 1,000 for Class C/D; import licences in US dollars, $1,000, $2,000 or $3,000 per site plus $50, $1,000 or $1,500 per device for A, B and C/D; MD-13 Rs 500 per device; MD-17 $100 per device; notified-body registration Rs 25,000. Licences are perpetual: pay the retention fee, the same amount, every five years.  
+FoGO today: MD-13 test licence for 25 units (10 August 2026) after IEC 60601-1-2 EMC pre-compliance testing in July 2026. Next: MD-22, ethics approval, CTRI registration.
+
+**Ask / run.** 'Where is Ramesh's device on this path today?' Then: which single form would your own project file next?
+
+**Debrief points.** International comparison, for Indian teams: in the US the sponsor proposes and the IRB decides whether a device study is significant or non-significant risk (FDA is the final arbiter); significant-risk studies need an investigational device exemption (21 CFR 812), then 510(k), De Novo or PMA. In the EU, notified-body CE marking is followed by post-market clinical follow-up under MDR 2017/745, with transition deadlines to 2027–2028 and a targeted revision proposed in December 2025. Clinical investigations everywhere follow ISO 14155 (2026 edition). Rules differ; the ethical duties do not. A licence is not proof of benefit: among US cardiovascular devices with Class I recalls in 2013–2022, only 19.1% had any premarket clinical testing (Kadakia et al. 2024). Rule 51(2) waives the clinical-investigation fee for government-run or government-funded institutions.
+
+**Caution.** Simplified overview; device class, study purpose and specific exemptions determine the route. The clinical-investigation fee is not shown because sources conflict (one consultancy quotes Rs 1,00,000; memory suggests Rs 25,000–50,000 by class): verify in the CDSCO fee file. IVD import fees differ and were not verified. The late-fee and deemed-cancellation figures come from secondary coverage of CDSCO notices. FoGO's 'Class B (proposed)' is the developer's proposal.
+
+**Transition.** Permission does not mean people can use it. But first, what does getting the manufacturing licence actually involve?
+
+**Sources.**
+
+1. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+2. CDSCO. Regulatory pathway under the Medical Devices Rules, 2017 (overview). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/RegulatoryMDR-2017.pdf>
+3. CDSCO. Form MD-12: application for licence to manufacture medical devices for clinical investigation, test, evaluation, examination, demonstration or training (licence in Form MD-13). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/12MD.pdf>
+4. CDSCO. Form MD-22: application for permission to conduct clinical investigation (permission in Form MD-23). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/22MD.pdf>
+5. CDSCO. Form MD-14: application for licence to import medical devices (licence in Form MD-15; Central Licensing Authority; Rules 34–36). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/14MD.pdf>
+6. TeamLease RegTech. Medical Devices (Sixth Amendment) Rules, 2022, G.S.R. 777(E), 14 October 2022: Class A non-sterile, non-measuring devices registered online with an undertaking and a self-certified Essential Principles checklist; no manufacturing licence. <https://www.teamleaseregtech.com/updates/article/19622/medical-devices-sixth-amendment-rules-2022>
+7. SCC Online blog. Medical Devices (Fifth Amendment) Rules 2022, G.S.R. 754(E) of 30 September 2022: Rule 87A requires anyone selling, stocking, exhibiting or distributing medical devices to apply to the State Licensing Authority in Form MD-41 for a Registration Certificate in Form MD-42 (fee Rs 3,000; retention Rs 3,000). <https://www.scconline.com/blog/?p=274997>
+8. CDSCO Medical Device online portal. Fee help file (Second Schedule, MDR-2017): manufacturing licence Class A/B Rs 5,000 per site + Rs 500 per device; Class C/D Rs 50,000 + Rs 1,000; test licence Rs 500 per device. <https://cdscomdonline.gov.in/NewMedDev/resources/app_srv/NMD/global/helpfiles/nmd_fee.pdf/>
+9. Lawrbit. Medical device import licence India procedure: Form MD-14 to MD-15; fees US$1,000 (A), $2,000 (B), $3,000 (C/D) per site plus $50 / $1,000 / $1,500 per device. <https://www.lawrbit.com/industry-specific/medical-device-import-license-india-procedure/>
+10. Corpbiz. Grant of test licence for manufacture under MDR-2017: Form MD-12 application, Form MD-13 licence, for clinical investigation, test, evaluation, examination, demonstration or training. <https://corpbiz.io/learning/grant-of-test-license-for-manufacture-under-mdr-2017/>
+11. LegalRaasta. From lab to clinic: the role of MD-22 and MD-23 (test licence MD-13 valid for 3 years from issue). <https://www.legalraasta.com/blog/role-md-22-md-23-medical-devices-market/>
+12. Operon Strategist. India waives local trials: exemption for investigational devices with EU clearance (Rule 63, Form MD-26 → MD-27; approval by US, UK, Australia, Canada, Japan or EU regulators and 2 years' marketing; post-marketing investigation in India); 2026. <https://operonstrategist.com/exemption-for-investigational-medical-devices-eu-approval/>
+13. Lawrbit. Class A and B medical device manufacturing licence in India: MD-3 → MD-5; licence valid indefinitely subject to the retention fee every 5 years. <https://www.lawrbit.com/industry-specific/class-a-b-medical-device-manufacturing-license-india/>
+14. Lexplosion. Stakeholders in the medical devices sector urged by CDSCO to ensure timely payment of retention fees to maintain validity of licences and certificates (late fee 2% a month; deemed cancellation after 180 days for manufacturing and 90 days for import licences); 2024. <https://lexplosion.in/stakeholders-in-medical-devices-sector-urged-by-cdsco-to-ensure-timely-payment-of-retention-fees-to-maintain-validity-of-licenses-and-certificates/>
+15. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+16. US FDA. Information Sheet: Significant Risk and Nonsignificant Risk Medical Device Studies (21 CFR 812). <https://www.fda.gov/files/about%20fda/published/Significant-Risk-and-Nonsignificant-Risk-Medical-Device-Studies---Information-Sheet.pdf>
+17. Regulation (EU) 2017/745 on medical devices, Art. 61 and Annex XIV Part B (post-market clinical follow-up); transition extended to 2027/2028 by Regulation (EU) 2023/607. <https://eur-lex.europa.eu/eli/reg/2017/745/2023-03-20>
+18. European Commission. Proposal for a targeted revision of the medical device regulations, COM(2025) 1023 final, 16 December 2025 (under negotiation). <https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52025PC1023>
+19. ISO 14155:2026. Clinical investigation of medical devices for human subjects — Good clinical practice (supersedes ISO 14155:2020). <https://www.iso.org/standard/83968.html>
+20. Kadakia KT, et al. Class I recalls of cardiovascular devices between 2013 and 2022: a cross-sectional analysis. Ann Intern Med. 2024;177(11) (19.1% had premarket clinical testing). <https://www.acpjournals.org/doi/10.7326/ANNALS-24-00724>
+
+### Slide 29 · The route to a manufacturing licence
+
+*Time: 1.5 min · core (40-min path)*
+
+**Core script (say this).** Five steps. Build a quality management system to the Fifth Schedule, which follows ISO 13485. Apply on the CDSCO portal: MD-3 to the State for Class A and B, MD-7 to CDSCO for C and D. Then the check: Class A is licensed on documents and audited afterwards; Class B is audited by a notified body before grant; Class C and D are inspected by CDSCO officers. The licence, MD-5 or MD-9, is perpetual. Keep it by paying the retention fee every five years and by staying compliant; Rule 43A allows suspension or cancellation. Fees: Rs 5,000 plus Rs 500 per device for A/B; Rs 50,000 plus Rs 1,000 for C/D.
+
+**Purpose.** Turn 'get a licence' into a sequence with owners, durations and costs.
+
+**Say.** Step 1, the QMS. The Fifth Schedule is modelled on ISO 13485; BIS has published IS 23485, which merges ISO 13485:2016 with the Essential Principles standards ISO 16142-1 and -2, so one Indian standard covers both. An ISO 13485 certificate is not a statutory precondition, but notified bodies and CDSCO expect the system to be aligned, and firms already certified get shorter, cheaper audits under CDSCO's notified-body fee schedule. Start-ups are quoted three to six months and Rs 3–8 lakh for certification; that is a consultancy estimate.  
+Step 2, the application on cdscomdonline.gov.in: MD-3 or MD-7 with site and device details and the Essential Principles checklist.  
+Step 3, the check. Class A: the State grants within 45 days on document scrutiny, and the notified body audits within 120 days of grant. Class B: the notified body must audit within 90 days of the application, before the State decides. Class C and D: CDSCO causes an inspection by Medical Device Officers within 60 days (Rule 23(1)) and decides within 45 days of the inspection report (Rule 21(4)).  
+Step 4, the licence: MD-5 or MD-9; no renewal application, ever.  
+Step 5, keep it: the retention fee equals the original fee and falls due every five years; late payment attracts 2% a month and a manufacturing licence is deemed cancelled after 180 days unpaid (90 days for an import licence). Rule 43A, inserted in 2022, lets the authority suspend or cancel after a show-cause notice.  
+Timelines in practice: the draft amendment G.S.R. 515(E) of 23 June 2026 proposes cutting the Class B route from 140 to 115 days (State scrutiny and notified-body assignment within 30 days, audit within 30, non-conformity closure check within 20, report within 15, decision within 20) and Class C/D from 105 to 90 days; it was not reported final by 7 October 2026. The Parliamentary Standing Committee on Health (170th report, 16 March 2025) criticised CDSCO delays and opaque licensing, said firms had relocated to Vietnam and Malaysia, and recommended a trackable, time-bound system with conditional approval in 45 days.
+
+**Caution.** Sources conflict on the current Class C/D end-to-end timeline: S.S. Rana says 'up to 150 days' falling to 105; The Tribune and Business Standard say 105 falling to 90. The slide uses the latter (the confirmed press figures); say 'about 105 days today' with that caveat. Rule sub-numbers for the Class A and B day limits were not verified. The 4–5 month figure is a consultancy estimate, not a statutory limit.
+
+**Transition.** Most devices Indians use are not made here. What does an importer do, and when can a foreign approval help?
+
+**Sources.**
+
+1. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+2. Bureau of Indian Standards. BIS publishes IS 23485: Medical devices, quality management system requirements and essential principles of safety and performance (ISO 13485:2016 with ISO 16142-1:2016 and ISO 16142-2:2017). <https://www.bis.gov.in/bis-publishes-is-23485-medical-devices-quality-management-system-requirements-and-essential-principles-of-safety-performance-for-medical-devices>
+3. CliniExperts. ISO 13485 for Indian medical device manufacturers: Fifth Schedule QMS; a certificate is not a statutory precondition but audits expect alignment. <https://cliniexperts.com/iso-13485-for-indian-medical-device-manufacturers-what-it-means-for-cdsco-compliance/>
+4. IncorpX. ISO 13485 certification: about Rs 3–8 lakh and 3–6 months for an Indian device start-up (consultancy estimate). <https://www.incorpx.io/iso-13485-certification>
+5. CDSCO. Public notice on the Medical Device online system (cdscomdonline.gov.in) for MDR-2017 applications: licences, registrations, test licences and clinical investigations. <https://www.cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadPublic_NoticesFiles/fmd.pdf>
+6. Applied Clinical Trials. New regulations for medical devices in India: Class A licence within 45 days with audit within 120 days after grant; Class B notified-body audit within 90 days before grant; 2017. <https://www.appliedclinicaltrialsonline.com/view/new-regulations-medical-devices-india>
+7. S.S. Rana & Co. Medical Devices Rules: faster manufacturing licence approvals (draft G.S.R. 515(E), 23 June 2026; current Class C/D timeline up to 150 days; Class B up to 140 days per press reports); June 2026. <https://ssrana.in/articles/medical-devices-rules-faster-manufacturing-licence-approvals/>
+8. Asia Actual. India proposes targeted amendments to the Medical Devices Rules: draft G.S.R. 515(E), 23 June 2026, cuts manufacturing-licence timelines from 140 to 115 days (Class B) and 105 to 90 days (Class C and D); objections within 30 days. <https://asiaactual.com/blog/india-proposes-targeted-amendments-to-medical-devices-rules/>
+9. Lawrbit. Class A and B medical device manufacturing licence in India: MD-3 → MD-5; licence valid indefinitely subject to the retention fee every 5 years. <https://www.lawrbit.com/industry-specific/class-a-b-medical-device-manufacturing-license-india/>
+10. CDSCO Medical Device online portal. Fee help file (Second Schedule, MDR-2017): manufacturing licence Class A/B Rs 5,000 per site + Rs 500 per device; Class C/D Rs 50,000 + Rs 1,000; test licence Rs 500 per device. <https://cdscomdonline.gov.in/NewMedDev/resources/app_srv/NMD/global/helpfiles/nmd_fee.pdf/>
+11. Lexplosion. Stakeholders in the medical devices sector urged by CDSCO to ensure timely payment of retention fees to maintain validity of licences and certificates (late fee 2% a month; deemed cancellation after 180 days for manufacturing and 90 days for import licences); 2024. <https://lexplosion.in/stakeholders-in-medical-devices-sector-urged-by-cdsco-to-ensure-timely-payment-of-retention-fees-to-maintain-validity-of-licenses-and-certificates/>
+12. Lexplosion. Ministry of Health amends MDR 2017: Rule 43A prescribes suspension and cancellation of a licence for non-compliance (Third Amendment Rules, 2022). <https://lexplosion.in/ministry-of-health-amends-the-medical-devices-rules-2017-prescribes-suspension-and-cancellation-of-licence-for-manufacturer-or-licensee-for-failure-to-comply-with-conditions-of-an-import-license-ef/>
+13. Business Standard. House panel flags licensing delays forcing medical device firms abroad (Standing Committee on Health, 170th report, 16 March 2025; time-bound conditional approval in 45 days recommended). <https://www.business-standard.com/health/house-panel-flags-licensing-delays-forcing-medical-device-firms-abroad-125031300999_1.html>
+14. Corpseed. CDSCO MD-5 licence for Class A and B medical device manufacturing (fees; 4–5 month consultancy estimate including the notified-body audit). <https://www.corpseed.com/knowledge-centre/cdsco-md-5-license-for-class-a-and-b-medical-devices-manufacturing>
+
+### Slide 30 · Importing, registering and relying on foreign approvals
+
+*Time: 1 min · deep-dive (75-min path)*
+
+**Core script (say this).** Imports are central. An Indian authorised agent applies in MD-14 for an MD-15 licence, for every class; fees are in US dollars; CDSCO must decide within nine months. The lightest route is for Class A non-sterile, non-measuring devices: no licence, just registration on the online system with a self-certified Essential Principles checklist. And a shortcut: for a device with no predicate in India, CDSCO may waive the local clinical investigation if the device is approved in the US, UK, Australia, Canada, Japan or, from August 2026, the EU, and has been marketed there for two years, provided a post-marketing study is done in India.
+
+**Purpose.** Cover the two routes most student projects forget: importing components or finished devices, and the registration-only route; then show how foreign approvals are used.
+
+**Say.** Import, Rules 34–36. The Indian authorised agent or importer files MD-14 on the Medical Device online system; one route for Class A to D; the overseas manufacturing site may be inspected. Fees per site plus per distinct device: Class A $1,000 + $50; Class B $2,000 + $1,000; Class C or D $3,000 + $1,500. The CLA must grant, or record reasons for refusing, within nine months; practitioners quote six to nine. MD-15 is perpetual, with the retention fee every five years and only a 90-day grace period. Test imports for study, demonstration or training use MD-16 to MD-17 at $100 per device. Rule 38: any withdrawal, restriction or cancellation abroad must be reported to CDSCO within 15 calendar days.  
+Class A non-sterile, non-measuring (G.S.R. 777(E), 14 October 2022): upload the site name and address, the device details, an undertaking that the device is Class A NSNM, and a self-certified Essential Principles checklist; the portal issues a registration number that goes on the label. The December 2025 draft would allow 'Reg. No.' wording on labels, and G.S.R. 744(E) of August 2026 revised the QMS self-certification. A sterile or measuring Class A device, such as a thermometer, still needs an MD-5 licence.  
+Reliance, Rule 63: a device with no predicate in India applies in MD-26 for permission in MD-27. The fourth proviso lets the CLA waive the local clinical investigation when the device is approved by the US, UK, Australian, Canadian or Japanese regulator, and since G.S.R. 744(E) (14 August 2026) by EU countries, has been marketed there for at least two years, and CDSCO is satisfied with safety, performance and post-market data; a post-marketing clinical investigation in India remains a condition.
+
+**India adaptation.** Why it matters for an Indian team: about 70% of what India uses is imported (Parliamentary Standing Committee, March 2024), US$8.18 billion in FY2023-24. An importer is a licence holder with the same vigilance and labelling duties as a manufacturer. Conversely, an Indian start-up that first wins CE marking or FDA clearance, as Dozee and SMT did, can use Rule 63 to shorten its home evidence path, but not to skip it.
+
+**Caution.** A free-sale certificate from the country of origin is commonly required with MD-14 but was not verified in the facts files; check the CDSCO checklist. IVD import fees differ from the device fees shown. The 9-month limit is Rule 36 as reported by consultancies; the sub-rule was not verified.
+
+**Transition.** Whichever route you take, the licence comes with eight duties that never stop.
+
+**Sources.**
+
+1. CDSCO. Form MD-14: application for licence to import medical devices (licence in Form MD-15; Central Licensing Authority; Rules 34–36). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/14MD.pdf>
+2. Corpseed. Permission to import medical devices, Form MD-14 and Form MD-15: Central Licensing Authority decides within 9 months; 6 to 9 months in practice. <https://www.corpseed.com/knowledge-centre/permission-to-import-medical-devices-form-md-14-and-form-md-15>
+3. Lawrbit. Medical device import licence India procedure: Form MD-14 to MD-15; fees US$1,000 (A), $2,000 (B), $3,000 (C/D) per site plus $50 / $1,000 / $1,500 per device. <https://www.lawrbit.com/industry-specific/medical-device-import-license-india-procedure/>
+4. CDSCO Medical Device online portal. Fee help file (Second Schedule, MDR-2017): manufacturing licence Class A/B Rs 5,000 per site + Rs 500 per device; Class C/D Rs 50,000 + Rs 1,000; test licence Rs 500 per device. <https://cdscomdonline.gov.in/NewMedDev/resources/app_srv/NMD/global/helpfiles/nmd_fee.pdf/>
+5. Lexplosion. Stakeholders in the medical devices sector urged by CDSCO to ensure timely payment of retention fees to maintain validity of licences and certificates (late fee 2% a month; deemed cancellation after 180 days for manufacturing and 90 days for import licences); 2024. <https://lexplosion.in/stakeholders-in-medical-devices-sector-urged-by-cdsco-to-ensure-timely-payment-of-retention-fees-to-maintain-validity-of-licenses-and-certificates/>
+6. Navigator Global. India educational series: medical device registration and post-market compliance (PSUR every 6 months for 2 years, then annually for 2 years). Single consultancy source. <https://navigator.global/gb/library/india-educational-series-medical-device-registration-and-post-market-compliance>
+7. TeamLease RegTech. Medical Devices (Sixth Amendment) Rules, 2022, G.S.R. 777(E), 14 October 2022: Class A non-sterile, non-measuring devices registered online with an undertaking and a self-certified Essential Principles checklist; no manufacturing licence. <https://www.teamleaseregtech.com/updates/article/19622/medical-devices-sixth-amendment-rules-2022>
+8. CliniExperts. MoHFW issues draft amendment to MDR-2017, G.S.R. 883(E), 4 December 2025: perpetual validity of Forms MD-2, MD-5, MD-6, MD-9, MD-10 and MD-15 subject to retention fees; new Form MD-44 for test or evaluation reports; registration number on Class A labels. <https://cliniexperts.com/regulatory-update/2025-12-04_-g-s-r-883e_draft-notification-for-amendment-in-medical-device-rules-2017/>
+9. Pure Global. India G.S.R. 744(E), Medical Devices (Third Amendment) Rules, 2026, 14 August 2026: 'or European Union countries' added to Rule 63(1) proviso (iv); Class A non-sterile non-measuring self-certification revised. <https://www.pureglobal.com/news/india-gsr-744e-eu-rule-63-class-a-qms-2026>
+10. Operon Strategist. India waives local trials: exemption for investigational devices with EU clearance (Rule 63, Form MD-26 → MD-27; approval by US, UK, Australia, Canada, Japan or EU regulators and 2 years' marketing; post-marketing investigation in India); 2026. <https://operonstrategist.com/exemption-for-investigational-medical-devices-eu-approval/>
+11. ETV Bharat. Parliamentary panel raps Ministry of Chemicals and Fertilizers for import of high-end medical devices (about 70% of requirement imported); 11 March 2024. <https://www.etvbharat.com/en/!bharat/parliamentary-panel-raps-ministry-of-chemical-and-fertilizer-for-import-of-high-end-medical-devices-enn24031105786>
+12. Medical Buyer. Amid domestic push, India imported medical devices worth $8.18B in FY24; 2024. <https://medicalbuyer.co.in/amid-domestic-push-india-imported-medical-devices-worth-8-18b-in-fy24/>
+
+### Slide 31 · Eight duties that never stop
+
+*Time: 1.25 min · core (40-min path)*
+
+**Core script (say this).** A licence is a promise to keep doing eight things. Conform to the Essential Principles and keep the checklist current. Run the Fifth Schedule quality system and pass audits. Label to Rule 44, and from February 2027 add the sterilisation site's licence number. Prepare for Unique Device Identification, whose start date is still to be notified. Conform to BIS standards, then ISO or IEC. Keep records that trace every unit by batch, serial and software version. Control changes, with prior approval for major ones. And report: serious adverse events within 15 days, regulatory action abroad within 15 days, everything to MvPI. In the middle sits the licence itself: perpetual, but suspendable under Rule 43A.
+
+**Purpose.** Show that regulation continues after approval; each card names the rule and the evidence an inspector will ask to see.
+
+**Say.** Go round the ring. Essential Principles: every device must conform to the Essential Principles of safety and performance (cited as Rule 6) and a checklist is filed with every application; Class A NSNM manufacturers self-certify it. QMS: the Fifth Schedule, aligned with ISO 13485, now mirrored by IS 23485; notified bodies audit A and B sites, CDSCO inspects C and D. Labelling: Rule 44 requires, in indelible ink on the shelf pack and every outer cover, the device name, the manufacturer's name and site address, net quantity, month and year of manufacture and expiry, the licence number and the Fourth Schedule declarations; G.S.R. 743(E) adds clause (p): where sterilisation is outsourced, the sterilisation site's licence number preceded by 'Ster. Mfg. Lic. No.' or 'S.M.L.', mandatory from 14 February 2027. UDI: Rule 46 originally fixed 1 January 2022; G.S.R. 918(E) of 31 December 2021 replaced it with a date to be notified, and none has been fixed. Standards: Rule 7 points to BIS standards, then standards notified by the Ministry, then ISO/IEC, then the manufacturer's validated standards; BIS has about 1,200 device standards and committed to standards for 214 critical devices; testing and evaluation fees now sit in a Ninth Schedule. Records and traceability: batch or serial number and software version for every unit; newly notified devices carry their registration number on the label; sellers hold MD-42. Change control: the MDSW guidance expects version control, validation and documented change management, with an Algorithm Change Protocol where applicable; post-approval changes are filed on the portal, major ones for prior approval and minor ones by notification (single-source; verify). Vigilance: serious adverse events reported within 15 days; Rule 38 requires regulatory action abroad to be reported within 15 calendar days; CDSCO's circular of 15 May 2024 told all licence holders to report every suspected unexpected serious adverse event to MvPI.  
+In the centre, the licence: perpetual, retention fee every five years, and Rule 43A (2022) for suspension or cancellation after show-cause.
+
+**Ask / run.** Pick one card: what document would you show an inspector tomorrow? (Most teams can show a label and a test report; few can show a change log.)
+
+**Caution.** Rule numbers 6, 7 and 47 and the full Rule 44 list come partly from memory of the Rules text, which could not be fetched; verify against the consolidated MDR-2017 PDF before quoting a rule number. The major/minor change distinction is from one vendor blog. Shelf-life limits (Rule 47) are omitted for the same reason.
+
+**Transition.** One of those duties, evidence in people, deserves its own slide: the clinical investigation.
+
+**Sources.**
+
+1. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+2. Medical Devices Rules, 2017: full text (IIT Madras mirror PDF), for checking rule numbers. <https://www.iitm.ac.in/sites/default/files/Others/medicaldevicesrules2017.pdf>
+3. TeamLease RegTech. Medical Devices (Sixth Amendment) Rules, 2022, G.S.R. 777(E), 14 October 2022: Class A non-sterile, non-measuring devices registered online with an undertaking and a self-certified Essential Principles checklist; no manufacturing licence. <https://www.teamleaseregtech.com/updates/article/19622/medical-devices-sixth-amendment-rules-2022>
+4. Bureau of Indian Standards. BIS publishes IS 23485: Medical devices, quality management system requirements and essential principles of safety and performance (ISO 13485:2016 with ISO 16142-1:2016 and ISO 16142-2:2017). <https://www.bis.gov.in/bis-publishes-is-23485-medical-devices-quality-management-system-requirements-and-essential-principles-of-safety-performance-for-medical-devices>
+5. Cyril Amarchand Mangaldas. Decoding India's dual framework for medical device labelling (Rule 44 particulars; Rule 46); February 2025. <https://corporate.cyrilamarchandblogs.com/2025/02/double-check-decoding-indias-dual-framework-for-medical-device-labelling/>
+6. Pure Global. India G.S.R. 743(E), Medical Devices (Second Amendment) Rules, 2026, 14 August 2026: Rule 44(p) sterilisation-site licence number on the label (mandatory 14 February 2027); 'Certificate of Registration' defined for Forms MD-2, MD-40 and MD-42; Ninth Schedule of testing fees under Rules 19 and 69. <https://www.pureglobal.com/news/india-gsr-743e-sterilisation-label-ninth-schedule-2026>
+7. SCC Online. Draft Medical Devices (Amendment) Rules 2021 introduces unique device identification (Rule 46; final G.S.R. 918(E), 31 December 2021 deferred the 1 January 2022 start date until further orders). <https://www.scconline.com/blog/post/2021/12/24/draft-medical-devices-amendment-rules-2021-introduces-unique-device-identification-of-the-medical-device/>
+8. BioVoice News. Bureau of Indian Standards to develop standards for 214 critical medical devices by December 2025 (1,700+ medical standards, about 1,200 device-specific); 25 November 2024. <https://biovoicenews.com/bureau-of-indian-standards-to-develop-standards-for-214-critical-medical-devices-by-december-2025/>
+9. CDSCO. Guidance Document on Medical Device Software under the Medical Devices Rules, 2017 (CDSCO/MD/GD/MDSW/01/2026); 21 July 2026. <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-document-on-Medical-Device-Software-under-MDR-2017.pdf>
+10. Qualio. CDSCO registration India 2026 update: major (prior approval) versus minor (notification) post-approval changes. Single vendor source; verify. <https://www.qualio.com/blog/cdsco-registration-india-2026-update>
+11. Navigator Global. India educational series: medical device registration and post-market compliance (PSUR every 6 months for 2 years, then annually for 2 years). Single consultancy source. <https://navigator.global/gb/library/india-educational-series-medical-device-registration-and-post-market-compliance>
+12. Business Standard. Medical device bodies welcome CDSCO order on self-reporting adverse effects; 21 May 2024 (CDSCO circular of 15 May 2024: all medical-device licence holders must report every suspected unexpected serious adverse event to the Materiovigilance Programme of India). <https://www.business-standard.com/health/medical-device-bodies-welcome-cdsco-order-on-self-reporting-adverse-effects-124052101276_1.html>
+13. Lexplosion. Ministry of Health amends MDR 2017: Rule 43A prescribes suspension and cancellation of a licence for non-compliance (Third Amendment Rules, 2022). <https://lexplosion.in/ministry-of-health-amends-the-medical-devices-rules-2017-prescribes-suspension-and-cancellation-of-licence-for-manufacturer-or-licensee-for-failure-to-comply-with-conditions-of-an-import-license-ef/>
+14. Lexplosion. Stakeholders in the medical devices sector urged by CDSCO to ensure timely payment of retention fees to maintain validity of licences and certificates (late fee 2% a month; deemed cancellation after 180 days for manufacturing and 90 days for import licences); 2024. <https://lexplosion.in/stakeholders-in-medical-devices-sector-urged-by-cdsco-to-ensure-timely-payment-of-retention-fees-to-maintain-validity-of-licenses-and-certificates/>
+
+### Slide 32 · Clinical investigation under MDR-2017
+
+*Time: 1.5 min · core (40-min path)*
+
+**Core script (say this).** Chapter VII governs testing in people. The sponsor makes study units under an MD-13 test licence and assembles the Seventh Schedule dossier: investigation plan, investigator's brochure, design controls, verification and validation, Essential Principles checklist, consent form, investigator undertaking. A registered ethics committee approves the protocol and consent. CDSCO reviews Form MD-22 and grants permission in MD-23. The study is registered on CTRI before the first participant. Then the pilot, exploratory and first-in-human, and the pivotal, confirmatory, with serious-event reporting and compensation for injury. Two shortcuts: Rule 63 can waive the local study for devices approved abroad; an academic study of an already licensed device has a lighter route.
+
+**Purpose.** Make the four actors and their order visible, so that teams stop treating 'ethics approval' and 'CDSCO permission' as the same thing.
+
+**Say.** Follow the lanes. Sponsor: units built under the MD-12 to MD-13 test licence (FoGO's 25 units); the Seventh Schedule dossier with Form MD-22. Ethics committee: the CDSCO checklist for MD-22 includes the EC approval, so the committee, registered with CDSCO, comes first; ethics-committee registration follows the New Drugs and Clinical Trials Rules 2019. CDSCO: the Central Licensing Authority reviews MD-22 and permits in MD-23. CTRI: register before enrolment. Back to the sponsor: run the pilot, the exploratory first-in-human study in a small group, then the pivotal, the confirmatory study; report serious adverse events, provide free medical management and compensation for study-related injury, and submit the final report. ISO 14155:2026 is the international good-clinical-practice standard for device studies; ICMR's 2017 guidelines (section 7.7) cover device trials in India.  
+Exemptions: Rule 63's fourth proviso lets CDSCO waive the local investigation for a device approved in the US, UK, Australia, Canada, Japan or, since G.S.R. 744(E), the EU, marketed there at least two years, with a post-marketing investigation in India. An 'academic clinical study' of an already licensed device, with ethics approval and data not used for marketing, is the lighter route described in the v1 notes; the NDCT Rules 2019 define the concept for drugs (EC approval plus intimation; CLA may object within 30 days) and whether MDR-2017 has an equivalent clause must be checked in the text. Rule 51(2) waives the fee for government institutions.
+
+**Ask / run.** 'Where is FoGO on this swimlane today?' Answer: lane 1, box 1; nothing in the other three lanes yet. Then: what would you need to move it to box 2?
+
+**Caution.** Timelines for serious adverse event reporting during a study (24 hours to sponsor, EC and CLA; 14 days for the sponsor's analysis) and the compensation formula mirror the NDCT Rules and were not verified against MDR-2017 Rules 50–62; say 'report within hours, analyse within days' until checked. One consultancy's 'pilot 3–5 patients, pivotal 10–50' is not in the Rules. The clinical-investigation fee is unverified. IVD performance-evaluation forms (MD-24/25) are from memory.
+
+**Transition.** FoGO's cue is triggered by software. When the software is the device, CDSCO has a 2026 guidance.
+
+**Sources.**
+
+1. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+2. CDSCO. Form MD-22: application for permission to conduct clinical investigation (permission in Form MD-23). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/22MD.pdf>
+3. CDSCO. Checklist for Form MD-22 (clinical investigation): Seventh Schedule documents including the clinical investigation plan, investigator's brochure, design verification and validation report, Essential Principles checklist, informed consent form, investigator undertaking and ethics committee approval. <https://www.cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/ChecklisFormMD-22MD.pdf>
+4. Corpbiz. Process of application for clinical investigation under MDR 2017 (pilot and pivotal definitions; Form MD-22 to the CLA). <https://corpbiz.io/learning/process-of-application-for-clinical-investigation-under-mdr-2017/>
+5. CDSCO. Form MD-12: application for licence to manufacture medical devices for clinical investigation, test, evaluation, examination, demonstration or training (licence in Form MD-13). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/12MD.pdf>
+6. Ministry of Health and Family Welfare. New Drugs and Clinical Trials Rules, 2019 (ethics committee registration: Rules 7–8 with CDSCO; Rules 16–17 with DHR). <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/new_DC_rules/NEW%20DRUGS%20ANDctrS%20RULE,%202019.pdf>
+7. Indian Council of Medical Research. National Ethical Guidelines for Biomedical and Health Research Involving Human Participants. New Delhi: ICMR; 2017 (Section 5 informed consent; Section 6 vulnerability; Section 7.7 device trials). <https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf>
+8. ISO 14155:2026. Clinical investigation of medical devices for human subjects — Good clinical practice (supersedes ISO 14155:2020). <https://www.iso.org/standard/83968.html>
+9. Operon Strategist. India waives local trials: exemption for investigational devices with EU clearance (Rule 63, Form MD-26 → MD-27; approval by US, UK, Australia, Canada, Japan or EU regulators and 2 years' marketing; post-marketing investigation in India); 2026. <https://operonstrategist.com/exemption-for-investigational-medical-devices-eu-approval/>
+10. Pure Global. India G.S.R. 744(E), Medical Devices (Third Amendment) Rules, 2026, 14 August 2026: 'or European Union countries' added to Rule 63(1) proviso (iv); Class A non-sterile non-measuring self-certification revised. <https://www.pureglobal.com/news/india-gsr-744e-eu-rule-63-class-a-qms-2026>
+11. Vidhi Centre for Legal Policy. Comments on the draft clinical trials rules (the 'academic clinical trial' concept, now in NDCT Rules 2019); 23 March 2018. <https://vidhilegalpolicy.in/wp-content/uploads/2020/07/180323_CommentsonClinicalTrialsRules.pdf>
+12. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+
+### Slide 33 · When the software is the device
+
+*Time: 1.25 min · deep-dive (75-min path)*
+
+**Core script (say this).** CDSCO's Guidance Document on Medical Device Software, issued 21 July 2026, covers software as a device, software in a device, connected and cloud systems, AI and IVD software. Class follows three criteria: the medical purpose, how far the output drives a clinical decision, and how serious the condition is. It then asks for lifecycle documentation, verification and validation per version, cybersecurity, documented change control, with an Algorithm Change Protocol where applicable, and post-market reporting by version. For FoGO the app runs the detection model and fires the cue, so it is classified with the device; every result must carry a firmware and model version, and a threshold change is a design change.
+
+**Purpose.** Show that software obligations are lifecycle obligations, and that the class depends on what the output drives.
+
+**Say.** The guidance, CDSCO/MD/GD/MDSW/01/2026, 62 pages, says it interprets the Rules rather than adding a new control. Classification by three criteria, which the grid shows: significance of the information (inform, drive, or treat and diagnose) against severity of the situation (non-serious, serious, critical), plus whether a medical purpose is stated at all. A consultancy reading of CDSCO's SaMD approach gives examples: software that only analyses data retrospectively, Class A; software giving real-time patient parameters without diagnosis, such as a home ECG display, Class B; software that informs diagnosis or treatment, Class C; and software that drives a device takes the device's class. Calling a product 'wellness' does not remove obligations when the real purpose is medical.  
+Lifecycle: intended purpose and classification; documentation of requirements, architecture and versions with an ISO 14971 risk file; verification and validation per version, with clinical evidence sized to the claim; cybersecurity and data protection (the DPDP Rules 2025 apply to the app's gait logs); change control, with an Algorithm Change Protocol where applicable; post-market logs by version. The US FDA's predetermined change control plan guidance (December 2024) is the comparable idea abroad: pre-specified modifications with a validation protocol, not a blank cheque.  
+FoGO: the app reads the 100 Hz ankle stream, runs the model, confirms a freeze in two of three windows (debounce) and fires the chest cue; the developer proposes Class B for the system. A threshold change trades sensitivity for specificity, so version 2 needs its own evidence.
+
+**India adaptation.** Portals and licensing authorities for software follow the device rules: a Class B SaMD would be licensed by the State with a notified-body audit, a Class A by registration.
+
+**Caution.** The cell-by-cell mapping of the grid to Classes A–D is not in the facts files; the grid shows the criteria and an illustrative placement of the FoGO app, not CDSCO's table. The standards the guidance cites (IEC 62304, IEC 81001-5-1 and others) were not confirmed. The draft guidance of 21 October 2025 is listed in refs.js but its content was not verified.
+
+**Transition.** After the licence, the work continues: adverse events, PSURs, recalls.
+
+**Sources.**
+
+1. CDSCO. Guidance Document on Medical Device Software under the Medical Devices Rules, 2017 (CDSCO/MD/GD/MDSW/01/2026); 21 July 2026. <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-document-on-Medical-Device-Software-under-MDR-2017.pdf>
+2. CDSCO. Draft Guidance Document on Medical Device Software; 21 October 2025. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadPublic_NoticesFiles/Draft%20guidance%20document%20on%20Medical%20Device%20Software%2021%2010%202025.pdf>
+3. Pure Global. India CDSCO Medical Device Software Guidance 2026: classification by medical purpose, significance of the information and severity of the condition; lifecycle, cybersecurity and AI change-planning expectations (secondary summary of CDSCO/MD/GD/MDSW/01/2026). <https://www.pureglobal.com/news/india-cdsco-medical-device-software-guidance-2026>
+4. Freyr Solutions. SaMD regulation in India: CDSCO classification (Class A–D) and registration requirements (consultancy reading; examples by class). <https://www.freyrsolutions.com/blog/samd-regulation-in-india-cdsco-classification-class-a-d-registration-requirements-emerging-market-strategy>
+5. US FDA. Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions. Final guidance, December 2024 (revised version reported August 2025). <https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-submission-recommendations-predetermined-change-control-plan-artificial-intelligence>
+6. ISO 14971:2019. Medical devices — Application of risk management to medical devices. <https://www.iso.org/standard/72704.html>
+7. Ministry of Electronics and Information Technology. Digital Personal Data Protection Rules, 2025 (notified November 2025; phased commencement). <https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/nov/doc20251117695301.pdf>
+8. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+9. Simon DA, Shachar C, Cohen IG. Unsettled liability issues for 'prediagnostic' wearables and health-related products. JAMA. 2022;328:1391. <https://hls.harvard.edu/bibliography/unsettled-liability-issues-for-prediagnostic-wearables-and-health-related-products>
+
+### Slide 34 · Post-market duties and materiovigilance
+
+*Time: 1.25 min · core (40-min path)*
+
+**Core script (say this).** Suppose Ramesh falls after a missed cue. Follow the loop: care for him; record the device, serial number and software version; report, to MvPI on the adverse-event form and, as a licence holder, to CDSCO within 15 days; investigate the root cause; correct, with a fix or a recall notified on the FSCA form; follow up the person and the fix, and summarise in periodic safety update reports, six-monthly for two years and then yearly for two. MvPI was launched on 6 July 2015 at the Indian Pharmacopoeia Commission; 174 monitoring centres file almost all reports, 35,391 of them between 2018 and 2024. In the DePuy hip case, about 4,700 Indians had the implant and only 882 could be traced.
+
+**Purpose.** Make post-market responsibility concrete, with Indian windows and Indian numbers.
+
+**Say.** The loop. Care first. Record: device identity, serial, software version, context, outcome. Report: the Medical Device Adverse Event form, version 1.2, is open to manufacturers, importers, distributors, clinicians and patients; helpline 1800-180-3024; mvpi-ipc@gov.in. Licence holders must report serious adverse events within 15 days, and Rule 38 requires any regulatory action abroad to reach CDSCO within 15 calendar days; CDSCO's circular of 15 May 2024 made clear that every licence holder reports suspected unexpected serious adverse events to MvPI. In a study, the sponsor and ethics committee are told too. Investigate: root cause, trend across units, update the ISO 14971 risk file. Correct: corrective and preventive action, a label or software fix, or a recall notified to MvPI on the Field Safety Corrective Action form; MDR-2017 has no detailed stand-alone recall procedure, which commentators call a gap. Follow up: the person, the fix, and the PSUR cadence, every six months for the first two years after approval and annually for the next two.  
+MvPI numbers: launched 6 July 2015 at IPC Ghaziabad, the National Coordination Centre, with NHSRC technical support; 174 Medical Device Adverse Event Monitoring Centres in hospitals and colleges (about 2022, still growing); reports rose from 40 in 2015 to 897 in 2019; 1,931 reports between July 2015 and October 2019, 1,277 serious; a 2026 analysis counts 35,391 device-related reports between 2018 and 2024. Monitoring centres file 96.91% of reports; manufacturers and patients barely report. Reforms: DCGI revisions of 4 November 2024; an expert committee under MvPI in March 2025; the NMC's July 2025 direction that every medical college form a committee to track device adverse events.  
+The Indian case: CDSCO's December 2013 alert on the DePuy ASR hip after about 4,700 surgeries in India; only about 882 patients were traceable; the import licence was cancelled; the compensation formula of Rs 30 lakh to Rs 1.23 crore came in November 2018.
+
+**Ask / run.** Who in your team owns each of the six steps? Name a person, not a role.
+
+**Caution.** The PSUR cadence comes from one consultancy source and the rule carrying it was not identified (believed to be a condition of Rule 63 permissions); the 15-day SAE window likewise rests on licence conditions. Report counts come from studies with different periods; say 'tens of thousands'. The 174-centre figure is from about 2022. Avoid a blanket instruction to stop a needed device; safety decisions need clinical assessment.
+
+**Transition.** Put it all together for one real device: FoGO on the Indian path.
+
+**Sources.**
+
+1. Indian Pharmacopoeia Commission. Materiovigilance Programme of India (MvPI): About us. Launched 6 July 2015; helpline 1800-180-3024; mvpi-ipc@gov.in. <https://ipc.gov.in/mandates/materiovigilance-programme-of-india-mvpi/about-us.html>
+2. Indian Pharmacopoeia Commission. Medical Device Adverse Event Reporting Form, version 1.2 (open to manufacturers, importers, distributors, healthcare professionals and patients). <https://nhsrcindia.org/sites/default/files/Medical-Devices-Adverse-Event-Reporting-Form-(Version-1.2).pdf>
+3. Indian Pharmacopoeia Commission. Launch of the Materiovigilance Programme of India (MvPI) at IPC Ghaziabad, 6 July 2015. <https://ipc.gov.in/mandates/materiovigilance-programme-of-india-mvpi/8-category-en/432-launch-of-materiovigilance-programme-of-india-mvpi.html>
+4. Navigator Global. India educational series: medical device registration and post-market compliance (PSUR every 6 months for 2 years, then annually for 2 years). Single consultancy source. <https://navigator.global/gb/library/india-educational-series-medical-device-registration-and-post-market-compliance>
+5. Business Standard. Medical device bodies welcome CDSCO order on self-reporting adverse effects; 21 May 2024 (CDSCO circular of 15 May 2024: all medical-device licence holders must report every suspected unexpected serious adverse event to the Materiovigilance Programme of India). <https://www.business-standard.com/health/medical-device-bodies-welcome-cdsco-order-on-self-reporting-adverse-effects-124052101276_1.html>
+6. Implementation of adverse event reporting for medical devices, India. Bulletin of the World Health Organization (PMC7047028): 1,931 reports July 2015–October 2019, 1,277 serious. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7047028/>
+7. Materiovigilance Programme of India: current status and way forward. Indian Journal of Pharmacology; 2022 (174 Medical Device Adverse Event Monitoring Centres in hospitals and medical colleges; voluntary reporting; 40 reports in 2015 rising to 897 in 2019). <https://www.ovid.com/jnls/iphr/fulltext/10.4103/ijp.ijp_837_21~materiovigilance-programme-of-india-current-status-and-way>
+8. The Silent Signals of Device Defects: a retrospective study of adverse events in common medical devices in India. Springer; 2026 (35,391 device-related reports, 2018–2024). <https://link.springer.com/article/10.1007/s44174-026-00666-5>
+9. Study of adverse events associated with the use of medical devices reported under MvPI in a tertiary care teaching hospital (PMC12883217): monitoring centres generate 96.91% of reports. <https://pmc.ncbi.nlm.nih.gov/articles/PMC12883217/>
+10. Pacific Bridge Medical. India's medical device regulations: a 2025 update (MvPI revisions of 4 November 2024; expert committee, March 2025; NMC directive to medical colleges, 15 July 2025). <https://www.pacificbridgemedical.com/publication/india-medical-device-regulations-2025-update/>
+11. Mondaq. Reassessing India's Medical Device Recall Framework: Regulatory Gaps and the Case for Reform; 2025 (CDSCO medical device alert on the DePuy ASR hip implant, December 2013, after about 4,700 surgeries in India; import licence cancelled under the Drugs and Cosmetics Act 1940; MDR-2017 has no stand-alone recall procedure). <https://www.mondaq.com/reassessing-india's-medical-device-recall-framework-regulatory-gaps-and-the-case-for-reform/1751304>
+12. Press Information Bureau. Health Ministry approves compensation formula for hip implant cases (Central Expert Committee; base amount Rs 20 lakh adjusted for disability and age); 29 November 2018. <https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1554266>
+13. CDSCO. Draft Guidance on Post Market Surveillance of Medical Devices; 2018. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadPublic_NoticesFiles/2Draft%20Guidance%20on%20PMS.pdf>
+14. ISO 14971:2019. Medical devices — Application of risk management to medical devices. <https://www.iso.org/standard/72704.html>
+
+### Slide 35 · FoGO on the Indian path
+
+*Time: 1.5 min · core (40-min path)*
+
+**Core script (say this).** Here is where a real Class B (proposed) wearable stands on 7 October 2026. Done: three prototype iterations between January 2024 and June 2025; EMC pre-compliance testing to IEC 60601-1-2 in July 2026; a CDSCO test licence, Form MD-13, for 25 units on 10 August 2026. Next: ethics approval, the MD-22 application and MD-23 permission, CTRI registration, then the proof-of-concept study with AIIMS Bhubaneswar, proposed as an 18-month BIRAC BIG project that is still under review. After the study: the quality system and an MD-3 application to the State for an MD-5 licence. Everything to the right of 'today' is planned, and the durations are estimates.
+
+**Purpose.** Anchor the whole part in one real project so the forms become a sequence with dates.
+
+**Say.** Left of the marker, demonstrated. The alpha prototype went through three iterations; its detection model reports subject-wise F1 of 0.83–0.85 on public datasets. In July 2026 the ankle module was tested for electromagnetic compatibility to IEC 60601-1-2; pre-compliance means an engineering check, not a certificate. On 10 August 2026 CDSCO granted a test licence in Form MD-13 for 25 units, for evaluation with AIIMS Bhubaneswar and AMTZ. MD-13 lets you make units for clinical investigation, test, evaluation, demonstration or training; it costs Rs 500 per device, is valid for three years, and the units cannot be sold.  
+Right of the marker, planned. Ethics approval from a committee registered with CDSCO, with consent in Odia and Hindi. The MD-22 application with the Seventh Schedule dossier; permission in MD-23; the fee is to be verified and is waived for government institutions under Rule 51(2). CTRI registration before the first participant. The proof-of-concept study, IDEAL stages 1–2a, with AIIMS Bhubaneswar neurology and rehabilitation advisers, proposed as an 18-month BIRAC BIG project; the proposal is under review, so the study is not yet funded, approved or permitted. After the study, if the evidence supports the claim: the Fifth Schedule QMS, an MD-3 application to the State, a notified-body audit, and an MD-5 licence at Rs 5,000 per site plus Rs 500 per device; consultancies quote four to five months.  
+Costs and durations on the slide are estimates: ISO 13485 certification three to six months and Rs 3–8 lakh; the planned price of Rs 27,000 plus a Rs 3–4,000 annual service plan is a plan, not a market result.
+
+**Ask / run.** Which of the 'next' boxes is the real bottleneck for your own project, and who owns it?
+
+**Evidence status.** Demonstrated: prototype function, EMC pre-compliance, MD-13 test licence (25 units). Planned: ethics approval, MD-23, CTRI, proof-of-concept, MD-5. Not established: clinical benefit, long-term safety, fair performance across groups.
+
+**Caution.** '2027 (est.)' and 'after study' are the author's estimates, not commitments. Class B is the developer's proposal. The presenter is FoGO's founder (disclosed in Part 0); invite the room to challenge every claim here. Do not describe the EMC test as certification or the MD-13 as permission to treat anyone.
+
+**Transition.** Now you classify. Four devices, ninety seconds.
+
+**Sources.**
+
+1. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+2. CDSCO. Form MD-12: application for licence to manufacture medical devices for clinical investigation, test, evaluation, examination, demonstration or training (licence in Form MD-13). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/12MD.pdf>
+3. CDSCO. Form MD-22: application for permission to conduct clinical investigation (permission in Form MD-23). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/22MD.pdf>
+4. Corpbiz. Grant of test licence for manufacture under MDR-2017: Form MD-12 application, Form MD-13 licence, for clinical investigation, test, evaluation, examination, demonstration or training. <https://corpbiz.io/learning/grant-of-test-license-for-manufacture-under-mdr-2017/>
+5. LegalRaasta. From lab to clinic: the role of MD-22 and MD-23 (test licence MD-13 valid for 3 years from issue). <https://www.legalraasta.com/blog/role-md-22-md-23-medical-devices-market/>
+6. CDSCO Medical Device online portal. Fee help file (Second Schedule, MDR-2017): manufacturing licence Class A/B Rs 5,000 per site + Rs 500 per device; Class C/D Rs 50,000 + Rs 1,000; test licence Rs 500 per device. <https://cdscomdonline.gov.in/NewMedDev/resources/app_srv/NMD/global/helpfiles/nmd_fee.pdf/>
+7. Lawrbit. Class A and B medical device manufacturing licence in India: MD-3 → MD-5; licence valid indefinitely subject to the retention fee every 5 years. <https://www.lawrbit.com/industry-specific/class-a-b-medical-device-manufacturing-license-india/>
+8. Corpseed. CDSCO MD-5 licence for Class A and B medical device manufacturing (fees; 4–5 month consultancy estimate including the notified-body audit). <https://www.corpseed.com/knowledge-centre/cdsco-md-5-license-for-class-a-and-b-medical-devices-manufacturing>
+9. IncorpX. ISO 13485 certification: about Rs 3–8 lakh and 3–6 months for an Indian device start-up (consultancy estimate). <https://www.incorpx.io/iso-13485-certification>
+10. McCulloch P, Altman DG, Campbell WB, et al. No surgical innovation without evaluation: the IDEAL recommendations. Lancet. 2009;374:1105–1112 (IDEAL Collaboration; 2019 update adds Pre-IDEAL). <https://www.ideal-collaboration.net/the-ideal-framework/>
+11. Ministry of Health and Family Welfare. New Drugs and Clinical Trials Rules, 2019 (ethics committee registration: Rules 7–8 with CDSCO; Rules 16–17 with DHR). <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/new_DC_rules/NEW%20DRUGS%20ANDctrS%20RULE,%202019.pdf>
+
+### Slide 36 · Classify these four devices
+
+*Time: 2 min · core (40-min path) · Activity: Tables assign class and licence; reveal*
+
+**Core script (say this).** Four devices, ninety seconds per table: the class, the authority, the form. A digital thermometer. A pulsed electromagnetic field device for the knee. A wearable with an app that cues. A coronary stent. Use the three questions: does it enter the body and for how long; is it active; what does the label claim. One of these is a trap.
+
+**Purpose.** Apply the rules; surface the common errors (Class A still needs a licence if it measures; software drives class; implants in the central circulation are Class D).
+
+**Say.** Read the four cards; do not hint. Give tables 90 seconds, then ask each table for one device.
+
+**Ask / run.** Reveal in this order. 1. Digital thermometer: likely Class A (CDSCO's classification of the devices notified in December 2018 reportedly put the digital thermometer in Class A; one consultancy lists it as Class B, so verify in the merged list of 15 October 2025). The trap: it measures, so it is not a non-sterile, non-measuring Class A device and cannot use registration only; it needs a State licence, MD-3 to MD-5, with a notified-body audit, either way. It has been regulated as a 'drug' since 1 January 2021 and NPPA capped its trade margin in July 2021. 2. PEMF knee device: likely Class A per the CDSCO rehabilitation list entry 'deep-tissue electromagnetic stimulation system'; the First Schedule rule for active therapeutic devices delivering energy would suggest Class B. If Class A and non-sterile, non-measuring: online registration only; if Class B: State MD-5 with audit. Class to be confirmed; the presenter should state SwaKnee's actual position. 3. Wearable plus app that cues: an active device with software that drives an action; FoGO proposes Class B, consistent with the consultancy reading that software giving real-time parameters without diagnosis is Class B; the software takes the device's class (verify). State licence MD-3 to MD-5; the MDSW guidance applies to the app; today it holds only an MD-13 test licence. 4. Coronary stent: Class D, a long-term implant in contact with the central circulatory system; Central Licensing Authority, MD-7 to MD-9, Rs 50,000 per site plus Rs 1,000 per device; licensed since 2018 as a pre-2020 notified device; and NPPA's ceiling price for a drug-eluting stent is Rs 39,186.03 from 1 April 2026.
+
+**Debrief points.** Two lessons. The class decides the authority, but the exemptions have their own tests: 'non-sterile, non-measuring' is a separate question from 'Class A'. And software moves class: the same sensor sold as a step counter and as a freezing-of-gait detector are different devices.
+
+**Caution.** Say 'likely' for the thermometer and the PEMF device: sources conflict and the facts files flag both for verification in the CDSCO merged list. The stent's Class D rests on consistent consultancy sources and the First Schedule rule, not on the gazette list text.
+
+**Transition.** Finally, the ecosystem that pays for and tests all this.
+
+**Sources.**
+
+1. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+2. Operon Strategist. Examples of medical device classifications (digital and clinical thermometers cited as Class A). <https://operonstrategist.com/examples-of-medical-device-classifications/>
+3. RegisterKaro. CDSCO guidelines for medical devices: examples by class (lists digital thermometer under Class B). <https://www.registerkaro.in/post/cdsco-guidelines-for-medical-devices>
+4. Goa FDA notifications page: S.O. 5980(E) notifying nebulisers, blood-pressure monitors, digital thermometers and glucometers as drugs, effective 1 January 2021 (number and date to verify). <https://dfda.goa.gov.in/category/notifications/page/3/>
+5. Press Information Bureau. Government caps trade margin up to 70% on price-to-distributor for pulse oximeters, BP monitors, nebulisers, digital thermometers and glucometers; 13 July 2021 (91% of 684 brands cut MRP, by up to 88%). <https://www.pib.gov.in/PressReleasePage.aspx?PRID=1735430>
+6. TeamLease RegTech. Medical Devices (Sixth Amendment) Rules, 2022, G.S.R. 777(E), 14 October 2022: Class A non-sterile, non-measuring devices registered online with an undertaking and a self-certified Essential Principles checklist; no manufacturing licence. <https://www.teamleaseregtech.com/updates/article/19622/medical-devices-sixth-amendment-rules-2022>
+7. Morulaa. Rehabilitation equipment categorisation parameters, quoting CDSCO's rehabilitation classification list: 'deep-tissue electromagnetic stimulation system' (applies an electromagnetic field to treat musculoskeletal disorders or pain, no deep heat) listed as Class A; 'arthritis TENS system' Class B. Consultancy transcription; verify in the official CDSCO PDF. <https://morulaa.com/knowledge-hub/regulations/india/cdsco-medical-device-classification-rehabilitation>
+8. Freyr Solutions. SaMD regulation in India: CDSCO classification (Class A–D) and registration requirements (consultancy reading; examples by class). <https://www.freyrsolutions.com/blog/samd-regulation-in-india-cdsco-classification-class-a-d-registration-requirements-emerging-market-strategy>
+9. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+10. CDSCO. Guidance Document on Medical Device Software under the Medical Devices Rules, 2017 (CDSCO/MD/GD/MDSW/01/2026); 21 July 2026. <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-document-on-Medical-Device-Software-under-MDR-2017.pdf>
+11. Agile Regulatory. CDSCO classification of medical devices: 2026 update (Class B examples; coronary stent as Class D). <https://www.agileregulatory.com/blogs/cdsco-classification-of-medical-devices-2026-update>
+12. Corpseed. An overview of classification of medical devices by CDSCO (examples by class; licensing authority by class). <https://corpseed.com/knowledge-centre/classification-of-medical-devices-by-cdsco-in-india>
+13. Medical Dialogues. NPPA revises coronary stent prices: drug-eluting stents Rs 39,186.03 and bare-metal stents Rs 10,762.15 per unit (exclusive of GST) from 1 April 2026; March 2026. <https://medicaldialogues.in/news/industry/medical-devices/nppa-revises-coronary-stent-prices-des-at-rs-39186-and-bms-at-rs-10762-from-april-2026-168192>
+14. CDSCO. Merged specialty-wise risk classification list of medical devices, 15 October 2025: the canonical lookup for any example. <https://www.cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadPublic_NoticesFiles/MDmergeclassification15oct25.pdf>
+
+### Slide 37 · Where India builds devices
+
+*Time: 1.25 min · deep-dive (75-min path)*
+
+**Core script (say this).** India imports about 70% of its devices, US$8.18 billion in FY2023-24, and exports about US$4.1 billion. Policy is trying to change that. The National Medical Devices Policy of April 2023 set a US$50 billion target for 2030. The PLI scheme, Rs 3,420 crore, had 27 projects and 54 products in production by March 2025. Four medical device parks share Rs 400 crore. PRIP puts Rs 5,000 crore into research; a Rs 500 crore scheme from November 2024 funds clusters, skills and clinical studies. AMTZ in Visakhapatnam tests EMC and electrical safety under one roof; BIRAC's Ignition Grant gives up to Rs 50 lakh; MedTech Mitra hand-holds innovators; and FoGO is incubated at KIIT TBI in Bhubaneswar.
+
+**Purpose.** Close the part with where to find money, testing and help, on a map the audience lives in.
+
+**Say.** The map. Four medical device parks under the 2021 scheme (Rs 400 crore, up to Rs 100 crore per park, 70% of common-infrastructure cost, 90% in hill and north-eastern states): Himachal Pradesh, Tamil Nadu, Madhya Pradesh and Uttar Pradesh. Andhra Pradesh MedTech Zone in Visakhapatnam: NABL-accredited EMC and biomaterial labs run by TUV Rheinland, electrical-safety testing, 3D printing, lasers, gamma irradiation, the Kalam Institute of Health Technology and the Medi Valley incubator. Odisha: KIIT's technology business incubator, where FoGO sits.  
+The schemes. NMDP 2023 (Cabinet, 26 April 2023): the sector at about US$11 billion, target US$50 billion by 2030, six strategies, from regulatory streamlining to an export promotion council. PLI for medical devices: Rs 3,420 crore, FY2020-21 to FY2027-28, 5% on incremental sales for five years in four segments (cancer care and radiotherapy; radiology, imaging and nuclear imaging; anaesthetics and cardio-respiratory; implants); by March 2025, 27 projects, 14 of them MSMEs, Rs 1,153 crore invested, 21 greenfield plants, 54 products from linear accelerators to C-arms, eligible sales Rs 10,413 crore including Rs 5,002 crore exports. PRIP: Rs 5,000 crore for industry-academia R&D. The Scheme for Strengthening the Medical Device Industry (November 2024, Rs 500 crore): common facilities for clusters Rs 110 crore, marginal investment to cut import dependence Rs 180 crore, skills Rs 100 crore, clinical-studies support Rs 100 crore, promotion Rs 10 crore. The Export Promotion Council for Medical Devices, 22 September 2022, at YEIDA, Greater Noida. BIRAC BIG: up to Rs 50 lakh for 18 months, calls twice a year. MedTech Mitra: ICMR with CDSCO, under NITI Aayog guidance, for clinical evaluation and regulatory facilitation.  
+The numbers: about 70% imported (Standing Committee, March 2024), over US$25 billion in five years to FY2024-25; exports US$4.1 billion in FY2024-25 to 187 countries, up from US$2.5 billion; India holds about 1.5% of the world market and the government talks of 10–12% in 25 years.
+
+**Ask / run.** Which of these has your project applied to, and which test at AMTZ would you book first?
+
+**Caution.** Park town names (Nalagarh, Oragadam, Ujjain, YEIDA) are from memory and consultancy text, so the map labels use states only. PLI and park figures come from press reports of PIB backgrounders that could not be opened; confirm before printing. Market-size estimates vary widely by source and scope; cite the source and year. The 4,108 licensed manufacturers figure is from a single blog and is not on the slide. KIIT TBI's role comes from the presenter's own disclosure.
+
+**Transition.** That is India. In the next part we compare: what do the FDA, the EU and other regulators ask, and what does it mean for an Indian team?
+
+**Sources.**
+
+1. Cabinet approves the Policy for the Medical Devices Sector (National Medical Devices Policy 2023): about US$11 billion sector, US$50 billion target by 2030, six strategies; 26 April 2023 (reproduced at narendramodi.in). <https://narendramodi.in/cabinet-approves-the-policy-for-the-medical-devices-sector-569642>
+2. Invest India. PLI Scheme for Medical Devices: unleashing the potential (Rs 3,420 crore; FY2020-21 to FY2027-28; 5% incentive; four target segments). <https://investindia.gov.in/blogs/pli-scheme-medical-devices-unleashing-potential-make-india-make-world>
+3. Indian Pharma Post. India's medical devices PLI scheme attracts Rs 1,153 crore investment, 27 projects approved, 54 products in production; 2025. <https://www.indianpharmapost.com/policy/indias-medical-devices-pli-scheme-attracts-rs-1153-crore-investment-27-projects-approved-21113>
+4. Business Standard. Centre notifies scheme for promotion of medical device parks (Rs 400 crore; up to Rs 100 crore per park; Himachal Pradesh, Tamil Nadu, Madhya Pradesh, Uttar Pradesh); 24 September 2021. <https://www.business-standard.com/article/economy-policy/centre-notifies-scheme-for-promotion-of-medical-device-parks-121092401048_1.html>
+5. Vikaspedia. Scheme for Strengthening the Medical Device Industry; Promotion of Research and Innovation in Pharma MedTech (PRIP), Rs 5,000 crore; 2024. <https://en.vikaspedia.in/viewcontent/health/nrhm/scheme-for-strengthening-the-medical-device-industry?lgn=en>
+6. BioSpectrum India. Government launches the Scheme for Strengthening the Medical Device Industry (Rs 500 crore; five sub-schemes including clinical-studies support of Rs 100 crore); November 2024. <https://biospectrumindia.com/news/22/25334/govt-launches-scheme-for-strengthening-medical-device-industry.html>
+7. Seair Exim. Central Government launched the Export Promotion Council for Medical Devices, 22 September 2022, headquartered at YEIDA, Greater Noida. <https://seair.co.in/exim-news/central-government-launched-export-promotion-council-for-medical-devices.aspx>
+8. Andhra Pradesh MedTech Zone (AMTZ), Visakhapatnam: common labs for EMC and electrical-safety testing, biomaterials, 3D printing, lasers, gamma irradiation; hosts KIHT and the Medi Valley incubator (Wikipedia; TUV Rheinland NABL labs reported by BioSpectrum). <https://en.wikipedia.org/wiki/Andhra_Pradesh_Medtech_Zone>
+9. India Science, Technology and Innovation portal. Biotechnology Ignition Grant (BIG): up to Rs 50 lakh for 18 months for individual innovators and start-ups. <https://www.indiascienceandtechnology.gov.in/programme-schemes/biotechnology-ignition-grant-scheme-big-0>
+10. ICMR. About MedTech Mitra: hand-holding for innovators on clinical evaluation, regulatory facilitation and uptake, run with CDSCO under NITI Aayog guidance. <https://medtechmitra.icmr.org.in/about>
+11. ETV Bharat. Parliamentary panel raps Ministry of Chemicals and Fertilizers for import of high-end medical devices (about 70% of requirement imported); 11 March 2024. <https://www.etvbharat.com/en/!bharat/parliamentary-panel-raps-ministry-of-chemical-and-fertilizer-for-import-of-high-end-medical-devices-enn24031105786>
+12. Medical Buyer. Amid domestic push, India imported medical devices worth $8.18B in FY24; 2024. <https://medicalbuyer.co.in/amid-domestic-push-india-imported-medical-devices-worth-8-18b-in-fy24/>
+13. BioVoice News. India's medical devices industry likely to triple to US$50 billion by 2030: Rubix Industry Insights (exports about US$4.1 billion in FY2024-25, 187 countries); February 2026. <https://biovoicenews.com/indias-medical-devices-industry-likely-to-triple-to-50-billion-by-2030-rubix-industry-insights/>
+14. News on AIR. Union Minister Dr Jitendra Singh says the government hopes to increase India's share of the global medical devices market from about 1.5% to 10–12% over the next 25 years; 2024. <https://newsonair.gov.in/union-minister-dr-jitendra-singh-says-govt-hopes-to-increase-indias-market-share-to-10-12-over-next-25-years>
+
+### Slide 38 · Same questions, different answers
+
+*Time: 0.25 min · deep-dive (75-min path)*
+
+**Core script (say this).** Every regulator asks the same four questions: what is the device for, how risky is it, what evidence supports it, and who keeps watching once it is sold? India answered them in the Medical Devices Rules 2017. In the next seven slides we see how the United States, the European Union, the UK, Japan, Australia, China and Canada answer the same questions, and what travels between systems. The practical point for an Indian team: one well-built dossier, written to international standards, is the raw material for every one of these markets.
+
+**Purpose.** Frame the deep-dive on foreign regulation as a comparison with India, not a tour. Keep the audience's attention on reuse: what an Indian team can build once and present many times.
+
+**Say.** We stay with Ramesh and Kamala. FoGO is a Class B wearable in India; SwaKnee is a home-use therapy device. If either is to be sold abroad, the team meets a new regulator, a new form and a new fee, but the questions do not change. The three items on this slide are the route through the section: who regulates where and how the regulators talk to each other; how the risk classes line up; and which standards and reliance routes let a dossier travel.
+
+**Caution.** This section is a comparator. Indian law and CDSCO guidance govern practice in India; nothing here is legal advice for a foreign filing.
+
+**Transition.** Start with the map: nine regulators and the forum that connects them.
+
+**Sources.**
+
+1. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+2. Swissmedic. Swissmedic joins the Management Committee of the International Medical Device Regulators Forum (27th MC meeting, Tokyo, 10 to 14 March 2025); IMDRF founded 2011 as successor to the GHTF; WHO observer. <https://www.swissmedic.ch/swissmedic/en/home/news/mitteilungen/smc-mitglied-management-committee-imdrf.html>
+3. Ministry of Health and Family Welfare. Press release: CDSCO becomes Affiliate Member of the International Medical Device Regulators Forum (approved after the 26th session, Seattle, September 2024); 3 October 2024. <https://mohfw.gov.in/press-info/7775>
+
+### Slide 39 · Where the rules come from
+
+*Time: 1 min · core (40-min path)*
+
+**Core script (say this).** Ten authorities, three colours. Marigold is India: CDSCO, an Affiliate Member of the International Medical Device Regulators Forum since September 2024. Teal is the European Union, where 27 member states share one regulation and about 48 notified bodies issue CE certificates. Indigo marks the regulators on the IMDRF Management Committee: FDA, MHRA, PMDA, NMPA, TGA, Health Canada, ANVISA, HSA. Three mechanisms link them: IMDRF writes the common guidance; MDSAP lets one audit satisfy five regulators; and WHO publishes the model framework and the list of authorities others may rely on. India plugs into this system through IMDRF, not yet through MDSAP.
+
+**Purpose.** Give the audience a mental map before the detail: who regulates, and the three bodies that make reliance possible.
+
+**Say.** IMDRF was founded in 2011 as the successor to the Global Harmonization Task Force; its Management Committee has 12 members after Swissmedic joined at the Tokyo meeting in March 2025, and WHO is an official observer. India's CDSCO became an Affiliate Member after the 26th session in Seattle in September 2024; the Ministry announced it on 3 October 2024. Affiliate status gives access to working groups and guidance, not a vote.  
+MDSAP, the Medical Device Single Audit Program, lets one audit by an authorised auditing organisation satisfy the quality-system requirements of Australia, Brazil, Canada, Japan and the United States; the EU, Singapore, the UK and WHO Prequalification observe. The audit is built on ISO 13485. Canada requires an MDSAP certificate for every Class II to IV licence.  
+WHO's Global Model Regulatory Framework (2017) tells a country with little device regulation where to start: law, authority, A to D classification, establishment registration, vigilance and reliance first; inspection, conformity assessment and clinical-investigation oversight later. WHO-Listed Authorities are the regulators whose decisions others may rely on: 39 agencies after the 7 August 2025 designations of Health Canada, Japan and the UK MHRA, and a first device-specific transitional list on 23 July 2026.
+
+**India adaptation.** India adopted the A to D classes and the vigilance programme that the WHO framework calls basic-level controls, and now sits inside IMDRF. The open question for an Indian exporter is whether CDSCO will join MDSAP or appear on WHO's device list; neither had happened as of October 2026.
+
+**Caution.** Marker positions are country centroids, not agency headquarters. The notified-body count (about 48) is a 2026 estimate; the authoritative list is the Commission's NANDO database. Which regulators appear on WHO's July 2026 device list was not retrieved; do not say India is on it.
+
+**Transition.** Every one of these regulators sorts devices by risk. The names differ; the logic does not.
+
+**Sources.**
+
+1. Swissmedic. Swissmedic joins the Management Committee of the International Medical Device Regulators Forum (27th MC meeting, Tokyo, 10 to 14 March 2025); IMDRF founded 2011 as successor to the GHTF; WHO observer. <https://www.swissmedic.ch/swissmedic/en/home/news/mitteilungen/smc-mitglied-management-committee-imdrf.html>
+2. Ministry of Health and Family Welfare. Press release: CDSCO becomes Affiliate Member of the International Medical Device Regulators Forum (approved after the 26th session, Seattle, September 2024); 3 October 2024. <https://mohfw.gov.in/press-info/7775>
+3. TÜV SÜD. Medical Device Single Audit Program (MDSAP): one audit for TGA, ANVISA, Health Canada, MHLW/PMDA and US FDA; observers EU, Singapore HSA, UK MHRA, WHO Prequalification; built on ISO 13485. <https://www.tuvsud.com/en-us/industries/healthcare-and-medical-devices/medical-devices-and-ivd/medical-device-market-approval-and-certification/medical-device-single-audit-program-mdsap>
+4. World Health Organization. WHO Global Model Regulatory Framework for Medical Devices including in vitro diagnostic medical devices; 2017 (basic-level and expanded-level controls). <https://www.who.int/publications/i/item/9789241512350>
+5. World Health Organization. WHO designates new WHO-Listed Authorities (Health Canada, Japan MHLW/PMDA, UK MHRA; 39 agencies listed); 7 August 2025. Transitional WLA list for medical devices published 23 July 2026. <https://www.who.int/news/item/07-08-2025-who-designates-new-who-listed-authorities--strengthening-global-access-to-quality-assured-medical-products>
+6. Meddeviceguide. EU MDR notified-body certificate expiry cliff: NANDO analysis 2026 (about 48 MDR-designated notified bodies; 45 to 50 range). <https://meddeviceguide.com/blog/eu-mdr-notified-body-certificate-expiry-cliff-eudamed-nando-analysis-2026>
+
+### Slide 40 · Risk classes across six systems
+
+*Time: 1.25 min · core (40-min path)*
+
+**Core script (say this).** Read the table across. A pacemaker is Class D in India, III in the EU, IV in Japan and Canada, III in the United States. A syringe is B, IIa, II, II, II. The four-tier systems map almost one-to-one because they all descend from the GHTF classification principles of 2012, which India adopted in the First Schedule of the 2017 Rules. The United States is the exception: three classes assigned by product code, so Class II swallows most of B and C. That is why an infusion pump is India C, EU IIb, and US Class II with a 510(k). The rule for an Indian team: classify separately in every market, because the wording of the rules differs even when the tiers look alike.
+
+**Purpose.** Show that the Indian A to D scheme is the international scheme, and that the US system is the one that needs separate thinking.
+
+**Say.** GHTF/SG1/N77:2012 set out risk-based rules that place devices in four classes, A to D; IMDRF now maintains it. India's Rule 4 and First Schedule use the same four classes with the same risk wording: low, low-moderate, moderate-high, high. The EU's Annex VIII has 22 rules producing I, IIa, IIb and III, with Class I sub-types for sterile, measuring and reusable surgical devices; the UK and Australia follow the EU structure. Japan's PMD Act classes I to IV and Canada's I to IV are GHTF-based too.  
+The examples in the table come from the GHTF document and the national lists: exam gloves A/I; syringe B/IIa/II; infusion pump C/IIb/III; pacemaker D/III/IV. In the United States the FDA assigns a product code and a class: I, II or III. Class II devices usually go through a 510(k) showing substantial equivalence to a predicate; Class III needs a PMA. Because Class II spans two GHTF tiers, the same orthopaedic implant can be EU III and US Class II.  
+The bottom row names who decides: in India the State Licensing Authority for A and B, the Central Licensing Authority for C and D; in the EU the manufacturer for Class I, a notified body above that; in Japan notification, Registered Certification Body or MHLW approval; in Canada an establishment licence for Class I and a device licence for II to IV; in the US the three doors we look at next.
+
+**Ask / run.** Quick poll, no slides needed: FoGO is Class B in India. Which class would you expect in the EU, in Japan and in the United States? (EU IIa, Japan II, US Class II are the likely answers; the only way to be sure is to apply each rule set.)
+
+**Debrief points.** The point of the exercise is the caveat, not the answer: classification is a legal act in each jurisdiction, and a wrong class means the wrong route, the wrong fee and the wrong evidence.
+
+**India adaptation.** CDSCO publishes device-wise classification lists (the 2018 'Final Classification' and the September 2020 category lists), so an Indian team usually looks the class up rather than deriving it. Abroad, the team must apply the rules.
+
+**Caution.** No single official table maps all jurisdictions; this one is assembled from GHTF N77 examples, CDSCO lists and the Japan and Canada guidance. Country-specific rule wording can move a device by one tier. The 'Who decides' row is a simplification: Japan Class II and III devices without a certification standard go to MHLW approval.
+
+**Transition.** Three classes, three doors: the United States first, because its fees and counts are public.
+
+**Sources.**
+
+1. Global Harmonization Task Force (now IMDRF). GHTF/SG1/N77:2012 Principles of Medical Devices Classification (Classes A to D); endorsed 2 November 2012. <https://www.imdrf.org/sites/default/files/docs/ghtf/final/sg1/technical-docs/ghtf-sg1-n77-2012-principles-medical-devices-classification-121102.pdf>
+2. Central Drugs Standard Control Organisation. Classification of medical devices under the Medical Devices Rules, 2017: Class A low risk, B low-moderate, C moderate-high, D high (First Schedule). <https://www.cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/Classificationg1.pdf>
+3. Emergo by UL. US FDA and EU risk classification of medical devices: three US classes by product code vs four EU classes by rule; Class II absorbs most of IIa and IIb; 2025. <https://www.emergobyul.com/news/us-fda-and-eu-risk-classification-medical-devices>
+4. SimplerQMS. EU MDR medical device classification: Classes I (Is, Im, Ir), IIa, IIb, III under the 22 rules of Annex VIII; 2025. <https://simplerqms.com/eu-mdr-medical-device-classification/>
+5. Pharmaceuticals and Medical Devices Agency (Japan). Regulations and approval/certification of medical devices under the PMD Act: Classes I to IV; notification, Registered Certification Body certification, MHLW approval; Marketing Authorization Holder. <https://www.pmda.go.jp/english/review-services/reviews/0004.html>
+6. CASRAI. Health Canada medical device licence (MDL) and MDALL guide: Classes I to IV; MDEL for Class I; MDL for Classes II to IV; Regulatory Enrolment Process and CESG from January 2026. <https://www.casrai.org/guides/health-canada-medical-device-license-mdl-mdall>
+7. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+
+### Slide 41 · US FDA: three classes, three doors
+
+*Time: 1.25 min · deep-dive (75-min path)*
+
+**Core script (say this).** Three doors. The 510(k) is for Class II devices that are substantially equivalent to a predicate: 3,238 clearances in 2025, a fee of 26,067 dollars, 6,517 for a small business, and a goal of a decision within 90 FDA days. De Novo is for a novel low-to-moderate-risk device with no predicate. PMA is for Class III: clinical data, a fee of 579,272 dollars, and a total-time goal of 285 days. Before any significant-risk study the sponsor needs an IDE under 21 CFR 812; the IRB decides whether the study is significant risk. Since 2 February 2026 the quality system rule is the QMSR, which incorporates ISO 13485:2016, the same standard behind India's Fifth Schedule. For an Indian company the two levers are small-business status, which cuts every fee to a quarter, and one QMS built to ISO 13485.
+
+**Purpose.** Give concrete numbers for the most-cited foreign system and show the Indian team which choices matter first.
+
+**Say.** Follow the chevrons. Classification is by product code, not by rules; most Class I devices are exempt from premarket review. A clinical study of a significant-risk device needs an Investigational Device Exemption under 21 CFR 812; the sponsor proposes and the IRB decides the risk category, with FDA the final arbiter. Then the door: 510(k), De Novo or PMA. Then the quality system, now the QMSR: the February 2024 final rule amended 21 CFR Part 820 to incorporate ISO 13485:2016 by reference, replacing the 1996 Quality System Regulation, and FDA has inspected under Compliance Program 7382.850 since 2 February 2026. Finally post-market: adverse events into MAUDE, the recall database, and UDI records in GUDID.  
+The fees are FY2026 MDUFA fees, valid 1 October 2025 to 30 September 2026: 510(k) 26,067 dollars or 6,517 for a small business; De Novo 173,782 or 43,446; PMA 579,272 or 144,818; the 513(g) classification request 7,820 or 3,910; annual establishment registration 11,423 with no discount. Small business means gross receipts of 100 million dollars or less including affiliates.  
+The counts are CDRH's 2025 calendar-year output as summarised by Emergo: 3,238 510(k) clearances, 27 De Novo grants, 41 original PMAs and 2,210 PMA supplements, about 21,700 submissions of all types. Breakthrough designation, created by the 21st Century Cures Act, has been granted 1,246 times to the end of 2025; 185 of those devices have reached the market.
+
+**India adaptation.** An Indian Class B wearable like FoGO would most likely be a US Class II device with a 510(k), so the predicate search is the first regulatory task, before the design freeze. The QMS and risk file prepared for CDSCO under the Fifth Schedule and ISO 14971 are the same documents the QMSR expects; the gap is usually design controls documentation and US labelling.
+
+**Caution.** The 27 De Novo figure looks low against prior years (typically 30 to 60); verify in FDA's CDRH 2025 annual report before quoting. The 510(k) 90-day goal counts FDA days; historical total time including sponsor days was 127 to 159 calendar days. The 285-day PMA goal applies to originals received FY2025 to 2027. Do not quote De Novo or non-panel PMA day goals (150 and 180 days) as confirmed; they were not verified.
+
+**Transition.** Europe asks the same questions but hands the answer to a private notified body.
+
+**Sources.**
+
+1. US FDA. Medical Device User Fee Amendments (MDUFA): user fees for FY2026 (1 October 2025 to 30 September 2026); small-business threshold US$100 million gross receipts. <https://www.fda.gov/medical-device-user-fee-amendments-mdufa>
+2. US FDA. Quality Management System Regulation: 21 CFR Part 820 incorporating ISO 13485:2016 by reference; final rule February 2024, effective 2 February 2026 (Compliance Program 7382.850). <https://www.fda.gov/quality-systems-regulation>
+3. Emergo by UL. US FDA issues 2025 annual report on medical device regulatory activities (3,238 510(k) clearances, 27 De Novo grants, 41 original PMAs, 2,210 PMA supplements); 2026. Consultancy summary; verify against the FDA report. <https://www.emergobyul.com/news/us-fda-issues-2025-annual-report-medical-device-regulatory-activities>
+4. US FDA. Breakthrough Devices Program: 1,246 designations granted to 31 December 2025; 185 devices with marketing authorisation; 136 designations in 2025. <https://www.fda.gov/medical-devices/how-study-and-market-your-device/breakthrough-devices-program>
+5. US FDA. MDUFA performance report to Congress, 30 September 2025: 510(k) goal 95% within 90 FDA days; original PMA total time to decision goal 285 calendar days (FY2025 to 2027); historical 510(k) total time 127 to 159 calendar days. <https://www.fda.gov/media/191127/download>
+6. US FDA. Device approvals and clearances: Class I, II and III; 510(k), De Novo, PMA, HDE and IDE pathways. <https://www.fda.gov/device-approvals-and-clearances>
+7. US FDA. Information Sheet: Significant Risk and Nonsignificant Risk Medical Device Studies (21 CFR 812). <https://www.fda.gov/files/about%20fda/published/Significant-Risk-and-Nonsignificant-Risk-Medical-Device-Studies---Information-Sheet.pdf>
+8. Registrar Corp. An overview of FDA's updated UDI requirements for Class I medical devices (GUDID; July 2022 guidance); 12 May 2025. <https://legacy.registrarcorp.com/an-overview-of-fdas-updated-udi-requirements-for-class-1-medical-devices/>
+9. MedTech Dive. Medical device safety and recalls (MAUDE, recalls; about a quarter of Class I recall notices 2018 to 2022 carried UDI); 2025. <https://www.medtechdive.com/trendline/medical-device-safety-recalls-fda/502>
+
+### Slide 42 · EU MDR: notified bodies and CE marking
+
+*Time: 1.25 min · deep-dive (75-min path)*
+
+**Core script (say this).** In Europe the regulator rarely sees your file. Regulation 2017/745 sorts devices into Class I, IIa, IIb and III with the 22 rules of Annex VIII. A plain Class I device is self-declared: the manufacturer signs the Declaration of Conformity and affixes the CE mark. Everything above that, and the sterile, measuring and reusable-surgical sub-types of Class I, goes through a notified body, a private certifier designated by a member state; about 48 are designated under the MDR. The queue is the critical path: typical time to certificate is 13 to 18 months, and 58 percent of that time sits with the manufacturer. The transition from the old directives runs to the end of 2027 for Class III and IIb implants and the end of 2028 for the rest, EUDAMED became mandatory on 28 May 2026, and a targeted revision proposed in December 2025 is still being negotiated.
+
+**Purpose.** Explain the notified-body model, its clock, and the moving deadlines an Indian exporter must track.
+
+**Say.** The ladder on the left reads like India's: four tiers, scrutiny rising with risk. The difference is who does the scrutiny. For Class I the manufacturer self-declares; for Is, Im and Ir a notified body checks only the sterile, measuring or reuse aspect; for IIa, IIb and III the notified body certifies the quality management system and reviews the technical documentation, and the certificate carries the body's four-digit number next to the CE mark. Every device needs a clinical evaluation under Article 61, kept current by post-market clinical follow-up under Annex XIV Part B.  
+The numbers from Team-NB's 2025 survey: 17,260 MDR and IVDR certificates issued by member bodies by the end of 2025; 25,978 MDR applications against 13,953 MDR certificates; time to certificate 13 to 18 months for most QMS-plus-product assessments, 6 to 12 months for about a third of QMS-only files.  
+The timeline: the MDR was adopted in 2017 and became fully applicable on 26 May 2021. Regulation 2023/607 extended the transition for legacy devices, provided an MDR application was lodged by 26 May 2024 and a written agreement signed by 26 September 2024, and removed the sell-off date: Class III custom-made implantables to 26 May 2026, other Class III and IIb implantables to 31 December 2027, other IIb, IIa, Is and Im to 31 December 2028. EUDAMED's first four modules, actor registration, UDI and device registration, notified bodies and certificates, and market surveillance, became mandatory on 28 May 2026 under Regulation 2024/1860 and Commission Decision 2025/2371. On 16 December 2025 the Commission proposed a targeted revision: broader clinical evidence including real-world and in-silico data, no mandatory clinical investigation for Class IIa implantables unless safety requires it, predetermined change control plans without notified-body approval of each change, an EMA coordinating role, and 50 percent fee reductions for micro and small enterprises; it is before Parliament and Council.
+
+**India adaptation.** An Indian manufacturer registers as an actor in EUDAMED to get a Single Registration Number, then books a notified body. The CDSCO dossier's QMS and ISO 14971 risk file are reusable; the technical documentation structure and the clinical evaluation report usually need rework to Annex II and Article 61.
+
+**Caution.** Conformity-assessment annex numbers (IX, X, XI) and the Class III clinical-investigation expectation come from memory of the regulation and were not verified in this research; the slide says 'generally expected'. The 48 notified-body count is an early-2026 estimate (45 to 50). Whether the December 2025 proposal has been adopted or amended as of October 2026 is unknown; check before the talk. No reliable notified-body fee figures exist; do not quote a euro price.
+
+**Transition.** Five more systems in one view: the ones that increasingly accept each other's decisions.
+
+**Sources.**
+
+1. Regulation (EU) 2017/745 on medical devices, Art. 61 and Annex XIV Part B (post-market clinical follow-up); transition extended to 2027/2028 by Regulation (EU) 2023/607. <https://eur-lex.europa.eu/eli/reg/2017/745/2023-03-20>
+2. SimplerQMS. EU MDR medical device classification: Classes I (Is, Im, Ir), IIa, IIb, III under the 22 rules of Annex VIII; 2025. <https://simplerqms.com/eu-mdr-medical-device-classification/>
+3. Meddeviceguide. EU MDR notified-body certificate expiry cliff: NANDO analysis 2026 (about 48 MDR-designated notified bodies; 45 to 50 range). <https://meddeviceguide.com/blog/eu-mdr-notified-body-certificate-expiry-cliff-eudamed-nando-analysis-2026>
+4. RAPS. Team-NB survey shows slowdown in growth of MDR and IVDR certificates issued in 2025 (17,260 certificates; 25,978 MDR applications vs 13,953 MDR certificates; typical time to certificate 13 to 18 months; 58% of elapsed time with the manufacturer); 2026. <https://www.raps.org/resource/team-nb-survey-shows-slowdown-in-growth-of-mdr-and-ivdr-certificates-issued-in-2025.html>
+5. BSI. MDR transition timelines extended: Regulation (EU) 2023/607 (Class III custom-made implantables to 26 May 2026; other Class III and IIb implantables to 31 December 2027; other IIb, IIa, Is, Im to 31 December 2028; sell-off date removed); 20 March 2023. <https://www.bsigroup.com/it-IT/Dispositivi-Medici/news-centre/enews/2023-news/mdr-transition-timelines-extended/>
+6. TÜV NORD. EUDAMED: mandatory use of the first four modules (actor registration/SRN, UDI/device registration, notified bodies and certificates, market surveillance) from 28 May 2026, under Regulation (EU) 2024/1860 and Commission Decision (EU) 2025/2371. <https://www.tuev-nord.de/en/knowledge/standards-in-focus/eudamed-mandatory-use-of-first-four-modules-from-may-28-2026/>
+7. European Commission. Proposal for a targeted revision of the medical device regulations, COM(2025) 1023 final, 16 December 2025 (under negotiation). <https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52025PC1023>
+8. Fieldfisher. Breaking the bottleneck: the Commission's proposal for targeted MDR/IVDR amendments (broader clinical evidence, predetermined change control plans, EMA coordinating role, 50% fee reductions for small enterprises); 16 December 2025. <https://www.fieldfisher.com/en/locations/belgium/insights/breaking-the-bottleneck-the-commission-s-proposal>
+
+### Slide 43 · Five more systems in one view
+
+*Time: 1 min · deep-dive (75-min path)*
+
+**Core script (say this).** Five cards, one pattern: reliance is spreading. The UK still accepts CE-marked devices, to mid-2028 for old-directive devices and mid-2030 for MDR devices, and is consulting on making that permanent plus a reliance route for FDA, Canadian and Australian approvals. Japan classifies I to IV and requires a Japanese Marketing Authorization Holder. Australia lists devices on the ARTG through a local sponsor and accepts CE, FDA, Canadian, Japanese, MDSAP and Singapore evidence. China is the outlier: local type testing and, often, local clinical evaluation, with all imports registered centrally. Canada requires an MDSAP certificate for every Class II to IV licence. What travels is the QMS, the audit and the first major approval; what stays local is the sponsor, the classification and the vigilance reporting.
+
+**Purpose.** Compress five regulators into the one idea that matters for market entry: which decisions and documents are accepted elsewhere.
+
+**Say.** United Kingdom: Great Britain runs the UK MDR 2002 with UKCA marking through UK Approved Bodies, but continues to accept CE-marked devices, MDD devices to 30 June 2028 and MDR devices to 30 June 2030, and about 90 percent of devices on the GB market are still CE-marked. The post-market surveillance regulations came into force on 16 June 2025. MHRA has said it will proceed with an international reliance framework for devices approved by the US FDA, Health Canada, Australia's TGA and the EU, and in February 2026 consulted on indefinite CE recognition.  
+Japan: the PMD Act uses GHTF-based classes I to IV with JMDN codes. Class I is a notification; Class II and III go to a Registered Certification Body where a certification standard exists, otherwise to MHLW approval after PMDA review; Class IV is always MHLW approval. A foreign maker acts through a Marketing Authorization Holder or designated MAH. Japan is an MDSAP member and became a WHO-Listed Authority in August 2025.  
+Australia: the Therapeutic Goods Act 1989 and the 2002 regulations use the EU-style classes; every device is included in the ARTG by an Australian sponsor; plain Class I self-certifies against the Essential Principles. TGA accepts comparable-overseas-regulator evidence, EU certificates, FDA decisions, Health Canada licences, Japanese approvals, MDSAP certificates since 2018 and Singapore HSA registrations since 2022, but Australian classification, sponsorship and reporting still apply.  
+China: State Council Order 739 took effect on 1 June 2021 and introduced a Marketing Authorization Holder regime. Class I is a filing, Class II a provincial registration, Class III a central NMPA registration; all imports register centrally. Class II and III need type testing at an NMPA-authorised centre, with a 60-working-day technical review target for Class II, and clinical evaluation unless the device is on the exemption catalogue or shown equivalent.  
+Canada: the Medical Devices Regulations SOR/98-282 use classes I to IV; Class I needs only an establishment licence, II to IV a Medical Device Licence with rising evidence. A valid MDSAP certificate has been the only accepted QMS route since 2019. Since January 2026 submissions go through the Regulatory Enrolment Process and the Common Electronic Submissions Gateway. Health Canada was designated a WHO-Listed Authority in August 2025.
+
+**India adaptation.** For an Indian start-up the cheapest second market is often the one that relies on the first: an FDA decision or a CE certificate opens Australia and, under the proposed route, the UK. China requires local testing whatever you hold. Every market needs a local sponsor or holder, which is a contract and a cost to budget early.
+
+**Caution.** The MHRA list of comparable regulators and the outcome of the February to April 2026 consultation were not confirmed; say 'proposed'. The Canadian MDSAP start date of 1 January 2019 and Chinese certificate validity are from memory. Japanese terms and the D-MAH detail are from secondary sources.
+
+**Transition.** Put India beside the two biggest systems, row by row.
+
+**Sources.**
+
+1. TÜV SÜD. UKCA for medical devices: CE-marked devices accepted in Great Britain to 30 June 2028 (MDD/AIMDD) and 30 June 2030 (MDR/IVDR); about 90% of GB devices still CE-marked; 2025. <https://www.tuvsud.com/en-us/industries/healthcare-and-medical-devices/medical-devices-and-ivd/medical-device-market-approval-and-certification/ukca-for-medical-devices>
+2. GOV.UK. First major overhaul of medical device regulation comes into force across Great Britain: Medical Devices (Post-market Surveillance Requirements) (Amendment) (Great Britain) Regulations 2024, in force 16 June 2025. <https://www.gov.uk/government/news/first-major-overhaul-of-medical-device-regulation-comes-into-force-across-great-britain>
+3. Latham & Watkins. UK MHRA launches consultation on indefinite recognition of CE-marked medical devices and an international reliance route; February 2026 (consultation closed 10 April 2026). <https://www.lw.com/en/insights/uk-mhra-launches-consultation-on-indefinite-recognition-of-ce-marked-medical-devices>
+4. RAPS. MHRA to move forward with medical device reliance on comparable regulators (US FDA, Health Canada, Australia TGA, EU CE); 2025. <https://www.raps.org/resource/mhra-to-move-forward-with-medical-device-reliance.html>
+5. Pharmaceuticals and Medical Devices Agency (Japan). Regulations and approval/certification of medical devices under the PMD Act: Classes I to IV; notification, Registered Certification Body certification, MHLW approval; Marketing Authorization Holder. <https://www.pmda.go.jp/english/review-services/reviews/0004.html>
+6. Therapeutic Goods Administration (Australia). What classification is my medical device? Decision tree: Classes I, Is, Im, Ir, IIa, IIb, III (Therapeutic Goods Act 1989; Medical Devices Regulations 2002). <https://www.tga.gov.au/resources/decision-trees/what-classification-my-medical-device>
+7. Therapeutic Goods Administration (Australia). Use of market authorisation evidence from comparable overseas regulators / assessment bodies for medical devices including IVDs (EU, US FDA, Health Canada, Japan, MDSAP from 2018, Singapore HSA from 2022); October 2024. <https://www.tga.gov.au/sites/default/files/use-market-authorisation-evidence-comparable-overseas-regulators-assessment-bodies-medical-devices-including-ivds.pdf>
+8. Ropes & Gray. China unveils new medical device regulations: Regulations on the Supervision and Administration of Medical Devices, State Council Order No. 739, effective 1 June 2021; MAH regime; 2021. <https://www.ropesgray.com/en/newsroom/alerts/2021/March/China-Unveils-New-Medical-Device-Regulations>
+9. Morgan Lewis. Overview of medical device regulation in China: Class I filing, Class II provincial registration, Class III central NMPA registration; type testing; clinical evaluation and exemption catalogue; December 2024. <https://www.morganlewis.com/pubs/overview-of-medical-device-regulation-in-china>
+10. CASRAI. Health Canada medical device licence (MDL) and MDALL guide: Classes I to IV; MDEL for Class I; MDL for Classes II to IV; Regulatory Enrolment Process and CESG from January 2026. <https://www.casrai.org/guides/health-canada-medical-device-license-mdl-mdall>
+11. Freyr Solutions. Health Canada medical device registration: MDSAP certificate required for Class II to IV licences (sole QMS route since 2019); 2025. <https://www.freyrsolutions.com/medical-devices/health-canada-medical-device-registration>
+12. World Health Organization. WHO designates new WHO-Listed Authorities (Health Canada, Japan MHLW/PMDA, UK MHRA; 39 agencies listed); 7 August 2025. Transitional WLA list for medical devices published 23 July 2026. <https://www.who.int/news/item/07-08-2025-who-designates-new-who-listed-authorities--strengthening-global-access-to-quality-assured-medical-products>
+
+### Slide 44 · India, USA and EU compared
+
+*Time: 1.5 min · core (40-min path)*
+
+**Core script (say this).** Row by row, India is similar where it matters and lighter where it counts. Similar: one law, risk classes A to D that match the EU's four tiers, a QMS built on ISO 13485, an audit by a notified body or inspector, and post-market duties. Lighter: the premarket route for Class A and B is a state licence on a quality-system audit, there is no product review of the kind a 510(k) or a notified-body technical review involves, fees are in thousands of rupees rather than tens of thousands of dollars, UDI is deferred, and licence timelines are counted in days rather than months. Heavier in one place: before any clinical study an Indian team needs a test licence to make the units and a CDSCO permission to investigate, on top of ethics approval. The verdict column is my reading of the rows; argue with it.
+
+**Purpose.** Turn the section into one decision aid: what an Indian team already has, what it must add, and where India is the demanding regulator.
+
+**Say.** Law: the Drugs and Cosmetics Act 1940 with the Medical Devices Rules 2017, in force 1 January 2018; in the US, Title 21 of the Code of Federal Regulations with Part 812 for investigational studies and Part 820, now the QMSR; in the EU, Regulation 2017/745 as amended by 2023/607 and 2024/1860.  
+Regulator: CDSCO's Central Licensing Authority for Class C and D and all imports, State Licensing Authorities for A and B; FDA's CDRH; and in Europe national competent authorities with about 48 notified bodies doing the assessments, with an EMA coordinating role proposed in December 2025.  
+Classes: A to D under Rule 4 and the First Schedule; I to III by product code in the US, where Class II spans GHTF B and C; I to III with sub-types in the EU under the 22 rules of Annex VIII.  
+Premarket route: in India, Form MD-3 to licence MD-5 from the state for Class A and B after a notified-body audit, MD-7 to MD-9 from CDSCO for C and D, MD-14 to MD-15 for imports of any class; in the US, exemption for most Class I, then 510(k), De Novo or PMA; in the EU, self-declaration for Class I and a notified body for everything above.  
+Clinical evidence: India requires a test licence, MD-12 to MD-13, to manufacture investigational units, and permission MD-22 to MD-23 for the investigation itself, alongside a registered ethics committee; the US requires an IDE only for significant-risk studies, with the IRB deciding the category; the EU requires a clinical evaluation for every device under Article 61, kept current by PMCF.  
+QMS and audit: the Fifth Schedule, aligned with ISO 13485, audited by NABCB-accredited notified bodies for A and B and by CDSCO Medical Device Officers for C and D; the QMSR incorporating ISO 13485:2016 with FDA inspection under Compliance Program 7382.850 or an MDSAP audit; ISO 13485 certified by the notified body in the EU.  
+UDI: Rule 46 was deferred by G.S.R. 918(E) of 31 December 2021 until further orders; the US requires UDI on labels and in GUDID; the EU requires UDI registration in EUDAMED from 28 May 2026.  
+Post-market: PSURs six-monthly for two years then yearly for two, and MvPI adverse-event reporting through the Indian Pharmacopoeia Commission; MAUDE and the recall database in the US; vigilance, PMCF and the EUDAMED surveillance module in the EU.  
+Time, reported ranges: a Class A licence within 45 days with the audit in the 120 days after grant, Class B up to 140 days with the audit before grant, Class C and D 105 to 150 days depending on the source, imports within nine months; in the US a 90-FDA-day goal for 510(k)s with 127 to 159 calendar days historically, and 285 days for a PMA; in the EU 13 to 18 months to a certificate.  
+Cost, reported ranges: 5,000 rupees per site plus 500 per device for Class A and B, 50,000 plus 1,000 for C and D, and 1,000 to 3,000 dollars per site plus 50 to 1,500 per device for imports; US fees from 26,067 dollars for a 510(k) to 579,272 for a PMA plus 11,423 a year for registration; in the EU there is no public tariff, and notified-body quotes are commonly reported in the tens of thousands of euros.
+
+**Ask / run.** Ask the room where they would move a verdict. A common challenge: India's import licence, central for every class with dollar fees and up to nine months, is heavier for a foreign company than CE marking is for an Indian one.
+
+**Debrief points.** The verdicts are a teaching device. The useful conclusion is that an Indian dossier built to the Fifth Schedule and ISO 14971 already contains most of what the FDA and a notified body will ask for; the additions are the product-level review file (predicate comparison or technical documentation) and the clinical evaluation report.
+
+**Caution.** The 'India is' column is the presenter's synthesis, not a regulatory statement. Indian timelines conflict between sources (Tribune 105 days vs S.S. Rana 150 days for C/D) and the June 2026 draft amendment had not been finalised as of 7 October 2026. The EU cost line has no documentary source; keep it as 'order of magnitude' or drop it. The PSUR schedule rests on one consultancy source.
+
+**Transition.** If so much is similar, what exactly travels? The standards.
+
+**Sources.**
+
+1. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+2. AZB Partners. Medical Devices Rules, 2017: State Licensing Authority for Class A and B manufacture; Central Licensing Authority for Class C and D and all imports; 1 April 2017. <https://azbpartners.com/bank/medical-devices-rules-2017>
+3. CDSCO Medical Device online portal. Fee help file (Second Schedule, MDR-2017): manufacturing licence Class A/B Rs 5,000 per site + Rs 500 per device; Class C/D Rs 50,000 + Rs 1,000; test licence Rs 500 per device. <https://cdscomdonline.gov.in/NewMedDev/resources/app_srv/NMD/global/helpfiles/nmd_fee.pdf/>
+4. Lawrbit. Medical device import licence India procedure: Form MD-14 to MD-15; fees US$1,000 (A), $2,000 (B), $3,000 (C/D) per site plus $50 / $1,000 / $1,500 per device. <https://www.lawrbit.com/industry-specific/medical-device-import-license-india-procedure/>
+5. Applied Clinical Trials. New regulations for medical devices in India: Class A licence within 45 days with audit within 120 days after grant; Class B notified-body audit within 90 days before grant; 2017. <https://www.appliedclinicaltrialsonline.com/view/new-regulations-medical-devices-india>
+6. S.S. Rana & Co. Medical Devices Rules: faster manufacturing licence approvals (draft G.S.R. 515(E), 23 June 2026; current Class C/D timeline up to 150 days; Class B up to 140 days per press reports); June 2026. <https://ssrana.in/articles/medical-devices-rules-faster-manufacturing-licence-approvals/>
+7. Corpseed. Permission to import medical devices, Form MD-14 and Form MD-15: Central Licensing Authority decides within 9 months; 6 to 9 months in practice. <https://www.corpseed.com/knowledge-centre/permission-to-import-medical-devices-form-md-14-and-form-md-15>
+8. SCC Online. Draft Medical Devices (Amendment) Rules 2021 introduces unique device identification (Rule 46; final G.S.R. 918(E), 31 December 2021 deferred the 1 January 2022 start date until further orders). <https://www.scconline.com/blog/post/2021/12/24/draft-medical-devices-amendment-rules-2021-introduces-unique-device-identification-of-the-medical-device/>
+9. Navigator Global. India educational series: medical device registration and post-market compliance (PSUR every 6 months for 2 years, then annually for 2 years). Single consultancy source. <https://navigator.global/gb/library/india-educational-series-medical-device-registration-and-post-market-compliance>
+10. Indian Pharmacopoeia Commission (National Coordination Centre). Materiovigilance Programme of India (MvPI), launched 6 July 2015. <https://nhsrcindia.org/hi/node/10346>
+11. CDSCO. FAQ on Medical Devices, 2018: Rule 13 notified bodies registered with the CLA audit Class A and B manufacturing sites (Fifth Schedule QMS); NABCB accreditation. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadImmunization/FAQmd2018.pdf>
+12. US FDA. Medical Device User Fee Amendments (MDUFA): user fees for FY2026 (1 October 2025 to 30 September 2026); small-business threshold US$100 million gross receipts. <https://www.fda.gov/medical-device-user-fee-amendments-mdufa>
+13. US FDA. Quality Management System Regulation: 21 CFR Part 820 incorporating ISO 13485:2016 by reference; final rule February 2024, effective 2 February 2026 (Compliance Program 7382.850). <https://www.fda.gov/quality-systems-regulation>
+14. US FDA. MDUFA performance report to Congress, 30 September 2025: 510(k) goal 95% within 90 FDA days; original PMA total time to decision goal 285 calendar days (FY2025 to 2027); historical 510(k) total time 127 to 159 calendar days. <https://www.fda.gov/media/191127/download>
+15. US FDA. Information Sheet: Significant Risk and Nonsignificant Risk Medical Device Studies (21 CFR 812). <https://www.fda.gov/files/about%20fda/published/Significant-Risk-and-Nonsignificant-Risk-Medical-Device-Studies---Information-Sheet.pdf>
+16. Registrar Corp. An overview of FDA's updated UDI requirements for Class I medical devices (GUDID; July 2022 guidance); 12 May 2025. <https://legacy.registrarcorp.com/an-overview-of-fdas-updated-udi-requirements-for-class-1-medical-devices/>
+17. Regulation (EU) 2017/745 on medical devices, Art. 61 and Annex XIV Part B (post-market clinical follow-up); transition extended to 2027/2028 by Regulation (EU) 2023/607. <https://eur-lex.europa.eu/eli/reg/2017/745/2023-03-20>
+18. SimplerQMS. EU MDR medical device classification: Classes I (Is, Im, Ir), IIa, IIb, III under the 22 rules of Annex VIII; 2025. <https://simplerqms.com/eu-mdr-medical-device-classification/>
+19. RAPS. Team-NB survey shows slowdown in growth of MDR and IVDR certificates issued in 2025 (17,260 certificates; 25,978 MDR applications vs 13,953 MDR certificates; typical time to certificate 13 to 18 months; 58% of elapsed time with the manufacturer); 2026. <https://www.raps.org/resource/team-nb-survey-shows-slowdown-in-growth-of-mdr-and-ivdr-certificates-issued-in-2025.html>
+20. TÜV NORD. EUDAMED: mandatory use of the first four modules (actor registration/SRN, UDI/device registration, notified bodies and certificates, market surveillance) from 28 May 2026, under Regulation (EU) 2024/1860 and Commission Decision (EU) 2025/2371. <https://www.tuev-nord.de/en/knowledge/standards-in-focus/eudamed-mandatory-use-of-first-four-modules-from-may-28-2026/>
+21. Meddeviceguide. EU MDR notified-body certificate expiry cliff: NANDO analysis 2026 (about 48 MDR-designated notified bodies; 45 to 50 range). <https://meddeviceguide.com/blog/eu-mdr-notified-body-certificate-expiry-cliff-eudamed-nando-analysis-2026>
+
+### Slide 45 · One dossier, many markets
+
+*Time: 1.25 min · core (40-min path)*
+
+**Core script (say this).** Eight standards do most of the travelling. ISO 13485 for the quality system, confirmed unchanged in October 2025 and now written into the FDA's QMSR, MDSAP and India's Fifth Schedule. ISO 14971 for risk management. ISO 14155, new 2026 edition, for clinical investigations. ISO 10993-1 for biocompatibility. IEC 60601-1 for electrical safety, with 60601-1-2 for EMC, the test FoGO went through in July 2026. IEC 62304 for software, with a second edition due in August 2026, IEC 62366-1 for usability and IEC 81001-5-1 for cybersecurity. Build the technical file to these once and it is the raw material for CDSCO, FDA and a notified body. Then choose the first foreign market by reliance: Australia and the UK accept FDA and CE decisions, so one of those two approvals unlocks three markets.
+
+**Purpose.** Close the section with the reuse argument: the standards are the common currency, and reliance routes decide the order of markets.
+
+**Say.** ISO 13485:2016 remains the current quality-management standard: its systematic review closed on 5 June 2025 and ISO recorded a confirm decision on 31 October 2025, so no new edition is due soon. ISO 14971:2019 is the risk-management standard, paired with the guidance ISO/TR 24971:2020; IEC 60601-1's second amendment made its reference to ISO 14971 undated, so the latest edition always applies. ISO 14155:2026 was published on 23 March 2026 with no transition period: it integrates ISO 14971 risk management, formalises Clinical Events Committees and Data Monitoring Committees, and introduces an estimand framework aligned with drug trials. ISO 10993-1 governs biological evaluation within the risk process, with endpoints chosen by contact type and duration. IEC 60601-1 edition 3.2 is the 2005 text with amendments 1 (2012) and 2 (2020); the collateral standard 60601-1-2 covers electromagnetic compatibility. IEC 62304, 2006 with amendment 1 of 2015, is the software life-cycle standard; edition 2, scheduled for 12 August 2026, cuts safety classes from three to two, widens scope to all health software and adds an AI/ML life cycle. IEC 62366-1:2015 with amendment 1 of 2020 is usability engineering. IEC 81001-5-1:2021 is the secure-development life-cycle standard for health software, FDA-recognised and scheduled for EU harmonisation on 27 May 2028.  
+The reliance row: an FDA decision counts as comparable-regulator evidence for TGA and in MHRA's proposed reliance route; a CE certificate is accepted by TGA and remains valid in Great Britain to 2028 or 2030; Japan, the US and Canada share MDSAP, and Japan and Canada are WHO-Listed Authorities since August 2025. India's own dossier is the starting point; CDSCO's IMDRF affiliation means its guidance is converging on the same documents.
+
+**India adaptation.** For FoGO the standards map directly: IEC 60601-1 and 60601-1-2 (EMC pre-compliance done July 2026), IEC 62304 for the detection software, IEC 62366-1 for the cueing interface, ISO 10993-1 for the skin-contact strap, ISO 14971 for the risk file and ISO 14155:2026 for the AIIMS Bhubaneswar study. SwaKnee's PEMF applicator follows the same electrical, usability and biocompatibility set.
+
+**Caution.** ISO 10993-1's 2018 edition and IEC 62366-1's harmonisation status were not verified in this research. IEC 62304 edition 2's 12 August 2026 publication was a forecast; cite 2006+A1:2015 until confirmed on iec.ch. Sources conflict on ISO 13485's future (a 2028 revision vs unchanged to 2030). The 'three markets' claim assumes MHRA's reliance route is enacted; as of October 2026 it was proposed, not confirmed.
+
+**Transition.** Next: who pays, and what the device costs the family: Access.
+
+**Sources.**
+
+1. Presencis. ISO 13485 timeline: 2016 edition confirmed by systematic review (decision recorded 31 October 2025); no revised edition published as of 2026. <https://cdn.presencis.com/regulations/iso-13485/timeline/>
+2. ISO 14971:2019. Medical devices — Application of risk management to medical devices. <https://www.iso.org/standard/72704.html>
+3. ISO 14155:2026. Clinical investigation of medical devices for human subjects — Good clinical practice (supersedes ISO 14155:2020). <https://www.iso.org/standard/83968.html>
+4. In Compliance Magazine. The IEC 60601 amendment updates have published: IEC 60601-1:2005 + A1:2012 + A2:2020 (edition 3.2); 2020. <https://incompliancemag.com/the-iec-60601-amendment-updates-have-published-changes-and-impacts/>
+5. Critical Software. IEC 62304 Edition 2 changes, August 2026: two software safety classes, wider health-software scope, AI/ML life cycle; publication forecast 12 August 2026 (verify on iec.ch). <https://asd.criticalsoftware.com/en/newsroom/iec-62304-edition-2-changes-august-2026>
+6. IEC 62366-1:2015+AMD1:2020. Medical devices — Part 1: Application of usability engineering to medical devices. <https://webstore.iec.ch/en/publication/67220>
+7. DQS. MDR and IEC 81001-5-1:2021 (health software security activities in the product life cycle): FDA-recognised consensus standard; EU harmonisation scheduled 27 May 2028; 2025. <https://www.dqsglobal.com/en/explore/blog/mdr-iec-81001-5-1>
+8. Therapeutic Goods Administration (Australia). Use of market authorisation evidence from comparable overseas regulators / assessment bodies for medical devices including IVDs (EU, US FDA, Health Canada, Japan, MDSAP from 2018, Singapore HSA from 2022); October 2024. <https://www.tga.gov.au/sites/default/files/use-market-authorisation-evidence-comparable-overseas-regulators-assessment-bodies-medical-devices-including-ivds.pdf>
+9. RAPS. MHRA to move forward with medical device reliance on comparable regulators (US FDA, Health Canada, Australia TGA, EU CE); 2025. <https://www.raps.org/resource/mhra-to-move-forward-with-medical-device-reliance.html>
+10. TÜV SÜD. UKCA for medical devices: CE-marked devices accepted in Great Britain to 30 June 2028 (MDD/AIMDD) and 30 June 2030 (MDR/IVDR); about 90% of GB devices still CE-marked; 2025. <https://www.tuvsud.com/en-us/industries/healthcare-and-medical-devices/medical-devices-and-ivd/medical-device-market-approval-and-certification/ukca-for-medical-devices>
+11. TÜV SÜD. Medical Device Single Audit Program (MDSAP): one audit for TGA, ANVISA, Health Canada, MHLW/PMDA and US FDA; observers EU, Singapore HSA, UK MHRA, WHO Prequalification; built on ISO 13485. <https://www.tuvsud.com/en-us/industries/healthcare-and-medical-devices/medical-devices-and-ivd/medical-device-market-approval-and-certification/medical-device-single-audit-program-mdsap>
+12. World Health Organization. WHO designates new WHO-Listed Authorities (Health Canada, Japan MHLW/PMDA, UK MHRA; 39 agencies listed); 7 August 2025. Transitional WLA list for medical devices published 23 July 2026. <https://www.who.int/news/item/07-08-2025-who-designates-new-who-listed-authorities--strengthening-global-access-to-quality-assured-medical-products>
+13. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+
+### Slide 46 · Part 5 · Access and safety
+
+*Time: 0.25 min · deep-dive (75-min path)*
+
+**Core script (say this).** Part five asks the two questions that come after the science and the licence: can the person afford it and use it, and who answers if it fails? We audit the demands each device makes, walk Kamala's total cost of use and see how far NPPA's price powers reach, then take two commercial decisions, a brochure and a software update, before following a harm report around the loop to MvPI.
+
+**Purpose.** Frame access and safety as design inputs, not afterthoughts: inclusion, affordability, honest claims, change governance and post-market responsibility, all under Indian rules.
+
+**Say.** The photograph is the SwaKnee tablet controller with its knee applicator, a supplied product photograph with no patient shown. Everything in this part applies to both devices.  
+Three stops: a capability audit of what FoGO and SwaKnee demand of Ramesh and Kamala, plus the demands India adds; the total cost of a 45-day course and the National Pharmaceutical Pricing Authority's reach under DPCO 2013; and the last two ‘would you proceed?’ decisions, a brochure and a software update. We end with the harm loop: care, record, report, investigate, correct, follow up, with MvPI and the DePuy ASR case as the Indian reference.
+
+**Transition.** “First: who cannot use it?”
+
+**Sources.**
+
+1. Swayogya website assets (ivikasjha/swayogya_website): product photographs and three 'How to use' step videos, edited into a 20 s silent clip with step captions; no faces shown. <https://www.swayogya.in/product.html>
+2. University of Cambridge Engineering Design Centre. Inclusive Design Toolkit and Exclusion Calculator (Clarkson, Waller, Coleman). <https://www-edc.eng.cam.ac.uk/research/inclusive-design>
+3. Indian Pharmacopoeia Commission. Materiovigilance Programme of India (MvPI): About us. Launched 6 July 2015; helpline 1800-180-3024; mvpi-ipc@gov.in. <https://ipc.gov.in/mandates/materiovigilance-programme-of-india-mvpi/about-us.html>
+
+### Slide 47 · Who can't use it? Audit the demands a device makes
+
+*Time: 1 min · deep-dive (75-min path) · Activity: Pick one demand to redesign*
+
+**Core script (say this).** Cambridge's Inclusive Design Toolkit asks what a product demands of seven capabilities: vision, hearing, thinking, communication, locomotion, reach and stretch, dexterity. FoGO asks someone with Parkinson's to bend to the ankle, fasten a strap, place a chest patch and pair a phone. SwaKnee asks an older person to wrap an applicator, connect a cable and keep a 45-minute daily schedule for 45 days. India adds language, literacy, power cuts, no smartphone and dependence on a caregiver. Which one demand would you redesign first?
+
+**Purpose.** Make usability and exclusion an ethical question, not only a design question: every ‘High’ cell is a group of patients the device quietly excludes.
+
+**Say.** The Cambridge Engineering Design Centre's Inclusive Design Toolkit rates the demands a product makes on seven capabilities; its Exclusion Calculator then estimates how many people cannot complete the tasks. The ratings in the table are illustrative, made for this workshop, not measured.  
+Read the table row by row. Vision: FoGO's app screen and pairing prompts; SwaKnee's controller display and timer. Hearing: both are low, because FoGO's cue is a vibration and SwaKnee only beeps. Thinking: FoGO is high, because the user must pair a phone, keep a charging routine and trust a cue in the middle of a freeze; SwaKnee is medium, a 45-day schedule and error codes. Communication: reporting a fault, and consent and instructions in Odia or Hindi. Locomotion: FoGO is worn by a person who freezes while walking and turning; SwaKnee's demand is the journey to the clinic. Reach and stretch: both high, bending to the ankle and the chest for FoGO, wrapping the knee for SwaKnee. Dexterity: FoGO's buckle, adhesive patch and small charging port are high; SwaKnee's cuff and cable are medium.  
+FoGO's team reports consulting more than 30 potential users (project-reported, not a published study); the common request was more comfort and easier use.
+
+**Ask / run.** “Which one demand would you redesign first?” A quick classroom version of the Cambridge simulation tools: try fastening a strap wearing thick gloves, or reading the controller display through smeared spectacles.
+
+**Debrief points.** Expect answers such as a magnetic ankle strap, a chest module without adhesive, pairing done once by the clinic, a controller with one large button and an Odia voice prompt, and a caregiver mode in the app. Each redesign is also a safety control: a device that is hard to fit is a device that is worn wrongly.
+
+**India adaptation.** Add the Indian demands the toolkit does not list: language (Odia, Hindi, English), literacy, unreliable power, a shared or absent smartphone, and dependence on a caregiver for fitting, charging and reporting. The Exclusion Calculator uses UK population data from 1996–97, so its percentages must never be presented as Indian figures. The MRCT Center's Accessibility by Design toolkit (2023) supports including people with disabilities in research; home visits, travel support and accessible consent formats follow from it. IEC 62366-1 usability engineering turns each demand into a testable requirement, and the CDSCO software guidance of 21 July 2026 expects usability validation in Indian workflows.
+
+**Caution.** The ratings are illustrative; do not present them as usability-test results. The FoGO user consultation is project-reported. The Exclusion Calculator's percentages are British, not Indian.
+
+**Transition.** “And then there is cost.”
+
+**Sources.**
+
+1. University of Cambridge Engineering Design Centre. Inclusive Design Toolkit and Exclusion Calculator (Clarkson, Waller, Coleman). <https://www-edc.eng.cam.ac.uk/research/inclusive-design>
+2. MRCT Center. Accessibility by Design in Clinical Research Toolkit; 2023. <https://mrctcenter.org/resource/accessibility-by-design-abd-toolkit-release/>
+3. IEC 62366-1:2015+AMD1:2020. Medical devices — Part 1: Application of usability engineering to medical devices. <https://webstore.iec.ch/en/publication/67220>
+4. University of Cambridge Department of Engineering. Part IIB module 4G9: Biomedical Engineering / Biomedical Innovation (syllabus). <https://teaching.eng.cam.ac.uk/content/engineering-tripos-part-iib-4g9-biomedical-engineering-2024-25>
+5. CDSCO. Guidance Document on Medical Device Software under the Medical Devices Rules, 2017 (CDSCO/MD/GD/MDSW/01/2026); 21 July 2026. <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-document-on-Medical-Device-Software-under-MDR-2017.pdf>
+6. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+
+### Slide 48 · Price is only part of the cost
+
+*Time: 1.5 min · core (40-min path) · Activity: Who pays each step?*
+
+**Core script (say this).** Walk Kamala's 45 days: buy or rent, travel 30 km, fitting and training, about 34 hours of sessions, a relative's time and lost wages, repairs and support. Who pays each step? Usually the household, out of pocket. Price policy can reach devices: devices are ‘drugs’ under the 1940 Act, so NPPA used DPCO 2013 to cap stents in February 2017, knee implants in August 2017, and trade margins on five home-use devices in July 2021, when 91% of 684 brands cut their prices. FoGO's planned price is ₹27,000 plus ₹3–4,000 a year: planned, not a market result. Affordability is a design input.
+
+**Purpose.** Widen affordability from purchase price to the total cost of use, and show that Indian price regulation does reach devices, including home-use ones.
+
+**Say.** The chevrons are Kamala's 45 days with SwaKnee. Buy or rent the device from a seller who, since G.S.R. 754(E) of 30 September 2022, needs a State registration in Form MD-42 (Rule 87A; fee ₹3,000). Travel 30 km to the clinic for fitting and training, and back for follow-up. Clinician time and instructions in Odia or Hindi. Then the sessions: the leaflet describes 45 minutes a day for 45 days, 2,025 minutes, about 34 hours of her time, an illustration of burden rather than a prescription. A relative fits, charges and troubleshoots, and loses wages. Repairs, spares, a service plan and a phone line that answers. “Who pays for each step?” Fill each dashed box from the room. For home-use devices the answer is nearly always the household, out of pocket.  
+The panel. Medical devices are ‘drugs’ under the Drugs and Cosmetics Act 1940, so the National Pharmaceutical Pricing Authority regulates them under the Drugs (Prices Control) Order 2013. Para 19 lets it fix ceiling prices in extraordinary circumstances or the public interest; Para 20 asks it to monitor the MRPs of non-scheduled products so that no price rises more than 10% in 12 months.  
+The timeline. 13 February 2017: coronary stents capped at ₹7,260 for bare-metal and ₹29,600 for drug-eluting stents, cuts of up to 85% and 74%; stents are now in Schedule I and their ceilings are revised each year by the wholesale price index (₹10,762.15 and ₹39,186.03 from 1 April 2026, as reported). 16 August 2017: knee implants capped under Para 19; the widely used cobalt-chromium primary knee fell from an average MRP of ₹1,58,324 to ₹54,720, 65%, and special-metal knees by 69%; NPPA's data showed an average trade margin of 313%. 13 July 2021: trade margins capped at 70% of the price to distributor for pulse oximeters, blood-pressure monitors, nebulisers, digital thermometers and glucometers; by 23 July, 620 of 684 reported brands, 91%, had cut their MRP, by up to 88%; oxygen concentrators had been capped the same way on 3 June 2021. The knee-implant cap has been extended year by year, most recently to 15 November 2026. SwaKnee is not an implant, so no cap applies to it; FoGO would fall under Para 20 monitoring only if NPPA chose to look.  
+Right column. FoGO's planned price is ₹27,000 plus a ₹3–4,000 annual service plan: a plan, not a market price. Cambridge Judge's Centre for Health Leadership and Enterprise describes progress in three phases, develop, integrate at scale, make affordable and widely available; the Harvard Business School Aravind case shows affordability built in through local manufacture of Aurolab lenses under a quality system. Responsible options for an adjunct with modest evidence: rent rather than sell, clinic-shared devices, a trial period with a refund if not tolerated, and a transparent statement of the total cost of a course.
+
+**Debrief points.** Close with: “Affordability is an ethical design input, not an afterthought.” Price caps are a trade-off: after the stent cap, Abbott and Medtronic applied to withdraw premium stents and were refused, with manufacturers required to keep products on the market for six months; observers feared hospitals would shift costs to other charges, a reported concern rather than a measured effect, and NPPA later required hospitals billing patients directly to keep to the ceilings (notification of 12 February 2018).
+
+**Caution.** The 10% rule in Para 20 is NPPA's reading; the Delhi High Court narrowed that interpretation in a 2023 drug case (Bharat Serums v Union of India), so present it as ‘monitoring’ rather than a hard cap. The 1 April 2026 stent ceilings and the 15 November 2026 knee-cap end date come from trade-press reports: check NPPA before presenting, because the knee cap expires five weeks after this workshop. The FoGO price is a developer plan, not a market result.
+
+**Transition.** “Now a commercial decision under pressure.”
+
+**Sources.**
+
+1. Medical Dialogues. NPPA asks for price movement details of orthopaedic implants; 2017 (devices are 'drugs' under the Drugs and Cosmetics Act 1940, so DPCO 2013 applies: Para 19 ceiling prices in extraordinary circumstances or public interest; Para 20 monitoring of non-scheduled MRPs so that no price rises more than 10% in any 12 months). <https://medicaldialogues.in/nppa-asks-for-price-movement-details-of-orthopedic-implants>
+2. Press Information Bureau. NPPA ceiling prices for coronary stents: Rs 7,260 (bare-metal) and Rs 29,600 (drug-eluting); 13 February 2017. <https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=158452>
+3. Medical Dialogues. NPPA revises coronary stent prices: drug-eluting stents Rs 39,186.03 and bare-metal stents Rs 10,762.15 per unit (exclusive of GST) from 1 April 2026; March 2026. <https://medicaldialogues.in/news/industry/medical-devices/nppa-revises-coronary-stent-prices-des-at-rs-39186-and-bms-at-rs-10762-from-april-2026-168192>
+4. Press Information Bureau. Government fixes ceiling prices of knee implants (cobalt-chromium primary knee: average MRP Rs 1,58,324 to Rs 54,720, 65%; special metals 69%); 16 August 2017. <https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=170040>
+5. Scroll.in. After cardiac stents, the government now caps prices of knee implants: cobalt-chromium complete kit Rs 54,720 plus tax against Rs 1,58,324 paid before; NPPA data showed an average trade margin of 313%; 16 August 2017. <https://scroll.in/latest/847453/after-cardiac-stents-the-government-now-caps-prices-of-knee-implants>
+6. Medical Dialogues. NPPA continues price cap on orthopaedic knee replacement implants for another year, till 15 November 2026. <https://medicaldialogues.in/news/industry/medical-devices/nppa-continues-price-cap-on-orthopedic-knee-replacement-implants-for-another-year-till-november-15-2026-158881>
+7. Press Information Bureau. Government caps trade margin up to 70% on price-to-distributor for pulse oximeters, BP monitors, nebulisers, digital thermometers and glucometers; 13 July 2021 (91% of 684 brands cut MRP, by up to 88%). <https://www.pib.gov.in/PressReleasePage.aspx?PRID=1735430>
+8. Press Information Bureau. On capping of trade margin, 91% of brands of five medical devices report downward revision of prices up to 88% (684 brands reported as of 23 July 2021); PRID 1738484. <https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1738484&reg=3&lang=2>
+9. TCTMD. Stents as essential medicine: India’s cap on stent prices could have ripples around the globe; 2017 (withdrawal applications refused). <https://www.tctmd.com/news/stents-essential-medicine-indias-cap-stent-prices-could-have-ripples-around-globe>
+10. SCC Online blog. Medical Devices (Fifth Amendment) Rules 2022, G.S.R. 754(E) of 30 September 2022: Rule 87A requires anyone selling, stocking, exhibiting or distributing medical devices to apply to the State Licensing Authority in Form MD-41 for a Registration Certificate in Form MD-42 (fee Rs 3,000; retention Rs 3,000). <https://www.scconline.com/blog/?p=274997>
+11. Cambridge Judge Business School. Centre for Health Leadership and Enterprise. <https://www.jbs.cam.ac.uk/centres/health/>
+12. Rangan VK. The Aravind Eye Hospital, Madurai, India: In Service for Sight. Harvard Business School case 593-098; 1993.
+13. Swa knee_Leaflet.pdf. Supplied product material: 45-minute daily sessions over 45 days (illustration of time burden, not a prescription).
+14. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+
+### Slide 49 · Would you proceed? Launch with this brochure
+
+*Time: 2 min · core (40-min path) · Activity: Vote; rewrite one claim*
+
+**Core script (say this).** Kamala's son finds this brochure online: ‘Clinically proven! Regrows cartilage. Doctor recommended. Avoid surgery forever.’ The distributor insists, the company has three months of cash, and if it folds today's users lose support. A, launch as written. B, fix the claims first. C, not yet. Vote, then rewrite one claim. A better line: ‘In one company study of 82 adults over 45 days, average pain fell more than with comparison care; independent trials are needed.’
+
+**Purpose.** Practise responsible commercialisation under real pressure, with the Indian codes that govern device claims.
+
+**Say.** The brochure is invented for teaching; it reproduces no actual SwaKnee material. Read the four claims. Then the pressures: the distributor insists on these claims, cash lasts three months, and, the fact that argues against the safe answer, if the company folds, the people already using the device lose service and support.  
+“A: launch as written. B: fix the claims first, then launch. C: not yet.”
+
+**Ask / run.** Vote by show of hands. Then each table rewrites one claim in 30 seconds and reads it out.
+
+**Debrief points.** Claim by claim, with the table at the bottom of the slide.  
+• ‘Clinically proven’ needs independent, prospectively registered, sham-controlled replication; one company study of 82 people is not enough, and guideline bodies are sceptical of PEMF (OARSI 2019 strongly recommends against electromagnetic therapy; NICE NG226 does not offer electrotherapies).  
+• ‘Regrows cartilage’ was never measured, and no human evidence of regeneration was found.  
+• ‘Doctor recommended’ implies an endorsement. The Uniform Code for Marketing Practices in Medical Devices 2024 (Department of Pharmaceuticals circular of 6 September 2024, as amended on 30 April 2026) requires product information to be accurate, balanced, not misleading and capable of substantiation, and bars gifts, travel and hospitality for health professionals; complaints go to an ethics committee in each industry association, which must decide within 90 days; it is a voluntary code. For the doctor, clause 6.8 of the IMC 2002 regulations (inserted 2009) bars gifts and hospitality from the pharmaceutical and allied health industry; the NMC's 2023 regulations have been in abeyance since 23 August 2023.  
+• ‘Avoid surgery forever’ is an absolute promise. The Drugs and Magic Remedies (Objectionable Advertisements) Act 1954 bars advertising remedies that claim to cure Scheduled conditions, and the Schedule lists ‘rheumatism’; whether a PEMF device and knee osteoarthritis fall within it is a legal question, so take advice. The ASCI Code, Chapter I.1, requires truthful and substantiated claims.  
+A better line: “In one company study of 82 adults over 45 days, average pain fell more with SwaKnee than with comparison care. Independent trials are needed to confirm this.” The other wordings in the table are suggestions for the exercise, not approved copy.  
+Stanford's Principled Decision-Making brief advises teams to write a team-culture document setting out their ethical principles early, before moments like this.  
+‘Not yet’ also has a cost: if the company folds, current users lose support and service. That is why B, honest claims and a launch, is usually the responsible answer.
+
+**Caution.** The brochure is hypothetical. Check your own live web and print claims against this standard before the talk. The ‘voluntary, no statutory backing’ description of UCMPMD comes from legal commentary; quote the 2026 consolidated circular. Do not name a dated ‘ASCI healthcare guideline’; cite the Code chapter.
+
+**Transition.** “The last decision comes after launch.”
+
+**Sources.**
+
+1. Department of Pharmaceuticals. Uniform Code for Marketing Practices in Medical Devices, 2024 (circular of 6 September 2024; as amended on 30 April 2026). Voluntary code administered through industry associations. <https://pharma-dept.gov.in/sites/default/files/UCMDMD%20circular%201-2026+UCMDMP%20code%20as%20amended%20on%2030.4.2026%20(1).pdf>
+2. Medical Council of India. Indian Medical Council (Professional Conduct, Etiquette and Ethics) Regulations, 2002, clause 6.8 (inserted 2009); operative after the NMC 2023 regulations were held in abeyance on 23 August 2023. <https://www.delhimedicalcouncil.org/pdf/EthicsRegulations-2002.pdf>
+3. The Wire. NMC puts new guidelines on doctors’ ethics in abeyance; August 2023. <https://thewire.in/health/nmc-puts-new-guidelines-on-doctors-ethics-in-abeyance-after-imas-meeting-with-health-minister>
+4. Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954 (Schedule includes ‘rheumatism’). <https://www.indiacode.nic.in/indiacode/bitstream/123456789/1412/1/A1954-21.pdf>
+5. Advertising Standards Council of India. Consumer Complaints Council recommendations press release (June 2022): health advertisements assessed under ASCI Code Chapter I.1 (truthful, substantiated claims) and III.4. <https://www.ascionline.in/wp-content/uploads/2022/09/asci_june-17_ccc_recomm_press_release.pdf>
+6. Bannuru RR, Osani MC, Vaysbrot EE, et al. OARSI guidelines for the non-surgical management of knee, hip, and polyarticular osteoarthritis. Osteoarthritis Cartilage. 2019 (electromagnetic therapy strongly recommended against). <https://www.esceo.org/sites/esceo/files/pdf/Bannuru_O%26C_OARSIguidelines_2019.pdf>
+7. NICE. Osteoarthritis in over 16s: diagnosis and management (NG226); October 2022 (do not offer listed electrotherapies: insufficient evidence of benefit). <https://www.nice.org.uk/guidance/ng226/chapter/Recommendations>
+8. Stanford Biodesign. Principled Decision-Making. Student Guide to Biodesign; 2022. <https://biodesignguide.stanford.edu/wp-content/uploads/2022/08/Principled-Decision-Making-v1.pdf>
+9. Swayogya Rehab Solutions. SwaKnee evidence page: company-reported comparative 45-day study, device n=40 vs comparison n=42, ≈32% vs ≈14% average VAS pain reduction from baseline. Rounded figures as transcribed in the supplied original deck; re-check the live page before presenting. <https://www.swayogya.in/evidence.html>
+10. Lundh A, Lexchin J, Mintzes B, Schroll JB, Bero L. Industry sponsorship and research outcome. Cochrane Database Syst Rev. 2017;(2):MR000033 (drug and device studies: favourable conclusions RR 1.34, 95% CI 1.19–1.51). <https://pubmed.ncbi.nlm.nih.gov/28207928/>
+
+### Slide 50 · Would you proceed? Push tonight's FoGO update
+
+*Time: 1.5 min · core (40-min path) · Activity: Vote*
+
+**Core script (say this).** Tonight's update gives fewer false cues, but it may miss more freezes, and it has been tested only on stored data. A, push to everyone. B, staged release with monitoring and rollback. C, not yet. Vote. Evidence belongs to a version: results for version 1 may not cover version 2. CDSCO's software guidance of July 2026 and the FDA's change-control plans both expect documented change management. Who in your team can pause or reverse a release?
+
+**Purpose.** Show that evidence belongs to a version and that changes need governance, in India and abroad.
+
+**Say.** The screenshot is the real prototype app: a vibration cue is active, and the research panel shows that the cue was ‘debounced’, confirmed in two of three windows, before it fired. Changing that rule changes the device's behaviour.  
+Read the facts. Fewer false cues: today's build fires about 9 to 11 false cues an hour of walking, 0.15 to 0.18 per minute on the public datasets, so users will welcome the change. It may miss more freezes: a threshold trades sensitivity against specificity. And it has been tested on stored data only; no user has walked with it.  
+“A: push to all users tonight. B: staged release after review, with monitoring and rollback. C: not yet.”
+
+**Ask / run.** Vote. Then ask each table: who in your team can pause or reverse a release, and what number would trigger it?
+
+**Debrief points.** Evidence for version 1 may not cover version 2.  
+India: CDSCO's Guidance Document on Medical Device Software under MDR 2017 (CDSCO/MD/GD/MDSW/01/2026, 21 July 2026, 62 pages) covers software as a device, software in devices, connected systems and AI functions; it expects lifecycle documentation, version control, verification and validation, cybersecurity and documented change management, and says an Algorithm Change Protocol may be devised where applicable. CDSCO states that the guidance interprets the Rules and should not be read as a new regulatory control. Post-approval changes go through the portal: major changes need prior approval, minor changes a notification (CDSCO FAQ addenda; consultancy summaries give 2–4 weeks for minor changes).  
+USA: the FDA's final guidance on Predetermined Change Control Plans for AI-enabled device software functions (December 2024; a revised version was posted in August 2025) lets a manufacturer pre-specify planned modifications with a validation protocol and an impact assessment, so that changes inside the plan need no new submission. It is not a blank cheque: the plan itself is reviewed. The EU's December 2025 proposal would allow similar plans without prior notified-body approval of each change; it is still under negotiation.  
+If the device is in a study: notify the ethics committee, seek a protocol amendment, and re-consent if the change could affect a participant's decision.  
+A good release: shadow mode first; a small staged group; pre-set monitoring metrics and a rollback trigger; tell users and clinicians what changed. Closed-loop devices shift accountability between person and system (Kellmeyer 2016); a system view of AI software regulation is needed (Gerke, Babic, Evgeniou and Cohen 2020).
+
+**Caution.** Hypothetical update; not a report of an actual FoGO release. The false-cue rate is project-reported from public datasets, not from use by patients. Check the date on the current FDA PCCP document before presenting.
+
+**Transition.** “And if, despite all this, someone is harmed?”
+
+**Sources.**
+
+1. CDSCO. Guidance Document on Medical Device Software under the Medical Devices Rules, 2017 (CDSCO/MD/GD/MDSW/01/2026); 21 July 2026. <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-document-on-Medical-Device-Software-under-MDR-2017.pdf>
+2. Pure Global. India CDSCO Medical Device Software Guidance 2026: classification by medical purpose, significance of the information and severity of the condition; lifecycle, cybersecurity and AI change-planning expectations (secondary summary of CDSCO/MD/GD/MDSW/01/2026). <https://www.pureglobal.com/news/india-cdsco-medical-device-software-guidance-2026>
+3. US FDA. Marketing Submission Recommendations for a Predetermined Change Control Plan for Artificial Intelligence-Enabled Device Software Functions. Final guidance, December 2024 (revised version reported August 2025). <https://www.fda.gov/regulatory-information/search-fda-guidance-documents/marketing-submission-recommendations-predetermined-change-control-plan-artificial-intelligence>
+4. European Commission. Proposal for a targeted revision of the medical device regulations, COM(2025) 1023 final, 16 December 2025 (under negotiation). <https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:52025PC1023>
+5. Gerke S, Babic B, Evgeniou T, Cohen IG. The need for a system view to regulate artificial intelligence/machine learning-based software as medical device. npj Digit Med. 2020. <https://hls.harvard.edu/bibliography/the-need-for-a-system-view-to-regulate-artificial-intelligence-machine-learning-based-software-as-medical-device>
+6. Kellmeyer P, Cochrane T, Müller O, et al. The effects of closed-loop medical devices on the autonomy and accountability of persons and systems. Camb Q Healthc Ethics. 2016;25(4):623–633. <https://www.research-collection.ethz.ch/handle/20.500.11850/126117>
+7. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+
+### Slide 51 · When harm happens, who answers?
+
+*Time: 1.25 min · core (40-min path) · Activity: Assign an owner to each step*
+
+**Core script (say this).** Suppose Ramesh falls after a missed cue. Who answers? Follow the loop: care for him; record the device, serial number and software version; report to MvPI on 1800 180 3024 and, as a licence holder, to CDSCO within 15 days; investigate; correct; follow up. In India's ASR hip recall, about 4,700 people had the implant but only 1,080 had been traced by 2018, and compensation was settled only in November 2018. Traceability starts on day one. Who owns each step in your team?
+
+**Purpose.** Make post-market responsibility concrete: six steps, six owners, one Indian reference case.
+
+**Say.** “Suppose Ramesh falls after a missed cue.” Follow a report around the loop. Care: meet his immediate needs, keep the device and its data, and avoid a blanket instruction to stop a needed device. Record: device identity, serial number, software version, context, outcome. Report: to the Materiovigilance Programme of India on the Medical Device Adverse Event Reporting Form (helpline 1800 180 3024; mvpi-ipc@gov.in), and, as a licence holder, to CDSCO within 15 days; in a study, to the sponsor and the ethics committee. Investigate: root cause, context, trend across units, update the ISO 14971 risk file. Correct: corrective and preventive action, labelling or software fix, recall through the Field Safety Corrective Action form to MvPI; MDR-2017 has no stand-alone recall procedure, a gap commentators have called for reform of. Follow up: the person, whether the correction worked, and the periodic safety update report, every six months for two years and then yearly for two.  
+The Indian case. DePuy recalled its ASR metal-on-metal hip systems worldwide in August 2010. About 4,700 ASR surgeries had been done in India between 2004 and 2010. CDSCO issued a device alert in December 2013 and the import licence was cancelled under the 1940 Act. A Health Ministry committee chaired by Dr Arun K Agarwal reported on 19 February 2018 that the company had suppressed facts on harm; by August 2018 only 1,080 patients had been traced through a helpline, and 275 of them had needed revision surgery. The compensation formula, a base of ₹20 lakh multiplied by disability and age factors plus ₹10 lakh for non-pecuniary damage, was approved on 29 November 2018; awards ran from ₹30 lakh to ₹1.23 crore, and the first, ₹74.5 lakh, was ordered in March 2019. Traceability and registries matter from day one.
+
+**Ask / run.** “Who in your team owns each of the six steps?” Write a name under each chevron.
+
+**Debrief points.** MvPI was launched on 6 July 2015 at the Indian Pharmacopoeia Commission, Ghaziabad; manufacturers, importers, distributors, health professionals and patients can report; 174 monitoring centres were listed by 2022 and they file about 97% of reports, so reporting by companies and patients remains thin. A CDSCO circular of 15 May 2024 requires every licence holder to report suspected unexpected serious adverse events to MvPI; in March 2025 the Health Ministry set up an expert committee under MvPI, and in July 2025 the NMC told medical colleges to form device adverse-event committees. Kramer and colleagues (PLoS Medicine 2013) found that post-market systems in the US, EU, Japan and China also rely mainly on passive reporting, which is prone to under-reporting (our inference), so build reporting into the product: serial numbers, an in-app ‘report a problem’ button, a phone line. The UK Cumberlege Review (2020) recommended a Patient Safety Commissioner, redress and a central database of patient, implant and surgeon; the redress agency was later not funded.
+
+**Caution.** The ASR case belongs to the pre-MDR-2017 regime. The 882 traceable patients cited by Mondaq and the 1,080 cited by newspapers reflect different dates; the slide uses 1,080 (August 2018). The 15-day reporting window and the PSUR cadence come from consultancy summaries, not from a verified rule number. Avoid a blanket instruction to stop a needed device; safety decisions need clinical assessment and continuity of care.
+
+**Transition.** End with: “Who will still answer the phone after the sale?”
+
+**Sources.**
+
+1. Indian Pharmacopoeia Commission. Materiovigilance Programme of India (MvPI): About us. Launched 6 July 2015; helpline 1800-180-3024; mvpi-ipc@gov.in. <https://ipc.gov.in/mandates/materiovigilance-programme-of-india-mvpi/about-us.html>
+2. Indian Pharmacopoeia Commission. Medical Device Adverse Event Reporting Form, version 1.2 (open to manufacturers, importers, distributors, healthcare professionals and patients). <https://nhsrcindia.org/sites/default/files/Medical-Devices-Adverse-Event-Reporting-Form-(Version-1.2).pdf>
+3. Materiovigilance Programme of India: current status and way forward. Indian Journal of Pharmacology; 2022 (174 Medical Device Adverse Event Monitoring Centres in hospitals and medical colleges; voluntary reporting; 40 reports in 2015 rising to 897 in 2019). <https://www.ovid.com/jnls/iphr/fulltext/10.4103/ijp.ijp_837_21~materiovigilance-programme-of-india-current-status-and-way>
+4. Business Standard. Medical device bodies welcome CDSCO order on self-reporting adverse effects; 21 May 2024 (CDSCO circular of 15 May 2024: all medical-device licence holders must report every suspected unexpected serious adverse event to the Materiovigilance Programme of India). <https://www.business-standard.com/health/medical-device-bodies-welcome-cdsco-order-on-self-reporting-adverse-effects-124052101276_1.html>
+5. Navigator Global. India educational series: medical device registration and post-market compliance (PSUR every 6 months for 2 years, then annually for 2 years). Single consultancy source. <https://navigator.global/gb/library/india-educational-series-medical-device-registration-and-post-market-compliance>
+6. Business Today. Govt to ask Johnson & Johnson to compensate for faulty hip implants (Agarwal committee report, 19 Feb 2018: about 4,700 ASR surgeries in India 2004–2010; 1,080 patients traced); 25 August 2018. <https://www.businesstoday.in/amp/latest/economy-politics/story/johnson-johnson-faulty-hip-implants-surgeries-compensation-109085-2018-08-25>
+7. Press Information Bureau. Health Ministry approves compensation formula for hip implant cases (Central Expert Committee; base amount Rs 20 lakh adjusted for disability and age); 29 November 2018. <https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1554266>
+8. The Wire. CDSCO directs Johnson & Johnson to pay Rs 74.5 lakh to first patient with faulty hip implant; 2019 (approved compensation between Rs 30 lakh and Rs 1.23 crore under the November 2018 formula). <https://thewire.in/health/cdsco-directs-johnson-johnson-to-pay-rs-74-5-lakh-to-first-patient-with-faulty-hip-implant>
+9. Mondaq. Reassessing India's Medical Device Recall Framework: Regulatory Gaps and the Case for Reform; 2025 (CDSCO medical device alert on the DePuy ASR hip implant, December 2013, after about 4,700 surgeries in India; import licence cancelled under the Drugs and Cosmetics Act 1940; MDR-2017 has no stand-alone recall procedure). <https://www.mondaq.com/reassessing-india's-medical-device-recall-framework-regulatory-gaps-and-the-case-for-reform/1751304>
+10. Kramer DB, Tan YT, Sato C, Kesselheim AS. Postmarket surveillance of medical devices: a comparison of strategies in the US, EU, Japan, and China. PLoS Med. 2013. <https://pmc.ncbi.nlm.nih.gov/articles/PMC3815401/>
+11. Independent Medicines and Medical Devices Safety Review (chair Baroness Cumberlege). First Do No Harm; 8 July 2020. <https://www.immdsreview.org.uk/downloads/IMMDSReview_Web.pdf>
+12. ISO 14971:2019. Medical devices — Application of risk management to medical devices. <https://www.iso.org/standard/72704.html>
+13. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+
+### Slide 52 · Would you let a patient use it now? (closing vote)
+
+*Time: 1.5 min · core (40-min path) · Activity: Re-vote; compare*
+
+**Core script (say this).** Same three facts: a working prototype, promising dataset results, a test licence. Same options. First answer silently: which patient, which use, which evidence, who is responsible? Vote. [Compare with the opening split.] What changed your mind? As many of you spotted, this is FoGO today. My own answer as its inventor: option 2, a supervised study, and only after ethics approval, MD-23 permission and CTRI registration.
+
+**Purpose.** Let the room see its own change in reasoning: the facts have not moved, the questions have.
+
+**Say.** Read the three facts again: a working prototype, promising results on public datasets, a test licence granted. “Same three facts, same three options. Before you vote, answer four questions silently: which patient, which use, which evidence, and who is responsible?”
+
+**Ask / run.** Vote by fingers and write the split in the ‘Now’ boxes beside the opening split copied from the flipchart. Ask two people whose vote changed: “What changed your mind?”
+
+**Debrief points.** Confirm what many will have spotted: “The three facts describe FoGO in August 2026: an alpha prototype after three iterations, subject-wise F1 of 0.83–0.85 on public datasets, and an MD-13 test licence for 25 units granted on 10 August 2026. My own answer, as the inventor, is option 2, and only after ethics approval from a committee registered with CDSCO, permission in Form MD-23 on an MD-22 application with the Seventh Schedule documents, and CTRI registration before the first participant: a supervised research study, not routine care.” Disclosing this models the behaviour asked for in the disclosure slide.  
+A test licence in Form MD-13 allows units to be made for clinical investigation, test, evaluation, demonstration or training (fee ₹500 per device; valid three years); they cannot be sold, and it is neither permission to treat nor, by itself, permission to study. Routine care would need a manufacturing licence for the intended use, MD-5 from the State for a Class B device, after a notified-body audit, and evidence that supports the claim.  
+The goal is better reasons, not agreement with the speaker. Delaying use to resolve important uncertainty is different from blocking useful research: safeguards should be proportionate to the exact use and risk, and access and continuity remain part of the decision. “A patient-ready decision names the patient, the purpose, the evidence, the limits and the person responsible.”
+
+**Caution.** Do not describe FoGO as approved, licensed for sale or clinically proven. The F1 figures and the MD-13 licence are project-reported; the study at AIIMS Bhubaneswar is planned, not started.
+
+**Transition.** “Now make it personal.”
+
+**Sources.**
+
+1. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+2. CDSCO. Form MD-12: application for licence to manufacture medical devices for clinical investigation, test, evaluation, examination, demonstration or training (licence in Form MD-13). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/12MD.pdf>
+3. CDSCO. Form MD-22: application for permission to conduct clinical investigation (permission in Form MD-23). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/22MD.pdf>
+4. Ministry of Health and Family Welfare. New Drugs and Clinical Trials Rules, 2019 (ethics committee registration: Rules 7–8 with CDSCO; Rules 16–17 with DHR). <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/new_DC_rules/NEW%20DRUGS%20ANDctrS%20RULE,%202019.pdf>
+5. CDSCO Medical Device online portal. Fee help file (Second Schedule, MDR-2017): manufacturing licence Class A/B Rs 5,000 per site + Rs 500 per device; Class C/D Rs 50,000 + Rs 1,000; test licence Rs 500 per device. <https://cdscomdonline.gov.in/NewMedDev/resources/app_srv/NMD/global/helpfiles/nmd_fee.pdf/>
+6. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+
+### Slide 53 · Commit to one change in your own project
+
+*Time: 2.5 min · core (40-min path) · Activity: Write, share*
+
+**Core script (say this).** Think of your own device, study or project. Complete the card: Before [next step], I will [action]. Owner: [name]. I proceed only if [condition]. You have ninety seconds. Then read it to a neighbour. [Take two examples.]
+
+**Purpose.** Convert discussion into one specific, owned action with a condition for proceeding.
+
+**Say.** “Think of a device, study or project you are working on. Complete the card: Before [next step], I will [action]. Owner: [name]. I proceed only if [condition].”  
+Worked example: “Before our first home test, I will register the study on CTRI. Owner: me. I proceed only if the ethics committee approves and an independent outcome assessor is named.”  
+If the room needs prompts, the right-hand column gives one example per stage: rewrite the need statement solution-neutral and screen it with ten users; make no ‘detects’ claim until the model is tested on data from Indian patients with results by subgroup; name an independent consent-taker before anyone is approached, with consent in Odia or Hindi; confirm the risk class and hold an MD-13 test licence before a unit leaves the lab; cost the whole course for the household and decide whether to rent or sell; put a serial number on every unit, a ‘report a problem’ button in the app, and name who can pause a release.
+
+**Ask / run.** Ninety seconds to write. Then read it to a neighbour. Take two examples from the room; ask each for the condition, not only the action.
+
+**Debrief points.** Stanford's Principled Decision-Making brief advises teams to write down their ethical principles early; this exercise adapts that advice into a personal commitment. Encourage participants to photograph or keep their card; the printed checklist handout has space for it.
+
+**Caution.** The example commitments are workshop suggestions, not regulatory requirements; the MD-13 example applies to a device that will be used in a clinical investigation, test or evaluation.
+
+**Transition.** “Here is a checklist to keep using.”
+
+**Sources.**
+
+1. Stanford Biodesign. Principled Decision-Making. Student Guide to Biodesign; 2022. <https://biodesignguide.stanford.edu/wp-content/uploads/2022/08/Principled-Decision-Making-v1.pdf>
+2. CDSCO. Form MD-12: application for licence to manufacture medical devices for clinical investigation, test, evaluation, examination, demonstration or training (licence in Form MD-13). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/12MD.pdf>
+
+### Slide 54 · Patient-impact decision checklist
+
+*Time: 0.5 min · core (40-min path)*
+
+**Core script (say this).** Here is a checklist to keep: one row per stage, with the question the patient asks, the evidence to see, the Indian permission with its class, form and authority, an owner, and a go or not-yet column. Every ‘not yet’ needs an owner and a condition for proceeding. A licence, patent, grant or famous partner is not evidence of readiness. Thank you.
+
+**Purpose.** Leave participants with a tool they can apply to any device decision, with the Indian permission named for each stage.
+
+**Say.** Use one row per stage. The evidence column should link to real documents; the owner column names a person or team; every ‘Not yet’ needs an owner and a condition for proceeding.  
+Row by row. Need: a solution-neutral need statement (Stanford Biodesign) and, in India, the first permission question: is it a device at all? Every medical device has been regulated under s.3(b)(iv) of the Drugs and Cosmetics Act 1940 since 1 April 2020, and its risk class, A to D, follows Rule 4 and the First Schedule of the Medical Devices Rules 2017, with CDSCO's device-wise classification lists as the practical reference. Evidence: IDEAL-D stage, subgroup reporting (MRCT 2020), an ISO 14971 risk file and a version log; the permissions are the test licence (MD-12 application, MD-13 licence from the Central Licensing Authority, ₹500 per device, valid three years) and the clinical investigation (MD-22 with the Seventh Schedule documents, permission in MD-23), with CTRI registration before the first participant. People: consent in the participant's language, an independent consent-taker where the patient depends on the researcher (Declaration of Helsinki 2024, paragraph 27), interests disclosed and managed (ICMR 2017); the ethics committee must be registered with CDSCO (NDCT Rules 2019, Rules 7–8; MDR-2017 refers to it in Rule 50); companies follow UCMPMD 2024 and doctors clause 6.8 of the IMC 2002 regulations. Permission: a quality management system to the Fifth Schedule, aligned with ISO 13485 (BIS has merged it with the Essential Principles as IS 23485), the Essential Principles checklist, Rule 44 labelling, and the software lifecycle and change control expected by CDSCO's guidance of 21 July 2026; the licence depends on class: MD-3 to MD-5 from the State Licensing Authority for Class A and B after a notified-body audit (₹5,000 per site plus ₹500 per device), MD-7 to MD-9 from CDSCO for Class C and D (₹50,000 plus ₹1,000), registration only for Class A non-sterile non-measuring devices (G.S.R. 777(E), 14 October 2022), and MD-14 to MD-15 for imports of any class. Access: a capability audit with the Indian demands, the total cost of a course and who pays each step, claims matched to evidence; NPPA can fix ceilings under Para 19 of DPCO 2013 (stents and knee implants, 2017) and monitor MRPs under Para 20, and capped trade margins on five home-use devices in 2021; claims answer to UCMPMD 2024, the DMRA 1954 and the ASCI Code; sellers need MD-42 registration (Rule 87A, 2022). Safety: a named owner for each step of the harm loop, serial numbers and a registry, monitoring and a rollback trigger for software changes; report to MvPI on the MDAE form (IPC; 1800 180 3024), and as a licence holder report serious events to CDSCO within 15 days (circular of 15 May 2024), file PSURs six-monthly for two years and yearly for two, and remember Rule 43A, under which the licensing authority can suspend or cancel a licence.
+
+**Caution.** A workshop synthesis, not a substitute for ethics, scientific, regulatory or quality review. One device can meet the conditions for a narrowly defined use and remain unsuitable for another. Do not infer completion from a licence, patent, grant or institutional association. The 15-day reporting window, the PSUR cadence and the Rule 50 reference come from secondary summaries; the fee amounts are from the CDSCO portal fee file as reported. Draft amendments of 2025–26 (perpetual validity, shorter timelines) were not final on 7 October 2026.
+
+**Transition.** Close: thank the audience; point to the appendix and the printed handout.
+
+**Sources.**
+
+1. Stanford Biodesign. Need Statements. Student Guide to Biodesign; 2022. <https://biodesignguide.stanford.edu/wp-content/uploads/2022/07/Need-Statements-v2.pdf>
+2. Sedrakyan A, Campbell B, Merino JG, Kuntz R, Hirst A, McCulloch P. IDEAL-D: a rational framework for evaluating and regulating the use of medical devices. BMJ. 2016;353:i2372. <https://pubmed.ncbi.nlm.nih.gov/27283585/>
+3. MRCT Center of Brigham and Women's Hospital and Harvard. Achieving Diversity, Inclusion, and Equity in Clinical Research: Guidance Document and Toolkit; 2020. <https://mrctcenter.org/diversity-in-clinical-research/>
+4. ISO 14971:2019. Medical devices — Application of risk management to medical devices. <https://www.iso.org/standard/72704.html>
+5. World Medical Association. Declaration of Helsinki: Ethical Principles for Medical Research Involving Human Participants. 75th General Assembly, Helsinki, October 2024 (para 27: dependent relationship; para 34: post-trial provisions). <https://www.wma.net/policies-post/wma-declaration-of-helsinki/>
+6. Indian Council of Medical Research. National Ethical Guidelines for Biomedical and Health Research Involving Human Participants. New Delhi: ICMR; 2017 (Section 5 informed consent; Section 6 vulnerability; Section 7.7 device trials). <https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf>
+7. Ministry of Health and Family Welfare. New Drugs and Clinical Trials Rules, 2019 (ethics committee registration: Rules 7–8 with CDSCO; Rules 16–17 with DHR). <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/new_DC_rules/NEW%20DRUGS%20ANDctrS%20RULE,%202019.pdf>
+8. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+9. CDSCO. Form MD-12: application for licence to manufacture medical devices for clinical investigation, test, evaluation, examination, demonstration or training (licence in Form MD-13). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/12MD.pdf>
+10. CDSCO. Form MD-22: application for permission to conduct clinical investigation (permission in Form MD-23). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/22MD.pdf>
+11. CDSCO Medical Device online portal. Fee help file (Second Schedule, MDR-2017): manufacturing licence Class A/B Rs 5,000 per site + Rs 500 per device; Class C/D Rs 50,000 + Rs 1,000; test licence Rs 500 per device. <https://cdscomdonline.gov.in/NewMedDev/resources/app_srv/NMD/global/helpfiles/nmd_fee.pdf/>
+12. TeamLease RegTech. Medical Devices (Sixth Amendment) Rules, 2022, G.S.R. 777(E), 14 October 2022: Class A non-sterile, non-measuring devices registered online with an undertaking and a self-certified Essential Principles checklist; no manufacturing licence. <https://www.teamleaseregtech.com/updates/article/19622/medical-devices-sixth-amendment-rules-2022>
+13. Conventus Law. India: CDSCO to regulate all medical devices; 27 March 2020 (MoHFW notifications of 11 February 2020 bringing all medical devices under s.3(b)(iv) of the Drugs and Cosmetics Act 1940 from 1 April 2020, and G.S.R. 102(E) inserting Chapter IIIA registration). <https://conventuslaw.com/report/india-cdsco-to-regulate-all-medical-devices-in/>
+14. CDSCO. Guidance Document on Medical Device Software under the Medical Devices Rules, 2017 (CDSCO/MD/GD/MDSW/01/2026); 21 July 2026. <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-document-on-Medical-Device-Software-under-MDR-2017.pdf>
+15. Department of Pharmaceuticals. Uniform Code for Marketing Practices in Medical Devices, 2024 (circular of 6 September 2024; as amended on 30 April 2026). Voluntary code administered through industry associations. <https://pharma-dept.gov.in/sites/default/files/UCMDMD%20circular%201-2026+UCMDMP%20code%20as%20amended%20on%2030.4.2026%20(1).pdf>
+16. Medical Council of India. Indian Medical Council (Professional Conduct, Etiquette and Ethics) Regulations, 2002, clause 6.8 (inserted 2009); operative after the NMC 2023 regulations were held in abeyance on 23 August 2023. <https://www.delhimedicalcouncil.org/pdf/EthicsRegulations-2002.pdf>
+17. University of Cambridge Engineering Design Centre. Inclusive Design Toolkit and Exclusion Calculator (Clarkson, Waller, Coleman). <https://www-edc.eng.cam.ac.uk/research/inclusive-design>
+18. Medical Dialogues. NPPA asks for price movement details of orthopaedic implants; 2017 (devices are 'drugs' under the Drugs and Cosmetics Act 1940, so DPCO 2013 applies: Para 19 ceiling prices in extraordinary circumstances or public interest; Para 20 monitoring of non-scheduled MRPs so that no price rises more than 10% in any 12 months). <https://medicaldialogues.in/nppa-asks-for-price-movement-details-of-orthopedic-implants>
+19. Press Information Bureau. Government fixes ceiling prices of knee implants (cobalt-chromium primary knee: average MRP Rs 1,58,324 to Rs 54,720, 65%; special metals 69%); 16 August 2017. <https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=170040>
+20. Press Information Bureau. Government caps trade margin up to 70% on price-to-distributor for pulse oximeters, BP monitors, nebulisers, digital thermometers and glucometers; 13 July 2021 (91% of 684 brands cut MRP, by up to 88%). <https://www.pib.gov.in/PressReleasePage.aspx?PRID=1735430>
+21. Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954 (Schedule includes ‘rheumatism’). <https://www.indiacode.nic.in/indiacode/bitstream/123456789/1412/1/A1954-21.pdf>
+22. Advertising Standards Council of India. Consumer Complaints Council recommendations press release (June 2022): health advertisements assessed under ASCI Code Chapter I.1 (truthful, substantiated claims) and III.4. <https://www.ascionline.in/wp-content/uploads/2022/09/asci_june-17_ccc_recomm_press_release.pdf>
+23. SCC Online blog. Medical Devices (Fifth Amendment) Rules 2022, G.S.R. 754(E) of 30 September 2022: Rule 87A requires anyone selling, stocking, exhibiting or distributing medical devices to apply to the State Licensing Authority in Form MD-41 for a Registration Certificate in Form MD-42 (fee Rs 3,000; retention Rs 3,000). <https://www.scconline.com/blog/?p=274997>
+24. Indian Pharmacopoeia Commission. Materiovigilance Programme of India (MvPI): About us. Launched 6 July 2015; helpline 1800-180-3024; mvpi-ipc@gov.in. <https://ipc.gov.in/mandates/materiovigilance-programme-of-india-mvpi/about-us.html>
+25. Business Standard. Medical device bodies welcome CDSCO order on self-reporting adverse effects; 21 May 2024 (CDSCO circular of 15 May 2024: all medical-device licence holders must report every suspected unexpected serious adverse event to the Materiovigilance Programme of India). <https://www.business-standard.com/health/medical-device-bodies-welcome-cdsco-order-on-self-reporting-adverse-effects-124052101276_1.html>
+26. Navigator Global. India educational series: medical device registration and post-market compliance (PSUR every 6 months for 2 years, then annually for 2 years). Single consultancy source. <https://navigator.global/gb/library/india-educational-series-medical-device-registration-and-post-market-compliance>
+27. Lexplosion. Ministry of Health amends MDR 2017: Rule 43A prescribes suspension and cancellation of a licence for non-compliance (Third Amendment Rules, 2022). <https://lexplosion.in/ministry-of-health-amends-the-medical-devices-rules-2017-prescribes-suspension-and-cancellation-of-licence-for-manufacturer-or-licensee-for-failure-to-comply-with-conditions-of-an-import-license-ef/>
+
+### Slide 55 · MDR-2017 forms at a glance: apply, receive, from whom
+
+*Reference slide*
+
+**Core script (say this).** Every permission under the Medical Devices Rules, 2017 is a pair of forms: the number you apply in and the number you receive. Manufacture is MD-3 to MD-5 for Class A and B from the State Licensing Authority, MD-7 to MD-9 for Class C and D from CDSCO. Test units are MD-12 to MD-13; a study in people is MD-22 to MD-23; imports are MD-14 to MD-15; a shop or distributor registers with MD-41 to MD-42. Teal cells are decided by the State, indigo by the Centre. Only the Class A non-sterile, non-measuring route has no form at all: it is an online registration.
+
+**Purpose.** Back-pocket reference for questions such as 'which form do we file first?' and 'who signs it?'. It is a handout page more than a teaching slide: the full session already covers the licence matrix (in-licence-matrix); this appendix lists every verified pair in one place.
+
+**Say.** Read the table left to right: activity, class or scope, the application form, the licence or permission you receive, who decides, and the rule or note that matters.  
+Manufacture. Class A non-sterile, non-measuring devices (G.S.R. 777(E), 14 October 2022) are registered online: the manufacturer uploads site and device details, an undertaking that the device is Class A non-sterile non-measuring and a self-certified Essential Principles checklist; no licence is issued. Class A sterile or measuring devices and all Class B devices apply in MD-3 for an MD-5 licence from the State Licensing Authority, with a notified body registered under Rule 13 auditing the site against the Fifth Schedule QMS. Class C and D apply in MD-7 for MD-9 from the Central Licensing Authority; CDSCO Medical Device Officers inspect the site.  
+Loan licences follow the same split: MD-4 to MD-6 (State) and MD-8 to MD-10 (Central); G.S.R. 188(E) of 6 March 2019 amended Form MD-10 so that the Centre, not the State, issues it. The fee is the same as for a manufacturing licence.  
+Test licences come from the Centre for every class: MD-12 to MD-13 to make units for clinical investigation, test, evaluation, examination, demonstration or training, and MD-16 to MD-17 to import units for the same purposes. FoGO's own MD-13 for 25 units, dated 10 August 2026, is a worked example of this row.  
+Clinical investigation is MD-22 to MD-23 under Chapter VII, with the Seventh Schedule dossier: investigation plan, investigator's brochure, design verification and validation report, Essential Principles checklist, consent form, investigator undertaking and the ethics committee approval. A device with no predicate in India goes through Rule 63 (MD-26 to MD-27); the fourth proviso lets CDSCO waive a local investigation for a device approved by the US, UK, Australian, Canadian or Japanese regulator, and since G.S.R. 744(E) of 14 August 2026 the European Union, provided it has been marketed there for at least two years and CDSCO is satisfied with the safety and post-market data; a post-marketing investigation in India is then required.  
+Import is MD-14 to MD-15 from the Centre for any class, filed by the Indian authorised agent or importer, with a decision due within 9 months. Sale, stocking, exhibition and distribution need MD-41 to MD-42 from the State under Rule 87A (G.S.R. 754(E), 30 September 2022): fee Rs 3,000, and the registration is granted unless the State rejects within 10 days.
+
+**Debrief points.** Three patterns to point out if asked. First, the Centre decides everything that involves testing in people or crossing the border; the State decides routine manufacture of lower-risk devices and retail. Second, the form numbers climb with the activity, so a team can read its own regulatory journey off the numbers it has filed. Third, the 2026 amendments mostly add names rather than forms: MD-2 and MD-40 are now defined as 'Certificates of Registration' (G.S.R. 743(E)) and MD-44 is a proposed test-report form (draft G.S.R. 883(E), 4 December 2025).
+
+**Caution.** Only form pairs verified in the facts files are shown. MD-24 and MD-25 (IVD clinical performance evaluation) and MD-1 or MD-39 as application forms were not verified and are deliberately left out; say 'see the Rules' if asked. Rule 20 for Class A/B and Rules 21 to 23 for Class C/D are consistent across secondary sources but were not checked against the gazette text. The loan-licence row says nothing about what a loan licence is for, because the facts files do not; do not improvise a definition. Whether an ethics-committee approval is required by Rule 50 was not verified; the dossier checklist does list it.
+
+**Transition.** Fees and clocks for the same forms are on the next page.
+
+**Sources.**
+
+1. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+2. CDSCO. Regulatory pathway under the Medical Devices Rules, 2017 (overview). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/RegulatoryMDR-2017.pdf>
+3. Operon Strategist. Understanding the significance of Form MD-3 and MD-7 in CDSCO: Class A/B manufacture MD-3 → MD-5 (State Licensing Authority); Class C/D manufacture MD-7 → MD-9 (Central Licensing Authority). <https://operonstrategist.com/understanding-the-significance-of-form-md-3-and-md-7-in-cdsco/>
+4. Lawrbit. Loan licence for Class C and D medical devices: procedure under MDR-2017 (application Form MD-8, licence Form MD-10, Central Licensing Authority). <https://www.lawrbit.com/industry-specific/loan-licence-class-c-d-medical-devices-procedure/>
+5. Ministry of Health and Family Welfare. G.S.R. 188(E), 6 March 2019: amendment of Form MD-10 to replace the State Licensing Authority with the Central Licensing Authority as issuing authority under MDR-2017. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/Draft_Noti/MDR_G.S.R.188(E)%20dt_06.03.2019_Amendment%20in%20Form%20MD-10%20to%20replace%20the%20SLA%20as%20issuing%20authority%20with%20CLA%20in%20MDR,%202017.pdf>
+6. CDSCO. Form MD-12: application for licence to manufacture medical devices for clinical investigation, test, evaluation, examination, demonstration or training (licence in Form MD-13). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/12MD.pdf>
+7. Corpbiz. Grant of test licence for manufacture under MDR-2017: Form MD-12 application, Form MD-13 licence, for clinical investigation, test, evaluation, examination, demonstration or training. <https://corpbiz.io/learning/grant-of-test-license-for-manufacture-under-mdr-2017/>
+8. Lawrbit. Test licence to import medical devices in India: Form MD-16 application, Form MD-17 licence; fee US$100 per distinct device. <https://www.lawrbit.com/industry-specific/test-license-import-medical-devices-india-procedure/>
+9. CDSCO. Form MD-22: application for permission to conduct clinical investigation (permission in Form MD-23). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/22MD.pdf>
+10. CDSCO. Checklist for Form MD-22 (clinical investigation): Seventh Schedule documents including the clinical investigation plan, investigator's brochure, design verification and validation report, Essential Principles checklist, informed consent form, investigator undertaking and ethics committee approval. <https://www.cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/ChecklisFormMD-22MD.pdf>
+11. Operon Strategist. India waives local trials: exemption for investigational devices with EU clearance (Rule 63, Form MD-26 → MD-27; approval by US, UK, Australia, Canada, Japan or EU regulators and 2 years' marketing; post-marketing investigation in India); 2026. <https://operonstrategist.com/exemption-for-investigational-medical-devices-eu-approval/>
+12. Pure Global. India G.S.R. 744(E), Medical Devices (Third Amendment) Rules, 2026, 14 August 2026: 'or European Union countries' added to Rule 63(1) proviso (iv); Class A non-sterile non-measuring self-certification revised. <https://www.pureglobal.com/news/india-gsr-744e-eu-rule-63-class-a-qms-2026>
+13. CDSCO. Form MD-14: application for licence to import medical devices (licence in Form MD-15; Central Licensing Authority; Rules 34–36). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/14MD.pdf>
+14. Corpseed. Permission to import medical devices, Form MD-14 and Form MD-15: Central Licensing Authority decides within 9 months; 6 to 9 months in practice. <https://www.corpseed.com/knowledge-centre/permission-to-import-medical-devices-form-md-14-and-form-md-15>
+15. SCC Online blog. Medical Devices (Fifth Amendment) Rules 2022, G.S.R. 754(E) of 30 September 2022: Rule 87A requires anyone selling, stocking, exhibiting or distributing medical devices to apply to the State Licensing Authority in Form MD-41 for a Registration Certificate in Form MD-42 (fee Rs 3,000; retention Rs 3,000). <https://www.scconline.com/blog/?p=274997>
+16. Corpseed. Medical device wholesalers, traders and retailers registration (CDSCO Form MD-42): fee Rs 3,000, retention Rs 3,000; the State Licensing Authority may reject within 10 days. <https://corpseed.com/knowledge-centre/medical-device-wholesalers-traders-and-retailers-registration-cdsco-form-md-42>
+17. TeamLease RegTech. Medical Devices (Sixth Amendment) Rules, 2022, G.S.R. 777(E), 14 October 2022: Class A non-sterile, non-measuring devices registered online with an undertaking and a self-certified Essential Principles checklist; no manufacturing licence. <https://www.teamleaseregtech.com/updates/article/19622/medical-devices-sixth-amendment-rules-2022>
+18. Pure Global. India G.S.R. 743(E), Medical Devices (Second Amendment) Rules, 2026, 14 August 2026: Rule 44(p) sterilisation-site licence number on the label (mandatory 14 February 2027); 'Certificate of Registration' defined for Forms MD-2, MD-40 and MD-42; Ninth Schedule of testing fees under Rules 19 and 69. <https://www.pureglobal.com/news/india-gsr-743e-sterilisation-label-ninth-schedule-2026>
+19. CliniExperts. MoHFW issues draft amendment to MDR-2017, G.S.R. 883(E), 4 December 2025: perpetual validity of Forms MD-2, MD-5, MD-6, MD-9, MD-10 and MD-15 subject to retention fees; new Form MD-44 for test or evaluation reports; registration number on Class A labels. <https://cliniexperts.com/regulatory-update/2025-12-04_-g-s-r-883e_draft-notification-for-amendment-in-medical-device-rules-2017/>
+20. CDSCO. Public notice on the Medical Device online system (cdscomdonline.gov.in) for MDR-2017 applications: licences, registrations, test licences and clinical investigations. <https://www.cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadPublic_NoticesFiles/fmd.pdf>
+21. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+
+### Slide 56 · Fees and statutory clocks by class (Second Schedule)
+
+*Reference slide*
+
+**Core script (say this).** The fees are small and the clocks are long. A Class A or B manufacturing licence costs Rs 5,000 per site plus Rs 500 per device; Class C or D costs Rs 50,000 plus Rs 1,000. Imports are priced in dollars: 1,000, 2,000 or 3,000 per site plus 50, 1,000 or 1,500 per device. A test licence is Rs 500 per device. Licences never expire, but the same amount falls due every five years as a retention fee. The clocks: Class A is licensed on documents within 45 days and audited within 120 days afterwards; Class B is audited within 90 days before grant; Class C and D are inspected within 60 days with a decision 45 days after the report. A June 2026 draft would cut Class B to 115 days and Class C and D to 90.
+
+**Purpose.** Answer the two questions every start-up asks: how much, and how long. Keep expectations realistic: statutory day-limits are not the lived timeline.
+
+**Say.** Top table, the Second Schedule fees. The first row is the authority: the State Licensing Authority licenses Class A and B manufacture, CDSCO licenses Class C and D and every import. Manufacturing and loan licences cost Rs 5,000 per site plus Rs 500 per distinct device for Class A and B, and Rs 50,000 plus Rs 1,000 for Class C and D; Class A non-sterile non-measuring devices pay no licence fee because they only register. The retention fee, due every five years, is the same amount again. Import licences are priced in US dollars: Class A 1,000 per site plus 50 per device, Class B 2,000 plus 1,000, Class C and D 3,000 plus 1,500. A test licence to manufacture is Rs 500 per device and to import is 100 dollars per device. Sale registration under Rule 87A is Rs 3,000 with a Rs 3,000 retention.  
+Bottom table, the clocks. Under the current rules the State grants a Class A licence after document scrutiny within 45 days without a prior audit, and the notified body audits within 120 days of the grant. For Class B the notified body must audit within 90 days of the application, before the grant; press reports put the end-to-end Class B timeline at up to 140 days. For Class C and D the Centre causes an inspection within 60 days (Rule 23(1)) and decides within 45 days of the inspection report (Rule 21(4)); reported end-to-end figures range from 105 to 150 days depending on the source. The amber row is the draft Medical Devices (Amendment) Rules 2026, G.S.R. 515(E) of 23 June 2026: Class B would run on a 30 + 30 + 20 + 15 + 20-day sequence (scrutiny and assignment, audit, closure verification, report, decision), 115 days in all; Class C and D would move from 45 to 30 days for the decision and 60 to 55 for the inspection, 90 days in all; Class A is unchanged. As of 7 October 2026 no search result showed the draft finalised. Import decisions are due within 9 months; practitioners quote 6 to 9. Miss a retention fee and a 2% monthly late fee runs; after 180 days (manufacture) or 90 days (import) the licence is deemed cancelled.
+
+**Debrief points.** For an Indian team the budget line is not the government fee but the notified-body audit, the QMS build and the testing, which the Rules price separately: G.S.R. 743(E) of 14 August 2026 added a Ninth Schedule of testing fees under Rules 19 and 69 (amounts not captured in our research). Point students to the fee help file on cdscomdonline.gov.in for the live figures.
+
+**Caution.** Clinical-investigation (MD-22) fees are set in the Second Schedule but the amounts were not verified; do not quote a figure. The Class C/D 'current' total is reported inconsistently (105 days by the Tribune and Business Standard, up to 150 days by S.S. Rana): give both or neither. The 45-day and 120-day Class A limits and the 90-day Class B audit limit come from 2017 commentary, not the gazette text; the sub-rule numbers were not verified. IVD import fees differ from the device fees shown and were not verified.
+
+**Transition.** The documents behind these tables are listed on the next page.
+
+**Sources.**
+
+1. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+2. CDSCO Medical Device online portal. Fee help file (Second Schedule, MDR-2017): manufacturing licence Class A/B Rs 5,000 per site + Rs 500 per device; Class C/D Rs 50,000 + Rs 1,000; test licence Rs 500 per device. <https://cdscomdonline.gov.in/NewMedDev/resources/app_srv/NMD/global/helpfiles/nmd_fee.pdf/>
+3. Lawrbit. Medical device import licence India procedure: Form MD-14 to MD-15; fees US$1,000 (A), $2,000 (B), $3,000 (C/D) per site plus $50 / $1,000 / $1,500 per device. <https://www.lawrbit.com/industry-specific/medical-device-import-license-india-procedure/>
+4. Lawrbit. Class A and B medical device manufacturing licence in India: MD-3 → MD-5; licence valid indefinitely subject to the retention fee every 5 years. <https://www.lawrbit.com/industry-specific/class-a-b-medical-device-manufacturing-license-india/>
+5. Lawrbit. Test licence to import medical devices in India: Form MD-16 application, Form MD-17 licence; fee US$100 per distinct device. <https://www.lawrbit.com/industry-specific/test-license-import-medical-devices-india-procedure/>
+6. Corpseed. Medical device wholesalers, traders and retailers registration (CDSCO Form MD-42): fee Rs 3,000, retention Rs 3,000; the State Licensing Authority may reject within 10 days. <https://corpseed.com/knowledge-centre/medical-device-wholesalers-traders-and-retailers-registration-cdsco-form-md-42>
+7. Lexplosion. Stakeholders in the medical devices sector urged by CDSCO to ensure timely payment of retention fees to maintain validity of licences and certificates (late fee 2% a month; deemed cancellation after 180 days for manufacturing and 90 days for import licences); 2024. <https://lexplosion.in/stakeholders-in-medical-devices-sector-urged-by-cdsco-to-ensure-timely-payment-of-retention-fees-to-maintain-validity-of-licenses-and-certificates/>
+8. Applied Clinical Trials. New regulations for medical devices in India: Class A licence within 45 days with audit within 120 days after grant; Class B notified-body audit within 90 days before grant; 2017. <https://www.appliedclinicaltrialsonline.com/view/new-regulations-medical-devices-india>
+9. S.S. Rana & Co. Medical Devices Rules: faster manufacturing licence approvals (draft G.S.R. 515(E), 23 June 2026; current Class C/D timeline up to 150 days; Class B up to 140 days per press reports); June 2026. <https://ssrana.in/articles/medical-devices-rules-faster-manufacturing-licence-approvals/>
+10. Asia Actual. India proposes targeted amendments to the Medical Devices Rules: draft G.S.R. 515(E), 23 June 2026, cuts manufacturing-licence timelines from 140 to 115 days (Class B) and 105 to 90 days (Class C and D); objections within 30 days. <https://asiaactual.com/blog/india-proposes-targeted-amendments-to-medical-devices-rules/>
+11. Corpseed. Permission to import medical devices, Form MD-14 and Form MD-15: Central Licensing Authority decides within 9 months; 6 to 9 months in practice. <https://www.corpseed.com/knowledge-centre/permission-to-import-medical-devices-form-md-14-and-form-md-15>
+12. Pure Global. India G.S.R. 743(E), Medical Devices (Second Amendment) Rules, 2026, 14 August 2026: Rule 44(p) sterilisation-site licence number on the label (mandatory 14 February 2027); 'Certificate of Registration' defined for Forms MD-2, MD-40 and MD-42; Ninth Schedule of testing fees under Rules 19 and 69. <https://www.pureglobal.com/news/india-gsr-743e-sterilisation-label-ninth-schedule-2026>
+13. CliniExperts. MoHFW issues draft amendment to MDR-2017, G.S.R. 883(E), 4 December 2025: perpetual validity of Forms MD-2, MD-5, MD-6, MD-9, MD-10 and MD-15 subject to retention fees; new Form MD-44 for test or evaluation reports; registration number on Class A labels. <https://cliniexperts.com/regulatory-update/2025-12-04_-g-s-r-883e_draft-notification-for-amendment-in-medical-device-rules-2017/>
+14. TeamLease RegTech. Medical Devices (Sixth Amendment) Rules, 2022, G.S.R. 777(E), 14 October 2022: Class A non-sterile, non-measuring devices registered online with an undertaking and a self-certified Essential Principles checklist; no manufacturing licence. <https://www.teamleaseregtech.com/updates/article/19622/medical-devices-sixth-amendment-rules-2022>
+
+### Slide 57 · CDSCO documents to keep at hand
+
+*Reference slide*
+
+**Core script (say this).** Nine documents cover most questions a device team will meet. The Rules themselves, G.S.R. 78(E) of 31 January 2017, in force from 1 January 2018. The 2018 FAQ and its IVD companion. The one-sheet regulatory pathway. The classification lists that began on 3 September 2020 with about 1,866 devices. The MD-22 checklist for a clinical investigation. The software guidance of 21 July 2026, the only final guidance on software, AI and connected devices. The still-draft post-market surveillance guidance. The materiovigilance circular of 15 May 2024 and its forms. And the fee file plus the list of testing laboratories. The strip at the bottom is the amendment history in seven gazette numbers.
+
+**Purpose.** Give the audience a reading list that is specific enough to search for by number. Mark which documents are binding, which are final guidance and which are still drafts.
+
+**Say.** Status colours: teal is in force or final, marigold is draft, grey is a reference or checklist.  
+The Rules: Medical Devices Rules, 2017, notified as G.S.R. 78(E) on 31 January 2017 under the Drugs and Cosmetics Act, 1940, in force from 1 January 2018. Rule 4 and the First Schedule set the four classes; the Fifth Schedule sets the QMS; Chapter VI (Rule 44) sets labelling; Chapter VII governs clinical investigation; Rule 63 governs devices without a predicate.  
+The FAQ, document CDSCO/FAQ/MD/01/2018, answers licensing questions in plain language and explains that notified bodies registered under Rule 13, accredited by NABCB, audit Class A and B sites; the IVD FAQ of March 2022 gives classification examples such as specimen collection tubes (Class A) and an alcohol body-fluid analyser (Class B). An addendum to the FAQ has also been issued.  
+The regulatory pathway sheet maps forms to authorities on one page.  
+Classification lists: on 3 September 2020 CDSCO classified about 1,866 non-notified devices in 24 categories and 80 IVDs in 3; Class B alone held 779 devices. Later lists include paediatric and neonatology (23 August 2021), a revised cardiovascular list (April 2025) and 187 interventional-radiology devices.  
+The MD-22 checklist lists the Seventh Schedule dossier and asks whether the study is pilot, pivotal or post-marketing.  
+Software: Guidance Document on Medical Device Software under MDR-2017, CDSCO/MD/GD/MDSW/01/2026, final on 21 July 2026 after a draft of 21 October 2025; 62 pages covering software as a medical device, software in a device, cloud and networked systems, AI and machine learning and IVD software, with classification by intended use, software-lifecycle and cybersecurity controls, AI change planning and post-market obligations. CDSCO says it is not a new regulatory control.  
+Post-market surveillance: CDSCO posted a draft guidance in 2018 and an IVD-specific draft (CDSCO/IVD/GD/PMS/01/2022, 7 July 2022) aimed at Class C and D and point-of-care or home-use IVDs; neither has been reported as finalised.  
+Materiovigilance: the circular of 15 May 2024 reiterated that every licence holder must report suspected unexpected serious adverse events to the Materiovigilance Programme of India, coordinated by the Indian Pharmacopoeia Commission, using the Medical Device Adverse Event form (version 1.2) and the field safety corrective action form; IPC published a draft IVD adverse-event form on 17 February 2025.  
+Reference: the fee help file on cdscomdonline.gov.in, and the gazette designating Central Medical Device Testing Laboratories under Rule 19: NIB Noida for IVDs, CDTL Chennai for condoms, CDL Kolkata for dressings, RDTL Guwahati for syringes and needles, CDTL Mumbai for IUDs.  
+The amendment strip: G.S.R. 102(E) of 11 February 2020 brought every device under the Rules from 1 April 2020 with Chapter IIIA registration; G.S.R. 918(E) of 31 December 2021 deferred the UDI start date; G.S.R. 754(E) of 30 September 2022 created the MD-41 to MD-42 sale registration; G.S.R. 777(E) of 14 October 2022 created the registration-only route for Class A non-sterile non-measuring devices; G.S.R. 743(E) and 744(E) of 14 August 2026 added the sterilisation-site label (mandatory from 14 February 2027), the Ninth Schedule of testing fees, EU approvals in the Rule 63 waiver and revised Class A self-certification; two drafts, G.S.R. 883(E) of 4 December 2025 (perpetual validity, Form MD-44) and G.S.R. 515(E) of 23 June 2026 (licence clocks), were not confirmed as final on 7 October 2026.
+
+**Debrief points.** If asked what is missing: there is no final CDSCO guidance on UDI, on change notification, on recalls or on clinical investigation beyond the checklist; the 2018 PMS draft was never reported finalised; BIS IS 23485 bundles ISO 13485:2016 with the Essential Principles standards and is the Indian QMS reference.
+
+**Caution.** No primary CDSCO PDF could be opened during preparation; numbers and dates come from file titles and secondary summaries. The FAQ addendum's date and content (reported to distinguish major and minor changes) were not verified. Whether G.S.R. 883(E) was finalised in early 2026 is unknown; if it was, the 2026 sequence has a 'First Amendment' before 743(E) and 744(E). The S.O. number 648(E) for the 11 February 2020 'all devices' notification did not appear verbatim in results.
+
+**Transition.** The last page returns to our two devices and asks what evidence we would want before any stronger claim.
+
+**Sources.**
+
+1. Ministry of Health and Family Welfare. Medical Devices Rules, 2017 (as amended), consolidated text, CDSCO. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2022/m_device/mdr,%202017%20(1).pdf>
+2. CDSCO. FAQ on Medical Devices, 2018: Rule 13 notified bodies registered with the CLA audit Class A and B manufacturing sites (Fifth Schedule QMS); NABCB accreditation. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadImmunization/FAQmd2018.pdf>
+3. FDAnews. India's CDSCO responds to questions on the Medical Device Rules 2017 (document CDSCO/FAQ/MD/01/2018); 2018. <https://www.fdanews.com/articles/12833-indias-cdsco-responds-to-questions-on-medical-device-rule-2017>
+4. CDSCO. Frequently Asked Questions on in vitro diagnostic medical devices (CDSCO-IVD-FAQ-03-2022): classification examples under First Schedule Part II (specimen collection tubes Class A; alcohol body-fluid analyser Class B). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/IVD/FAQs/CDSCO-IVD-FAQ-03-2022-.pdf>
+5. CDSCO. Regulatory pathway under the Medical Devices Rules, 2017 (overview). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/RegulatoryMDR-2017.pdf>
+6. Freyr Solutions. Classification of non-notified medical devices and IVDs in India: decoding CDSCO's notices of 3 September 2020 (about 1,866 devices in 24 categories, 80 IVDs in 3 categories; Class B 779 devices and 38 IVDs). <https://www.freyrsolutions.com/blog/classification-of-non-notified-medical-devices-and-ivds-in-india-decode-cdscos-new-notices>
+7. Corpbiz. CDSCO medical device registration for paediatrics and neonatology: category classification list issued by the DCGI on 23 August 2021. <https://corpbiz.io/learning/cdsco-medical-device-registration-for-paediatrics-and-neonatology/>
+8. Business Standard. CDSCO issues revised risk classification list for cardiovascular devices; 2 April 2025. <https://www.business-standard.com/health/cdsco-issues-revised-risk-classification-list-for-cardiovascular-devices-125040201067_1.html>
+9. CDSCO. Checklist for Form MD-22 (clinical investigation): Seventh Schedule documents including the clinical investigation plan, investigator's brochure, design verification and validation report, Essential Principles checklist, informed consent form, investigator undertaking and ethics committee approval. <https://www.cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/ChecklisFormMD-22MD.pdf>
+10. CDSCO. Guidance Document on Medical Device Software under the Medical Devices Rules, 2017 (CDSCO/MD/GD/MDSW/01/2026); 21 July 2026. <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-document-on-Medical-Device-Software-under-MDR-2017.pdf>
+11. CDSCO. Draft Guidance Document on Medical Device Software; 21 October 2025. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadPublic_NoticesFiles/Draft%20guidance%20document%20on%20Medical%20Device%20Software%2021%2010%202025.pdf>
+12. Pure Global. India CDSCO Medical Device Software Guidance 2026: classification by medical purpose, significance of the information and severity of the condition; lifecycle, cybersecurity and AI change-planning expectations (secondary summary of CDSCO/MD/GD/MDSW/01/2026). <https://www.pureglobal.com/news/india-cdsco-medical-device-software-guidance-2026>
+13. CDSCO. Draft Guidance on Post Market Surveillance of Medical Devices; 2018. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadPublic_NoticesFiles/2Draft%20Guidance%20on%20PMS.pdf>
+14. RAPS. Asia-Pacific roundup: India releases a trio of IVD guidances, including Guidance on Post-Market Surveillance of IVD Medical Devices (CDSCO/IVD/GD/PMS/01/2022, 7 July 2022; Class C and D and point-of-care or home-use IVDs). <https://www.raps.org/resource/asia-pacific-roundup-india-releases-a-trio-of-ivd.html>
+15. Business Standard. Medical device bodies welcome CDSCO order on self-reporting adverse effects; 21 May 2024 (CDSCO circular of 15 May 2024: all medical-device licence holders must report every suspected unexpected serious adverse event to the Materiovigilance Programme of India). <https://www.business-standard.com/health/medical-device-bodies-welcome-cdsco-order-on-self-reporting-adverse-effects-124052101276_1.html>
+16. Indian Pharmacopoeia Commission. Materiovigilance Programme of India (MvPI): About us. Launched 6 July 2015; helpline 1800-180-3024; mvpi-ipc@gov.in. <https://ipc.gov.in/mandates/materiovigilance-programme-of-india-mvpi/about-us.html>
+17. Indian Pharmacopoeia Commission. Medical Device Adverse Event Reporting Form, version 1.2 (open to manufacturers, importers, distributors, healthcare professionals and patients). <https://nhsrcindia.org/sites/default/files/Medical-Devices-Adverse-Event-Reporting-Form-(Version-1.2).pdf>
+18. Indian Pharmacopoeia Commission. Inviting stakeholder comments on the in vitro diagnostic medical device adverse event reporting form; 17 February 2025 (comments by 5 March 2025). <https://www.ipc.gov.in/images/Inviting_stakeholders_comments_for_Invitro_Diagnostic_Medical_Device_adverse_event_reporting_form.pdf>
+19. CDSCO Medical Device online portal. Fee help file (Second Schedule, MDR-2017): manufacturing licence Class A/B Rs 5,000 per site + Rs 500 per device; Class C/D Rs 50,000 + Rs 1,000; test licence Rs 500 per device. <https://cdscomdonline.gov.in/NewMedDev/resources/app_srv/NMD/global/helpfiles/nmd_fee.pdf/>
+20. Ministry of Health and Family Welfare. Gazette notification designating Central Medical Device Testing Laboratories under Rule 19 of MDR-2017: NIB Noida (IVDs), CDTL Chennai (condoms), CDL Kolkata (dressings, cotton, bandages, disinfectants), RDTL Guwahati (syringes, needles, perfusion sets, IV cannulae), CDTL Mumbai (IUDs, Falope rings); 2018. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadGazette_NotificationsFiles/2237.pdf>
+21. LegitQuest. Medical Devices (Amendment) Rules, 2020, G.S.R. 102(E), 11 February 2020: Chapter IIIA registration of newly notified devices (voluntary 18 months from 1 April 2020, then mandatory); licences mandatory for Class A/B from 1 October 2022 and Class C/D from 1 October 2023. <https://www.legitquest.com/act/medical-devices-amendment-rules-2020/9813>
+22. CDSCO. Notice on S.O. 648(E) of 11 February 2020 (all medical devices notified as drugs with effect from 1 April 2020) and G.S.R. 102(E). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/mdgsr.pdf>
+23. SCC Online. Draft Medical Devices (Amendment) Rules 2021 introduces unique device identification (Rule 46; final G.S.R. 918(E), 31 December 2021 deferred the 1 January 2022 start date until further orders). <https://www.scconline.com/blog/post/2021/12/24/draft-medical-devices-amendment-rules-2021-introduces-unique-device-identification-of-the-medical-device/>
+24. SCC Online blog. Medical Devices (Fifth Amendment) Rules 2022, G.S.R. 754(E) of 30 September 2022: Rule 87A requires anyone selling, stocking, exhibiting or distributing medical devices to apply to the State Licensing Authority in Form MD-41 for a Registration Certificate in Form MD-42 (fee Rs 3,000; retention Rs 3,000). <https://www.scconline.com/blog/?p=274997>
+25. TeamLease RegTech. Medical Devices (Sixth Amendment) Rules, 2022, G.S.R. 777(E), 14 October 2022: Class A non-sterile, non-measuring devices registered online with an undertaking and a self-certified Essential Principles checklist; no manufacturing licence. <https://www.teamleaseregtech.com/updates/article/19622/medical-devices-sixth-amendment-rules-2022>
+26. Pure Global. India G.S.R. 743(E), Medical Devices (Second Amendment) Rules, 2026, 14 August 2026: Rule 44(p) sterilisation-site licence number on the label (mandatory 14 February 2027); 'Certificate of Registration' defined for Forms MD-2, MD-40 and MD-42; Ninth Schedule of testing fees under Rules 19 and 69. <https://www.pureglobal.com/news/india-gsr-743e-sterilisation-label-ninth-schedule-2026>
+27. Pure Global. India G.S.R. 744(E), Medical Devices (Third Amendment) Rules, 2026, 14 August 2026: 'or European Union countries' added to Rule 63(1) proviso (iv); Class A non-sterile non-measuring self-certification revised. <https://www.pureglobal.com/news/india-gsr-744e-eu-rule-63-class-a-qms-2026>
+28. CliniExperts. MoHFW issues draft amendment to MDR-2017, G.S.R. 883(E), 4 December 2025: perpetual validity of Forms MD-2, MD-5, MD-6, MD-9, MD-10 and MD-15 subject to retention fees; new Form MD-44 for test or evaluation reports; registration number on Class A labels. <https://cliniexperts.com/regulatory-update/2025-12-04_-g-s-r-883e_draft-notification-for-amendment-in-medical-device-rules-2017/>
+29. Asia Actual. India proposes targeted amendments to the Medical Devices Rules: draft G.S.R. 515(E), 23 June 2026, cuts manufacturing-licence timelines from 140 to 115 days (Class B) and 105 to 90 days (Class C and D); objections within 30 days. <https://asiaactual.com/blog/india-proposes-targeted-amendments-to-medical-devices-rules/>
+30. Bureau of Indian Standards. BIS publishes IS 23485: Medical devices, quality management system requirements and essential principles of safety and performance (ISO 13485:2016 with ISO 16142-1:2016 and ISO 16142-2:2017). <https://www.bis.gov.in/bis-publishes-is-23485-medical-devices-quality-management-system-requirements-and-essential-principles-of-safety-performance-for-medical-devices>
+31. CDSCO. Public notice on notified bodies registered under Rule 13 of MDR-2017 (first registrations: Intertek India and TUV Rheinland India; later six bodies); 4 May 2018. <https://www.cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadPublic_NoticesFiles/notified_body_notice_70.pdf>
+32. CliniExperts. Licence applications for Class C and D medical devices deemed valid for up to 6 months (CDSCO order of 12 October 2023; no general extension of the 1 October 2023 date). <https://cliniexperts.com/regulatory-update/license-applications-for-class-c-and-d-medical-devices-deemed-valid-for-upto-6-months/>
+
+### Slide 58 · Evidence to request before stronger claims
+
+*Reference slide*
+
+**Core script (say this).** Same five questions for both devices: outcome, comparison, who and where, burden and harm, version. For FoGO: detection against video-annotated freezes, then falls and confidence; validation on people the model has never seen; cue versus no cue; homes, turns and doorways; false cues per hour and latency; firmware and model version on every result. For SwaKnee: pain and function against patient-important thresholds, in a randomised, blinded, sham-controlled and prospectively registered study; adverse events, adherence to the 45-minute sessions and durability; controller and applicator version on every result. Today both sit at 'reported, preliminary'.
+
+**Purpose.** Back-pocket slide for Q&A on what each project should show next; also the template students can reuse for their own devices. Ported from the v1 deck and extended with benchmarks and the current status.
+
+**Say.** Outcome. FoGO reports F1 scores on public datasets; the claim that matters to Ramesh is fewer falls and more confident walking, so detection should be measured against video-annotated freezing events and then against falls, confidence and walking outcomes. SwaKnee should be measured on pain and function against patient-important thresholds: for knee osteoarthritis the minimal clinically important improvement in pain is about 19.9 mm on a 100 mm scale, or 40.8% from baseline (Tubach 2005). Structural outcomes belong in the plan only if structural claims are made.  
+Comparison. FoGO needs participant-level validation, that is, performance on people the model never trained on, and a cue versus no-cue or sham-cue comparison. SwaKnee needs a randomised, blinded, sham-controlled design, registered on CTRI before enrolment, with co-interventions recorded. The benchmarks: the RESCUE trial of home cueing (n = 153) found modest gait gains and did not count falls; the Cochrane review of electromagnetic fields for osteoarthritis (9 trials, 636 adults) found pain probably about 15 points in 100 better than sham.  
+Who and where. FoGO: disease stage and walking aids, and testing in homes, turns and doorways rather than only the laboratory; wearable-sensor reviews report sensitivity of 73 to 100% and specificity of 67 to 100%, mostly in laboratories. SwaKnee: age, BMI, severity, comorbidities and rural access; knee osteoarthritis was found in 28.7% of adults in a five-site Indian community survey.  
+Burden and harm. FoGO: false cues per hour and latency in real use, missed events, signal loss, skin and data. SwaKnee: adverse events, adherence to 45-minute daily sessions over 45 days, support needs and durability after the course. The standards: ISO 14971:2019 for risk management, IEC 62366-1 for usability, ISO 14155:2026 for good clinical practice in device studies.  
+Version. Firmware and model version for every FoGO result; controller and applicator version for every SwaKnee result. CDSCO's software guidance of 21 July 2026 expects software-lifecycle control and AI change planning, so version discipline is also a regulatory expectation.  
+Status today. FoGO: subject-wise F1 0.83 to 0.85 and cross-dataset F1 0.74 to 0.80 on public datasets, 0.15 to 0.18 false alarms per minute, an MD-13 test licence for 25 units dated 10 August 2026 and a clinical proof-of-concept planned at AIIMS Bhubaneswar; all project-reported. SwaKnee: a company-reported 45-day comparison, 40 device users against 42 comparators, about 32% against 14% average VAS pain reduction, not peer-reviewed; OARSI 2019 strongly recommends against electromagnetic therapy and NICE NG226 says do not offer the listed electrotherapies.
+
+**Debrief points.** The rule for the Q&A: before accepting a stronger adjective (validated, proven, safe) ask which row of this table it rests on and which device version produced the number. IDEAL-D makes the same point as a framework: evaluate devices in stages and match the claim to the stage.
+
+**Evidence status.** FoGO: Demonstrated on public datasets and a bench cue study; Reported, preliminary for everything about real users; Planned for the AIIMS Bhubaneswar proof-of-concept; Not established for falls or walking outcomes. SwaKnee: Reported, preliminary (company-reported comparison; design, blinding and registration details not published); Not established against guideline-grade evidence.
+
+**Caution.** The SwaKnee figures are rounded as transcribed from the supplied deck; re-check swayogya.in/evidence.html before presenting and state whether the study was registered. Do not call the FoGO F1 scores 'validation': they are retrospective, on other people's datasets. The MCII figure is for knee osteoarthritis pain on a 100 mm VAS in a 2005 French cohort; use it as a yardstick, not a pass mark. The CTRI registration expectation is taken from ICMR guidance and the MDR dossier; the specific MDR rule number was not verified.
+
+**Transition.** End of the appendix.
+
+**Sources.**
+
+1. Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed.
+2. Swayogya Rehab Solutions. SwaKnee evidence page: company-reported comparative 45-day study, device n=40 vs comparison n=42, ≈32% vs ≈14% average VAS pain reduction from baseline. Rounded figures as transcribed in the supplied original deck; re-check the live page before presenting. <https://www.swayogya.in/evidence.html>
+3. Swa knee_Leaflet.pdf. Supplied product material: 45-minute daily sessions over 45 days (illustration of time burden, not a prescription).
+4. Sedrakyan A, Campbell B, Merino JG, Kuntz R, Hirst A, McCulloch P. IDEAL-D: a rational framework for evaluating and regulating the use of medical devices. BMJ. 2016;353:i2372. <https://pubmed.ncbi.nlm.nih.gov/27283585/>
+5. Tubach F, Ravaud P, Baron G, et al. Evaluation of clinically relevant changes in patient reported outcomes in knee and hip osteoarthritis: the minimal clinically important improvement. Ann Rheum Dis. 2005;64(1):29–33 (knee OA pain MCII −19.9 mm, −40.8%). <https://ard.bmj.com/content/64/1/29.full.pdf>
+6. Bächlin M, Plotnik M, Roggen D, et al. Wearable assistant for Parkinson's disease patients with the freezing of gait symptom. IEEE Trans Inf Technol Biomed. 2010 (10 patients in the laboratory; 8 froze; 237 video-labelled events). <https://folia.unifr.ch/global/documents/222920>
+7. Nieuwboer A, et al. Cueing training in the home improves gait-related mobility in Parkinson's disease: the RESCUE trial. J Neurol Neurosurg Psychiatry. 2007;78(2):134 (n=153; small gait gains and lower freezing severity in freezers; fall counts not measured). <https://jnnp.bmj.com/content/78/2/134>
+8. Silva de Lima AL, Evers LJW, Hahn T, et al. Freezing of gait and fall detection in Parkinson's disease using wearable sensors: a systematic review. J Neurol. 2017 (sensitivity 73–100%, specificity 67–100%). <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5533840/>
+9. Li S, Yu B, Zhou D, et al. Electromagnetic fields for treating osteoarthritis. Cochrane Database Syst Rev. 2013;(12):CD003523 (9 trials, 636 adults: pain probably improves about 15/100 more than sham; function uncertain). <https://www.cochrane.org/evidence/CD003523_electromagnetic-fields-treatment-osteoarthritis>
+10. Bannuru RR, Osani MC, Vaysbrot EE, et al. OARSI guidelines for the non-surgical management of knee, hip, and polyarticular osteoarthritis. Osteoarthritis Cartilage. 2019 (electromagnetic therapy strongly recommended against). <https://www.esceo.org/sites/esceo/files/pdf/Bannuru_O%26C_OARSIguidelines_2019.pdf>
+11. NICE. Osteoarthritis in over 16s: diagnosis and management (NG226); October 2022 (do not offer listed electrotherapies: insufficient evidence of benefit). <https://www.nice.org.uk/guidance/ng226/chapter/Recommendations>
+12. Pal CP, Singh P, Chaturvedi S, Pruthi KK, Vij A. Epidemiology of knee osteoarthritis in India and related factors. Indian J Orthop. 2016;50(5):518–522 (28.7% in a five-site community survey). <https://pmc.ncbi.nlm.nih.gov/articles/PMC5017174>
+13. ISO 14971:2019. Medical devices — Application of risk management to medical devices. <https://www.iso.org/standard/72704.html>
+14. IEC 62366-1:2015+AMD1:2020. Medical devices — Part 1: Application of usability engineering to medical devices. <https://webstore.iec.ch/en/publication/67220>
+15. ISO 14155:2026. Clinical investigation of medical devices for human subjects — Good clinical practice (supersedes ISO 14155:2020). <https://www.iso.org/standard/83968.html>
+16. CDSCO. Guidance Document on Medical Device Software under the Medical Devices Rules, 2017 (CDSCO/MD/GD/MDSW/01/2026); 21 July 2026. <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Guidance-document-on-Medical-Device-Software-under-MDR-2017.pdf>
+17. Indian Council of Medical Research. National Ethical Guidelines for Biomedical and Health Research Involving Human Participants. New Delhi: ICMR; 2017 (Section 5 informed consent; Section 6 vulnerability; Section 7.7 device trials). <https://ethics.ncdirindia.org/asset/pdf/ICMR_National_Ethical_Guidelines.pdf>
+18. CDSCO. Form MD-12: application for licence to manufacture medical devices for clinical investigation, test, evaluation, examination, demonstration or training (licence in Form MD-13). <https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/medical-device/12MD.pdf>

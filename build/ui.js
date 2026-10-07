@@ -50,11 +50,11 @@ async function lightBg(key = "light") {
 }
 
 // Photo cropped to cover w x h (px) with rounded corners; returns a PNG path.
-async function roundedPhoto(file, { w = 1200, h = 800, radius = 48 } = {}) {
+async function roundedPhoto(file, { w = 1000, h = 667, radius = 48 } = {}) {
   const out = path.join(GEN, `ph_${hash(file + w + h + radius)}.png`);
   if (fs.existsSync(out)) return out;
   const mask = Buffer.from(`<svg width="${w}" height="${h}"><rect width="${w}" height="${h}" rx="${radius}" ry="${radius}" fill="#fff"/></svg>`);
-  await sharp(file).resize(w, h, { fit: "cover", position: "attention" }).composite([{ input: mask, blend: "dest-in" }]).png().toFile(out);
+  await sharp(file).resize(w, h, { fit: "cover", position: "attention" }).composite([{ input: mask, blend: "dest-in" }]).png({ palette: true, quality: 85, compressionLevel: 9 }).toFile(out);
   return out;
 }
 
@@ -114,14 +114,14 @@ function pathBBoxes(d) {
   return boxes[0] || [0, 0, 0, 0];
 }
 
-async function renderMap(pkg, key, { highlights = {}, base = "D5DFDD", stroke = "FFFFFF", pxW = 2400 } = {}) {
+async function renderMap(pkg, key, { highlights = {}, base = "D5DFDD", stroke = "FFFFFF", pxW = 1800 } = {}) {
   const map = pkg.default || pkg;
   const [, , vw, vh] = map.viewBox.split(" ").map(Number);
   const out = path.join(GEN, `map_${key}_${hash(JSON.stringify(highlights) + base + stroke)}.png`);
   if (!fs.existsSync(out)) {
     const paths = map.locations.map((l) => `<path d="${l.path}" fill="#${highlights[l.id] || base}" stroke="#${stroke}" stroke-width="0.6"/>`).join("");
     const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${map.viewBox}" width="${pxW}" height="${Math.round((pxW * vh) / vw)}">${paths}</svg>`;
-    await sharp(Buffer.from(svg)).png().toFile(out);
+    await sharp(Buffer.from(svg)).png({ palette: true, quality: 90, compressionLevel: 9 }).toFile(out);
   }
   const centers = {};
   for (const l of map.locations) { const b = pathBBoxes(l.path); centers[l.id] = [(b[0] + b[2]) / 2 / vw, (b[1] + b[3]) / 2 / vh]; }
@@ -363,7 +363,7 @@ function makeUI(pres, { notes = {}, sources = {}, stages = ["Need", "Evidence", 
   }
 
   // Rounded photo with optional caption bar.
-  async function imageFrame(s, file, { x, y, w, h, caption, alt, radius = 48, dark = false, px = 1400 } = {}) {
+  async function imageFrame(s, file, { x, y, w, h, caption, alt, radius = 48, dark = false, px = 1000 } = {}) {
     const ph = await roundedPhoto(file, { w: px, h: Math.round((px * h) / w), radius });
     s.addImage({ path: ph, x, y, w, h, altText: alt || caption || path.basename(file) });
     if (caption) text(s, caption, { x, y: y + h + 0.06, w, h: 0.3, fontSize: 9.5, italic: true, color: dark ? C.accent6 : C.accent5 });

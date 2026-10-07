@@ -8,12 +8,12 @@ from docx.shared import Cm, Pt, RGBColor
 
 INK, TEAL, DEEP = RGBColor(0x17, 0x26, 0x2B), RGBColor(0x0F, 0x7C, 0x74), RGBColor(0x0E, 0x3B, 0x3D)
 rows = [
-    ("Need", "Will it help me?", "Is the need validated with patients and clinicians? Is the need statement solution-neutral?", "Need statement; observation notes"),
+    ("Need", "Will it help me?", "Is the need validated with patients and clinicians? Is the need statement solution-neutral? Is the intended purpose medical (so it is a device)?", "Need statement; observation notes; intended-use statement"),
     ("Evidence", "Is there proof, for people like me?", "Does the evidence match the exact claim, users and device version? Are failure modes controlled? What is demonstrated, reported, planned?", "Protocol; subgroup results; risk file (ISO 14971); version log"),
-    ("People", "Can I freely refuse?", "Is consent independent of any dependent relationship, in the person’s language? Are conflicts disclosed and managed?", "Consent form and process; COI management plan; CTRI entry"),
-    ("Permission", "Is it allowed for this use?", "Which CDSCO permission covers this use: test licence (MD-13), clinical investigation (MD-23), manufacturing licence?", "Class; licence or permission; registered ethics committee approval"),
-    ("Access", "Can I afford and use it?", "What is the total cost of use? Who is excluded by its demands (vision, dexterity, language, power, phone)? Do marketing claims match the evidence?", "Cost of a full course; inclusive-design audit; service plan; claims review"),
-    ("Safety", "Who answers later?", "Who records, reports (MvPI) and acts on harm? How are updates validated, released and rolled back?", "Complaint log; MvPI route; change-control and rollback plan"),
+    ("People", "Can I freely refuse?", "Is consent independent of any dependent relationship, in the person’s language? Are conflicts disclosed and managed? Ethics committee registered; CTRI entry before enrolment", "Consent form and process; COI management plan; EC approval; CTRI entry"),
+    ("Permission", "Is it allowed for this use?", "Risk class (A–D)? Test licence MD-13; clinical investigation MD-23; manufacturing licence MD-5 (State, A/B) or MD-9 (Central, C/D); import MD-15; Class A non-sterile non-measuring registration", "Classification rationale; licence or permission; QMS (Fifth Schedule); essential-principles checklist"),
+    ("Access", "Can I afford and use it?", "What is the total cost of use? Who is excluded by its demands (vision, dexterity, language, power, phone)? Do marketing claims match the evidence (UCMPMD, DMRA)?", "Cost of a full course; inclusive-design audit; service plan; claims review"),
+    ("Safety", "Who answers later?", "Who records, reports (MvPI) and acts on harm? PSUR schedule? How are updates validated, released and rolled back?", "Complaint log; MvPI route; PSUR calendar; change-control and rollback plan"),
 ]
 
 def shade(cell, hex_):
@@ -53,7 +53,7 @@ doc.add_paragraph()
 c = doc.add_paragraph(); r = c.add_run("My commitment  "); r.bold = True
 c.add_run("Before ____________________, I will ______________________________.  Owner: ______________.  I proceed only if ______________________________.")
 k = doc.add_paragraph(); r = k.add_run("Label every claim: "); r.bold = True
-k.add_run("Demonstrated · Reported, preliminary · Planned · Not established.   India anchors: MDR-2017 (MD-13; MD-22/23; MD-5/MD-9) · ethics committee registered with CDSCO · CTRI · ICMR 2017 · MvPI 1800-180-3024 · UCMPMD 2024 · DPDP Rules 2025.")
+k.add_run("Demonstrated · Reported, preliminary · Planned · Not established.   India anchors: MDR-2017 (Class A–D; MD-13; MD-22/23; MD-5 State / MD-9 Central; MD-15 import) · ethics committee registered with CDSCO · CTRI · ICMR 2017 · MvPI 1800-180-3024 · UCMPMD 2024 · DPDP Rules 2025.")
 f = doc.add_paragraph("Workshop synthesis adapted from Stanford Biodesign, Harvard MRCT Center, Cambridge Engineering Design Centre, IDEAL-D, Declaration of Helsinki (2024), ICMR (2017) and CDSCO guidance. Not a regulatory checklist or certification. A licence, patent, grant or institutional association is not evidence of readiness. Checked 7 October 2026.")
 f.runs[0].font.size = Pt(8); f.runs[0].font.color.rgb = RGBColor(0x6E, 0x7F, 0x7D)
 doc.save("../docs/Decision_Checklist_Handout.docx")

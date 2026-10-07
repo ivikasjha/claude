@@ -21,7 +21,7 @@ const tidy = (t) => t
 function refGroups() {
   const all = NC.RALL;
   const used = new Set();
-  for (const o of Object.values(NC.NOTES_DATA)) for (const k of o.src || []) used.add(k);
+  for (const o of Object.values(NC.NOTES_DATA)) for (const k of o.src || []) used.add(NC.ALIAS[k] || k);
   const items = (pred) => Object.entries(all).filter(([k, r]) => used.has(k) && pred(k, r)).map(([k, r]) => ({ label: r.short, url: r.url, detail: tidy(r.brief || r.cite), supplied: r.group === "media" }));
   const isSB = (k) => /^sb|^hms|^mrct|^pf|^catalyst|^hbs|^kramer/.test(k);
   const isCam = (k) => /^cam|^ideal|^kellmeyer/.test(k);
@@ -64,17 +64,18 @@ function refGroups() {
   const wrong = want.filter((id) => have.includes(id)).some((id, i, arr) => order.indexOf(id) !== order.indexOf(arr[i - 1]) + 1 && i > 0);
   if (wrong) console.warn("slide order differs from storyboard");
 
-  // Reference pages: entries flow down two columns, then onto further slides.
+  // Reference pages: every cited source once, in three compact columns; full citations are in docs/References.pdf.
   pres.addSection({ title: "Sources" });
   {
-    const { S, text, M } = ui;
-    const colW = 5.9, top = 1.55, bottom = 6.8, gap = 0.16;
-    const est = (it) => 0.21 + Math.ceil(it.detail.length / 100) * 0.17 + 0.03;
+    const { S, text, M, W } = ui;
+    const cols = 3, gapX = 0.25, colW = (W - 2 * M - gapX * (cols - 1)) / cols, top = 1.5, bottom = 6.85, gap = 0.1;
+    const trim = (t, n = 150) => { if (t.length <= n) return t; const cut = t.slice(0, n).replace(/\s+\S*$/, ""); return cut + " …"; };
+    const est = (it) => 0.2 + Math.ceil(trim(it.detail).length / 62) * 0.145 + 0.02;
     const flow = (items, limit) => {
-      const pages = []; let page = [[], []], col = 0, y = top;
+      const pages = []; let page = Array.from({ length: cols }, () => []), col = 0, y = top;
       for (const it of items) {
         const h = est(it);
-        if (y + h > limit && y > top) { if (col === 0) { col = 1; y = top; } else { pages.push(page); page = [[], []]; col = 0; y = top; } }
+        if (y + h > limit && y > top) { if (col < cols - 1) { col += 1; y = top; } else { pages.push(page); page = Array.from({ length: cols }, () => []); col = 0; y = top; } }
         page[col].push({ it, y, h }); y += h + gap;
       }
       pages.push(page); return pages;
@@ -85,14 +86,14 @@ function refGroups() {
       while ((pages = flow(group.items, limit)).length > n) limit += 0.05;
       pages.forEach((pg, pi) => {
         const title = pages.length > 1 ? `${group.title} (${pi + 1}/${pages.length})` : group.title;
-        const s = ui.newSlide("REFERENCE", "Sources", { id: `ref-${pi}-${group.title.slice(0, 12)}`, kicker: "APPENDIX · SOURCES", title, source: group.footer || "" });
-        s.addNotes(`REFERENCE SLIDE · ${title}\nClickable source list for participants and for Q&A. Each linked title opens the source; the line below gives the full citation. Sources checked 7 October 2026.`);
+        const s = ui.newSlide("REFERENCE", "Sources", { id: `ref-${pi}-${group.title.slice(0, 12)}`, kicker: "APPENDIX · SOURCES", title, source: (group.footer || "") + " Full citations: docs/References.pdf." });
+        s.addNotes(`REFERENCE SLIDE · ${title}\nClickable source list for participants and for Q&A. Each linked title opens the source; the full citation is in docs/References.pdf. Sources checked 7 October 2026.`);
         pg.forEach((colItems, c) => colItems.forEach(({ it, y, h }) => {
-          const x = M + c * (colW + 0.33);
+          const x = M + c * (colW + gapX);
           const label = it.url
-            ? { text: it.label, options: { bold: true, fontSize: 12, color: C.accent1, hyperlink: { url: it.url, tooltip: it.url }, breakLine: true } }
-            : { text: it.label + (it.supplied ? "" : " · no public link"), options: { bold: true, fontSize: 12, color: C.accent1, breakLine: true } };
-          text(s, [label, { text: it.detail, options: { fontSize: 10, color: C.text2 } }], { x, y, w: colW, h });
+            ? { text: it.label, options: { bold: true, fontSize: 10, color: C.accent1, hyperlink: { url: it.url, tooltip: it.url }, breakLine: true } }
+            : { text: it.label + (it.supplied ? "" : " · no public link"), options: { bold: true, fontSize: 10, color: C.accent1, breakLine: true } };
+          text(s, [label, { text: trim(it.detail), options: { fontSize: 8.5, color: C.text2 } }], { x, y, w: colW, h });
         }));
       });
     }
