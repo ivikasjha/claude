@@ -207,7 +207,7 @@ function makeUI(pres, { notes = {}, sources = {}, stages = ["Need", "Evidence", 
     if (kicker) s.addText(kicker, { placeholder: "kicker" });
     if (title) s.addText(title, { placeholder: "title" });
     const src = source !== undefined ? source : sources[id];
-    if (src) s.addText(src, { placeholder: "source" });
+    if (src && master !== "SECTION" && master !== "TITLE_DARK") s.addText(src, { placeholder: "source" });
     if (stage !== undefined) tracker(s, stage, master === "DARK");
     if (id && notes[id]) s.addNotes(notes[id]);
     built.push({ n, id, title, master, section, core: !!core });
