@@ -1,0 +1,33 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Patient-impact decision checklist</title><style>
+@page { size: A4 landscape; margin: 11mm 12mm; }
+body { font-family: Calibri, Carlito, Arial, sans-serif; color: #17262B; font-size: 10pt; margin: 0; }
+.head { display: flex; justify-content: space-between; align-items: flex-end; border-bottom: 1.2pt solid #0E3B3D; padding-bottom: 4pt; margin-bottom: 6pt; }
+h1 { font-family: Cambria, Caladea, Georgia, serif; color: #0E3B3D; font-size: 20pt; margin: 0; }
+.sub { color: #0F7C74; font-size: 10pt; }
+table { border-collapse: collapse; width: 100%; }
+th { background: #0E3B3D; color: #fff; text-align: left; padding: 5pt 6pt; font-size: 9.5pt; }
+td { border-bottom: 0.6pt solid #C9D6D3; padding: 5pt 6pt; vertical-align: top; font-size: 9.5pt; }
+td.stage { font-weight: bold; color: #0F7C74; width: 9%; } td.q { font-style: italic; width: 14%; }
+td.box { width: 13%; } td.own { width: 11%; }
+.chk { display: inline-block; width: 9pt; height: 9pt; border: 0.8pt solid #17262B; margin-right: 3pt; vertical-align: -1pt; }
+.bottom { display: grid; grid-template-columns: 1.35fr 1fr; gap: 10pt; margin-top: 8pt; }
+.card { border: 1pt dashed #0F7C74; border-radius: 6pt; padding: 7pt 10pt; font-size: 10.5pt; }
+.card p { margin: 5pt 0; } .line { display: inline-block; border-bottom: 0.6pt solid #17262B; width: 150pt; }
+.key span { display: inline-block; padding: 1pt 6pt; border-radius: 8pt; font-size: 8.5pt; font-weight: bold; margin: 2pt 3pt 2pt 0; }
+.d { background: #0F7C74; color: #fff; } .r { border: 1pt solid #0F7C74; color: #0F7C74; } .p { border: 1pt dashed #E0962A; color: #B5701A; } .x { border: 1pt solid #C2453A; color: #C2453A; }
+.foot { font-size: 8pt; color: #6E7F7D; margin-top: 6pt; }
+</style></head><body>
+<div class="head"><div><h1>Patient-impact decision checklist</h1><div class="sub">Bridging the Gap: From Innovation to Patient Impact · Dr Vikas Kumar Jha · KIIT University, Bhubaneswar</div></div>
+<div class="sub">For every “Not yet”: name the owner and the condition for proceeding.</div></div>
+<table><tr><th>Stage</th><th>Patient’s question</th><th>Ask before proceeding</th><th>Evidence to see</th><th>Owner</th><th>Go?</th></tr>
+<tr><td class="stage">Need</td><td class="q">“Will it help me?”</td><td>Is the need validated with patients and clinicians? Is the need statement solution-neutral?</td><td class="box">Need statement; observation notes</td><td class="own"></td><td class="box"><span class="chk"></span>Yes<br><span class="chk"></span>Not yet — condition:</td></tr><tr><td class="stage">Evidence</td><td class="q">“Is there proof, for people like me?”</td><td>Does the evidence match the exact claim, users and device version? What is demonstrated, reported, planned?</td><td class="box">Protocol; subgroup results; failure modes; version log</td><td class="own"></td><td class="box"><span class="chk"></span>Yes<br><span class="chk"></span>Not yet — condition:</td></tr><tr><td class="stage">People</td><td class="q">“Can I freely refuse?”</td><td>Is consent independent of any dependent relationship, in the person’s language? Are conflicts disclosed and managed?</td><td class="box">Consent form and process; COI management plan; CTRI entry</td><td class="own"></td><td class="box"><span class="chk"></span>Yes<br><span class="chk"></span>Not yet — condition:</td></tr><tr><td class="stage">Permission</td><td class="q">“Is it allowed for this use?”</td><td>Which CDSCO permission covers this use: test licence (MD-13), clinical investigation (MD-23), manufacturing licence?</td><td class="box">Class; licence or permission; registered ethics committee approval</td><td class="own"></td><td class="box"><span class="chk"></span>Yes<br><span class="chk"></span>Not yet — condition:</td></tr><tr><td class="stage">Access</td><td class="q">“Can I afford and use it?”</td><td>What is the total cost of use? Who is excluded by its demands (vision, dexterity, language, power, phone)?</td><td class="box">Cost of a full course; inclusive-design audit; service plan</td><td class="own"></td><td class="box"><span class="chk"></span>Yes<br><span class="chk"></span>Not yet — condition:</td></tr><tr><td class="stage">Safety</td><td class="q">“Who answers later?”</td><td>Who records, reports (MvPI) and acts on harm? How are updates validated, released and rolled back?</td><td class="box">Complaint log; MvPI route; change-control and rollback plan</td><td class="own"></td><td class="box"><span class="chk"></span>Yes<br><span class="chk"></span>Not yet — condition:</td></tr>
+</table>
+<div class="bottom">
+<div class="card"><b>My commitment</b>
+<p>Before <span class="line"></span>, I will <span class="line"></span>.</p>
+<p>Owner: <span class="line"></span> &nbsp; I proceed only if <span class="line"></span>.</p></div>
+<div class="card key"><b>Label every claim</b><br><span class="d">Demonstrated</span><span class="r">Reported, preliminary</span><span class="p">Planned</span><span class="x">Not established</span>
+<p style="font-size:9pt;margin:4pt 0 0">India anchors: MDR-2017 (MD-13 test licence; MD-22/23 clinical investigation; MD-5/MD-9 manufacturing) · ethics committee registered with CDSCO · CTRI · ICMR 2017 · MvPI 1800-180-3024 · UCMPMD 2024 · DPDP Rules 2025</p></div>
+</div>
+<div class="foot">Workshop synthesis adapted from Stanford Biodesign (need statements, Principled Decision-Making), Harvard MRCT Center (diversity, plain-language consent), Cambridge Engineering Design Centre (inclusive design), IDEAL-D, Declaration of Helsinki (2024), ICMR (2017) and CDSCO guidance. Not a regulatory checklist or certification. Checked 7 October 2026.</div>
+</body></html>
