@@ -125,6 +125,9 @@ async function renderMap(pkg, key, { highlights = {}, base = "D5DFDD", stroke = 
   }
   const centers = {};
   for (const l of map.locations) { const b = pathBBoxes(l.path); centers[l.id] = [(b[0] + b[2]) / 2 / vw, (b[1] + b[3]) / 2 / vh]; }
+  // Bounding boxes mislead for multi-part countries; place markers on the mainland.
+  const OVERRIDE = key === "world" ? { us: [0.175, 0.54], ca: [0.16, 0.40], ru: [0.68, 0.3], fr: [0.475, 0.455], dk: [0.49, 0.37], no: [0.5, 0.3] } : {};
+  Object.assign(centers, OVERRIDE);
   return { file: out, aspect: vh / vw, centers };
 }
 
@@ -232,7 +235,8 @@ function makeUI(pres, { notes = {}, sources = {}, stages = ["Need", "Evidence", 
 
   function pill(s, x, y, w, label, { color = C.accent1, fill = true, h = 0.3, fontSize = 10, dark = false, dash = false, textColor } = {}) {
     s.addShape(S.ROUNDED_RECTANGLE, { x, y, w, h, rectRadius: h / 2, fill: fill ? { color } : { color: dark ? C.text2 : C.background1 }, line: { color, width: 1.25, dashType: dash ? "dash" : "solid" }, objectName: `Pill ${label}` });
-    text(s, label, { x, y, w, h, fontSize, bold: true, align: "center", valign: "middle", color: textColor || (fill ? C.background1 : color) });
+    const onMarigold = fill && (color === C.accent2 || color === HEX.accent2);
+    text(s, label, { x, y, w, h, fontSize, bold: true, align: "center", valign: "middle", color: textColor || (fill ? (onMarigold ? C.text2 : C.background1) : color) });
   }
 
   function statusChip(s, x, y, key, { w = 2.0, label, dark = false } = {}) {
@@ -286,7 +290,8 @@ function makeUI(pres, { notes = {}, sources = {}, stages = ["Need", "Evidence", 
       s.addShape(S.ROUNDED_RECTANGLE, { x: xx, y, w: tw, h, rectRadius: 0.12, fill: { color: dark ? C.background1 : C.background1, transparency: dark ? 90 : 0 }, line: { color: dark ? C.accent6 : "D5DFDD", width: dark ? 1 : 0.75 }, shadow: dark ? undefined : shadow(0.1), objectName: `Stat ${t.label}` });
       s.addShape(S.RECTANGLE, { x: xx, y: y + 0.25, w: 0.07, h: h - 0.5, fill: { color: col }, line: { type: "none" }, objectName: "Stat accent" });
       if (t.icon) await iconDisc(s, t.icon, xx + tw - 0.62, y + 0.2, 0.44, { bg: col, bgTrans: dark ? 0 : 85, fg: dark ? HEX.lt1 : (typeof col === "string" && /^[0-9A-F]{6}$/i.test(col) ? col : HEX.accent1) });
-      const vs = t.valueSize || (String(t.value).length > 11 ? valueSize * 0.62 : String(t.value).length > 8 ? valueSize * 0.8 : valueSize);
+      const longest = Math.max(...tiles.map((q) => String(q.value).length));
+      const vs = t.valueSize || (longest > 11 ? valueSize * 0.62 : longest > 8 ? valueSize * 0.8 : valueSize);
       text(s, t.value, { x: xx + 0.25, y: y + 0.15, w: tw - (t.icon ? 0.95 : 0.45), h: 0.75, fontSize: vs, bold: true, color: dark ? C.background1 : col, valign: "middle" });
       text(s, t.label, { x: xx + 0.25, y: y + 0.9, w: tw - 0.4, h: 0.32, fontSize: 12, bold: true, color: dark ? C.accent6 : C.text1 });
       if (t.sub) text(s, t.sub, { x: xx + 0.25, y: y + 1.2, w: tw - 0.4, h: h - 1.25, fontSize: 9.5, color: dark ? C.accent6 : C.accent5 });
@@ -308,13 +313,14 @@ function makeUI(pres, { notes = {}, sources = {}, stages = ["Need", "Evidence", 
   function timeline(s, events, { x = M, y = 3.6, w = W - 2 * M, dark = false, fontSize = 11, alternate = true, lineColor, inset = 1.0, labelH = 1.1 } = {}) {
     s.addShape(S.LINE, { x, y, w, h: 0, line: { color: lineColor || (dark ? C.accent6 : C.accent4), width: 2.5 }, objectName: "Timeline" });
     const x0 = x + inset, span = w - 2 * inset, step = span / (events.length - 1 || 1);
-    const lw = Math.min(step * (alternate ? 1.9 : 0.95), 2.4);
+    const lw = Math.min(step * (alternate ? 1.6 : 0.95), 2.4);
     events.forEach((e, i) => {
       const cx = x0 + i * step, up = alternate ? i % 2 === 0 : true, col = e.color || C.accent1, d = e.big ? 0.3 : 0.2;
       s.addShape(S.OVAL, { x: cx - d / 2, y: y - d / 2, w: d, h: d, fill: { color: col }, line: { color: dark ? C.text2 : C.background1, width: 2 }, objectName: `Milestone ${e.date}` });
       pill(s, cx - 0.5, up ? y - 0.55 : y + 0.25, 1.0, e.date, { color: col, h: 0.28, fontSize: 10 });
       const ty = up ? y - 0.65 - labelH : y + 0.62;
-      text(s, [{ text: e.label, options: { bold: true, breakLine: !!e.detail } }, { text: e.detail || "", options: { color: dark ? C.accent6 : C.text2, fontSize: fontSize - 1 } }], { x: cx - lw / 2, y: ty, w: lw, h: labelH, fontSize, align: "center", valign: up ? "bottom" : "top", color: dark ? C.background1 : C.text1 });
+      const lx = Math.max(x, Math.min(x + w - lw, cx - lw / 2));
+      text(s, [{ text: e.label, options: { bold: true, breakLine: !!e.detail } }, { text: e.detail || "", options: { color: dark ? C.accent6 : C.text2, fontSize: fontSize - 1 } }], { x: lx, y: ty, w: lw, h: labelH, fontSize, align: "center", valign: up ? "bottom" : "top", color: dark ? C.background1 : C.text1 });
     });
   }
 
@@ -323,11 +329,12 @@ function makeUI(pres, { notes = {}, sources = {}, stages = ["Need", "Evidence", 
     const bw = w / bands.length, base = y + h;
     bands.forEach((b, i) => {
       const bh = h * (0.58 + (0.42 * i) / (bands.length - 1)), xx = x + i * bw, yy = base - bh, col = CLASS_COLORS[b.cls] || C.accent4;
+      const tc = b.cls === "C" ? C.text2 : C.background1;  // ink on marigold for contrast
       s.addShape(S.RECTANGLE, { x: xx, y: yy, w: bw - 0.08, h: bh, fill: { color: col }, line: { type: "none" }, objectName: `Class ${b.cls}` });
-      text(s, `Class ${b.cls}`, { x: xx + 0.15, y: yy + 0.12, w: bw - 0.3, h: 0.45, fontSize: 20, bold: true, color: C.background1 });
-      text(s, b.risk, { x: xx + 0.15, y: yy + 0.55, w: bw - 0.3, h: 0.35, fontSize: 11, italic: true, color: C.background1 });
-      text(s, b.examples.map((e) => ({ text: e, options: { bullet: { indent: 10 }, breakLine: true } })), { x: xx + 0.1, y: yy + 0.95, w: bw - 0.3, h: bh - 1.45, fontSize: 10.5, color: C.background1, paraSpaceAfter: 2 });
-      if (b.route) text(s, b.route, { x: xx + 0.15, y: base - 0.5, w: bw - 0.3, h: 0.42, fontSize: 10, bold: true, color: C.background1, valign: "bottom" });
+      text(s, b.label || `Class ${b.cls}`, { x: xx + 0.15, y: yy + 0.12, w: bw - 0.3, h: 0.45, fontSize: 20, bold: true, color: tc });
+      text(s, b.risk, { x: xx + 0.15, y: yy + 0.55, w: bw - 0.3, h: 0.35, fontSize: 11, italic: true, color: tc });
+      text(s, b.examples.map((e) => ({ text: e, options: { bullet: { indent: 10 }, breakLine: true } })), { x: xx + 0.1, y: yy + 0.95, w: bw - 0.3, h: bh - 1.45, fontSize: 10.5, color: tc, paraSpaceAfter: 2 });
+      if (b.route) text(s, b.route, { x: xx + 0.15, y: base - 0.5, w: bw - 0.3, h: 0.42, fontSize: 10, bold: true, color: tc, valign: "bottom" });
     });
     s.addShape(S.RIGHT_ARROW, { x, y: base + 0.12, w, h: 0.28, fill: { color: dark ? C.accent6 : "D5DFDD" }, line: { type: "none" }, objectName: "Risk arrow" });
     text(s, "Increasing risk   →   more evidence, higher authority, closer scrutiny", { x: x + 0.2, y: base + 0.12, w: w - 0.6, h: 0.28, fontSize: 10.5, bold: true, color: dark ? C.text2 : C.text1, valign: "middle" });
@@ -433,6 +440,10 @@ function makeUI(pres, { notes = {}, sources = {}, stages = ["Need", "Evidence", 
         const lw = mk.w || 1.5, side = mk.side || "right";
         const lx = side === "right" ? cx + 0.14 : side === "left" ? cx - 0.14 - lw : cx - lw / 2;
         const ly = side === "below" ? cy + 0.12 : side === "above" ? cy - 0.42 : cy - 0.15;
+        // translucent backing keeps labels legible over coloured fills
+        const bw = Math.min(lw, 0.075 * labelSize * 0.55 * mk.label.length + 0.2);
+        const bx = side === "left" ? lx + lw - bw : side === "right" ? lx : cx - bw / 2;
+        s.addShape(S.ROUNDED_RECTANGLE, { x: bx, y: ly + 0.02, w: bw, h: 0.26, rectRadius: 0.13, fill: { color: dark ? C.text2 : C.background1, transparency: 15 }, line: { type: "none" }, objectName: `Label backing ${mk.label}` });
         text(s, mk.label, { x: lx, y: ly, w: lw, h: 0.3, fontSize: labelSize, bold: true, color: dark ? C.background1 : C.text1, align: side === "left" ? "right" : side === "right" ? "left" : "center", valign: "middle" });
       }
     }
