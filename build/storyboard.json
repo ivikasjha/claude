@@ -18,9 +18,9 @@
   {
    "n": 2,
    "section": "Opening",
-   "time": 0.5,
+   "time": 1.0,
    "message": "My interests, stated first",
-   "visual": "Disclosure panel + three ground rules with icons",
+   "visual": "Disclosure panel naming the FoGO roles (founder and PI, patent filed) and a SwaKnee role line for the presenter to complete; three ground rules",
    "interaction": "Sets norms: vote first, challenge claims, protect identities",
    "sources": "Stanford GSB case on physician COI (2011); HMS COI policy"
   },
@@ -29,14 +29,14 @@
    "section": "Opening",
    "time": 2.0,
    "message": "Would you let a patient use it? (opening vote)",
-   "visual": "Three facts vs three answer cards (1 Routine care, 2 Research study, 3 Not yet)",
+   "visual": "Three facts (working prototype, promising dataset results, test licence) vs three answer cards (1 Routine care, 2 Research study, 3 Not yet)",
    "interaction": "OPENING VOTE by fingers; record split on a flipchart",
-   "sources": "MDR-2017 (Form MD-13 test licence ≠ permission to treat). The three facts match FoGO’s real status (revealed at the closing vote)"
+   "sources": "MDR-2017 (Form MD-13 test licence ≠ permission to treat). The three facts match FoGO’s real status (confirmed at the closing vote)"
   },
   {
    "n": 4,
    "section": "Opening",
-   "time": 0.75,
+   "time": 0.5,
    "message": "Three teaching traditions, one patient in India",
    "visual": "Three lens cards converge on an India banner (CDSCO · ICMR · MvPI · NPPA · out-of-pocket care)",
    "interaction": "—",
@@ -54,7 +54,7 @@
   {
    "n": 6,
    "section": "Opening",
-   "time": 0.75,
+   "time": 0.5,
    "message": "Each stage must answer a patient’s question",
    "visual": "Six-node patient journey (editable): Need, Evidence, People, Permission, Access, Safety",
    "interaction": "—",
@@ -65,7 +65,7 @@
    "section": "1 Need and claim",
    "time": 1.5,
    "message": "Claim wording sets the evidence bar",
-   "visual": "Stanford need-statement formula card; two claims → consequences",
+   "visual": "Stanford need-statement card: ‘A way to [address problem] in [population] to [achieve outcome]’; two claims → consequences",
    "interaction": "Quick call-out: rewrite one claim",
    "sources": "Stanford Biodesign Need Statements brief (2022); CDSCO intended-use and software guidance; Simon, Shachar & Cohen, JAMA 2022"
   },
@@ -74,15 +74,15 @@
    "section": "2 Evidence",
    "time": 1.25,
    "message": "What did the FoGO prototype actually show?",
-   "visual": "Embedded 12 s authentic prototype clip; Seen vs Not yet shown columns",
+   "visual": "Embedded 12 s authentic prototype clip; Seen (stop sensed → stop flagged as freeze → chest vibrates) vs Not yet shown",
    "interaction": "“What did you see? What did you infer?”",
-   "status": "Demonstrated: staged prototype function. Not yet shown: real freezes, many users, fewer falls",
+   "status": "Demonstrated: staged prototype function on a deliberate stop. Not yet shown: real freezes (vs a voluntary stop), many users, fewer falls",
    "sources": "FoGO project deck (BIRAC BIG), supplied"
   },
   {
    "n": 9,
    "section": "2 Evidence",
-   "time": 1.5,
+   "time": 1.25,
    "message": "FoGO has climbed two rungs, not five",
    "visual": "Evidence ladder with status chips mapped to IDEAL stages",
    "interaction": "Which rung matters most before home use?",
@@ -92,18 +92,18 @@
   {
    "n": 10,
    "section": "2 Evidence",
-   "time": 2.25,
+   "time": 3.0,
    "message": "Would you proceed? A home pilot next month",
-   "visual": "Decision slide: three facts + A/B/C cards",
-   "interaction": "DECISION 1 (A Proceed · B With conditions · C Not yet); pairs name conditions",
+   "visual": "Decision slide: three facts (public-data scores; ten users alone at home; Ramesh fell twice and asks to join) + A/B/C cards",
+   "interaction": "DECISION 1 (A Proceed · B With conditions · C Not yet); pairs name conditions; does anyone ask about permissions?",
    "sources": "ICMR 2017; MDR-2017 clinical investigation; MRCT post-trial access framework (2025)"
   },
   {
    "n": 11,
    "section": "2 Evidence",
-   "time": 1.5,
+   "time": 1.25,
    "message": "Rank each failure by harm and likelihood",
-   "visual": "Editable 3×3 risk map with six FoGO failure modes + ‘9–11 false cues per walking hour’ translation of the project-reported 0.15–0.18/min",
+   "visual": "Editable 3×3 risk map with six FoGO failure modes + ‘9–16 false cues per walking hour’ translation of project-reported 0.15–0.27/min (subject-wise to cross-dataset)",
    "interaction": "Which control would you test first?",
    "status": "Illustrative ranking; no FoGO failure rates implied",
    "sources": "ISO 14971:2019; IEC 62366-1; Engineering Better Care; Gerke et al. 2020; Kellmeyer et al. 2016; FoGO project material"
@@ -121,7 +121,7 @@
   {
    "n": 13,
    "section": "2 Evidence",
-   "time": 2.0,
+   "time": 2.5,
    "message": "Which claim can this evidence carry?",
    "visual": "Native chart 32% vs 14% (company-reported, n=40 vs 42) + patient-important threshold callout (≈41%, Tubach 2005) + claim ladder with status chips",
    "interaction": "One defends, one challenges “regrows cartilage”",
@@ -131,46 +131,46 @@
   {
    "n": 14,
    "section": "2 Evidence",
-   "time": 1.25,
+   "time": 0.75,
    "message": "An average can hide a patient",
    "visual": "Native chart 11.7% vs 3.6% occult hypoxaemia; “Who is missing?” prompts",
-   "interaction": "Name one group your study could miss",
+   "interaction": "Who is missing from our data? (optional: skip if behind)",
    "sources": "Sjoding et al., NEJM 2020; FDA pulse-oximeter draft guidance (Jan 2025); MRCT diversity guidance; Stanford Biodesign JEDI brief"
   },
   {
    "n": 15,
    "section": "3 People",
-   "time": 2.25,
+   "time": 3.0,
    "message": "Would you proceed? Ramesh’s neurologist is also the inventor",
-   "visual": "Decision slide with patient quote, language and filming facts",
+   "visual": "Decision slide with patient quote, English-only consent form, only neurologist within 100 km",
    "interaction": "DECISION 2; role-play patient/researcher in 60 s",
-   "sources": "Declaration of Helsinki 2024 (para 27); ICMR 2017; CIOMS 2016; US Common Rule key information; Appelbaum (therapeutic misconception); GMC recordings guidance"
+   "sources": "Declaration of Helsinki 2024 (para 27); ICMR 2017; CIOMS 2016; MRCT Center (Harvard) glossary; US Common Rule key information; Appelbaum (therapeutic misconception)"
   },
   {
    "n": 16,
    "section": "3 People",
-   "time": 1.0,
+   "time": 0.5,
    "message": "Disclosure starts the work; management finishes it",
    "visual": "Interests → Risks → Safeguards infographic",
    "interaction": "Which safeguard is cheapest to add today?",
-   "sources": "Lundh et al. Cochrane 2017; Chao et al. 2010; Stanford GSB OIT105; Cambridge spinout guidance; HMS COI policy; UCMPMD 2024; IMC 2002 cl. 6.8; Open Payments; Cumberlege 2020"
+   "sources": "Lundh et al., Cochrane 2017; HMS COI policy (2010); Stanford GSB case OIT105; Cambridge spinout guidance; UCMPMD 2024; IMC 2002 cl. 6.8"
   },
   {
    "n": 17,
    "section": "4 Permission",
-   "time": 2.0,
+   "time": 1.5,
    "message": "Each permission answers a different question",
-   "visual": "Four-step CDSCO pathway + ‘FoGO today’ ribbon (MD-13 for 25 units, Aug 2026 → next MD-22, ethics, CTRI) + risk-class strip + US/EU comparator",
+   "visual": "Four-step CDSCO pathway (test licence → clinical investigation → manufacturing licence, State A/B · Central C/D → post-market) + ‘FoGO today’ ribbon (MD-13 for 25 units, Aug 2026 → next MD-22, ethics, CTRI); US/EU comparison in notes",
    "interaction": "Where is Ramesh’s device on this path today?",
    "sources": "MDR-2017 (MD-12/13, MD-22/23 Rules 51–52, MD-3/5, MD-7/9); NDCT Rules 2019; CDSCO software guidance (21 Jul 2026); 21 CFR 812; EU MDR; ISO 14155:2026; Kadakia et al. 2024"
   },
   {
    "n": 18,
    "section": "5 Access",
-   "time": 1.25,
+   "time": 0.75,
    "message": "Who can’t use it? Audit the demands",
    "visual": "Editable inclusive-design audit: seven capability demands (vision → dexterity) rated for FoGO and SwaKnee + ‘Add for India’ panel (language, literacy, power, smartphone, caregiver)",
-   "interaction": "Pick the one demand you would redesign first",
+   "interaction": "Pick one demand to redesign (optional: skip if behind)",
    "status": "Ratings illustrative, for discussion",
    "sources": "Cambridge Engineering Design Centre, Inclusive Design Toolkit; MRCT Accessibility by Design toolkit (2023)"
   },
@@ -179,16 +179,16 @@
    "section": "5 Access",
    "time": 1.5,
    "message": "The price tag is only part of the cost",
-   "visual": "Kamala’s cost journey + NPPA precedent: knee implant ₹1,58,324 → ₹54,720 (−65%, Aug 2017)",
+   "visual": "Kamala’s cost journey with five dashed ‘who pays?’ answer slots + NPPA precedent: 91% of home-device brands cut prices after the July 2021 trade-margin cap",
    "interaction": "Who pays for each step?",
-   "sources": "PIB/NPPA knee (16 Aug 2017) and stent (13 Feb 2017) orders; NPPA trade-margin cap on home devices (13 Jul 2021); Cambridge Judge CCHLE; HBS Aravind case"
+   "sources": "PIB/NPPA trade-margin cap on five home-use devices (13 Jul 2021); knee-implant (16 Aug 2017) and stent (13 Feb 2017) orders in notes; Cambridge Judge CCHLE; HBS Aravind case"
   },
   {
    "n": 20,
    "section": "5 Access",
    "time": 2.0,
    "message": "Would you proceed? Launch with this brochure",
-   "visual": "Hypothetical brochure mock-up + pressures + A/B/C",
+   "visual": "Hypothetical brochure mock-up found by Kamala’s son + pressures (distributor insists; cash lasts 3 months) + A/B/C",
    "interaction": "DECISION 3; rewrite one claim to match evidence",
    "sources": "UCMPMD 2024 (amended 30 Apr 2026); Drugs and Magic Remedies Act 1954; ASCI Code; OARSI 2019; Stanford Principled Decision-Making"
   },
@@ -222,10 +222,10 @@
   {
    "n": 24,
    "section": "Close",
-   "time": 2.0,
+   "time": 2.5,
    "message": "Commit to one change in your own project",
    "visual": "Commitment card: Before __ I will __ · Owner · Proceed only if __",
-   "interaction": "TAKEAWAY EXERCISE (90 s write + share with neighbour)",
+   "interaction": "TAKEAWAY EXERCISE (90 s write + 60 s share with neighbour)",
    "sources": "Stanford Principled Decision-Making (team values)"
   },
   {
@@ -233,7 +233,7 @@
    "section": "Close",
    "time": 0.5,
    "message": "Patient-impact decision checklist",
-   "visual": "Editable 6-row table: stage · ask · evidence to see · owner · go/not yet",
+   "visual": "Editable 6-row table: stage · ask · evidence to see · owner · go/not yet (evidence row covers claim, users, version and risk controls)",
    "interaction": "Reusable tool; printed handout",
    "sources": "Workshop synthesis"
   },

@@ -24,8 +24,8 @@ All sources checked 7 October 2026. Web access in the preparation environment wa
 - Rangan VK. The Aravind Eye Hospital, Madurai, India: In Service for Sight. Harvard Business School case 593-098; 1993. — *Slides: 19*
 - Royal Academy of Engineering, Academy of Medical Sciences, Royal College of Physicians. Engineering Better Care: a systems approach to health and care design and continuous improvement; 2017 (working group chaired by Prof P. John Clarkson, University of Cambridge). <https://raeng.org.uk/publications/reports/engineering-better-care> — *Slides: 4, 6, 11*
 - Simon DA, Shachar C, Cohen IG. Unsettled liability issues for 'prediagnostic' wearables and health-related products. JAMA. 2022;328:1391. <https://hls.harvard.edu/bibliography/unsettled-liability-issues-for-prediagnostic-wearables-and-health-related-products> — *Slides: 7*
-- Stanford Biodesign. Health Equity programme and resources. <https://biodesign.stanford.edu/programs/health-equity.html> — *Slides: appendix only*
-- Stanford Biodesign. Justice, Equity, Diversity and Inclusion (JEDI). Student Guide to Biodesign; 2022. <https://biodesignguide.stanford.edu/wp-content/uploads/2022/08/JEDI-v1.pdf> — *Slides: 14*
+- Stanford Biodesign. Health Equity programme and resources. <https://biodesign.stanford.edu/programs/health-equity.html> — *Slides: 14*
+- Stanford Biodesign. Justice, Equity, Diversity and Inclusion (JEDI). Student Guide to Biodesign; 2022. <https://biodesignguide.stanford.edu/wp-content/uploads/2022/08/JEDI-v1.pdf> — *Slides: appendix only*
 - Stanford Biodesign. Need Statements. Student Guide to Biodesign; 2022. <https://biodesignguide.stanford.edu/wp-content/uploads/2022/07/Need-Statements-v2.pdf> — *Slides: 7, 25*
 - Stanford Biodesign. Principled Decision-Making. Student Guide to Biodesign; 2022. <https://biodesignguide.stanford.edu/wp-content/uploads/2022/08/Principled-Decision-Making-v1.pdf> — *Slides: 4, 20, 24*
 - Stanford Biodesign. Stanford Biodesign in India (Stanford-India Biodesign, 2007–2014; now School of International Biodesign, AIIMS and IIT Delhi). <https://biodesign.stanford.edu/content/dam/sm/biodesign/documents/programs/global-initiatives/founders-forum/Stanford-Bioesign-in-India.pdf> — *Slides: 4*
@@ -40,6 +40,7 @@ All sources checked 7 October 2026. Web access in the preparation environment wa
 
 ## India: regulation, ethics, pricing and safety
 
+- Advertising Standards Council of India. Consumer Complaints Council recommendations press release (June 2022): health advertisements assessed under ASCI Code Chapter I.1 (truthful, substantiated claims) and III.4. <https://www.ascionline.in/wp-content/uploads/2022/09/asci_june-17_ccc_recomm_press_release.pdf> — *Slides: 20*
 - Business Today. Govt to ask Johnson & Johnson to compensate for faulty hip implants (Agarwal committee report, 19 Feb 2018: about 4,700 ASR surgeries in India 2004–2010; 1,080 patients traced); 25 August 2018. <https://www.businesstoday.in/amp/latest/economy-politics/story/johnson-johnson-faulty-hip-implants-surgeries-compensation-109085-2018-08-25> — *Slides: 22*
 - CDSCO. Draft Guidance Document on Medical Device Software; 21 October 2025. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadPublic_NoticesFiles/Draft%20guidance%20document%20on%20Medical%20Device%20Software%2021%2010%202025.pdf> — *Slides: 21*
 - CDSCO. Draft Guidance on Post Market Surveillance of Medical Devices; 2018. <https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadPublic_NoticesFiles/2Draft%20Guidance%20on%20PMS.pdf> — *Slides: 17*
@@ -69,7 +70,8 @@ All sources checked 7 October 2026. Web access in the preparation environment wa
 
 ## Ethics frameworks, evidence and international comparison
 
-- Appelbaum PS, Roth LH, Lidz C. The therapeutic misconception: informed consent in psychiatric research. Int J Law Psychiatry. 1982;5:319–329; and Hastings Cent Rep. 1987;17(2):20–24. <https://psychnews.psychiatryonline.org/doi/10.1176/appi.pn.2021.7.30> — *Slides: 15*
+- Appelbaum PS, Roth LH, Lidz C. The therapeutic misconception: informed consent in psychiatric research. Int J Law Psychiatry. 1982;5(3–4):319–329. <https://psychnews.psychiatryonline.org/doi/10.1176/appi.pn.2021.7.30> — *Slides: 15*
+- Appelbaum PS, Roth LH, Lidz CW, Benson P, Winslade W. False hopes and best data: consent to research and the therapeutic misconception. Hastings Cent Rep. 1987;17(2):20–24. <https://philpapers.org/rec/APPFHA> — *Slides: 15*
 - Bächlin M, Plotnik M, Roggen D, et al. Wearable assistant for Parkinson's disease patients with the freezing of gait symptom. IEEE Trans Inf Technol Biomed. 2010 (10 patients in the laboratory; 8 froze; 237 video-labelled events). <https://folia.unifr.ch/global/documents/222920> — *Slides: 9, 27*
 - Bannuru RR, Osani MC, Vaysbrot EE, et al. OARSI guidelines for the non-surgical management of knee, hip, and polyarticular osteoarthritis. Osteoarthritis Cartilage. 2019 (electromagnetic therapy strongly recommended against). <https://www.esceo.org/sites/esceo/files/pdf/Bannuru_O%26C_OARSIguidelines_2019.pdf> — *Slides: 13, 20, 27*
 - Centers for Medicare & Medicaid Services. Open Payments: public reporting of industry payments to physicians and teaching hospitals. <https://www.cms.gov/files/document/physician-fact-sheetpdf> — *Slides: 16*
@@ -91,7 +93,7 @@ All sources checked 7 October 2026. Web access in the preparation environment wa
 - Markovic L, Wagner B, Crevenna R. Effects of pulsed electromagnetic field therapy on outcomes associated with osteoarthritis: a systematic review of systematic reviews. Wien Klin Wochenschr. 2022 (heterogeneous schemes; no sufficient proof of efficacy). <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9213303/> — *Slides: 27*
 - McCulloch P, Altman DG, Campbell WB, et al. No surgical innovation without evaluation: the IDEAL recommendations. Lancet. 2009;374:1105–1112 (IDEAL Collaboration; 2019 update adds Pre-IDEAL). <https://www.ideal-collaboration.net/the-ideal-framework/> — *Slides: 9*
 - NICE. Osteoarthritis in over 16s: diagnosis and management (NG226); October 2022 (do not offer listed electrotherapies: insufficient evidence of benefit). <https://www.nice.org.uk/guidance/ng226/chapter/Recommendations> — *Slides: 27*
-- Nieuwboer A, et al. Cueing training in the home improves gait-related mobility in Parkinson's disease: the RESCUE trial. J Neurol Neurosurg Psychiatry. 2007;78(2):134 (n=153; modest gains; falls not reduced in reported outcomes). <https://jnnp.bmj.com/content/78/2/134> — *Slides: 27*
+- Nieuwboer A, et al. Cueing training in the home improves gait-related mobility in Parkinson's disease: the RESCUE trial. J Neurol Neurosurg Psychiatry. 2007;78(2):134 (n=153; small gait gains and lower freezing severity in freezers; fall counts not measured). <https://jnnp.bmj.com/content/78/2/134> — *Slides: 27*
 - Pardoel S, Kofman J, Nantel J, Lemaire ED. Wearable-sensor-based detection and prediction of freezing of gait in Parkinson's disease: a review. Sensors. 2019;19(23):5141. <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6928783/> — *Slides: 9, 27*
 - Regulation (EU) 2017/745 on medical devices, Art. 61 and Annex XIV Part B (post-market clinical follow-up); transition extended to 2027/2028 by Regulation (EU) 2023/607. <https://eur-lex.europa.eu/eli/reg/2017/745/2023-03-20> — *Slides: 17*
 - Sedrakyan A, Campbell B, Merino JG, Kuntz R, Hirst A, McCulloch P. IDEAL-D: a rational framework for evaluating and regulating the use of medical devices. BMJ. 2016;353:i2372. <https://pubmed.ncbi.nlm.nih.gov/27283585/> — *Slides: 9, 25, 26*
@@ -110,7 +112,8 @@ All sources checked 7 October 2026. Web access in the preparation environment wa
 
 - Ahilaya Biomedicals Pvt Ltd. FoGO BIRAC BIG project presentation (supplied, 2026): alpha prototype (3 iterations, Jan 2024–Jun 2025); subject-wise F1 0.83–0.85 and cross-dataset F1 0.74–0.80 on Daphnet, CuPiD and Turning-in-place; 0.15–0.18 false alarms per minute; vibrotactile bench study; IEC 60601-1-2 EMC pre-compliance (Jul 2026); CDSCO test licence Form MD-13 for 25 units (10 Aug 2026); clinical proof-of-concept planned at AIIMS Bhubaneswar; 12 s demonstration clip (volunteer, simulated freeze, face obscured). Project-reported; not peer-reviewed. — *Slides: 1, 8, 9, 11, 17, 18, 19, 21, 23, 26, 27*
 - Swa knee_Leaflet.pdf. Supplied product material: 45-minute daily sessions over 45 days (illustration of time burden, not a prescription). — *Slides: 12*
-- Swayogya Rehab Solutions. SwaKnee evidence page: company-reported comparative 45-day study, device n=40 vs comparison n=42, ≈32% vs ≈14% average VAS pain reduction from baseline (as summarised in the original deck). <https://www.swayogya.in/evidence.html> — *Slides: 13, 20, 26*
+- Swayogya Rehab Solutions. SwaKnee evidence page: company-reported comparative 45-day study, device n=40 vs comparison n=42, ≈32% vs ≈14% average VAS pain reduction from baseline. Rounded figures as transcribed in the supplied original deck; re-check the live page before presenting. <https://www.swayogya.in/evidence.html> — *Slides: 13, 20, 26*
+- Swayogya Rehab Solutions. SwaKnee explainer video on YouTube (company material; optional, longer than the embedded clip). <https://www.youtube.com/watch?v=IfQyVm8Kftc> — *Slides: 12*
 - Swayogya website assets (ivikasjha/swayogya_website): product photographs and three 'How to use' step videos, edited into a 20 s silent clip with step captions; no faces shown. <https://www.swayogya.in/product.html> — *Slides: 1, 12*
 
 ## Notes on attribution

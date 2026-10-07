@@ -24,7 +24,8 @@ md.push(`# Speaker notes and facilitator guide`, "");
 md.push(`**${SB.title}** — *${SB.subtitle}*  `, `${SB.presenter} · ${SB.length}`, "");
 md.push("## Before the session", "");
 md.push(
-  "- **Disclose precisely.** On slide 2, state your roles in FoGO (founder and principal investigator, Ahilaya Biomedicals Pvt Ltd) and SwaKnee, and any equity, royalty, salary or grant interest.",
+  "- **Disclose precisely.** Slide 2 names your FoGO role (founder and principal investigator, Ahilaya Biomedicals Pvt Ltd; patent filed). Replace “[state role]” with your SwaKnee role, and state any equity, royalty, salary or grant interest.",
+  "- **Re-check the SwaKnee evidence page.** The ≈32% vs ≈14% figures (n = 40 vs n = 42) were transcribed from the supplied original deck; the live page could not be reached from the build environment. Be ready to state SwaKnee’s CDSCO licence status and CTRI registration.",
   "- **Re-check time-sensitive facts** (all checked 7 October 2026): NPPA knee-implant cap (runs to 15 November 2026); status of MoHFW’s August 2026 proposed MDR-2017 amendments; NMC conduct regulations (2023 regulations in abeyance); UCMPMD amendments; DPDP Rules phase dates.",
   "- **Check your own public claims.** The SwaKnee website source code reviewed for this deck contains the phrases “Clinically Proven” and “cartilage repair and regeneration”. Align live web pages and leaflets with slide 13 before presenting.",
   "- **Media permissions.** Confirm written permission from the FoGO volunteer (face obscured) and from the person in the SwaKnee step videos (no face shown) for use in a public teaching session.",
@@ -39,15 +40,19 @@ for (const s of SB.slides) {
   if (!o || !s.time) continue;
   md.push(`| ${s.n} | ${mmss(CLOCK[s.n].start)}–${mmss(CLOCK[s.n].end)} | ${s.time} | ${o.title} | ${o.activity || "—"} |`);
 }
-md.push("", `Scripted total: ${mmss(total)} minutes, leaving 3–5 minutes for discussion within a 35–40 minute slot. If running late, shorten slides 11, 14 and 18 (keep all votes and decisions).`, "");
+md.push("", `Scripted total: ${mmss(total)} minutes, leaving 3–5 minutes for discussion within a 35–40 minute slot. Each slide’s notes open with a short core script; everything after it is detail for when time allows or someone asks. If running late, skip slides 14 and 18 (marked optional) and keep all votes and decisions.`, "");
 md.push("## Slide-by-slide notes", "");
-const sections = [["purpose", "Purpose"], ["say", "Say"], ["ask", "Ask / run"], ["debrief", "Debrief points"], ["status", "Evidence status"], ["india", "India adaptation"], ["caution", "Caution"], ["transition", "Transition"]];
+const sections = [["preflight", "Pre-flight checks"], ["core", "Core script (say this)"], ["purpose", "Purpose"], ["say", "Say"], ["ask", "Ask / run"], ["debrief", "Debrief points"], ["status", "Evidence status"], ["india", "India adaptation"], ["caution", "Caution"], ["transition", "Transition"]];
 for (const n of Object.keys(NOTE_DATA).map(Number).sort((a, b) => a - b)) {
   const o = NOTE_DATA[n];
   const c = CLOCK[n];
   md.push(`### Slide ${n} · ${o.title}`, "");
-  md.push(c && c.min ? `*Time: ${c.min} min (clock ${mmss(c.start)}–${mmss(c.end)})${o.activity ? ` · Activity: ${o.activity}` : ""}*` : `*Reference slide${o.activity ? ` · ${o.activity}` : ""}*`, "");
-  for (const [k, label] of sections) if (o[k]) md.push(`**${label}.** ${o[k].replace(/\n/g, "  \n")}`, "");
+  md.push(c && c.min ? `*Time: ${c.min} min (clock ${mmss(c.start)}–${mmss(c.end)})${o.optional ? " · optional: skip if behind" : ""}${o.activity ? ` · Activity: ${o.activity}` : ""}*` : `*Reference slide${o.activity ? ` · ${o.activity}` : ""}*`, "");
+  for (const [k, label] of sections) {
+    if (!o[k]) continue;
+    if (k === "preflight") md.push(`**${label}.**`, "", o[k], "");  // numbered lines become a list
+    else md.push(`**${label}.** ${o[k].replace(/\n/g, "  \n")}`, "");
+  }
   if (o.src && o.src.length) {
     md.push("**Sources.**", "");
     o.src.forEach((k, i) => { const r = R[k]; md.push(`${i + 1}. ${r.cite}${r.url ? ` <${r.url}>` : ""}`); });
@@ -125,10 +130,10 @@ fs.writeFileSync(path.join(OUT, "References.html"), mdToHtml(rm.join("\n"), "Sou
 // ---------------- One-page decision checklist handout (A4 landscape)
 const rows = [
   ["Need", "Will it help me?", "Is the need validated with patients and clinicians? Is the need statement solution-neutral?", "Need statement; observation notes"],
-  ["Evidence", "Is there proof, for people like me?", "Does the evidence match the exact claim, users and device version? What is demonstrated, reported, planned?", "Protocol; subgroup results; failure modes; version log"],
+  ["Evidence", "Is there proof, for people like me?", "Does the evidence match the exact claim, users and device version? Are failure modes controlled? What is demonstrated, reported, planned?", "Protocol; subgroup results; risk file (ISO 14971); version log"],
   ["People", "Can I freely refuse?", "Is consent independent of any dependent relationship, in the person’s language? Are conflicts disclosed and managed?", "Consent form and process; COI management plan; CTRI entry"],
   ["Permission", "Is it allowed for this use?", "Which CDSCO permission covers this use: test licence (MD-13), clinical investigation (MD-23), manufacturing licence?", "Class; licence or permission; registered ethics committee approval"],
-  ["Access", "Can I afford and use it?", "What is the total cost of use? Who is excluded by its demands (vision, dexterity, language, power, phone)?", "Cost of a full course; inclusive-design audit; service plan"],
+  ["Access", "Can I afford and use it?", "What is the total cost of use? Who is excluded by its demands (vision, dexterity, language, power, phone)? Do marketing claims match the evidence?", "Cost of a full course; inclusive-design audit; service plan; claims review"],
   ["Safety", "Who answers later?", "Who records, reports (MvPI) and acts on harm? How are updates validated, released and rolled back?", "Complaint log; MvPI route; change-control and rollback plan"],
 ];
 const handout = `<!doctype html><html><head><meta charset="utf-8"><title>Patient-impact decision checklist</title><style>
@@ -162,7 +167,7 @@ ${rows.map((r) => `<tr><td class="stage">${r[0]}</td><td class="q">“${esc(r[1]
 <div class="card key"><b>Label every claim</b><br><span class="d">Demonstrated</span><span class="r">Reported, preliminary</span><span class="p">Planned</span><span class="x">Not established</span>
 <p style="font-size:9pt;margin:4pt 0 0">India anchors: MDR-2017 (MD-13 test licence; MD-22/23 clinical investigation; MD-5/MD-9 manufacturing) · ethics committee registered with CDSCO · CTRI · ICMR 2017 · MvPI 1800-180-3024 · UCMPMD 2024 · DPDP Rules 2025</p></div>
 </div>
-<div class="foot">Workshop synthesis adapted from Stanford Biodesign (need statements, Principled Decision-Making), Harvard MRCT Center (diversity, plain-language consent), Cambridge Engineering Design Centre (inclusive design), IDEAL-D, Declaration of Helsinki (2024), ICMR (2017) and CDSCO guidance. Not a regulatory checklist or certification. Checked 7 October 2026.</div>
+<div class="foot">Workshop synthesis adapted from Stanford Biodesign (need statements, Principled Decision-Making), Harvard MRCT Center (diversity, plain-language consent), Cambridge Engineering Design Centre (inclusive design), IDEAL-D, Declaration of Helsinki (2024), ICMR (2017) and CDSCO guidance. Not a regulatory checklist or certification. A licence, patent, grant or institutional association is not evidence of readiness. Checked 7 October 2026.</div>
 </body></html>`;
 fs.writeFileSync(path.join(OUT, "Decision_Checklist_Handout.html"), handout);
 console.log("docs written to", OUT);

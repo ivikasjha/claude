@@ -130,7 +130,7 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
     });
   }
 
-  async function factRows(s, facts, { x = M, y = 2.05, w = 5.9, rowH = 0.95, dark = true, fontSize = 20 } = {}) {
+  async function factRows(s, facts, { x = M, y = 2.24, w = 5.9, rowH = 1.48, dark = true, fontSize = 20 } = {}) {
     for (let i = 0; i < facts.length; i++) {
       const f = facts[i];
       const yy = y + i * rowH;
@@ -162,12 +162,12 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
       { text: "Dr Vikas Kumar Jha", options: { bold: true, breakLine: true } },
       { text: "KIIT University, Bhubaneswar", options: { fontSize: 14, color: C.accent6 } },
     ], { placeholder: "presenter" });
-    const ix = 8.15, iw = 2.2, ih = 2.09, iy = 2.0;
+    const ix = 8.15, iw = 2.2, ih = 2.09, iy = 2.55;
     s.addImage({ path: img("title_fogo.jpg"), x: ix, y: iy, w: iw, h: ih, altText: "FoGO chest cue module and ankle strap module (alpha prototype)" });
     s.addImage({ path: img("title_swaknee.jpg"), x: ix + iw + 0.3, y: iy, w: iw, h: ih, altText: "SwaKnee controller connected to its knee applicator" });
     text(s, [{ text: "FoGO", options: { bold: true, color: C.background1, breakLine: true } }, { text: "Freezing-of-gait wearable", options: { color: C.accent6 } }], { x: ix, y: iy + ih + 0.15, w: iw, h: 0.6, fontSize: 13 });
     text(s, [{ text: "SwaKnee", options: { bold: true, color: C.background1, breakLine: true } }, { text: "PEMF knee system", options: { color: C.accent6 } }], { x: ix + iw + 0.3, y: iy + ih + 0.15, w: iw, h: 0.6, fontSize: 13 });
-    text(s, "Authentic prototype photographs", { x: ix, y: iy - 0.42, w: 4.7, h: 0.3, fontSize: 11, color: C.accent6, italic: true });
+    text(s, "Authentic device photographs", { x: ix, y: iy - 0.42, w: 4.7, h: 0.3, fontSize: 11, color: C.accent6, italic: true });
     s.addNotes(NOTES[n]);
   }
 
@@ -175,16 +175,24 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
   {
     const s = newSlide("CONTENT", "Opening", { kicker: "DISCLOSURE", title: "My interests, stated first" });
     s.addShape(S.ROUNDED_RECTANGLE, { x: M, y: 2.0, w: 6.2, h: 4.3, rectRadius: 0.15, fill: { color: C.background2 }, line: { type: "none" }, objectName: "Disclosure panel" });
-    await iconCircle(s, "LuHandshake", M + 0.45, 2.45, 1.0, { bg: C.accent2 });
-    text(s, "I have professional interests in FoGO and SwaKnee.", { x: M + 0.45, y: 3.65, w: 5.4, h: 1.5, fontSize: 30, bold: true });
-    text(s, "Judge my evidence like anyone’s.", { x: M + 0.45, y: 5.35, w: 5.4, h: 0.7, fontSize: 22, color: C.text2 });
+    await iconCircle(s, "LuHandshake", M + 0.45, 2.35, 0.95, { bg: C.accent2 });
+    text(s, "I have professional interests in FoGO and SwaKnee.", { x: M + 0.45, y: 3.5, w: 5.4, h: 1.05, fontSize: 26, bold: true });
+    // specific interests; the SwaKnee role is completed by the presenter (see slide 1 notes, pre-flight)
+    const interests = [
+      [{ text: "FoGO  ", options: { bold: true, color: C.accent1 } }, { text: "founder, Ahilaya Biomedicals; patent filed", options: { color: C.text1 } }],
+      [{ text: "SwaKnee  ", options: { bold: true, color: C.accent1 } }, { text: "[state role]", options: { bold: true, color: C.accent2 } }],
+    ];
+    interests.forEach((runs, i) => {
+      s.addShape(S.LINE, { x: M + 0.45, y: 4.78 + i * 0.62, w: 5.3, h: 0, line: { color: C.accent6, width: 1 }, objectName: "Interest rule" });
+      text(s, runs, { x: M + 0.45, y: 4.84 + i * 0.62, w: 5.4, h: 0.5, fontSize: 17, valign: "middle" });
+    });
     const rules = [
       { icon: "LuVote", t: "Vote before my view" },
       { icon: "LuSearch", t: "Challenge every claim" },
       { icon: "LuLock", t: "Protect identities" },
     ];
     for (let i = 0; i < rules.length; i++) {
-      const y = 2.15 + i * 1.4;
+      const y = 2.35 + i * 1.4;
       await iconCircle(s, rules[i].icon, 7.45, y, 0.85);
       text(s, rules[i].t, { x: 8.55, y, w: 4.2, h: 0.85, fontSize: 20, valign: "middle" });
     }
@@ -195,15 +203,15 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
     const s = newSlide("DARK", "Opening", { kicker: "OPENING VOTE", title: "Would you let a patient use it?" });
     await factRows(s, [
       { icon: "LuWrench", text: "Working prototype" },
-      { icon: "LuFlaskConical", text: "Promising lab results" },
+      { icon: "LuFlaskConical", text: "Promising dataset results" },
       { icon: "LuFileCheck", text: "Test licence granted" },
-    ], { y: 2.2, rowH: 1.1 });
+    ]);
     optionCards(s, [
       { key: "1", label: "Routine care" },
       { key: "2", label: "Research study" },
       { key: "3", label: "Not yet" },
     ]);
-    text(s, "Show 1, 2 or 3 fingers", { x: M, y: 5.75, w: 5.9, h: 0.5, fontSize: 20, bold: true, color: C.accent2 });
+    text(s, "Show 1, 2 or 3 fingers", { x: M, y: 6.2, w: 5.9, h: 0.5, fontSize: 20, bold: true, color: C.accent2 });
   }
 
   // 4. Three teaching traditions
@@ -221,14 +229,12 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
       await iconCircle(s, cols[i].icon, x + 0.35, 2.35, 0.95);
       text(s, cols[i].org, { x: x + 0.35, y: 3.5, w: cw - 0.6, h: 0.5, fontSize: 23, bold: true });
       text(s, cols[i].lens, { x: x + 0.35, y: 4.02, w: cw - 0.6, h: 0.55, fontSize: 20, color: C.text2 });
-      s.addShape(S.LINE, { x: x + cw / 2, y: 4.8, w: 0, h: 0.4, line: { color: C.accent5, width: 1.5, endArrowType: "triangle" }, objectName: "Arrow down" });
+      s.addShape(S.LINE, { x: x + cw / 2, y: 4.9, w: 0, h: 0.3, line: { color: C.accent5, width: 1.5, endArrowType: "triangle" }, objectName: "Arrow down" });
     }
     s.addShape(S.ROUNDED_RECTANGLE, { x: M, y: 5.3, w: 12.13, h: 1.25, rectRadius: 0.15, fill: { color: C.text2 }, line: { type: "none" }, objectName: "India banner" });
     await iconCircle(s, "LuMapPin", M + 0.3, 5.5, 0.85, { bg: C.accent2, fg: HEX.dk2 });
-    text(s, [
-      { text: "India  ", options: { bold: true, color: C.background1 } },
-      { text: "CDSCO · ICMR · MvPI · NPPA", options: { color: C.accent6 } },
-    ], { x: M + 1.4, y: 5.3, w: 10.5, h: 1.25, fontSize: 20, valign: "middle" });
+    text(s, "India", { x: M + 1.4, y: 5.3, w: 1.4, h: 1.25, fontSize: 22, bold: true, valign: "middle", color: C.background1 });
+    ["CDSCO", "ICMR", "MvPI", "NPPA"].forEach((a, i) => text(s, a, { x: M + 3.2 + i * 2.2, y: 5.3, w: 1.9, h: 1.25, fontSize: 22, valign: "middle", color: C.accent6 }));
   }
 
   // 5. Two people we will follow
@@ -241,7 +247,7 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
     for (let i = 0; i < 2; i++) {
       const p = people[i];
       const x = M + i * 6.25;
-      s.addShape(S.ROUNDED_RECTANGLE, { x, y: 1.95, w: 5.88, h: 4.6, rectRadius: 0.15, fill: { color: C.background2 }, line: { type: "none" }, objectName: `Persona ${p.name}` });
+      s.addShape(S.ROUNDED_RECTANGLE, { x, y: 1.95, w: 5.88, h: 3.95, rectRadius: 0.15, fill: { color: C.background2 }, line: { type: "none" }, objectName: `Persona ${p.name}` });
       await iconCircle(s, "LuUser", x + 0.35, 2.25, 0.9, { bg: i === 0 ? C.accent1 : C.accent2, fg: i === 0 ? HEX.lt1 : HEX.dk2 });
       text(s, p.name, { x: x + 1.45, y: 2.25, w: 4.2, h: 0.9, fontSize: 28, bold: true, valign: "middle" });
       for (let j = 0; j < 3; j++) {
@@ -256,10 +262,10 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
 
   // 6. Journey map
   {
-    const s = newSlide("CONTENT", "Opening", { title: "Every stage answers a patient question" });
+    const s = newSlide("CONTENT", "Opening", { kicker: "THE JOURNEY", title: "Every stage answers a patient question" });
     const qs = ["“Will it help?”", "“Is it proven?”", "“Can I refuse?”", "“Is it allowed?”", "“Can I afford it?”", "“Who answers?”"];
     const icons = ["LuTarget", "LuMicroscope", "LuHand", "LuLandmark", "LuIndianRupee", "LuSiren"];
-    const x0 = M + 0.2, step = 2.05, d = 1.45, y = 2.65;
+    const x0 = M + 0.2, step = 2.05, d = 1.45, y = 2.95;
     s.addShape(S.LINE, { x: x0 + d / 2, y: y + d / 2, w: step * 5, h: 0, line: { color: C.accent6, width: 3 }, objectName: "Journey line" });
     for (let i = 0; i < 6; i++) {
       const x = x0 + i * step;
@@ -277,16 +283,16 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
   // 7. Claim wording sets the evidence bar
   {
     const s = newSlide("CONTENT", "Need and claim", { kicker: "NEED", title: "Wording sets the evidence bar", stage: 0 });
-    s.addShape(S.ROUNDED_RECTANGLE, { x: M, y: 1.95, w: 4.9, h: 4.55, rectRadius: 0.15, fill: { color: C.text2 }, line: { type: "none" }, objectName: "Need statement card" });
-    text(s, "STANFORD NEED STATEMENT", { x: M + 0.4, y: 2.25, w: 4.1, h: 0.35, fontSize: 13, bold: true, color: C.accent2, charSpacing: 1.5 });
+    s.addShape(S.ROUNDED_RECTANGLE, { x: M, y: 2.15, w: 4.9, h: 3.8, rectRadius: 0.15, fill: { color: C.text2 }, line: { type: "none" }, objectName: "Need statement card" });
+    text(s, "STANFORD NEED STATEMENT", { x: M + 0.4, y: 2.5, w: 4.1, h: 0.35, fontSize: 13, bold: true, color: C.accent2, charSpacing: 1.5 });
     text(s, [
       { text: "A way to ", options: { color: C.background1 } },
-      { text: "[outcome]", options: { color: C.accent2, bold: true } },
+      { text: "[address\u00A0problem]", options: { color: C.accent2, bold: true } },
       { text: " in ", options: { color: C.background1 } },
       { text: "[population]", options: { color: C.accent2, bold: true } },
-      { text: " with ", options: { color: C.background1 } },
-      { text: "[problem]", options: { color: C.accent2, bold: true } },
-    ], { x: M + 0.4, y: 2.8, w: 4.1, h: 2.2, fontSize: 28 });
+      { text: " to ", options: { color: C.background1 } },
+      { text: "[achieve\u00A0outcome]", options: { color: C.accent2, bold: true } },
+    ], { x: M + 0.4, y: 3.05, w: 4.1, h: 2.6, fontSize: 30 });
 
     const rows = [
       { claim: "“Shows walking patterns”", out: "Low bar", key: "low" },
@@ -314,15 +320,15 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
     const vw = 5.9, vh = vw / (1384 / 1080);
     s.addMedia({ type: "video", path: vid("fogo_prototype.mp4"), cover: "data:" + dataUri(img("fogo_video_poster.png")), x: M, y: 1.85, w: vw, h: vh, objectName: "FoGO prototype clip (12 s)" });
     text(s, "Staged demo · volunteer · simulated freeze", { x: M, y: 1.85 + vh + 0.08, w: vw, h: 0.3, fontSize: 11, italic: true, color: C.accent6 });
-    const colX = [7.0, 10.0];
+    const colX = [7.0, 10.03];
     const heads = [{ t: "Seen", c: C.accent6, k: "demonstrated" }, { t: "Not yet shown", c: C.accent2, k: "planned" }];
-    const items = [["Stop sensed", "Freeze flagged", "Chest vibrates"], ["Real freezes", "Many users", "Fewer falls"]];
+    const items = [["Stop sensed", "Stop flagged as freeze", "Chest vibrates"], ["Real freezes", "Many users", "Fewer falls"]];
     for (let c = 0; c < 2; c++) {
       text(s, heads[c].t, { x: colX[c], y: 2.0, w: 2.75, h: 0.5, fontSize: 22, bold: true, color: heads[c].c });
       for (let i = 0; i < 3; i++) {
         const y = 2.75 + i * 1.2;
-        s.addShape(S.ROUNDED_RECTANGLE, { x: colX[c], y, w: 2.75, h: 0.98, rectRadius: 0.12, fill: { color: c === 0 ? C.accent1 : C.text2 }, line: { color: c === 0 ? C.accent1 : C.accent2, width: 1.25, dashType: c === 0 ? "solid" : "dash" }, objectName: heads[c].t + " item" });
-        text(s, items[c][i], { x: colX[c] + 0.15, y, w: 2.45, h: 0.98, fontSize: 20, bold: true, color: C.background1, valign: "middle" });
+        s.addShape(S.ROUNDED_RECTANGLE, { x: colX[c], y, w: 2.7, h: 0.98, rectRadius: 0.12, fill: { color: c === 0 ? C.accent1 : C.text2 }, line: { color: c === 0 ? C.accent1 : C.accent2, width: 1.25, dashType: c === 0 ? "solid" : "dash" }, objectName: heads[c].t + " item" });
+        text(s, items[c][i], { x: colX[c] + 0.15, y, w: 2.4, h: 0.98, fontSize: 20, bold: true, color: C.background1, valign: "middle" });
       }
     }
   }
@@ -331,23 +337,23 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
   {
     const s = newSlide("CONTENT", "Evidence", { kicker: "EVIDENCE · FoGO", title: "FoGO has climbed two rungs, not five", stage: 1 });
     const rungs = [
-      { t: "Works on a volunteer", k: "demonstrated", ideal: "Pre-IDEAL" },
+      { t: "Staged demo, volunteer", k: "demonstrated", ideal: "Pre-IDEAL" },
       { t: "Public datasets\nF1 0.83–0.85", k: "reported", ideal: "Pre-IDEAL" },
       { t: "Prospective patient study", k: "planned", ideal: "1–2a" },
       { t: "Benefit in daily life", k: "notyet", ideal: "2b–3" },
       { t: "Long-term safety and fairness", k: "notyet", ideal: "4" },
     ];
-    const bw = 2.3, bh = 0.6, x0 = M, yBase = 6.3;
+    const bw = 2.2, bh = 0.56, x0 = M, yBase = 6.3;
     for (let i = 0; i < rungs.length; i++) {
       const r = rungs[i];
       const st = STATUS[r.k];
-      const x = x0 + i * (bw + 0.15);
+      const x = x0 + i * (bw + 0.27);
       const y = yBase - (i + 1) * bh;
       const filled = r.k === "demonstrated" || r.k === "reported";
       s.addShape(S.RECTANGLE, { x, y, w: bw, h: yBase - y, fill: { color: filled ? C.accent1 : C.background2, transparency: r.k === "reported" ? 45 : 0 }, line: { color: C[st.color], width: 1.5, dashType: st.dash === "dash" ? "dash" : "solid" }, objectName: `Rung ${i + 1}` });
       text(s, String(i + 1), { x: x + 0.15, y: y + 0.08, w: 0.5, h: 0.45, fontSize: 22, bold: true, color: filled ? C.background1 : C[st.color] });
-      text(s, r.t, { x, y: y - 1.37, w: bw, h: 0.85, fontSize: 15, bold: true, valign: "bottom" });
-      statusChip(s, x, y - 0.47, r.k, { w: bw });
+      text(s, r.t, { x, y: y - 1.47, w: bw, h: 0.85, fontSize: 15, bold: true, valign: "bottom" });
+      statusChip(s, x, y - 0.5, r.k, { w: bw });
       text(s, (r.ideal.startsWith("Pre") ? "" : "IDEAL ") + r.ideal, { x, y: yBase + 0.08, w: bw, h: 0.3, fontSize: 12, color: C.accent5 });
     }
   }
@@ -358,8 +364,8 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
     await factRows(s, [
       { icon: "LuDatabase", text: "F1 0.83–0.85 on public data" },
       { icon: "LuHouse", text: "Ten users, alone at home" },
-      { icon: "LuHourglass", text: "Ethics approval pending" },
-    ], { y: 2.2, rowH: 1.1 });
+      { icon: "LuUser", text: "Ramesh fell twice; asks to join" },
+    ]);
     optionCards(s, [
       { key: "A", label: "Proceed" },
       { key: "B", label: "Proceed with conditions" },
@@ -369,7 +375,7 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
 
   // 11. Risk map
   {
-    const s = newSlide("CONTENT", "Evidence", { kicker: "RISK · FoGO", title: "Rank failures by harm and likelihood", stage: 1 });
+    const s = newSlide("CONTENT", "Evidence", { kicker: "EVIDENCE · RISK", title: "Rank failures by harm and likelihood", stage: 1 });
     const gx = 2.0, gy = 1.95, cw = 2.55, ch = 1.38;
     const lik = ["Rare", "Possible", "Frequent"];
     const sev = ["Critical", "Serious", "Minor"];
@@ -390,7 +396,7 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
       { t: "Silent signal loss", r: 0, c: 1, dx: 0.15, dy: 0.75, ic: "LuWifiOff" },
       { t: "Flat battery mid-walk", r: 1, c: 1, dx: 0.15, dy: 0.45, ic: "LuBatteryLow" },
       { t: "Data exposure", r: 1, c: 0, dx: 0.15, dy: 0.45, ic: "LuLock" },
-      { t: "False cue", r: 2, c: 2, dx: 0.15, dy: 0.2, ic: "LuVibrate" },
+      { t: "False cue", r: 2, c: 2, dx: 0.15, dy: 0.45, ic: "LuVibrate" },
       { t: "Skin irritation", r: 2, c: 1, dx: 0.15, dy: 0.45, ic: "LuHand" },
     ];
     for (const p of pts) {
@@ -399,10 +405,10 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
       s.addImage({ data: await icon(p.ic, HEX.dk2), x: x + 0.1, y: y + 0.07, w: 0.32, h: 0.32, altText: p.t });
       text(s, p.t, { x: x + 0.5, y, w: cw - 0.85, h: 0.46, fontSize: 13, bold: true, valign: "middle" });
     }
-    s.addShape(S.ROUNDED_RECTANGLE, { x: 9.95, y: 1.95, w: 2.78, h: 4.6, rectRadius: 0.15, fill: { color: C.text2 }, line: { type: "none" }, objectName: "False-alarm burden panel" });
-    text(s, "9–11", { x: 10.2, y: 2.15, w: 2.3, h: 0.95, fontSize: 54, bold: true, color: C.accent2 });
+    s.addShape(S.ROUNDED_RECTANGLE, { x: 9.95, y: 1.95, w: 2.78, h: 4.14, rectRadius: 0.15, fill: { color: C.text2 }, line: { type: "none" }, objectName: "False-alarm burden panel" });
+    text(s, "9–16", { x: 10.2, y: 2.15, w: 2.3, h: 0.95, fontSize: 54, bold: true, color: C.accent2 });
     text(s, "false cues per walking hour, if dataset rates held", { x: 10.2, y: 3.1, w: 2.35, h: 0.95, fontSize: 15, color: C.background1 });
-    text(s, "Reported: 0.15–0.18/min", { x: 10.2, y: 4.05, w: 2.35, h: 0.5, fontSize: 12, italic: true, color: C.accent6 });
+    text(s, "Reported: 0.15–0.27/min", { x: 10.2, y: 4.05, w: 2.35, h: 0.5, fontSize: 12, italic: true, color: C.accent6 });
     s.addShape(S.LINE, { x: 10.2, y: 4.65, w: 2.3, h: 0, line: { color: C.accent6, width: 0.75 }, objectName: "Divider" });
     text(s, "Which control first?", { x: 10.2, y: 4.8, w: 2.35, h: 1.1, fontSize: 19, bold: true, color: C.background1 });
   }
@@ -413,18 +419,18 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
     const vw = 6.4, vh = vw / 1.4;
     s.addMedia({ type: "video", path: vid("swaknee_how_to_use.mp4"), cover: "data:" + dataUri(img("swaknee_video_poster.png")), x: M, y: 1.85, w: vw, h: vh, objectName: "SwaKnee how-to-use clip (20 s)" });
     text(s, "Company demonstration of use · not outcome footage", { x: M, y: 1.85 + vh + 0.08, w: vw, h: 0.3, fontSize: 11, italic: true, color: C.accent6 });
-    text(s, "≈34 hours", { x: 7.55, y: 1.95, w: 5.2, h: 1.1, fontSize: 60, bold: true, color: C.accent2 });
+    text(s, "≈34 hours", { x: 7.55, y: 1.8, w: 5.2, h: 1.1, fontSize: 60, bold: true, color: C.accent2 });
     text(s, "45 minutes a day for 45 days", { x: 7.55, y: 3.05, w: 5.2, h: 0.5, fontSize: 20, color: C.accent6 });
     s.addShape(S.LINE, { x: 7.55, y: 3.85, w: 5.0, h: 0, line: { color: C.accent6, width: 0.75 }, objectName: "Divider" });
-    await iconCircle(s, "LuCircleHelp", 7.55, 4.2, 0.75, { bg: C.accent6, fg: HEX.dk2 });
-    text(s, "Who helps Kamala when something goes wrong?", { x: 8.5, y: 4.15, w: 4.2, h: 1.3, fontSize: 22, bold: true, color: C.background1 });
+    await iconCircle(s, "LuCircleHelp", 7.55, 4.55, 0.85, { bg: C.accent6, fg: HEX.dk2 });
+    text(s, "Who helps Kamala when something goes wrong?", { x: 8.6, y: 4.45, w: 4.1, h: 1.6, fontSize: 26, bold: true, color: C.background1 });
   }
 
   // 13. Claim vs evidence
   {
     const s = newSlide("CONTENT", "Evidence", { kicker: "EVIDENCE · SWAKNEE", title: "Which claim can this evidence carry?", stage: 1 });
     s.addChart(pres.charts.BAR, [{ name: "Average VAS pain reduction at day 45 (%)", labels: ["SwaKnee (n=40)", "Comparison (n=42)"], values: [32, 14] }], {
-      x: M, y: 1.9, w: 5.6, h: 3.75, barDir: "col", barGapWidthPct: 70,
+      x: M, y: 1.9, w: 5.6, h: 3.55, barDir: "col", barGapWidthPct: 70,
       chartColors: [HEX.accent1, HEX.accent5], showValue: true, dataLabelPosition: "outEnd", dataLabelFormatCode: '0"%"',
       dataLabelFontSize: 16, dataLabelFontBold: true, dataLabelColor: HEX.dk1, dataLabelFontFace: "+mn-lt",
       showTitle: true, title: "Average pain reduction at day 45, company-reported (%)", titleFontSize: 13, titleColor: HEX.dk1, titleFontFace: "+mn-lt",
@@ -432,18 +438,18 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
       catAxisLabelFontSize: 13, catAxisLabelColor: HEX.dk1, catAxisLabelFontFace: "+mn-lt", catAxisLineShow: false,
       valAxisMinVal: 0, valAxisMaxVal: 40, objectName: "SwaKnee company-reported pain chart",
     });
-    s.addShape(S.ROUNDED_RECTANGLE, { x: M, y: 5.8, w: 5.6, h: 0.75, rectRadius: 0.1, fill: { color: C.accent2, transparency: 82 }, line: { color: C.accent2, width: 1, dashType: "dash" }, objectName: "MCII callout" });
-    text(s, [{ text: "Patient-important change ≈ 41% ", options: { bold: true } }, { text: "(Tubach 2005)", options: { color: C.text2 } }], { x: M + 0.2, y: 5.8, w: 5.3, h: 0.75, fontSize: 16, valign: "middle" });
+    s.addShape(S.ROUNDED_RECTANGLE, { x: M, y: 5.75, w: 5.6, h: 0.75, rectRadius: 0.1, fill: { color: C.accent2, transparency: 82 }, line: { color: C.accent2, width: 1, dashType: "dash" }, objectName: "MCII callout" });
+    text(s, [{ text: "Important change per patient ≈ 41% ", options: { bold: true } }, { text: "(Tubach 2005)", options: { color: C.text2 } }], { x: M + 0.2, y: 5.75, w: 5.3, h: 0.75, fontSize: 16, valign: "middle" });
     const claims = [
       { t: "“Less pain on average, one company study”", k: "reported", label: "Reported" },
       { t: "“Clinically proven”", k: "notyet", label: "Not established" },
       { t: "“Regrows cartilage”", k: "notyet", label: "Not measured" },
     ];
     for (let i = 0; i < claims.length; i++) {
-      const y = 2.0 + i * 1.5;
-      s.addShape(S.ROUNDED_RECTANGLE, { x: 6.75, y, w: 5.98, h: 1.25, rectRadius: 0.12, fill: { color: C.background2 }, line: { type: "none" }, objectName: "Claim row" });
-      text(s, claims[i].t, { x: 6.95, y, w: 3.35, h: 1.25, fontSize: 17, italic: true, valign: "middle" });
-      statusChip(s, 10.45, y + 0.44, claims[i].k, { w: 2.1, label: claims[i].label });
+      const y = 2.0 + i * 1.55;
+      s.addShape(S.ROUNDED_RECTANGLE, { x: 6.75, y, w: 5.98, h: 1.4, rectRadius: 0.12, fill: { color: C.background2 }, line: { type: "none" }, objectName: "Claim row" });
+      text(s, claims[i].t, { x: 6.95, y, w: 3.35, h: 1.4, fontSize: 17, italic: true, valign: "middle" });
+      statusChip(s, 10.45, y + 0.52, claims[i].k, { w: 2.1, label: claims[i].label });
     }
   }
 
@@ -466,7 +472,7 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
       { ic: "LuUsersRound", t: "Report results by subgroup" },
     ];
     for (let i = 0; i < prompts.length; i++) {
-      const y = 3.3 + i * 0.95;
+      const y = 3.15 + i * 1.12;
       await iconCircle(s, prompts[i].ic, 6.85, y, 0.66);
       text(s, prompts[i].t, { x: 7.75, y, w: 5.0, h: 0.66, fontSize: 18, valign: "middle" });
     }
@@ -483,8 +489,8 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
     await factRows(s, [
       { icon: "LuMessageCircle", text: "“Will saying no change my care?”", italic: true },
       { icon: "LuLanguages", text: "Consent form: English only" },
-      { icon: "LuCamera", text: "Clinic wants to film him" },
-    ], { y: 2.2, rowH: 1.1 });
+      { icon: "LuMapPin", text: "Only neurologist within 100 km" },
+    ]);
     optionCards(s, [
       { key: "A", label: "Recruit now" },
       { key: "B", label: "Proceed with safeguards" },
@@ -496,7 +502,7 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
   {
     const s = newSlide("CONTENT", "People", { kicker: "CONFLICTS OF INTEREST", title: "Disclose, then manage", stage: 2 });
     const cols = [
-      { h: "Interests", c: C.accent2, items: [["LuCircleDollarSign", "Equity or royalties"], ["LuLandmark", "Grants, institution"], ["LuMegaphone", "Reputation"]] },
+      { h: "Interests", c: C.accent2, items: [["LuIndianRupee", "Equity or royalties"], ["LuLandmark", "Grants, institution"], ["LuMegaphone", "Reputation"]] },
       { h: "Risks", c: C.accent3, items: [["LuUsers", "Pressure to enrol"], ["LuEye", "Optimistic reading"], ["LuFileText", "Selective reporting"]] },
       { h: "Safeguards", c: C.accent1, items: [["LuUserCheck", "Independent assessor"], ["LuClipboardCheck", "CTRI registration"], ["LuBookOpen", "Publish all results"]] },
     ];
@@ -525,41 +531,30 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
   {
     const s = newSlide("CONTENT", "Permission and access", { kicker: "PERMISSION · INDIA", title: "Each permission answers a different question", stage: 3 });
     const steps = [
-      { ic: "LuWrench", h: "Test licence", f: "MD-12 → MD-13", q: "Make units for testing?" },
-      { ic: "LuUsers", h: "Clinical investigation", f: "MD-22 → MD-23 · ethics · CTRI", q: "Test in people?" },
-      { ic: "LuPackage", h: "Manufacturing licence", f: "Class A/B: State · C/D: Central", q: "Sell for this use?" },
-      { ic: "LuSiren", h: "Post-market duties", f: "PSUR · MvPI · recall", q: "Still safe?" },
+      { ic: "LuWrench", h: "Test\nlicence", f: "MD-12 → MD-13", q: "Make units for testing?" },
+      { ic: "LuUsers", h: "Clinical\ninvestigation", f: "MD-22 → MD-23 · ethics · CTRI", q: "Test in people?" },
+      { ic: "LuPackage", h: "Manufacturing\nlicence", f: "Class A/B: State · C/D: Central", q: "Sell for this use?" },
+      { ic: "LuSiren", h: "Post-market\nduties", f: "PSUR · MvPI · recall", q: "Still safe?" },
     ];
-    const cw = 2.78, gap = 0.333;
+    const cw = 2.66, gap = 0.5;
     for (let i = 0; i < 4; i++) {
       const x = M + i * (cw + gap);
       const st = steps[i];
-      s.addShape(S.ROUNDED_RECTANGLE, { x, y: 1.95, w: cw, h: 2.6, rectRadius: 0.15, fill: { color: C.background2 }, line: { type: "none" }, objectName: `Pathway ${st.h}` });
-      await iconCircle(s, st.ic, x + 0.25, 2.12, 0.62, { bg: C.accent4 });
-      text(s, st.h, { x: x + 0.25, y: 2.85, w: cw - 0.45, h: 0.42, fontSize: 18, bold: true });
-      text(s, st.q, { x: x + 0.25, y: 3.27, w: cw - 0.45, h: 0.45, fontSize: 17, italic: true, color: C.accent4 });
-      text(s, st.f, { x: x + 0.25, y: 3.75, w: cw - 0.45, h: 0.72, fontSize: 13, color: C.text2 });
-      if (i < 3) arrow(s, x + cw + 0.03, 3.25, gap - 0.06, C.accent4);
+      s.addShape(S.ROUNDED_RECTANGLE, { x, y: 2.0, w: cw, h: 3.0, rectRadius: 0.15, fill: { color: C.background2 }, line: { type: "none" }, objectName: `Pathway ${st.h.replace("\n", " ")}` });
+      await iconCircle(s, st.ic, x + 0.25, 2.25, 0.75, { bg: C.accent4 });
+      text(s, st.h, { x: x + 0.25, y: 3.18, w: cw - 0.45, h: 0.68, fontSize: 19, bold: true });
+      text(s, st.q, { x: x + 0.25, y: 3.92, w: cw - 0.45, h: 0.4, fontSize: 17, italic: true, color: C.accent4 });
+      text(s, st.f, { x: x + 0.25, y: 4.42, w: cw - 0.4, h: 0.4, fontSize: 13, color: C.text2 });
+      if (i < 3) arrow(s, x + cw + 0.1, 3.5, gap - 0.2, C.accent4);
     }
     // FoGO today: where a real project sits on the path
-    s.addShape(S.ROUNDED_RECTANGLE, { x: M, y: 4.72, w: 12.13, h: 0.62, rectRadius: 0.31, fill: { color: C.accent2, transparency: 85 }, line: { color: C.accent2, width: 1 }, objectName: "FoGO today ribbon" });
+    s.addShape(S.ROUNDED_RECTANGLE, { x: M, y: 5.5, w: 12.13, h: 0.7, rectRadius: 0.35, fill: { color: C.accent2, transparency: 85 }, line: { color: C.accent2, width: 1 }, objectName: "FoGO today ribbon" });
     text(s, [
       { text: "FoGO TODAY   ", options: { bold: true, color: C.text1, charSpacing: 1 } },
       { text: "✓ MD-13 test licence, 25 units (Aug 2026)   ", options: { color: C.accent1, bold: true } },
       { text: "→  Next: MD-22, ethics, CTRI", options: { color: C.text2 } },
-    ], { x: M + 0.3, y: 4.72, w: 11.6, h: 0.62, fontSize: 15, valign: "middle" });
-    // risk class strip
-    const classes = ["A", "B", "C", "D"];
-    text(s, "Risk class", { x: M, y: 5.5, w: 1.4, h: 0.5, fontSize: 15, bold: true, valign: "middle" });
-    classes.forEach((c, i) => {
-      s.addShape(S.ROUNDED_RECTANGLE, { x: 2.1 + i * 0.95, y: 5.5, w: 0.8, h: 0.5, rectRadius: 0.1, fill: { color: C.accent4, transparency: 75 - i * 22 }, line: { type: "none" }, objectName: `Class ${c}` });
-      text(s, c, { x: 2.1 + i * 0.95, y: 5.5, w: 0.8, h: 0.5, fontSize: 16, bold: true, align: "center", valign: "middle", color: i >= 2 ? C.background1 : C.text1 });
-    });
-    text(s, "Higher class, higher authority and evidence", { x: 6.0, y: 5.5, w: 6.7, h: 0.5, fontSize: 15, valign: "middle", color: C.text2 });
-    text(s, [
-      { text: "Compare  ", options: { bold: true, color: C.accent4 } },
-      { text: "US: IDE → 510(k) / De Novo / PMA   ·   EU: CE mark → post-market follow-up", options: { color: C.text2 } },
-    ], { x: M, y: 6.15, w: 12.1, h: 0.45, fontSize: 14, valign: "middle" });
+    ], { x: M + 0.3, y: 5.5, w: 11.6, h: 0.7, fontSize: 16, valign: "middle" });
+    // The risk-class detail and the US/EU comparison are in the speaker notes.
   }
 
   // 18. Inclusive design: exclusion audit
@@ -588,7 +583,7 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
       s.addShape(S.OVAL, { x: x0 + 0.15 + i * 1.65, y: ly + 0.07, w: 0.22, h: 0.22, fill: { color: lvl[v] }, line: { type: "none" }, objectName: "Legend dot" });
       text(s, t, { x: x0 + 0.45 + i * 1.65, y: ly, w: 1.3, h: 0.36, fontSize: 13, color: C.text2, valign: "middle" });
     });
-    s.addShape(S.ROUNDED_RECTANGLE, { x: 7.3, y: 1.95, w: 5.43, h: 4.6, rectRadius: 0.15, fill: { color: C.text2 }, line: { type: "none" }, objectName: "India additions" });
+    s.addShape(S.ROUNDED_RECTANGLE, { x: 7.3, y: 1.95, w: 5.43, h: 4.32, rectRadius: 0.15, fill: { color: C.text2 }, line: { type: "none" }, objectName: "India additions" });
     text(s, "INDIA ADDS", { x: 7.65, y: 2.2, w: 4.8, h: 0.32, fontSize: 13, bold: true, color: C.accent2, charSpacing: 1.5 });
     const adds = [["LuLanguages", "Language"], ["LuBookA", "Literacy"], ["LuPlug", "Power cuts"], ["LuSmartphone", "No smartphone"], ["LuUsers", "Caregiver needed"]];
     for (let i = 0; i < adds.length; i++) {
@@ -613,14 +608,17 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
     for (let i = 0; i < steps.length; i++) {
       const x = x0 + i * step;
       await iconCircle(s, steps[i].ic, x, y, d, { bg: i === 0 ? C.accent1 : C.accent2, fg: i === 0 ? HEX.lt1 : HEX.dk2 });
-      text(s, steps[i].t, { x: x - 0.3, y: y + d + 0.15, w: d + 0.6, h: 0.75, fontSize: 15, bold: true, align: "center" });
+      text(s, steps[i].t, { x: x - 0.3, y: y + d + 0.15, w: d + 0.6, h: 0.4, fontSize: 15, bold: true, align: "center" });
+      // empty answer slot: the room names the payer
+      s.addShape(S.ROUNDED_RECTANGLE, { x: x - 0.2, y: 4.0, w: d + 0.4, h: 0.62, rectRadius: 0.1, fill: { color: C.background1 }, line: { color: C.accent2, width: 1.25, dashType: "dash" }, objectName: `Payer slot ${steps[i].t}` });
+      text(s, "?", { x: x - 0.2, y: 4.0, w: d + 0.4, h: 0.62, fontSize: 22, bold: true, align: "center", valign: "middle", color: C.accent2 });
     }
-    text(s, "Who pays each step?", { x: M, y: 4.6, w: 7.7, h: 0.7, fontSize: 30, bold: true, color: C.text2 });
-    s.addShape(S.ROUNDED_RECTANGLE, { x: 8.95, y: 1.95, w: 3.78, h: 3.45, rectRadius: 0.15, fill: { color: C.text2 }, line: { type: "none" }, objectName: "NPPA precedent" });
-    text(s, "NPPA PRECEDENT", { x: 9.25, y: 2.2, w: 3.2, h: 0.35, fontSize: 12, bold: true, color: C.accent2, charSpacing: 1.5 });
-    text(s, "−65%", { x: 9.25, y: 2.6, w: 3.2, h: 0.95, fontSize: 54, bold: true, color: C.background1 });
-    text(s, "Knee implant price cap, Aug 2017", { x: 9.25, y: 3.6, w: 3.2, h: 0.85, fontSize: 17, color: C.accent6 });
-    text(s, "₹1,58,324 → ₹54,720", { x: 9.25, y: 4.45, w: 3.2, h: 0.45, fontSize: 16, bold: true, color: C.accent2 });
+    text(s, "Who pays each step?", { x: M, y: 5.0, w: 7.7, h: 0.7, fontSize: 30, bold: true, color: C.text2 });
+    s.addShape(S.ROUNDED_RECTANGLE, { x: 8.95, y: 1.95, w: 3.78, h: 3.75, rectRadius: 0.15, fill: { color: C.text2 }, line: { type: "none" }, objectName: "NPPA precedent" });
+    text(s, "NPPA PRECEDENT", { x: 9.25, y: 2.3, w: 3.2, h: 0.35, fontSize: 12, bold: true, color: C.accent2, charSpacing: 1.5 });
+    text(s, "91%", { x: 9.25, y: 2.8, w: 3.2, h: 0.95, fontSize: 54, bold: true, color: C.background1 });
+    text(s, "of home-device brands cut prices", { x: 9.25, y: 3.85, w: 3.3, h: 0.8, fontSize: 17, color: C.accent6 });
+    text(s, "Trade-margin cap, July 2021", { x: 9.25, y: 4.95, w: 3.3, h: 0.45, fontSize: 16, bold: true, color: C.accent2 });
   }
 
   // 20. Decision 3: brochure
@@ -635,11 +633,11 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
     text(s, "HYPOTHETICAL", { x: M + 0.25, y: 5.2, w: 2.5, h: 0.35, fontSize: 12, bold: true, color: C.accent5, charSpacing: 2 });
     await factRows(s, [
       { icon: "LuBriefcase", text: "Distributor insists" },
-      { icon: "LuTrendingUp", text: "Investors want speed" },
+      { icon: "LuTrendingDown", text: "Cash lasts 3 months" },
     ], { x: 3.85, y: 2.2, w: 2.95, rowH: 1.6, fontSize: 18 });
     optionCards(s, [
       { key: "A", label: "Launch as written" },
-      { key: "B", label: "Fix claims, then launch" },
+      { key: "B", label: "Fix claims first" },
       { key: "C", label: "Not yet" },
     ]);
   }
@@ -652,12 +650,12 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
   // 21. Decision 4: software update
   {
     const s = newSlide("DARK", "Lifetime safety", { kicker: "WOULD YOU PROCEED? 4/4", title: "Push tonight’s FoGO update?", stage: 5 });
-    s.addImage({ path: img("fogo_app_cue.png"), x: M, y: 1.85, w: 2.42, h: 4.83, altText: "FoGO prototype app showing an active vibration cue and its detection paths" });
+    s.addImage({ path: img("fogo_app_cue_rounded.png"), x: M, y: 1.95, w: 2.3, h: 4.59, altText: "FoGO prototype app showing an active vibration cue and its detection paths" });
     await factRows(s, [
       { icon: "LuVibrate", text: "Fewer false cues" },
       { icon: "LuFootprints", text: "May miss more freezes" },
       { icon: "LuDatabase", text: "Tested on stored data" },
-    ], { x: 3.35, y: 2.2, w: 3.5, rowH: 1.1 });
+    ], { x: 3.3, w: 3.35, fontSize: 18 });
     optionCards(s, [
       { key: "A", label: "Push to everyone" },
       { key: "B", label: "Staged release with rollback" },
@@ -670,7 +668,7 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
     const s = newSlide("CONTENT", "Lifetime safety", { kicker: "SAFETY", title: "When harm happens, who answers?", stage: 5 });
     const nodes = ["Care", "Record", "Report", "Investigate", "Correct", "Follow up"];
     const icons = ["LuHeartPulse", "LuFileText", "LuBell", "LuSearch", "LuWrench", "LuPhone"];
-    const cx = 3.6, cy = 4.3, R = 1.75, d = 0.9;
+    const cx = 3.6, cy = 4.15, R = 1.72, d = 0.9;
     s.addShape(S.OVAL, { x: cx - R, y: cy - R, w: 2 * R, h: 2 * R, fill: { type: "none" }, line: { color: C.accent6, width: 3 }, objectName: "Response loop" });
     s.addShape(S.OVAL, { x: cx - 0.85, y: cy - 0.85, w: 1.7, h: 1.7, fill: { color: C.text2 }, line: { type: "none" }, objectName: "Patient centre" });
     text(s, "Patient", { x: cx - 0.85, y: cy - 0.85, w: 1.7, h: 1.7, fontSize: 18, bold: true, align: "center", valign: "middle", color: C.background1 });
@@ -678,9 +676,9 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
       const a = (-90 + i * 60) * Math.PI / 180;
       const x = cx + R * Math.cos(a) - d / 2, y = cy + R * Math.sin(a) - d / 2;
       await iconCircle(s, icons[i], x, y, d, { bg: i === 2 ? C.accent2 : C.accent1, fg: i === 2 ? HEX.dk2 : HEX.lt1 });
-      const left = Math.cos(a) < -0.1;
-      const lx = left ? x - 1.55 : x + d + 0.12;
-      text(s, nodes[i], { x: lx, y: y + 0.24, w: 1.45, h: 0.42, fontSize: 16, bold: true, align: left ? "right" : "left" });
+      const left = Math.cos(a) < -0.1, bottom = Math.sin(a) > 0.9;
+      if (bottom) text(s, nodes[i], { x: x - 0.55, y: y + d + 0.06, w: d + 1.1, h: 0.4, fontSize: 16, bold: true, align: "center" });
+      else text(s, nodes[i], { x: left ? x - 1.55 : x + d + 0.12, y: y + 0.24, w: 1.45, h: 0.42, fontSize: 16, bold: true, align: left ? "right" : "left" });
     }
     s.addShape(S.ROUNDED_RECTANGLE, { x: 7.75, y: 1.95, w: 4.98, h: 4.6, rectRadius: 0.15, fill: { color: C.background2 }, line: { type: "none" }, objectName: "ASR case card" });
     text(s, "INDIA", { x: 8.05, y: 2.2, w: 4.4, h: 0.35, fontSize: 12, bold: true, color: C.accent3, charSpacing: 1.5 });
@@ -700,9 +698,9 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
     const s = newSlide("DARK", "Close", { kicker: "CLOSING VOTE", title: "Would you let a patient use it now?" });
     const qs = ["Which patient?", "Which use?", "Which evidence?", "Who is responsible?"];
     for (let i = 0; i < qs.length; i++) {
-      const y = 2.05 + i * 0.95;
-      s.addShape(S.ROUNDED_RECTANGLE, { x: M, y, w: 5.9, h: 0.72, rectRadius: 0.36, fill: { color: C.accent6, transparency: 82 }, line: { color: C.accent6, width: 1 }, objectName: `Closing question ${i + 1}` });
-      text(s, qs[i], { x: M + 0.35, y, w: 5.3, h: 0.72, fontSize: 21, bold: true, valign: "middle", color: C.background1 });
+      const y = 1.95 + i * 1.0;
+      s.addShape(S.ROUNDED_RECTANGLE, { x: M, y, w: 5.9, h: 0.7, rectRadius: 0.35, fill: { color: C.accent6, transparency: 82 }, line: { color: C.accent6, width: 1 }, objectName: `Closing question ${i + 1}` });
+      text(s, qs[i], { x: M + 0.35, y, w: 5.3, h: 0.7, fontSize: 21, bold: true, valign: "middle", color: C.background1 });
     }
     optionCards(s, [
       { key: "1", label: "Routine care" },
@@ -725,8 +723,8 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
       const runs = lines[i].map((t, j) => ({ text: t, options: { color: j % 2 ? C.accent1 : C.text1, bold: j % 2 === 1 } }));
       text(s, runs, { x: M + 0.45, y: 2.35 + i * 1.3, w: 7.2, h: 1.0, fontSize: 26, valign: "middle" });
     }
-    await iconCircle(s, "LuUsers", 9.25, 2.1, 1.0, { bg: C.accent2, fg: HEX.dk2 });
-    text(s, "Write it. Share it. Keep it.", { x: 9.25, y: 3.35, w: 3.48, h: 1.7, fontSize: 22, bold: true, color: C.text2 });
+    await iconCircle(s, "LuUsers", 9.25, 2.85, 1.2, { bg: C.accent2, fg: HEX.dk2 });
+    text(s, "Write it.\nShare it.\nKeep it.", { x: 9.25, y: 4.3, w: 3.48, h: 1.5, fontSize: 24, bold: true, color: C.text2 });
   }
 
   // 25. Reusable decision checklist
@@ -736,10 +734,10 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
     const cell = (t, o = {}) => ({ text: t, options: Object.assign({ fontSize: 13, color: HEX.dk1, valign: "middle" }, o) });
     const rows = [
       ["Need", "Is the need validated with patients and clinicians?", "Need statement, observation notes", "Clinical lead"],
-      ["Evidence", "Does evidence match the exact claim and users?", "Protocol, subgroup results, failure modes", "Study lead"],
+      ["Evidence", "Does evidence match the claim, users and version? Are failures controlled?", "Protocol, subgroups, risk file, version log", "Study lead"],
       ["People", "Can people refuse freely? Are conflicts managed?", "Consent in local language, COI plan", "Investigator, ethics committee"],
       ["Permission", "Which CDSCO permission covers this use?", "Class, licence or permission, CTRI", "Regulatory lead"],
-      ["Access", "Can intended users afford, use and maintain it?", "Total cost, training, service plan", "Product and service"],
+      ["Access", "Can users afford, use and maintain it? Do claims match evidence?", "Total cost, service plan, claims review", "Product and service"],
       ["Safety", "Who records, reports and acts on harm?", "Complaint log, MvPI route, update plan", "Manufacturer, clinic"],
     ];
     const tbl = [[hdr("Stage"), hdr("Ask before proceeding"), hdr("Evidence to see"), hdr("Owner"), hdr("Go?")]];
@@ -748,7 +746,7 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
       tbl.push([cell(r[0], { bold: true, fill, color: HEX.accent1 }), cell(r[1], { fill }), cell(r[2], { fill }), cell(r[3], { fill }), cell("☐ Yes  ☐ Not yet", { fill, fontSize: 12 })]);
     });
     s.addTable(tbl, { x: M, y: 1.6, w: 12.13, colW: [1.35, 3.85, 3.2, 2.2, 1.53], rowH: 0.66, border: { type: "solid", color: "D5DFDD", pt: 0.75 }, margin: [0.04, 0.1, 0.04, 0.1], objectName: "Decision checklist" });
-    text(s, "For every “Not yet”: name the owner and the condition for proceeding.", { x: M, y: 6.4, w: 12.1, h: 0.4, fontSize: 15, bold: true, color: C.accent2 });
+    text(s, "For every “Not yet”: name the owner and the condition for proceeding.", { x: M, y: 6.4, w: 12.1, h: 0.4, fontSize: 15, bold: true, color: C.text2 });
   }
 
   // =====================================================================
@@ -773,7 +771,7 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
       const fill = { color: i % 2 ? HEX.lt1 : HEX.lt2 };
       tbl.push([cell(r[0], { bold: true, fill }), cell(r[1], { fill }), cell(r[2], { fill })]);
     });
-    s.addTable(tbl, { x: M, y: 1.65, w: 12.13, colW: [2.0, 5.06, 5.07], rowH: 0.78, border: { type: "solid", color: "D5DFDD", pt: 0.75 }, margin: [0.05, 0.1, 0.05, 0.1], objectName: "Evidence request table" });
+    s.addTable(tbl, { x: M, y: 1.65, w: 12.13, colW: [1.6, 5.26, 5.27], rowH: 0.78, border: { type: "solid", color: "D5DFDD", pt: 0.75 }, margin: [0.05, 0.1, 0.05, 0.1], objectName: "Evidence request table" });
   }
 
   // 27. What independent evidence says
@@ -782,13 +780,13 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
     const cols = [
       { h: "Freezing-of-gait detection and cueing (FoGO)", rows: [
         ["LuDatabase", "Best-known benchmark: 10 patients, laboratory only (Daphnet, 2010)"],
-        ["LuActivity", "Reviews: sensitivity 73–100%, specificity 67–100%, mostly in laboratories"],
-        ["LuVibrate", "Cueing: modest gait gains; no trial shown to reduce falls"],
+        ["LuActivity", "One review: sensitivity 73–100%, specificity 67–100%, mostly in laboratories"],
+        ["LuVibrate", "Cueing: modest gait gains (RESCUE trial); no trial found showing fewer falls"],
         ["LuHourglass", "FoGO: F1 0.83–0.85 on public data; prospective study planned (project-reported)"],
       ] },
       { h: "PEMF for knee osteoarthritis (SwaKnee)", rows: [
-        ["LuBookOpen", "Cochrane 2013: pain probably eases ≈15/100 more than sham; function uncertain"],
-        ["LuSplit", "Meta-analyses disagree on knee pain (Chen 2019 vs Yang 2020)"],
+        ["LuBookOpen", "Cochrane 2013 (all OA sites): pain probably eases ≈15/100 more than sham"],
+        ["LuSplit", "Meta-analyses disagree on pain (Chen 2019, knee; Yang 2020, all OA sites)"],
         ["LuCircleX", "OARSI 2019: electromagnetic therapy strongly recommended against"],
         ["LuBone", "No human evidence found of cartilage regrowth"],
       ] },
@@ -799,28 +797,49 @@ const STAGES = ["Need", "Evidence", "People", "Permission", "Access", "Safety"];
       text(s, cols[c].h, { x: x + 0.3, y: 1.85, w: 5.4, h: 0.45, fontSize: 17, bold: true, color: C.accent1 });
       for (let r = 0; r < 4; r++) {
         const y = 2.5 + r * 1.0;
-        s.addImage({ data: await icon(cols[c].rows[r][0], HEX.dk2), x: x + 0.3, y: y + 0.08, w: 0.42, h: 0.42, altText: cols[c].rows[r][1] });
+        s.addImage({ data: await icon(cols[c].rows[r][0], HEX.dk2), x: x + 0.3, y: y - 0.02, w: 0.38, h: 0.38, altText: cols[c].rows[r][1] });
         text(s, cols[c].rows[r][1], { x: x + 0.95, y, w: 4.75, h: 0.85, fontSize: 15, valign: "top" });
       }
     }
   }
 
-  // 28+. Reference slides (clickable)
-  for (const page of REFS) {
-    const s = newSlide("REFERENCE", "Appendix", { kicker: "APPENDIX · SOURCES", title: page.title, source: page.footer || "" });
-    s.addNotes(`REFERENCE SLIDE · ${page.title}\nClickable source list for participants and for Q&A. Each title links to the source; the line below gives the full citation. Sources checked 7 October 2026.`);
-    const colW = 5.9;
-    page.items.forEach((it, i) => {
-      const col = i < Math.ceil(page.items.length / 2) ? 0 : 1;
-      const row = col === 0 ? i : i - Math.ceil(page.items.length / 2);
-      const x = M + col * (colW + 0.33);
-      const y = 1.65 + row * (page.rowH || 0.86);
-      const runs = [
-        { text: it.label, options: { bold: true, fontSize: 12, color: C.accent1, hyperlink: it.url ? { url: it.url, tooltip: it.url } : undefined, breakLine: true } },
-        { text: it.detail, options: { fontSize: 10, color: C.text2 } },
-      ];
-      text(s, runs, { x, y, w: colW, h: (page.rowH || 0.86) - 0.06 });
-    });
+  // 28+. Reference slides (clickable): entries flow down two columns, then onto further slides.
+  {
+    const colW = 5.9, top = 1.62, bottom = 6.78, gap = 0.16;
+    const est = (it) => 0.21 + Math.ceil(it.detail.length / 100) * 0.17 + 0.03; // label + wrapped 10 pt lines
+    const flow = (items, limit) => {
+      const pages = [];
+      let page = [[], []], col = 0, y = top;
+      for (const it of items) {
+        const h = est(it);
+        if (y + h > limit && y > top) {
+          if (col === 0) { col = 1; y = top; }
+          else { pages.push(page); page = [[], []]; col = 0; y = top; }
+        }
+        page[col].push({ it, y, h });
+        y += h + gap;
+      }
+      pages.push(page);
+      return pages;
+    };
+    for (const group of REFS) {
+      // fewest pages first, then the lowest column limit that still fits them, so columns end level
+      const n = flow(group.items, bottom).length;
+      let limit = top + 0.5, pages;
+      while ((pages = flow(group.items, limit)).length > n) limit += 0.05;
+      pages.forEach((pg, pi) => {
+        const title = pages.length > 1 ? `${group.title} (${pi + 1}/${pages.length})` : group.title;
+        const s = newSlide("REFERENCE", "Appendix", { kicker: "APPENDIX · SOURCES", title, source: group.footer || "" });
+        s.addNotes(`REFERENCE SLIDE · ${title}\nClickable source list for participants and for Q&A. Each linked title opens the source; the line below gives the full citation. Sources checked 7 October 2026.`);
+        pg.forEach((colItems, c) => colItems.forEach(({ it, y, h }) => {
+          const x = M + c * (colW + 0.33);
+          const label = it.url
+            ? { text: it.label, options: { bold: true, fontSize: 12, color: C.accent1, hyperlink: { url: it.url, tooltip: it.url }, breakLine: true } }
+            : { text: it.label + (it.supplied ? "" : " · no public link"), options: { bold: true, fontSize: 12, color: C.accent1, breakLine: true } };
+          text(s, [label, { text: it.detail, options: { fontSize: 10, color: C.text2 } }], { x, y, w: colW, h });
+        }));
+      });
+    }
   }
 
   await pres.writeFile({ fileName: OUT });
