@@ -10,6 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@svg-maps/india": "^2.0.0",
+    "@svg-maps/world": "^2.0.0",
+    "country-flag-icons": "^1.6.20",
     "pptxgenjs": "^3.12.0",
     "react": "^19.3.0",
     "react-dom": "^19.3.0",
