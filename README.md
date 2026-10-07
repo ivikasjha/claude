@@ -4,7 +4,7 @@
 *Ethics, Evidence, Regulation and Responsible Medical Device Translation*
 Dr Vikas Kumar Jha · KIIT University, Bhubaneswar
 
-Version 2 (October 2026): an infographic-led deck with a full module on Indian medical device regulation by risk class, CDSCO obligations and guidance, and the comparison with regulators abroad. Two ways to run it: a **40-minute workshop** (core slides, every vote and decision kept) or a **75-minute seminar** (all slides, including the regulatory deep-dive).
+Version 2 (October 2026): an infographic-led deck with a full module on Indian medical device regulation by risk class, CDSCO obligations and guidance, and the comparison with regulators abroad. Two ways to run it: a **40-minute workshop** (24 core slides, 39:30 scripted: every vote and decision, both cases, risk classes, the licence matrix, FoGO's path, the quiz and the India–USA–EU comparison) or a **75-minute seminar** (all 54 main slides, 70:00 scripted, including the full regulatory deep-dive).
 
 ## Deliverables
 
